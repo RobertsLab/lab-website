@@ -1,0 +1,32 @@
+---
+title: "Dynamic DNA methylation contributes to carryover effects and beneficial acclimatization in geoduck clams"
+type: "article"
+author: "Hollie M. Putnam, Shelly A. Trigg, Samuel J. White, Laura H. Spencer, Brent Vadopalas, Aparna Natarajan, Jonathan Hetzel, Erich Jaeger, Jonathan Soohoo, Cristian Gallardo-Escárate, Frederick W. Goetz, Steven B. Roberts"
+year: "2022"
+publication: " bioRxiv"
+preprint: "https://doi.org/10.1101/2022.06.24.497506"
+doi: ""
+materials: "https://osf.io/yem8n/"
+toc: false
+categories:
+  - geoduck
+  - methylation
+  - acidification
+  - Panopea
+  - genome
+  - epigenetic
+---
+
+## Citation
+
+> Dynamic DNA methylation contributes to carryover effects and beneficial acclimatization in geoduck clams
+Hollie M. Putnam, Shelly A. Trigg, Samuel J. White, Laura H. Spencer, Brent Vadopalas, Aparna Natarajan, Jonathan Hetzel, Erich Jaeger, Jonathan Soohoo, Cristian Gallardo-Escárate, Frederick W. Goetz, Steven B. Roberts
+bioRxiv 2022.06.24.497506; doi: https://doi.org/10.1101/2022.06.24.497506
+
+## Abstract
+
+Given the rapidly changing global climate, there is a growing need to understand the acclimatory basis of animal response to environmental change. To investigate the role of DNA methylation in environmental acclimatization, we generated a reference genome and surveyed the physiology and DNA methylomes of juvenile geoduck clams, Panopea generosa, under differing seawater pH regimes. Juveniles were initially exposed to one of three seawater pH conditions, followed by ambient common-garden conditions, then a second reciprocal exposure to ambient pH or pH 7.4. Within 10 days of the initial low pH exposure, juvenile clams showed decreased shell size relative to ambient pH with corresponding differential DNA methylation. Following four months of ambient common-garden conditions, juveniles initially exposed to low pH compensatorily grew larger, with DNA methylation indicative of these phenotypic differences, demonstrating epigenetic carryover effects persisted months after initial exposure. Functional enrichment analysis of differentially methylated genes revealed regulation of signal transduction through widespread changes in the Wnt signaling pathways that influence cell growth, proliferation, tissue and skeletal formation, and cytoskeletal change. After 10 days of secondary exposure to pH 7.4, naive juvenile clams were more sensitive to low pH compared to those initially exposed, showing reduced growth and having nearly a 2-fold greater change in DNA methylation. Collectively, this new genomic resource and coordinated phenotypic and methylomic response support that epigenetic mechanisms underlie acclimatization to provide beneficial phenotypes.
+
+## Data Availability
+
+The genomic DNA, transcriptomic, and DNA bisulfite sequence data generated in this study have been submitted to the NCBI BioProject database (https://www.ncbi.nlm.nih.gov/bioproject/) under accession numbers PRJNA316601; PRJNA529226 and PRJNA646071; and PRJNA566166, respectively. All intermediate data files and raw experimental data and statistical code are also available at OSF https://osf.io/yem8n/ (Roberts et al. 2020).

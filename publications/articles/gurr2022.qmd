@@ -1,0 +1,37 @@
+---
+title: "Acclimatory gene expression of primed clams enhances robustness to elevated pCO2"
+type: "article"
+author: "Samuel J. Gurr, Shelly A. Trigg, Brent Vadopalas, Steven B. Roberts, Hollie M. Putnam"
+year: "2022"
+publication: "Molecular Ecology"
+preprint: ""
+doi: "https://dx.doi.org/10.1111/mec.16644"
+materials: "https://doi.org/10.5281/zenodo.6908630"
+eprint: ""
+toc: FALSE
+categories:
+  - geoduck
+  - Panopea
+  - TagSeq
+  - RNA-sea
+---
+
+## Citation
+
+> Gurr, S. J., Trigg, S. A., Vadopalas, B., Roberts, S. B., & Putnam, H. M. (2022). Acclimatory gene expression of primed clams enhances robustness to elevated pCO2. Molecular Ecology, 31, 5005-- 5023. https://doi.org/10.1111/mec.16644
+
+## Abstract
+
+Background Sublethal exposure to environmental challenges may enhance ability to cope with chronic or repeated change, a process known as priming. In a previous study, pre-exposure to seawater enriched with pCO2 improved growth and reduced antioxidant capacity of juvenile Pacific geoduck Panopea generosa clams, suggesting that transcriptional shifts may drive phenotypic modifications post-priming. To this end, juvenile clams were sampled and TagSeq gene expression data were analysed after (i) a 110-day acclimation under ambient (921 μatm, naïve) and moderately elevated pCO2 (2870 μatm, pre-exposed); then following (ii) a second 7-day exposure to three pCO2 treatments (ambient: 754 μatm; moderately elevated: 2750 μatm; severely elevated: 4940 μatm), a 7-day return to ambient pCO2 and a third 7-day exposure to two pCO2 treatments (ambient: 967 μatm; moderately elevated: 3030 μatm). Pre-exposed geoducks frontloaded genes for stress and apoptosis/innate immune response, homeostatic processes, protein degradation and transcriptional modifiers. Pre-exposed geoducks were also responsive to subsequent encounters, with gene sets enriched for mitochondrial recycling and immune defence under elevated pCO2 and energy metabolism and biosynthesis under ambient recovery. In contrast, gene sets with higher expression in naïve clams were enriched for fatty-acid degradation and glutathione components, suggesting naïve clams could be depleting endogenous fuels, with unsustainable energetic requirements if changes in carbonate chemistry persist. Collectively, our transcriptomic data indicate that pCO2 priming during post-larval periods could, via gene expression regulation, enhance robustness in bivalves to environmental change. Such priming approaches may be beneficial for aquaculture, as seafood demand intensifies concurrent with increasing climate change in marine systems.
+
+## Data Availability
+
+::: callout-important
+## Open Data
+
+This article has earned an Open Data Badge for making publicly available the digitally-shareable data necessary to reproduce the reported results
+:::
+
+The data is available at https://doi.org/10.5281/zenodo.6908630.
+
+Raw sequence reads are deposited in the SRA (Accession: PRJNA740307; BioProject: Transcriptome profiles of Panopea generosa under hypercapnic seawater). All data have been submitted as a public Zenodo repository https://doi.org/10.5281/zenodo.6908630.

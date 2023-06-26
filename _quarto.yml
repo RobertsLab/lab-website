@@ -1,0 +1,35 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Roberts Lab"
+  navbar:
+    right:
+      - href: publications.qmd
+        text: Papers
+      - href: publications02.qmd
+        text: Papers (beta)
+      - href: people.qmd
+        text: People
+      
+      
+  # sidebar:
+  #   style: "docked"
+  #   search: true
+  #   contents:
+  #     - section: "Syllabus"
+  #       contents:
+  #         - index.qmd
+  
+  
+format:
+  html:
+    theme:
+      light: lumen
+      dark: darkly
+    css: styles.css
+    toc: true
+
+editor: visual
+

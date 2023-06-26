@@ -1,0 +1,30 @@
+---
+title: "Epigenetic-associated phenotypic plasticity of the ocean acidification-acclimated edible oyster in the mariculture environment"
+type: "article"
+author: "Dang, X., Lim, Y.-K., Li, Y., Roberts, S. B., Li, L., & Thiyagarajan, V."
+year: "2022"
+publication: "Molecular Ecology"
+preprint: 
+doi: "https://dx.doi.org/10.1111/mec.16751"
+materials: 
+eprint: "https://onlinelibrary.wiley.com/doi/pdf/10.1111/mec.16751" 
+toc: FALSE
+categories:
+  - oyster
+  - methylation
+  - acidification
+  - epigenetic
+  - Crassostrea
+---
+
+## Citation
+
+> Dang, X., Lim, Y.-K., Li, Y., Roberts, S. B., Li, L., & Thiyagarajan, V. (2023). Epigenetic-associated phenotypic plasticity of the ocean acidification-acclimated edible oyster in the mariculture environment. Molecular Ecology, 32, 412-- 427. https://doi.org/10.1111/mec.16751
+
+## Abstract
+
+For marine invertebrates with a pelagic--benthic life cycle, larval exposure to ocean acidification (OA) can affect adult performance in response to another environmental stressor. This carry-over effect has the potential to alter phenotypic traits. However, the molecular mechanisms that mediate "OA"-triggered carry-over effects have not been explored despite such information being key to improving species fitness and management strategies for aquafarming. This study integrated the genome-wide DNA methylome and transcriptome to examine epigenetic modification-mediated carry-over OA impacts on phenotypic traits of the ecologically and commercially important oyster species *Crassostrea hongkongensis* under field conditions. Larvae of *C. hongkongensis* were exposed to control pH 8.0 and low pH 7.4 conditions, mimicking near future OA scenario in their habitat, before being outplanted as post-metamorphic juveniles at two mariculture field sites with contrasting environmental stressors for 9 months. The larval carry-over OA effect was found to have persistent impacts on the growth and survival trade-off traits on the outplanted juveniles, although the beneficial or adverse effect depended on the environmental conditions at the outplanted sites. Site-specific plasticity was demonstrated with a diverse DNA methylation-associated gene expression profile, with signal transduction and the endocrine system being the most common and highly enriched functions. Highly methylated exons prevailed in the key genes related to general metabolic and endocytic responses and these genes are evolutionarily conserved in various marine invertebrates in response to OA. These results suggest that oysters with prior larval exposure history to OA had the ability to trigger rapid local adaptive responses via epigenetic modification to cope with multiple stressors in the field.
+
+## Data Availability
+
+The methylRAD and RNA-seq data are available under NCBI Bio-project ID PRJNA741860 and PRJNA741374, respectively. [**Supporting Information**](https://onlinelibrary.wiley.com/doi/10.1111/mec.16751#support-information-section) including R and Perl scripts are provided.

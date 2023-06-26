@@ -1,0 +1,34 @@
+---
+title: "Proteomic response of early juvenile Pacific oysters (Crassostrea gigas) to temperature"
+type: "article"
+author: "Crandall G, Elliott Thompson R, Eudeline B, Vadopalas B, Timmins-Schiffman E, Roberts S."
+year: "2022"
+publication: "PeerJ"
+preprint: 
+doi: "https://dx.doi.org/10.7717/peerj.14158"
+materials: "https://doi.org/10.5281/zenodo.5708415"
+eprint: "https://peerj.com/articles/14158.pdf"
+toc: FALSE
+categories:
+  - oyster
+  - proteomics
+  - temperature
+  - Pacific oyster
+  - Crassostrea
+---
+
+## Citation
+
+> Crandall G, Elliott Thompson R, Eudeline B, Vadopalas B, Timmins-Schiffman E, Roberts S. 2022. Proteomic response of early juvenile Pacific oysters (Crassostrea gigas) to temperature. PeerJ 10:e14158 https://doi.org/10.7717/peerj.14158
+
+## Abstract
+
+Pacific oysters (Crassostrea gigas) are a valuable aquaculture product that provides important ecosystem benefits. Among other threats, climate-driven changes in ocean temperature can impact oyster metabolism, survivorship, and immune function. We investigated how elevated temperature impacts larval oysters during settlement (19–33 days post-fertilization), using shotgun proteomics with data-independent acquisition to identify proteins present in the oysters after 2 weeks of exposure to 23 °C or 29 °C. Oysters maintained at elevated temperatures were larger and had a higher settlement rate, with 86% surviving to the end of the experiment; these oysters also had higher abundance trends of proteins related to metabolism and growth. Oysters held at 23 °C were smaller, had a decreased settlement rate, displayed 100% mortality, and had elevated abundance trends of proteins related to immune response. This novel use of proteomics was able to capture characteristic shifts in protein abundance that hint at important differences in the phenotypic response of Pacific oysters to temperature regimes. Additionally, this work has produced a robust proteomic product that will be the basis for future research on bivalve developmental processes.
+
+## Data Availability
+
+The following information was supplied regarding data availability:
+
+Additional files, scripts, and data are available at Zenodo: grace-ac, & Steven Roberts. (2021). grace-ac/paper-pacific.oyster-larvae: release for PeerJ submission (v2.1.0). Zenodo. https://doi.org/10.5281/zenodo.5708415.
+
+The proteomic data is available at PRIDE: PXD015434.

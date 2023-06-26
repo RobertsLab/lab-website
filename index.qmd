@@ -1,0 +1,108 @@
+---
+title: "Roberts Lab"
+subtitle: "School of Aquiatic and Fishery Sciences - UW"
+---
+
+## About
+
+This course will teach core computing skills as well as project specific approaches. Each student will be developing and completing a research project targeting journal article submission by the end of the Quarter. There will be an emphasis on developing habits that increase automation which in turn will facilitate reproducibility. The primary course platform will be centered around GitHub, with each student creating their own repositories.
+
+------------------------------------------------------------------------
+
+T 3:00-4:20
+
+Th 9:30-11:20
+
+Location FSH 203
+
+Office Hours: Sign up via Google Calendar [here](https://d.pr/gsgxVJ).
+
+::: callout-note
+Calendar openings vary regularly - if you need a timeframe that is not available please let me know.
+:::
+
+------------------------------------------------------------------------
+
+While you likely have perceptions of glamour in considering this course, a majority of time you spend in this discipline will be 1) moving files around, 2) web searching for code, and 3) installing software (in that order).
+
+## Format
+
+This class is driven in part by students needs and will be somewhat flexible in content. It is very practical in nature and problem driven. On Tuesdays (after you complete your question set I will go over concepts, best practices necessary to complete the week's assignment. This will also be a time where we provide solution to individual research project issues that are of general interest. Thursday will primarily be working sessions, a combination of the weeks coursework and making progress on your own research effort.
+
+::: {.callout-important style="color: orange"}
+It is expected that you come to class, or to queries, having already reviewed material provided so we can spend time together addressing questions and troubleshooting technical issues.
+:::
+
+## Platforms
+
+JupyterHub[^1] Instance: <https://jupyter.rttl.uw.edu/2023-spring-fish-546-a>
+
+[^1]: https://jupyter.rttl.uw.edu/2023-spring-fish-546-a/hub/admin
+
+Course[^2] GitHub Organization: <https://github.com/course-fish546-2023>
+
+[^2]: https://github.com/sr320/course-fish546-2023
+
+Raven: <http://raven.fish.washington.edu:8787>
+
+## Class Announcements
+
+-   see [GitHub issues](https://github.com/course-fish546-2023/assistance/issues?q=is%3Aissue+is%3Aopen+label%3AAnnouncement)
+
+------------------------------------------------------------------------
+
+## Textbook
+
+[Bioinformatics Data Skills](https://www.amazon.com/Bioinformatics-Data-Skills-Reproducible-Research/dp/1449367372/):
+
+Reproducible and Robust Research with Open Source Tools By Vince Buffalo Publisher: O'Reilly Media Final Release Date: July 2015 Pages: 538
+
+-   [The Supplementary Material Repository for Bioinformatics Data Skills](https://github.com/vsbuffalo/bds-files)
+
+[\@uw](https://drive.google.com/a/uw.edu/file/d/0BwVK83sm6XQGWGNZUmlLckdZU1E/view?usp=sharing)
+
+------------------------------------------------------------------------
+
+## Grading
+
+Each week there will be an assignment, you will need to made progress on your individual project, and complete a question set. You will give two presentations (Week 5; slides & Week 10 compendium). Question sets are based on a week's reading and material and is due by 3:00pm on Tuesday. Thus you will need to review the ["Topic" each week](schedule.qmd) before class (and before answering the question set.
+
+Current Grades can be accessed at <https://canvas.uw.edu/courses/1634025>
+
+| *Assignments*                    | Grade percentage | *comment*                 |
+|------------------------------|-------------------|------------------------|
+| Weekly Question Set              | 25%              | due Tuesday at 3:00pm     |
+| Weekly Class Assignment          | 35%              | due Friday at 5:00pm      |
+| Weekly Research Project Progress | 20%              | assessed Friday at 5:00pm |
+| Project Presentation             | 10%              | Week 5: slidedeck         |
+| Project Completion               | 10%              | Week 10: compendium       |
+
+## Submitting Assignments
+
+### Weekly Question Set
+
+Each week there will be a markdown file linked in the schedule with a set of questions. You will add this to your course repo in a homework directory using the same filename. The only difference is you will include your answer to your questions.
+
+### Weekly Class Assignment
+
+This will completed in your course repo in a logical location. Use numeric prefix for file and directory names. The only thing you will need to be sure of is that all of your commits are pushed by Friday at 5:00pm.
+
+### Weekly Research Project Progress
+
+This will be assessed as a measure of progress from week to week. A primary means of assessment will be your response to issues, as well as accomplishment of self-assigned goals. In addition it will be expected that you use best principles as covered in the course.
+
+### Late Policy
+
+Assignments turned in late will include a 40% decrease in points. Assignments will not be accepted following 5 days past due date/time.
+
+## Useful Resources
+
+-   [MarineOmics Portal](https://marineomics.github.io) - website with genomic tutorials.
+-   [sandbox.bio](https://sandbox.bio) - Interactive bioinformatics tutorials
+-   [Aquamine](https://aquamine.elsiklab.missouri.edu/) - data mining system that integrates genome assemblies and gene annotation data for aquatic eumetazoan species
+-   [Happy git with R](https://happygitwithr.com/index.html) - Happy Git provides opinionated instructions on how to:
+    -   Install Git and get it working smoothly with GitHub, in the shell and in the RStudio IDE.
+
+    -   Develop a few key workflows that cover your most common tasks.
+
+    -   Integrate Git and GitHub into your daily work with R and R Markdown.
