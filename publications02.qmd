@@ -21,5 +21,9 @@ n
 
 or here?
 
+# Papers
+
 ::: {#articles}
 :::
+
+# Notebooks
