@@ -3,8 +3,9 @@ project:
   output-dir: docs
 
 website:
-  title: "Roberts Lab"
+  title: "robertslab.info"
   navbar:
+    search: true
     right:
       - href: publications.qmd
         text: Papers
@@ -12,7 +13,21 @@ website:
         text: Papers (beta)
       - href: people.qmd
         text: People
-      
+    
+  sidebar:
+    style: "floating"
+    search: true
+    contents:
+      - section: "Basics"
+        contents:
+          - people.qmd
+          - basics-knitr.qmd
+          - basics-jupyter.qmd
+      - section: "Layout"
+        contents:
+          - layout.qmd
+          - layout-knitr.qmd
+          - layout-jupyter.qmd    
       
   # sidebar:
   #   style: "docked"
@@ -22,11 +37,12 @@ website:
   #       contents:
   #         - index.qmd
   
-  
+
+    
 format:
   html:
     theme:
-      light: lumen
+      light: journal
       dark: darkly
     css: styles.css
     toc: true

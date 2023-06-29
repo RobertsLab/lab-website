@@ -1,9 +1,9 @@
 ---
 pagetitle: "Publications | Roberts Lab"
-toc: false
+toc: TRUE
 listing:
   - id: articles
-    contents: "publications/*/**.qmd"
+    contents: "publications/articles/**.qmd"
     template: ./ejs/article.ejs
     categories: true
     sort:
@@ -15,6 +15,18 @@ listing:
     field-display-names: 
       publication: "Publication"
       year: "Year"
+  - id: notebooks
+    contents: "publications/notebooks/**.qmd"
+    template: ./ejs/article.ejs
+    categories: false
+    sort:
+      - "year desc"
+      - "title"
+    sort-ui: [title,author,publication,year]
+    filter-ui: [title,author,publication,year]
+    page-size: 10
+    field-display-names: 
+      publication: "Publication"
 ---
 
 n
@@ -27,3 +39,8 @@ or here?
 :::
 
 # Notebooks
+
+
+::: {#notebooks}
+:::
+
