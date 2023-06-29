@@ -1,6 +1,6 @@
 ---
 title: "Roberts Lab"
-subtitle: "School of Aquiatic and Fishery Sciences -
+subtitle: "School of Aquatic and Fishery Sciences -
 University of Washington"
 title-block-banner: true
 toc: false
