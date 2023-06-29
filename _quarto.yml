@@ -13,6 +13,16 @@ website:
         text: Papers (beta)
       - href: people.qmd
         text: People
+    tools:
+      - icon: twitter
+        href: https://twitter.com
+      - icon: hdd-network
+      - icon: github
+        menu:
+          - text: Source Code
+            url:  https://code.com
+          - text: Report a Bug
+            url:  https://bugs.com
     
   sidebar:
     style: "floating"

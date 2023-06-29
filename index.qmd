@@ -1,12 +1,14 @@
 ---
 title: "Roberts Lab"
-subtitle: "School of Aquiatic and Fishery Sciences - UW"
+subtitle: "School of Aquiatic and Fishery Sciences -
+University of Washington"
 title-block-banner: true
+toc: false
 ---
 
-## About
 
-This course will teach core computing skills as well as project specific approaches. Each student will be developing and completing a research project targeting journal article submission by the end of the Quarter. There will be an emphasis on developing habits that increase automation which in turn will facilitate reproducibility. The primary course platform will be centered around GitHub, with each student creating their own repositories.
 
-------------------------------------------------------------------------
+SJFkafj akdjfkajfa fa
+
+![](img/os.png){alt="Girl in a jacket" fig-align="center" width="1000"}
 
