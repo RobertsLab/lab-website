@@ -6,23 +6,17 @@ website:
   title: "robertslab.info"
   navbar:
     search: true
-    right:
-      - href: publications.qmd
-        text: Papers
-      - href: publications02.qmd
-        text: Papers (beta)
-      - href: people.qmd
-        text: People
+  
     tools:
-      - icon: twitter
-        href: https://twitter.com
       - icon: hdd-network
+      - icon: journal-code
+      - icon: calendar-week
       - icon: github
         menu:
-          - text: Source Code
-            url:  https://code.com
-          - text: Report a Bug
-            url:  https://bugs.com
+          - text: Submit an Issue
+            url:  https://github.com/RobertsLab/resources/issues/new
+          - text: Lab Organization
+            url:  https://github.com/RobertsLab
     
   sidebar:
     style: "floating"
@@ -31,8 +25,8 @@ website:
       - section: "Basics"
         contents:
           - people.qmd
-          - basics-knitr.qmd
-          - basics-jupyter.qmd
+          - publications.qmd
+          - publications02.qmd
       - section: "Layout"
         contents:
           - layout.qmd
