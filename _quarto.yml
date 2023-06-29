@@ -2,6 +2,7 @@ project:
   type: website
   output-dir: docs
 
+
 website:
   title: "robertslab.info"
   navbar:
@@ -9,8 +10,15 @@ website:
   
     tools:
       - icon: hdd-network
+        menu:
+          - text: raven
+            url:  https://github.com/RobertsLab/resources/issues/new
+          - text: gannet
+            url:  https://github.com/RobertsLab
+    
       - icon: journal-code
       - icon: calendar-week
+      - href: https://calendar.google.com/calendar/embed?src=mrc305@gmail.com&ctz=America/Vancouver
       - icon: github
         menu:
           - text: Submit an Issue
@@ -27,12 +35,14 @@ website:
           - people.qmd
           - publications.qmd
           - publications02.qmd
-      - section: "Layout"
+      - section: "more"
         contents:
           - layout.qmd
           - layout-knitr.qmd
           - layout-jupyter.qmd    
-      
+ 
+
+
   # sidebar:
   #   style: "docked"
   #   search: true
@@ -41,6 +51,7 @@ website:
   #       contents:
   #         - index.qmd
   
+
 
     
 format:
@@ -52,4 +63,5 @@ format:
     toc: true
 
 editor: visual
+
 
