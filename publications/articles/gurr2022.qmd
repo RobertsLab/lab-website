@@ -10,6 +10,7 @@ materials: "https://doi.org/10.5281/zenodo.6908630"
 eprint: ""
 toc: FALSE
 categories:
+  - Open Data Badge
   - geoduck
   - Panopea
   - TagSeq
