@@ -6,8 +6,16 @@ project:
 website:
   title: "robertslab.info"
   navbar:
+    background: primary
     search: true
-  
+    left:
+      - text: "What"
+        file: index.qmd
+      - text: "Who"  
+      - file: publications.qmd
+      - text: "How"  
+      - file: posts.qmd
+     
     tools:
       - icon: hdd-network
         menu:
@@ -26,30 +34,24 @@ website:
           - text: Lab Organization
             url:  https://github.com/RobertsLab
     
-  sidebar:
-    style: "floating"
-    search: true
-    contents:
-      - section: "Basics"
-        contents:
-          - people.qmd
-          - publications.qmd
-          - publications02.qmd
-      - section: "more"
-        contents:
-          - layout.qmd
-          - layout-knitr.qmd
-          - layout-jupyter.qmd    
+   
  
 
 
-  # sidebar:
-  #   style: "docked"
-  #   search: true
-  #   contents:
-  #     - section: "Syllabus"
-  #       contents:
-  #         - index.qmd
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - research.qmd
+      - people.qmd
+      - section: Products
+        contents:
+          - publications02.qmd
+          - publications.qmd
+      - section: "More"
+        contents:
+          - posts.qmd
+          - text: Lab Culture
   
 
 

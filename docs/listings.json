@@ -8,7 +8,16 @@
       "/publications/articles/venkataraman2022.html",
       "/publications/articles/putnam2022.html",
       "/publications/articles/dang2022.html",
+      "/publications/articles/dimond2021.html",
+      "/publications/articles/trigg2021.html",
+      "/publications/articles/spencer2021.html",
       "/publications/notebooks/crandall2022.html"
+    ]
+  },
+  {
+    "listing": "/posts.html",
+    "items": [
+      "/posts/2023-07-06-start/index.html"
     ]
   }
 ]

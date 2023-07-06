@@ -126,7 +126,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-sidebar floating nav-fixed">
+<body class="nav-sidebar docked nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -142,21 +142,58 @@ ul.task-list li input[type="checkbox"] {
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
-            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./publications.html" rel="" target="">
- <span class="menu-text">Papers</span></a>
+    <a class="nav-link" href="./index.html" rel="" target="">
+ <span class="menu-text">What</span></a>
   </li>  
+  <li class="dropdown-header">
+ <span class="menu-text">Who</span></li>
   <li class="nav-item">
-    <a class="nav-link active" href="./publications02.html" rel="" target="" aria-current="page">
- <span class="menu-text">Papers (beta)</span></a>
+    <a class="nav-link active" href="./publications.html" rel="" target="" aria-current="page">
+ <span class="menu-text">Publications</span></a>
   </li>  
+  <li class="dropdown-header">
+ <span class="menu-text">How</span></li>
   <li class="nav-item">
-    <a class="nav-link" href="./people.html" rel="" target="">
- <span class="menu-text">People</span></a>
+    <a class="nav-link" href="./posts.html" rel="" target="">
+ <span class="menu-text">News and Updates</span></a>
   </li>  
 </ul>
-            <div class="quarto-navbar-tools">
+            <div class="quarto-navbar-tools ms-auto tools-wide">
+    <div class="dropdown">
+      <a href="" title="" id="quarto-navigation-tool-dropdown-0" class="quarto-navigation-tool dropdown-toggle px-1" data-bs-toggle="dropdown" aria-expanded="false" aria-label=""><i class="bi bi-hdd-network"></i></a>
+      <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="quarto-navigation-tool-dropdown-0">
+          <li>
+            <a class="dropdown-item quarto-navbar-tools ms-auto-item" href="https://github.com/RobertsLab/resources/issues/new">
+            raven
+            </a>
+          </li>
+          <li>
+            <a class="dropdown-item quarto-navbar-tools ms-auto-item" href="https://github.com/RobertsLab">
+            gannet
+            </a>
+          </li>
+      </ul>
+    </div>
+    <a href="" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-journal-code"></i></a>
+    <a href="" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-calendar-week"></i></a>
+    <a href="https://calendar.google.com/calendar/embed?src=mrc305@gmail.com&amp;ctz=America/Vancouver" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-"></i></a>
+    <div class="dropdown">
+      <a href="" title="" id="quarto-navigation-tool-dropdown-1" class="quarto-navigation-tool dropdown-toggle px-1" data-bs-toggle="dropdown" aria-expanded="false" aria-label=""><i class="bi bi-github"></i></a>
+      <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="quarto-navigation-tool-dropdown-1">
+          <li>
+            <a class="dropdown-item quarto-navbar-tools ms-auto-item" href="https://github.com/RobertsLab/resources/issues/new">
+            Submit an Issue
+            </a>
+          </li>
+          <li>
+            <a class="dropdown-item quarto-navbar-tools ms-auto-item" href="https://github.com/RobertsLab">
+            Lab Organization
+            </a>
+          </li>
+      </ul>
+    </div>
   <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
 </div>
           </div> <!-- /navcollapse -->
@@ -167,7 +204,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"></ol></nav>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./publications02.html">Products</a></li><li class="breadcrumb-item"><a href="./publications02.html">Papers</a></li></ol></nav>
       <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
       </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -179,7 +216,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal sidebar-navigation floating overflow-auto">
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal sidebar-navigation docked overflow-auto">
         <div class="mt-2 flex-shrink-0 align-items-center">
         <div class="sidebar-search">
         <div id="quarto-search" class="" title="Search"></div>
@@ -187,10 +224,22 @@ ul.task-list li input[type="checkbox"] {
         </div>
     <div class="sidebar-menu-container"> 
     <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./research.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Research</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./people.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">People</span></a>
+  </div>
+</li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">
- <span class="menu-text">Basics</span></a>
+ <span class="menu-text">Products</span></a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
@@ -198,35 +247,35 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./people.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">People</span></a>
+  <a href="./publications02.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text">Papers</span></a>
   </div>
 </li>
           <li class="sidebar-item">
- <span class="menu-text">basics-knitr.qmd</span>
-  </li>
-          <li class="sidebar-item">
- <span class="menu-text">basics-jupyter.qmd</span>
-  </li>
+  <div class="sidebar-item-container"> 
+  <a href="./publications.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Publications</span></a>
+  </div>
+</li>
       </ul>
   </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true">
- <span class="menu-text">Layout</span></a>
+ <span class="menu-text">More</span></a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
       <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
- <span class="menu-text">layout.qmd</span>
-  </li>
+  <div class="sidebar-item-container"> 
+  <a href="./posts.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">News and Updates</span></a>
+  </div>
+</li>
           <li class="sidebar-item">
- <span class="menu-text">layout-knitr.qmd</span>
-  </li>
-          <li class="sidebar-item">
- <span class="menu-text">layout-jupyter.qmd</span>
+ <span class="menu-text">Lab Culture</span>
   </li>
       </ul>
   </li>
@@ -244,7 +293,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#notebooks" id="toc-notebooks" class="nav-link" data-scroll-target="#notebooks">Notebooks</a></li>
   </ul>
 </nav>
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(7)</span></div><div class="category" data-category="Chionoecetes bairdi">Chionoecetes bairdi <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Crassostrea">Crassostrea <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Hematodinium">Hematodinium <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Ostrea">Ostrea <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Pacific oyster">Pacific oyster <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Panopea">Panopea <span class="quarto-category-count">(2)</span></div><div class="category" data-category="RNA-sea">RNA-sea <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RNA-seq">RNA-seq <span class="quarto-category-count">(1)</span></div><div class="category" data-category="SNP">SNP <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TagSeq">TagSeq <span class="quarto-category-count">(1)</span></div><div class="category" data-category="acidification">acidification <span class="quarto-category-count">(3)</span></div><div class="category" data-category="bitter crab disease">bitter crab disease <span class="quarto-category-count">(1)</span></div><div class="category" data-category="epigenetic">epigenetic <span class="quarto-category-count">(4)</span></div><div class="category" data-category="genome">genome <span class="quarto-category-count">(1)</span></div><div class="category" data-category="geoduck">geoduck <span class="quarto-category-count">(2)</span></div><div class="category" data-category="methylation">methylation <span class="quarto-category-count">(4)</span></div><div class="category" data-category="oyster">oyster <span class="quarto-category-count">(4)</span></div><div class="category" data-category="proteomics">proteomics <span class="quarto-category-count">(1)</span></div><div class="category" data-category="temperature">temperature <span class="quarto-category-count">(2)</span></div><div class="category" data-category="transcriptomic">transcriptomic <span class="quarto-category-count">(1)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(10)</span></div><div class="category" data-category="Chionoecetes bairdi">Chionoecetes bairdi <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Crassostrea">Crassostrea <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Hematodinium">Hematodinium <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Open Data Badge">Open Data Badge <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Ostrea">Ostrea <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Pacific oyster">Pacific oyster <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Panopea">Panopea <span class="quarto-category-count">(2)</span></div><div class="category" data-category="RNA-sea">RNA-sea <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RNA-seq">RNA-seq <span class="quarto-category-count">(1)</span></div><div class="category" data-category="SNP">SNP <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TagSeq">TagSeq <span class="quarto-category-count">(1)</span></div><div class="category" data-category="acidification">acidification <span class="quarto-category-count">(3)</span></div><div class="category" data-category="bitter crab disease">bitter crab disease <span class="quarto-category-count">(1)</span></div><div class="category" data-category="carryover">carryover <span class="quarto-category-count">(1)</span></div><div class="category" data-category="coral">coral <span class="quarto-category-count">(2)</span></div><div class="category" data-category="epigenetic">epigenetic <span class="quarto-category-count">(6)</span></div><div class="category" data-category="genome">genome <span class="quarto-category-count">(1)</span></div><div class="category" data-category="geoduck">geoduck <span class="quarto-category-count">(2)</span></div><div class="category" data-category="larvae">larvae <span class="quarto-category-count">(1)</span></div><div class="category" data-category="methylation">methylation <span class="quarto-category-count">(6)</span></div><div class="category" data-category="nanopore">nanopore <span class="quarto-category-count">(1)</span></div><div class="category" data-category="oyster">oyster <span class="quarto-category-count">(4)</span></div><div class="category" data-category="proteomics">proteomics <span class="quarto-category-count">(1)</span></div><div class="category" data-category="reproduction">reproduction <span class="quarto-category-count">(1)</span></div><div class="category" data-category="symbiosis">symbiosis <span class="quarto-category-count">(1)</span></div><div class="category" data-category="temperature">temperature <span class="quarto-category-count">(3)</span></div><div class="category" data-category="transcriptomic">transcriptomic <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -299,7 +348,7 @@ ul.task-list li input[type="checkbox"] {
       <i class="bi bi-file-earmark-zip"></i> Materials
     </a>
   </li>
-  <li data-index="1" data-categories="geoduck,Panopea,TagSeq,RNA-sea" data-listing-file-modified-sort="1687560961030" data-listing-reading-time-sort="2">
+  <li data-index="1" data-categories="Open Data Badge,geoduck,Panopea,TagSeq,RNA-sea" data-listing-file-modified-sort="1688082576784" data-listing-reading-time-sort="2">
     <span class="listing-title lead">Acclimatory gene expression of primed clams enhances robustness to elevated pCO2</span><br>
     <span class="listing-author">Samuel J. Gurr, Shelly A. Trigg, Brent Vadopalas, Steven B. Roberts, Hollie M. Putnam</span><br>
     <span class="listing-publication fst-italic ">Molecular Ecology</span>
@@ -372,6 +421,54 @@ ul.task-list li input[type="checkbox"] {
     </a>
     <a href="https://dx.doi.org/10.1111/mec.16751" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
       DOI
+    </a>
+  </li>
+  <li data-index="6" data-categories="coral,methylation,nanopore,symbiosis,epigenetic" data-listing-file-modified-sort="1688084188228" data-listing-reading-time-sort="2">
+    <span class="listing-title lead">DNA methylation profiling of a cnidarian-algal symbiosis using nanopore sequencing</span><br>
+    <span class="listing-author">James L Dimond, Nhung Nguyen, Steven B Roberts</span><br>
+    <span class="listing-publication fst-italic ">G3 Genes|Genomes|Genetics</span>
+    <span class="listing-year">(2021)</span><br>
+    <a href="./publications/articles/dimond2021.html" class="btn btn-primary">
+      Details
+    </a>
+    <a href="https://dx.doi.org/10.1093/g3journal/jkab148" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
+      DOI
+    </a>
+    <a href="https://doi.org/10.5281/zenodo.4677448" class="btn btn-light" target="_blank" rel="noopener noreferrer">
+      <i class="bi bi-file-earmark-zip"></i> Materials
+    </a>
+  </li>
+  <li data-index="7" data-categories="Open Data Badge,coral,methylation,epigenetic" data-listing-file-modified-sort="1688083560672" data-listing-reading-time-sort="2">
+    <span class="listing-title lead">Invertebrate methylomes provide insight into mechanisms of environmental tolerance and reveal methodological biases</span><br>
+    <span class="listing-author">Shelly A. Trigg, Yaamini R. Venkataraman, Mackenzie R. Gavery, Steven B. Roberts, Debashish Bhattacharya, Alan Downey-Wall, Jose M. Eirin-Lopez, Kevin M. Johnson, Katie E. Lotterhos, Jonathan B. Puritz and Hollie M. Putnam</span><br>
+    <span class="listing-publication fst-italic ">Molecular Ecology Resources</span>
+    <span class="listing-year">(2021)</span><br>
+    <a href="./publications/articles/trigg2021.html" class="btn btn-primary">
+      Details
+    </a>
+    <a href="https://dx.doi.org/10.1111/1755-0998.13542" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
+      DOI
+    </a>
+    <a href="https://www.biorxiv.org/content/10.1101/2021.03.29.437539v2" class="btn btn-light" target="_blank" rel="noopener noreferrer">
+      <i class="bi bi-file-earmark-text"></i> Preprint
+    </a>
+    <a href="http://doi.org/10.17605/OSF.IO/X5WAZ" class="btn btn-light" target="_blank" rel="noopener noreferrer">
+      <i class="bi bi-file-earmark-zip"></i> Materials
+    </a>
+  </li>
+  <li data-index="8" data-categories="Ostrea,reproduction,larvae,temperature,carryover" data-listing-file-modified-sort="1688083695082" data-listing-reading-time-sort="3">
+    <span class="listing-title lead">Latent effects of winter warming on Olympia oyster reproduction and larval viability</span><br>
+    <span class="listing-author">Laura H. Spencer, Erin Horkan, Ryan Crim, Steven B. Roberts</span><br>
+    <span class="listing-publication fst-italic ">Journal of Experimental Marine Biology and Ecology</span>
+    <span class="listing-year">(2021)</span><br>
+    <a href="./publications/articles/spencer2021.html" class="btn btn-primary">
+      Details
+    </a>
+    <a href="https://dx.doi.org/10.1016/j.jembe.2021.151604" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
+      DOI
+    </a>
+    <a href="https://doi.org/10.6084/m9.figshare.14066498.v3" class="btn btn-light" target="_blank" rel="noopener noreferrer">
+      <i class="bi bi-file-earmark-zip"></i> Materials
     </a>
   </li>
 </ul>

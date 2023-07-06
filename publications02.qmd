@@ -1,7 +1,6 @@
 ---
 pagetitle: "Publications | Roberts Lab"
 
-toc: TRUE
 listing:
   - id: articles
     contents: "publications/articles/**.qmd"
@@ -41,7 +40,5 @@ or here?
 
 # Notebooks
 
-
 ::: {#notebooks}
 :::
-

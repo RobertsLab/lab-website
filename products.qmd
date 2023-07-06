@@ -2,86 +2,79 @@
 title: "Products"
 ---
 
+```{=html}
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
-
-
+```
 Our lab strives to make all research products readily available. This includes publishing of online lab notebooks, presentations, data, and more. This is an effective means to openly share our activities with the public.
 
+<a id="data"> \## Lab Notebooks</a>
 
+| Person               | Notebook                                                                    | Commitment                                                                                                                                                  |
+|----------------------|-----------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Steven Roberts       | [sr320.github.io](https://sr320.github.io/)                                 | ![GitHub last commit](https://img.shields.io/github/last-commit/sr320/sr320.github.io)                                                                      |
+| Sam White            | [robertslab.github.io](https://robertslab.github.io/sams-notebook/)         | ![GitHub last commit](https://img.shields.io/github/last-commit/RobertsLab/sams-notebook)                                                                   |
+| Matt George          | [mattgeorgephd.github.io](https://mattgeorgephd.github.io/notebook/)        | ![GitHub last commit](https://img.shields.io/github/last-commit/mattgeorgephd/mattgeorgephd.github.io)                                                      |
+| Aidan Coyle          | [afcoyle.github.io](https://afcoyle.github.io)                              | ![GitHub last commit](https://img.shields.io/github/last-commit/afcoyle/afcoyle.github.io)                                                                  |
+| Olivia Cattau        | [ocattau.github.io](https://ocattau.github.io)                              | ![GitHub last commit](https://img.shields.io/github/last-commit/ocattau/ocattau.github.io)                                                                  |
+| Delaney Lawson       | [drlawson.github.io](https://drlawson.github.io)                            | ![GitHub last commit](https://img.shields.io/github/last-commit/drlawson/drlawson.github.io)                                                                |
+| Ariana Huffmyer      | [ahuffmyer.github.io](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/) | ![GitHub last commit](https://img.shields.io/github/last-commit/AHuffmyer/ASH_Putnam_Lab_Notebook)                                                          |
+| Larken Root          | [larkenr.github.io](https://github.com/larkenr/larkenr.github.io)           | ![GitHub last commit](https://img.shields.io/github/last-commit/larkenr/larkenr.github.io)                                                                  |
+| Laura Spencer        | [laurahspencer.github.io](https://laurahspencer.github.io/LabNotebook/)     | [![GitHub followers](https://img.shields.io/github/followers/laurahspencer.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/laurahspencer) |
+| Yaamini Venkataraman | [yaaminiv.github.io](https://yaaminiv.github.io/)                           | [![GitHub followers](https://img.shields.io/github/followers/yaaminiv.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/yaaminiv)           |
+| Grace Crandall       | [grace-ac.github.io](https://grace-ac.github.io/)                           | [![GitHub followers](https://img.shields.io/github/followers/grace-ac.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/grace-ac)           |
+| Shelly Trigg         | [shellytrigg.github.io/notebook](https://shellytrigg.github.io/notebook/)   | [![GitHub followers](https://img.shields.io/github/followers/shellytrigg.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/shellytrigg)     |
+| Celeste Valdivia     | [valeste.github.io](https://valeste.github.io/)                             | ![GitHub last commit](https://img.shields.io/github/last-commit/valeste/valeste.github.io)                                                                  |
 
+------------------------------------------------------------------------
 
-<a id="data">
-## Lab Notebooks</a>
-
-Person | Notebook  | Commitment
---- | --- | ----
-Steven Roberts | [sr320.github.io](https://sr320.github.io/) |  ![GitHub last commit](https://img.shields.io/github/last-commit/sr320/sr320.github.io)
-Sam White | [robertslab.github.io](https://robertslab.github.io/sams-notebook/) |  ![GitHub last commit](https://img.shields.io/github/last-commit/RobertsLab/sams-notebook)
-Matt George | [mattgeorgephd.github.io](https://mattgeorgephd.github.io/notebook/) | ![GitHub last commit](https://img.shields.io/github/last-commit/mattgeorgephd/mattgeorgephd.github.io)
-Aidan Coyle | [afcoyle.github.io](https://afcoyle.github.io) |   ![GitHub last commit](https://img.shields.io/github/last-commit/afcoyle/afcoyle.github.io)
-Olivia Cattau | [ocattau.github.io](https://ocattau.github.io)  | ![GitHub last commit](https://img.shields.io/github/last-commit/ocattau/ocattau.github.io)
-Delaney Lawson| [drlawson.github.io](https://drlawson.github.io)  | ![GitHub last commit](https://img.shields.io/github/last-commit/drlawson/drlawson.github.io)
-Ariana Huffmyer | [ahuffmyer.github.io](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/) | ![GitHub last commit](https://img.shields.io/github/last-commit/AHuffmyer/ASH_Putnam_Lab_Notebook)
-Larken Root | [larkenr.github.io](https://github.com/larkenr/larkenr.github.io) | ![GitHub last commit](https://img.shields.io/github/last-commit/larkenr/larkenr.github.io)
-Laura Spencer | [laurahspencer.github.io](https://laurahspencer.github.io/LabNotebook/)  | [![GitHub followers](https://img.shields.io/github/followers/laurahspencer.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/laurahspencer)
-Yaamini Venkataraman | [yaaminiv.github.io](https://yaaminiv.github.io/) | [![GitHub followers](https://img.shields.io/github/followers/yaaminiv.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/yaaminiv)
-Grace Crandall | [grace-ac.github.io](https://grace-ac.github.io/) |  [![GitHub followers](https://img.shields.io/github/followers/grace-ac.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/grace-ac)
-Shelly Trigg | [shellytrigg.github.io/notebook](https://shellytrigg.github.io/notebook/) |   [![GitHub followers](https://img.shields.io/github/followers/shellytrigg.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/shellytrigg)
-Celeste Valdivia | [valeste.github.io](https://valeste.github.io/) | ![GitHub last commit](https://img.shields.io/github/last-commit/valeste/valeste.github.io)
-
-
-
----
-
-<a id="pres">
-## Recent Presentations</a>
-
+<a id="pres"> \## Recent Presentations</a>
 
 #### 2023
-* [Triploid Pacific oysters experience enhanced mortality following marine heatwaves]() Presentation. National Shellfish Association Annual Meeting, Baltimore, MD, March 30, 2023.
 
-* [Ploidy mediates the stress response of Pacific oysters following marine heatwave exposure]() Presentation. Plant and Animal Genome Conference, San Diego, CA, January 14, 2023.
+-   [Triploid Pacific oysters experience enhanced mortality following marine heatwaves]() Presentation. National Shellfish Association Annual Meeting, Baltimore, MD, March 30, 2023.
 
-* [Triploid Pacific oysters exhibit stress response dysregulation and elevated mortality following marine heatwaves]() Presentation. NOAA Fisheries Northwest Fisheries Science Center Physiology Group Meeting, Seattle, WA, January 11, 2023.
+-   [Ploidy mediates the stress response of Pacific oysters following marine heatwave exposure]() Presentation. Plant and Animal Genome Conference, San Diego, CA, January 14, 2023.
+
+-   [Triploid Pacific oysters exhibit stress response dysregulation and elevated mortality following marine heatwaves]() Presentation. NOAA Fisheries Northwest Fisheries Science Center Physiology Group Meeting, Seattle, WA, January 11, 2023.
 
 #### 2022
-* [Mechanisms of tilapia salinity tolerance at the limits of osmoregulation](https://github.com/larkenr/larkenr.github.io/blob/master/NOAA%20physiology%20meeting.pdf) Presentation. NOAA physiology program monthly meeting, Virtual, March 3, 2022.
 
-* [Yellow Island Intertidal Ecological Monitoring](https://github.com/ChrisMantegna/Yellow-Island/blob/69d21b1f1d52ba1bb2604e1ba387e0764242c50a/Yellow%20Island%20NWSC%20Presentation.pdf) Presentation. NWStraits Commission meeting, Virtual, August 12, 2022.
+-   [Mechanisms of tilapia salinity tolerance at the limits of osmoregulation](https://github.com/larkenr/larkenr.github.io/blob/master/NOAA%20physiology%20meeting.pdf) Presentation. NOAA physiology program monthly meeting, Virtual, March 3, 2022.
 
-* [Comparative Response of Littleneck and Manila Clams from the Puget Sound to Ocean Acidification Conditions: Year 1](https://github.com/larkenr/Clam-OA-project/blob/main/PCSGA%20sept%2022.pdf) Presentation. Pacific Coast Shellfish Growers Association (PCSGA) annual meeting, Wenatchee, September 20, 2022.
+-   [Yellow Island Intertidal Ecological Monitoring](https://github.com/ChrisMantegna/Yellow-Island/blob/69d21b1f1d52ba1bb2604e1ba387e0764242c50a/Yellow%20Island%20NWSC%20Presentation.pdf) Presentation. NWStraits Commission meeting, Virtual, August 12, 2022.
 
-* [Using aquaculture to turn the tide on aquatic ecosystem collapse](https://github.com/larkenr/larkenr.github.io/blob/master/UPS%20science%20seminar.pdf) Presentation. University of Puget Sound Weekly Science Seminar, Thompson Hall, September 29, 2022.
+-   [Comparative Response of Littleneck and Manila Clams from the Puget Sound to Ocean Acidification Conditions: Year 1](https://github.com/larkenr/Clam-OA-project/blob/main/PCSGA%20sept%2022.pdf) Presentation. Pacific Coast Shellfish Growers Association (PCSGA) annual meeting, Wenatchee, September 20, 2022.
 
-* [Physiological and multi-omic signatures of shifts in symbiotic nutritional exchange in reef-building coral early life history](https://github.com/AHuffmyer/presentations/blob/master/2022/Benthics_Huffmyer_2022.pdf) Presentation. Benthic Ecology Meeting. Portsmouth, New Hampshire. March 2022.
+-   [Using aquaculture to turn the tide on aquatic ecosystem collapse](https://github.com/larkenr/larkenr.github.io/blob/master/UPS%20science%20seminar.pdf) Presentation. University of Puget Sound Weekly Science Seminar, Thompson Hall, September 29, 2022.
 
-* [Understanding shifts in symbiotic and physiological state in reef- building corals across developmental and environmental gradients](https://github.com/AHuffmyer/presentations/blob/master/2022/OldDominion_Seminar_Huffmyer_2022.pdf) Virtual seminar. Old Dominion University. December 2022.
+-   [Physiological and multi-omic signatures of shifts in symbiotic nutritional exchange in reef-building coral early life history](https://github.com/AHuffmyer/presentations/blob/master/2022/Benthics_Huffmyer_2022.pdf) Presentation. Benthic Ecology Meeting. Portsmouth, New Hampshire. March 2022.
 
-* [Multi-omic approaches to understand reef coral development and symbiosis](https://github.com/AHuffmyer/presentations/blob/master/2022/UW_eScience_Seminar_Huffmyer_2022.pdf) Virtual seminar. University of Washington eScience Institute Postdoctoral Seminar Series. November 2022.
+-   [Understanding shifts in symbiotic and physiological state in reef- building corals across developmental and environmental gradients](https://github.com/AHuffmyer/presentations/blob/master/2022/OldDominion_Seminar_Huffmyer_2022.pdf) Virtual seminar. Old Dominion University. December 2022.
 
-* [The contribution of summer heatwaves to ‘triploid mortality’ events observed during commercial pacific oyster production in Washington State](https://github.com/mattgeorgephd/NOPP-gigas-ploidy-temp/blob/2ce2524f71c3b7a3344ce185f5c81e4f1cee6349/presentations/Aqua_2022.pdf) Presentation. The Society of Integrative and Comparative Biology, Virtual, January 4, 2022.
+-   [Multi-omic approaches to understand reef coral development and symbiosis](https://github.com/AHuffmyer/presentations/blob/master/2022/UW_eScience_Seminar_Huffmyer_2022.pdf) Virtual seminar. University of Washington eScience Institute Postdoctoral Seminar Series. November 2022.
+
+-   [The contribution of summer heatwaves to 'triploid mortality' events observed during commercial pacific oyster production in Washington State](https://github.com/mattgeorgephd/NOPP-gigas-ploidy-temp/blob/2ce2524f71c3b7a3344ce185f5c81e4f1cee6349/presentations/Aqua_2022.pdf) Presentation. The Society of Integrative and Comparative Biology, Virtual, January 4, 2022.
 
 #### 2021
-* [Diversity in animal response to environmental change](https://github.com/shellytrigg/talk-Coast2Coast2021) Presentation. Academic Data Science Alliance (ADSA) 2021 Data Science Coast to Coast Seminar Series, Virtual May 19, 2021 3pm.
 
+-   [Diversity in animal response to environmental change](https://github.com/shellytrigg/talk-Coast2Coast2021) Presentation. Academic Data Science Alliance (ADSA) 2021 Data Science Coast to Coast Seminar Series, Virtual May 19, 2021 3pm.
 
-* [Exploring the tolerance of Pacific geoduck to low pH through comparative physiology, genomics, and DNA methylation](https://github.com/shellytrigg/talk-SICB2020) Presentation. The Society for Integrative and Comparative Biology (SICB) 2021 Annual Meeting, Virtual January - February 2021
+-   [Exploring the tolerance of Pacific geoduck to low pH through comparative physiology, genomics, and DNA methylation](https://github.com/shellytrigg/talk-SICB2020) Presentation. The Society for Integrative and Comparative Biology (SICB) 2021 Annual Meeting, Virtual January - February 2021
 
-* [A perspective on DNA methylation in bivalves](https://github.com/sr320/talk-sicb-2021) Presentation. The Society for Integrative and Comparative Biology (SICB) 2021 Annual Meeting, Virtual January - February 2021  
+-   [A perspective on DNA methylation in bivalves](https://github.com/sr320/talk-sicb-2021) Presentation. The Society for Integrative and Comparative Biology (SICB) 2021 Annual Meeting, Virtual January - February 2021
 
-* [How do dynamic conditions shape coral symbiosis and metabolism and drive energetic-epigenetic linkages?](https://github.com/AHuffmyer/presentations/blob/master/2021/MCR_AIM_Huffmyer_2021.pdf) Presentation. 2021 Moorea Coral Reef Long Term Ecological Research All Invesitgator Meeting. November 2021. 
+-   [How do dynamic conditions shape coral symbiosis and metabolism and drive energetic-epigenetic linkages?](https://github.com/AHuffmyer/presentations/blob/master/2021/MCR_AIM_Huffmyer_2021.pdf) Presentation. 2021 Moorea Coral Reef Long Term Ecological Research All Invesitgator Meeting. November 2021.
 
 #### 2020
 
-* [Harnessing the power of single-cell RNA sequencing to control reproductive development in bivalves](https://d.pr/IC8n80) 74th Annual Pacific Coast Shellfish Growers Association Conference, Virtual October 2020
+-   [Harnessing the power of single-cell RNA sequencing to control reproductive development in bivalves](https://d.pr/IC8n80) 74th Annual Pacific Coast Shellfish Growers Association Conference, Virtual October 2020
 
-* [Carryover effects of winter warming in the Olympia oyster](https://doi.org/10.6084/m9.figshare.13224911.v3). Presentation. 74th Annual Pacific Coast Shellfish Growers Association Conference, Virtual October 2020
+-   [Carryover effects of winter warming in the Olympia oyster](https://doi.org/10.6084/m9.figshare.13224911.v3). Presentation. 74th Annual Pacific Coast Shellfish Growers Association Conference, Virtual October 2020
 
-* [Oysters, Ocean Acidification, and -Omics](https://doi.org/10.6084/m9.figshare.13198262) Presentation, Friday Harbor Laboratories Summer Seminar Series, June 2020
+-   [Oysters, Ocean Acidification, and -Omics](https://doi.org/10.6084/m9.figshare.13198262) Presentation, Friday Harbor Laboratories Summer Seminar Series, June 2020
 
-* [Influence of ocean acidification on eastern (_Crassostrea virginica_) and Pacific oyster (_Crassostrea gigas_) DNA methylation](https://doi.org/10.6084/m9.figshare.11868231.v1) Poster, Ocean Sciences Meeting 2020, San Diego, CA February 2020
+-   [Influence of ocean acidification on eastern (*Crassostrea virginica*) and Pacific oyster (*Crassostrea gigas*) DNA methylation](https://doi.org/10.6084/m9.figshare.11868231.v1) Poster, Ocean Sciences Meeting 2020, San Diego, CA February 2020
 
-* [DNA methylation associations with growth rate in Olympia oyster populations](https://doi.org/10.6084/m9.figshare.11857854.v1) presentation, Aquaculture America 2020, Honolulu, HI, February 2020  
+-   [DNA methylation associations with growth rate in Olympia oyster populations](https://doi.org/10.6084/m9.figshare.11857854.v1) presentation, Aquaculture America 2020, Honolulu, HI, February 2020
 
-* [Influence of ocean acidification on DNA methylation patterns in geoduck](https://github.com/shellytrigg/talk-pag2020) Presentation, The Plant and Animal Genome XXVII Conference (PAG), San Diego, CA, January 2020
-
+-   [Influence of ocean acidification on DNA methylation patterns in geoduck](https://github.com/shellytrigg/talk-pag2020) Presentation, The Plant and Animal Genome XXVII Conference (PAG), San Diego, CA, January 2020
