@@ -1,5 +1,5 @@
 ---
-title: "Publications"
+title: "Papers"
 subtitle: "School of Aquiatic and Fishery Sciences - UW"
 title-block-banner: true
 ---

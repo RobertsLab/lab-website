@@ -43,7 +43,7 @@ website:
     search: true
     contents:
       - research.qmd
-      - section: Peaple
+      - section: People
         contents:
           - people.qmd
           - collaborators.qmd
