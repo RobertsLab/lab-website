@@ -1,8 +1,15 @@
 [
   {
+    "listing": "/posts.html",
+    "items": [
+      "/posts/2023-07-06-start/index.html"
+    ]
+  },
+  {
     "listing": "/publications02.html",
     "items": [
       "/publications/articles/silliman2023.html",
+      "/publications/articles/george2023.html",
       "/publications/articles/gurr2022.html",
       "/publications/articles/crandall2022b.html",
       "/publications/articles/venkataraman2022.html",
@@ -12,12 +19,6 @@
       "/publications/articles/trigg2021.html",
       "/publications/articles/spencer2021.html",
       "/publications/notebooks/crandall2022.html"
-    ]
-  },
-  {
-    "listing": "/posts.html",
-    "items": [
-      "/posts/2023-07-06-start/index.html"
     ]
   }
 ]

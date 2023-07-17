@@ -8,14 +8,14 @@ website:
   navbar:
     background: primary
     search: true
-    left:
-      - text: "What"
-        file: index.qmd
-      - text: "Who"  
-      - file: publications.qmd
-      - text: "How"  
-      - file: posts.qmd
-     
+    # left:
+    #   - text: "What"
+    #     file: index.qmd
+    #   - text: "Who"  
+    #     file: publications.qmd
+    #   - text: "How"  
+    #     file: posts.qmd
+    #  
     tools:
       - icon: hdd-network
         menu:
@@ -43,15 +43,19 @@ website:
     search: true
     contents:
       - research.qmd
-      - people.qmd
+      - section: Peaple
+        contents:
+          - people.qmd
+          - collaborators.qmd
       - section: Products
         contents:
           - publications02.qmd
           - publications.qmd
+          - products.qmd
       - section: "More"
         contents:
           - posts.qmd
-          - text: Lab Culture
+          - culture.qmd
   
 
 
