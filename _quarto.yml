@@ -20,19 +20,25 @@ website:
       - icon: hdd-network
         menu:
           - text: raven
-            url:  https://github.com/RobertsLab/resources/issues/new
+            url:  http://raven.fish.washington.edu:8787
           - text: gannet
-            url:  https://github.com/RobertsLab
+            url:  https://gannet.fish.washington.edu
     
       - icon: journal-code
-      - icon: calendar-week
-      - href: https://calendar.google.com/calendar/embed?src=mrc305@gmail.com&ctz=America/Vancouver
+        menu:
+          - text: sam
+            url:  https://robertslab.github.io/sams-notebook/
+          - text: steven
+            url:  https://sr320.github.io
       - icon: github
         menu:
           - text: Submit an Issue
             url:  https://github.com/RobertsLab/resources/issues/new
           - text: Lab Organization
             url:  https://github.com/RobertsLab
+      - icon: calendar-week
+        href: https://calendar.google.com/calendar/embed?src=mrc305@gmail.com&ctz=America/Vancouver
+    
     
    
  
@@ -64,7 +70,7 @@ format:
   html:
     theme:
       light: journal
-      dark: darkly
+      dark: superhero
     css: styles.css
     toc: true
 
