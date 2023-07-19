@@ -8,4 +8,4 @@ toc: false
 
 SJFkafj akdjfkajfa fa
 
-![](img/os.png){alt="Girl in a jacket" fig-align="center" width="1000"}
+![](img/osbw.png){alt="Girl in a jacket" fig-align="center"}
