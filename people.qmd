@@ -95,6 +95,9 @@ I have a background in comparative physiology having completed a dissertation co
 
 When not doing research, I am an avid hiker, and I enjoy a number of hobbies including woodworking, playing musical instruments, baking, and playing with my dogs Nimbus and Pepita.
 
+## Laura Spencer
+
+
 
 # Research Scientists
 
@@ -116,11 +119,13 @@ Outside of lab-related work, I dig playing video games and listening to Phish (a
 
 # Undergraduate Students
 
-[Henry Berg](https://henryberg03.github.io/notebook/)
+## Noah Krebs
 
-[Eric Essington](https://Eric-Ess.github.io/notebook/)
+## [Henry Berg](https://henryberg03.github.io/notebook/)
 
-Dorothy Lartey
+## [Eric Essington](https://Eric-Ess.github.io/notebook/)
+
+## Dorothy Lartey
 
 # Alumni
 
