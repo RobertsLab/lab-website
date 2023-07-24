@@ -60,11 +60,14 @@ website:
           - publications02.qmd
           - publications.qmd
           - products.qmd
-      - section: "More"
+      - section: "Lab Culture"
         contents:
+          - dei.qmd
+          - outreach.qmd
           - posts.qmd
           - culture.qmd
-  
+          - contact.qmd
+       
 
 
     
