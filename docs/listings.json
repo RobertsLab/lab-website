@@ -20,5 +20,11 @@
       "/publications/articles/spencer2021.html",
       "/publications/notebooks/crandall2022.html"
     ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/2023-07-06-start/index.html"
+    ]
   }
 ]
