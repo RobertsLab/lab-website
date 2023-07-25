@@ -1,0 +1,99 @@
+---
+title: "ggplotting some qPCR"
+description: "quick take on graphing out some of Noah's data"
+author:
+  - name: Steven Roberts
+    url: https://sr320.github.io/
+    orcid: 0000-0001-8302-1138
+    affiliation: Professor, UW - School of Aquatic and Fishery Sciences
+    affiliation-url: https://robertslab.info
+date: 07-21-2023
+categories: [Quarto, R, tidyverse, ggplot, qPCR] # self-defined categories
+citation: 
+  url: https://sr320.github.io/tumbling-oysters/posts/sr320-02-qpcr/ # self-defined
+image: http://gannet.fish.washington.edu/seashell/snaps/Monosnap_lsamp-2023_-_main_-_RStudio_2023-07-21_13-31-47.png # finding a good image
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+
+format:
+  html:
+    code-fold: true
+    code-tools: true
+    code-copy: true
+    highlight-style: github
+    code-overflow: wrap
+---
+
+
+
+
+```{r}
+library(tidyverse)
+```
+
+Converted Cq value to aev with: =10^(-(0.3012 * E2) + 11.434)
+
+
+
+```{r, cache=TRUE}
+qpcr <- read.csv("https://raw.githubusercontent.com/sr320/lsamp-2023/main/data/SR-qpcr-data-1.csv", header = TRUE) 
+```
+
+
+
+```{r}
+
+ggplot(data = qpcr, mapping = aes(x = Subgroup, y = CqMean)) + 
+  geom_boxplot()  +
+  facet_wrap('Target')
+
+```
+
+
+```{r}
+
+ggplot(data = qpcr, mapping = aes(x = Subgroup, y = aev)) + 
+  geom_boxplot() +
+  facet_wrap('Target')
+
+```
+
+
+```{r}
+qpcr %>%
+  filter(Target == "Cg_18s(1408/9)") %>%
+ggplot(mapping = aes(x = Subgroup, y = aev)) + 
+  geom_boxplot()  +
+  geom_jitter(aes(color = history), width = 0.1, alpha = 0.7)
+
+
+```
+```{r}
+qpcr %>%
+  filter(Target == "Cg_GAPDH(1172/3)")  %>%
+ggplot(mapping = aes(x = Subgroup, y = aev)) + 
+  geom_boxplot()  +
+  geom_jitter(aes(color = history), width = 0.1, alpha = 0.7)
+
+```
+
+
+
+```{r}
+qpcr %>%
+  filter(Target == "Cg_ATPsynthase(1385/6)")  %>%
+ggplot(mapping = aes(x = Subgroup, y = aev)) + 
+  geom_boxplot()  +
+  geom_jitter(aes(color = history), width = 0.1, alpha = 0.7)
+
+```
+
+
+```{r}
+qpcr %>%
+  filter(Target == "Cg_citratesynthase(1383/4)")  %>%
+ggplot(mapping = aes(x = Subgroup, y = aev)) + 
+  geom_boxplot()  +
+  geom_jitter(aes(color = history), width = 0.1, alpha = 0.7)
+
+```
+
