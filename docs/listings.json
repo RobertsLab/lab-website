@@ -32,5 +32,12 @@
       "/publications/articles/spencer2021.html",
       "/publications/notebooks/crandall2022.html"
     ]
+  },
+  {
+    "listing": "/research02.html",
+    "items": [
+      "/research/e5.html",
+      "/research/ceabigr.html"
+    ]
   }
 ]

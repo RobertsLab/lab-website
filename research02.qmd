@@ -1,0 +1,27 @@
+---
+pagetitle: "Research | Roberts Lab"
+
+listing:
+  - id: research
+    contents: "research/**.qmd"
+    template: ./ejs/grants.ejs
+    categories: true
+    sort:
+      - "status"
+      - "theme"
+    sort-ui: [status, agency, year, theme]
+    filter-ui: [agency, status, theme]
+    page-size: 10
+    field-display-names: 
+      publication: "Publication"
+      year: "year"
+---
+
+n
+
+or here?
+
+# research
+
+::: {#research}
+:::

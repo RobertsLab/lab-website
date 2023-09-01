@@ -1,18 +1,17 @@
 
 ```{=html}
-<ul class="pub-list list">
+<ul class="grant-list list">
 <% for (const item of items) { %>
   <li <%= metadataAttrs(item) %>>
     <span class="listing-title lead"><%= item.title %></span><br />
-    <span class="listing-author"><%= item.author %></span><br />
-    <span class="listing-github fst-italic "><%= item.github %></span>
-    <span class="listing-year">(<%= item.year %>)</span><br />
+<strong>Support</strong>::<span class="listing-agency"><%= item.agency %></span><br />
+    <span class="listing-code"><%= item.code %></span><br />
     <a href="<%- item.path %>" class="btn btn-primary">
       Details
     </a>
-    <% if (item.doi) { %>
-    <a href="<%- item.github %>" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
-      DOI
+    <% if (item.website) { %>
+    <a href="<%- item.website %>" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
+      Website
     </a>
     <% } %>
     <% if (item.preprint) { %>
@@ -20,8 +19,8 @@
       <i class="bi bi-file-earmark-text"></i> Preprint
     </a>
     <% } %>
-    <% if (item.materials) { %>
-    <a href="<%- item.materials %>" class="btn btn-light" target="_blank" rel="noopener noreferrer">
+    <% if (item.github) { %>
+    <a href="<%- item.github %>" class="btn btn-light" target="_blank" rel="noopener noreferrer">
       <i class="bi bi-file-earmark-zip"></i> Materials
     </a>
     <% } %>
