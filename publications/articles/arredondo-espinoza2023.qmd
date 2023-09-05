@@ -1,0 +1,29 @@
+---
+title: "Transcriptome profile in heat resilient Pacific oyster Crassostrea gigas families under thermal challenge"
+type: "article"
+author: "Roberto Arredondo-Espinoza, Ana M Ibarra, Steven B Roberts, Maria Teresa Sicard-González, Cristina Escobedo-Fregoso"
+year: "2023"
+publication: "Comparative Biochemistry and Physiology Part D: Genomics and Proteomics"
+preprint: ""
+doi: "https://doi.org/10.1371/journal.pclm.0000226"
+materials: ""
+eprint: ""
+toc: FALSE
+categories:
+  - oyster
+  - RNA-seq
+  - temperature
+---
+
+## Citation
+
+
+
+## Abstract
+
+Since the introduction of the Pacific oyster Crassostrea gigas in Baja California Sur, Mexico, its culture has faced environmental challenges, specifically increasing temperatures that result in high mortalities. The inter-tidal zone seawater temperature during a year at the Baja California Peninsula broadly ranges from 7 °C to 39 °C. Therefore, to understand how oysters respond to heat stress during daily temperature oscillations, heat-resistant (RR, father, and mother resistant) and heat-susceptible (SS, both parents susceptible) phenotypes families from a C. gigas breeding program were exposed to a thermal challenge. Based on a laboratory-simulated daily oscillatory thermal challenge (26 to 34 °C) for 30 days, RR phenotype presented differences compared to SS phenotype since the beginning (day 0) of the thermal challenge. Gene expression analyses revealed 1822 differentially expressed up-regulated transcripts in RR, related to functions of metabolic processes, biological regulation, and response to stimulus and signaling. At the end of the experiment (day 30), 2660 differentially expressed up-regulated transcripts were identified in RR. Functional analysis of the genes expressed indicates responses of regulation of biological processes and response to a stimulus. Additionally, 340 genes were differentially expressed among RR vs. SS from the beginning to the end of the thermal challenge, where 170 genes were up-regulated, and 170 were down-regulated. These transcriptomic profiles represent the first report to identify gene expression markers associated with RR phenotypes for the Pacific oyster to the future broodstock selection.
+
+![ga](http://gannet.fish.washington.edu/seashell/snaps/Monosnap_1-s2.0-S1744117X23000345-ga1_lrg.jpg_851531_pixels_2023-09-05_12-33-35.png)
+
+## Data Availability
+

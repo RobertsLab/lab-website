@@ -3,7 +3,7 @@ title: "Characterizing biological responses to climate variability and extremes 
 type: "article"
 author: "Lauren B Buckley, Emily Carrington, Michael E Dillon, Carlos García-Robledo, Steven B Roberts, Jill L Wegrzyn, Mark C Urban"
 year: "2023"
-publication: "PLOS Climate""
+publication: "PLOS Climate"
 preprint: "https://doi.org/10.1371/journal.pclm.0000226"
 doi: ""
 materials: ""
