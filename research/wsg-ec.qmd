@@ -1,0 +1,34 @@
+---
+title: "A collaborative partnership to address mass
+mortalities in oyster aquaculture through improved field monitoring, husbandry practices, and
+workforce development"
+code: ""
+status: "active"
+type: "grant"
+website: ""
+theme: "aquaculture resource development"
+agency: "Washington Sea Grant"
+year: "2019"
+github: "https://github.com/RobertsLab/project-maturation-control"
+toc: FALSE
+categories:
+  - oyster
+  - aquaculture
+---
+
+## Collaborators
+
+Emily Carrington
+
+## Summary
+
+As a collaborative partnership, our collective goal is to ensure the sustainable expansion of oyster aquaculture within Washington State by reducing the frequency and severity of mass mortality events that result from the interaction between OsHV-1 infection and extreme climate events such as marine and aerial heatwaves. The specific research and outreach objectives we will use to achieve this goal are:
+
+Objective 1. Determine susceptibility of Washington shellfish farms to heatwaves. Air and water temperatures experienced by oysters during grow-out will be monitored at farms within the Salish Sea and Willapa Bay in collaboration with industry partners. Continuous monitoring of environmental conditions in combination with oyster mortality data will be used to generate a climate risk assessment model for commercial growing areas within Washington State.
+
+Objective 2. Develop a commercially viable hatchery husbandry protocol that improves oyster heat tolerance. Oyster seed (“spat”) from OsHV-1 resistant families supplied by the USDA-ARS’ Pacific Shellfish Breeding Center (PSBC) will undergo sublethal exposure to simulated marine and aerial heat waves within a hatchery setting. The summer survival of stress-primed spat out-planted at farms with Puget Sound and Willapa Bay will inform the creation of a husbandry protocol that improves oyster climate resilience.
+
+Objective 3. Develop an enhanced workforce training curriculum for shellfish industry technicians. To address the industry’s need for skilled technicians, students from Bellingham Technical College’s (BTC) Fisheries and Aquaculture Sciences Program will be integrated into research objectives; this collaboration will be used to generate an enhanced workforce training curriculum that uses OsHV-1 and heat waves as case studies. Students will also gain exposure to training opportunities by serving as hatchery technicians, summer interns at shellfish farms, and student ambassadors during regular partner meetings.
+
+
+## Data Availability

@@ -1,0 +1,26 @@
+---
+title: "Identifying genomic architecture features that contribute to critical phenotypes in shellfish"
+code: ""
+status: "active"
+type: "grant"
+website: "https://github.com/mattgeorgephd/USDA-NRSP-8-gigas-rDNA/tree/main"
+theme: "aquaculture resource development"
+agency: "USDA NRSP-8"
+year: "2021"
+github: "https://github.com/mattgeorgephd/USDA-NRSP-8-gigas-rDNA/tree/main"
+toc: FALSE
+categories:
+  - oyster
+  - triploidy
+  - acidification
+---
+
+## Collaborators
+
+Mackenzie Gavery, Matt George
+
+## Summary
+
+Shellfish are a key component of domestic seafood production. Shellfish aquaculture is one of the most economically important sectors of the US industry, with major species including oysters and clams. As is the case with all farmed species, there are a suite of desirable phenotypes that directly correspond to increased environmental and economic sustainability. The ability to identify genomic predictors of phenotype offer a framework to increase aquaculture production. In shellfish aquaculture key phenotypes continue to be resilience and stress tolerance. Understanding the physiological underpinnings of these phenotypes in oysters and clams has been a focus in our group. To this end we have archived hundreds of samples from families with diverse phenotypic responses to stress. For example, as part of one effort to examine the influence of ploidy on oyster stress tolerance we have Standard Metabolic Rate (SMR) and enzyme activity data on oysters that reveal diverse physiological profiles. In response to the NRSP-8 Small Funding Possibilities for US Aquaculture Groups, we are proposing to 1) identify genomic architecture variation contributing to desired phenotypes in shellfish and 2) develop a community platform to share data and analytical approaches. These objectives are in direct response to Program Objective 2: Advance genome-to-phenome prediction by implementing strategies and tools to identify and validate genes and allelic variants predictive of biologically and economically important phenotypes and traits. Additionally the proposed work will address Program Objective 1, by ... providing a deep functional annotation of assemblies, and comparison across species to understand structure and function of animal genomes.
+
+## Data Availability

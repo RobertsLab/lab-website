@@ -1,0 +1,25 @@
+---
+title: "Effects of temperature change and Hematodinium sp. infection (Bitter Crab Disease) on Tanner crab (Chionoecetes bairdi)"
+code: ""
+status: "complete"
+type: "grant"
+website: ""
+theme: "reproductive biology and ecology"
+agency: "North Pacfic Research Board"
+year: "2017"
+github: "https://github.com/RobertsLab/project-maturation-control"
+toc: FALSE
+categories:
+  - crab
+  - disease
+---
+
+## Collaborators
+
+Pamela Jensen
+
+## Summary
+
+Changing climate conditions, due to increasing releases of CO2 into the atmosphere, are causing warming of the world's oceans. Changes in seawater temperatures are predicted to cause a shift in the distribution and a change in the abundance of most plants and animals. For most species, the magnitude of the impact, the potential for adaptation to future temperatures, and the mechanisms for adaptation are unknown. Features of parasite/disease ecology are also predicted to change as oceans warm, including susceptibility of hosts to disease, host ability to combat disease once infected, and alterations in pathogen virulence. Alaskan Tanner crab stocks, supporting fisheries worth \$21 million in 2014, are expected to be significantly impacted directly and indirectly by warming temperatures. The Alaska Department of Fish and Game considers bitter crab disease, caused by a parasitic dinoflagellate, Hematodinium, to be the 'principle threat' to Alaskan Tanner crab stocks. Infection rates in the Bering Sea and southeast Alaska range from 2-5% and 0-100%, respectively. In heavily infected hosts, the meat is soft and chalky with a bitter taste, rendering the crabs unmarketable. The disease is believed fatal, although the time from infection to death remains uncertain. Recent worldwide spread of Hematodinium infections appears to have closely followed warming trends in the Atlantic and Pacific Oceans. We postulate that increased temperature in the North Pacific will physiologically stress Tanner crabs and also lead to increased prevalence of Hematodinium infections, either of which may lead to increased mortality in Tanner crabs. We propose to hold healthy and Hematodinium-infected Tanner crabs under different temperature regimes testing for a genetic response to infection and temperature. Our research will provide insight into the underlying mechanistic linkages between potential effects of climate change and important processes such as recruitment, growth and natural mortality on Alaskan Tanner crab stocks.
+
+## Data Availability

@@ -11,14 +11,12 @@ github: "https://github.com/urol-e5"
 toc: FALSE
 categories:
   - coral
-  - methylation
   - epigenetics
-  - NSF
 ---
 
 ## Collaborators
 
-Hollie Putnam, 
+Hollie Putnam,
 
 ## Summary
 

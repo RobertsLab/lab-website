@@ -72,9 +72,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -207,12 +207,6 @@ ul.task-list li input[type="checkbox"] {
         </div>
     <div class="sidebar-menu-container"> 
     <ul class="list-unstyled mt-1">
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./research.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Research</span></a>
-  </div>
-</li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">
@@ -236,6 +230,12 @@ ul.task-list li input[type="checkbox"] {
 </li>
       </ul>
   </li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./research02.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Research</span></a>
+  </div>
+</li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true">
@@ -313,7 +313,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(6)</span></div><div class="category" data-category="MEDS">MEDS <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Quarto">Quarto <span class="quarto-category-count">(3)</span></div><div class="category" data-category="R">R <span class="quarto-category-count">(5)</span></div><div class="category" data-category="ceabigr">ceabigr <span class="quarto-category-count">(2)</span></div><div class="category" data-category="ggplot">ggplot <span class="quarto-category-count">(4)</span></div><div class="category" data-category="noteboook">noteboook <span class="quarto-category-count">(1)</span></div><div class="category" data-category="qPCR">qPCR <span class="quarto-category-count">(2)</span></div><div class="category" data-category="snp">snp <span class="quarto-category-count">(2)</span></div><div class="category" data-category="tidyverse">tidyverse <span class="quarto-category-count">(4)</span></div></div></div>
+    </div>
 <!-- main -->
 <main class="content quarto-banner-title-block" id="quarto-document-content">
 
@@ -336,23 +336,6 @@ ul.task-list li input[type="checkbox"] {
 <h5 class="no-anchor card-title listing-title">
 Epidiverse GRM
 </h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('ceabigr'); return false;">
-ceabigr
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('R'); return false;">
-R
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('tidyverse'); return false;">
-tidyverse
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('ggplot'); return false;">
-ggplot
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('snp'); return false;">
-snp
-</div>
-</div>
 <div class="card-text listing-description">
 re-evaluating the grm
 </div>
@@ -378,23 +361,6 @@ Jul 24, 2023
 <h5 class="no-anchor card-title listing-title">
 Epidiverse GRM
 </h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('ceabigr'); return false;">
-ceabigr
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('R'); return false;">
-R
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('tidyverse'); return false;">
-tidyverse
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('ggplot'); return false;">
-ggplot
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('snp'); return false;">
-snp
-</div>
-</div>
 <div class="card-text listing-description">
 re-evaluating the grm
 </div>
@@ -420,23 +386,6 @@ Jul 24, 2023
 <h5 class="no-anchor card-title listing-title">
 ggplotting some qPCR
 </h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Quarto'); return false;">
-Quarto
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('R'); return false;">
-R
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('tidyverse'); return false;">
-tidyverse
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('ggplot'); return false;">
-ggplot
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('qPCR'); return false;">
-qPCR
-</div>
-</div>
 <div class="card-text listing-description">
 quick take on graphing out some of Noah’s data
 </div>
@@ -462,23 +411,6 @@ Jul 21, 2023
 <h5 class="no-anchor card-title listing-title">
 ggplotting some qPCR
 </h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Quarto'); return false;">
-Quarto
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('R'); return false;">
-R
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('tidyverse'); return false;">
-tidyverse
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('ggplot'); return false;">
-ggplot
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('qPCR'); return false;">
-qPCR
-</div>
-</div>
 <div class="card-text listing-description">
 quick take on graphing out some of Noah’s data
 </div>
@@ -504,11 +436,6 @@ Jul 21, 2023
 <h5 class="no-anchor card-title listing-title">
 Mytilus Iso-seq Data check
 </h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('noteboook'); return false;">
-noteboook
-</div>
-</div>
 <div class="card-text listing-description">
 Lets take look at Isoseq fasta
 </div>
@@ -534,17 +461,6 @@ Jul 19, 2023
 <h5 class="no-anchor card-title listing-title">
 blog post title
 </h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Quarto'); return false;">
-Quarto
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('R'); return false;">
-R
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('MEDS'); return false;">
-MEDS
-</div>
-</div>
 <div class="card-text listing-description">
 blog post description (appears underneath the title in smaller text) which is included on the listing page
 </div>

@@ -72,9 +72,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -91,15 +91,6 @@ ul.task-list li input[type="checkbox"] {
     }
   })
   </script>
-<script src="site_libs/htmlwidgets-1.6.2/htmlwidgets.js"></script>
-<script src="site_libs/jquery-1.12.4/jquery.min.js"></script>
-<link href="site_libs/leaflet-1.3.1/leaflet.css" rel="stylesheet">
-<script src="site_libs/leaflet-1.3.1/leaflet.js"></script>
-<link href="site_libs/leafletfix-1.0.0/leafletfix.css" rel="stylesheet">
-<script src="site_libs/proj4-2.6.2/proj4.min.js"></script>
-<script src="site_libs/Proj4Leaflet-1.0.1/proj4leaflet.js"></script>
-<link href="site_libs/rstudio_leaflet-1.3.1/rstudio_leaflet.css" rel="stylesheet">
-<script src="site_libs/leaflet-binding-2.1.2/leaflet.js"></script>
 
   <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
@@ -217,12 +208,6 @@ ul.task-list li input[type="checkbox"] {
         </div>
     <div class="sidebar-menu-container"> 
     <ul class="list-unstyled mt-1">
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./research.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Research</span></a>
-  </div>
-</li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">
@@ -246,6 +231,12 @@ ul.task-list li input[type="checkbox"] {
 </li>
       </ul>
   </li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./research02.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Research</span></a>
+  </div>
+</li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true">
@@ -323,101 +314,16 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Quarto">Quarto <span class="quarto-category-count">(1)</span></div><div class="category" data-category="R">R <span class="quarto-category-count">(2)</span></div><div class="category" data-category="ceabigr">ceabigr <span class="quarto-category-count">(1)</span></div><div class="category" data-category="ggplot">ggplot <span class="quarto-category-count">(2)</span></div><div class="category" data-category="qPCR">qPCR <span class="quarto-category-count">(1)</span></div><div class="category" data-category="snp">snp <span class="quarto-category-count">(1)</span></div><div class="category" data-category="tidyverse">tidyverse <span class="quarto-category-count">(2)</span></div></div></div>
+    </div>
 <!-- main -->
 <main class="content quarto-banner-title-block" id="quarto-document-content">
 
 
 
 
-<p>…</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="img/raven.gif" class="img-fluid figure-img" alt="raven htop output"></p>
-</figure>
-</div>
-<div class="cell">
-<div class="cell-output-display">
-<div class="leaflet html-widget html-fill-item-overflow-hidden html-fill-item" id="htmlwidget-0720c8462a2fb5fcb68e" style="width:100%;height:464px;"></div>
-<script type="application/json" data-for="htmlwidget-0720c8462a2fb5fcb68e">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"calls":[{"method":"addTiles","args":["https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",null,null,{"minZoom":0,"maxZoom":18,"tileSize":256,"subdomains":"abc","errorTileUrl":"","tms":false,"noWrap":false,"zoomOffset":0,"zoomReverse":false,"opacity":1,"zIndex":1,"detectRetina":false,"attribution":"&copy; <a href=\"https://openstreetmap.org\">OpenStreetMap<\/a> contributors, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA<\/a>"}]},{"method":"addMarkers","args":[47.652481,-122.31548,null,null,null,{"interactive":true,"draggable":false,"keyboard":true,"title":"","alt":"","zIndexOffset":0,"opacity":1,"riseOnHover":false,"riseOffset":250},"Where science happens",null,null,null,null,{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null]}],"limits":{"lat":[47.652481,47.652481],"lng":[-122.31548,-122.31548]}},"evals":[],"jsHooks":[]}</script>
-</div>
-</div>
-<table class="table">
-<thead>
-<tr class="header">
-<th>Person</th>
-<th>Notebook</th>
-<th>Commitment</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Steven Roberts</td>
-<td><a href="https://sr320.github.io/">sr320.github.io</a></td>
-<td><img src="https://img.shields.io/github/last-commit/sr320/sr320.github.io" class="img-fluid" alt="GitHub last commit"></td>
-</tr>
-<tr class="even">
-<td>Sam White</td>
-<td><a href="https://robertslab.github.io/sams-notebook/">robertslab.github.io</a></td>
-<td><img src="https://img.shields.io/github/last-commit/RobertsLab/sams-notebook.png" class="img-fluid" alt="GitHub last commit"></td>
-</tr>
-<tr class="odd">
-<td>Matt George</td>
-<td><a href="https://mattgeorgephd.github.io/notebook/">mattgeorgephd.github.io</a></td>
-<td><img src="https://img.shields.io/github/last-commit/mattgeorgephd/mattgeorgephd.github.io" class="img-fluid" alt="GitHub last commit"></td>
-</tr>
-<tr class="even">
-<td>Aidan Coyle</td>
-<td><a href="https://afcoyle.github.io">afcoyle.github.io</a></td>
-<td><img src="https://img.shields.io/github/last-commit/afcoyle/afcoyle.github.io" class="img-fluid" alt="GitHub last commit"></td>
-</tr>
-<tr class="odd">
-<td>Olivia Cattau</td>
-<td><a href="https://ocattau.github.io">ocattau.github.io</a></td>
-<td><img src="https://img.shields.io/github/last-commit/ocattau/ocattau.github.io" class="img-fluid" alt="GitHub last commit"></td>
-</tr>
-<tr class="even">
-<td>Delaney Lawson</td>
-<td><a href="https://drlawson.github.io">drlawson.github.io</a></td>
-<td><img src="https://img.shields.io/github/last-commit/drlawson/drlawson.github.io" class="img-fluid" alt="GitHub last commit"></td>
-</tr>
-<tr class="odd">
-<td>Ariana Huffmyer</td>
-<td><a href="https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/">ahuffmyer.github.io</a></td>
-<td><img src="https://img.shields.io/github/last-commit/AHuffmyer/ASH_Putnam_Lab_Notebook.png" class="img-fluid" alt="GitHub last commit"></td>
-</tr>
-<tr class="even">
-<td>Larken Root</td>
-<td><a href="https://github.com/larkenr/larkenr.github.io">larkenr.github.io</a></td>
-<td><img src="https://img.shields.io/github/last-commit/larkenr/larkenr.github.io" class="img-fluid" alt="GitHub last commit"></td>
-</tr>
-<tr class="odd">
-<td>Laura Spencer</td>
-<td><a href="https://laurahspencer.github.io/LabNotebook/">laurahspencer.github.io</a></td>
-<td><a href="https://github.com/laurahspencer"><img src="https://img.shields.io/github/followers/laurahspencer.svg?style=social&amp;label=Follow&amp;maxAge=2592000" class="img-fluid" alt="GitHub followers"></a></td>
-</tr>
-<tr class="even">
-<td>Yaamini Venkataraman</td>
-<td><a href="https://yaaminiv.github.io/">yaaminiv.github.io</a></td>
-<td><a href="https://github.com/yaaminiv"><img src="https://img.shields.io/github/followers/yaaminiv.svg?style=social&amp;label=Follow&amp;maxAge=2592000" class="img-fluid" alt="GitHub followers"></a></td>
-</tr>
-<tr class="odd">
-<td>Grace Crandall</td>
-<td><a href="https://grace-ac.github.io/">grace-ac.github.io</a></td>
-<td><a href="https://github.com/grace-ac"><img src="https://img.shields.io/github/followers/grace-ac.svg?style=social&amp;label=Follow&amp;maxAge=2592000" class="img-fluid" alt="GitHub followers"></a></td>
-</tr>
-<tr class="even">
-<td>Shelly Trigg</td>
-<td><a href="https://shellytrigg.github.io/notebook/">shellytrigg.github.io/notebook</a></td>
-<td><a href="https://github.com/shellytrigg"><img src="https://img.shields.io/github/followers/shellytrigg.svg?style=social&amp;label=Follow&amp;maxAge=2592000" class="img-fluid" alt="GitHub followers"></a></td>
-</tr>
-<tr class="odd">
-<td>Celeste Valdivia</td>
-<td><a href="https://valeste.github.io/">valeste.github.io</a></td>
-<td><img src="https://img.shields.io/github/last-commit/valeste/valeste.github.io" class="img-fluid" alt="GitHub last commit"></td>
-</tr>
-</tbody>
-</table>
+<p>Research in our lab focuses on characterizing physiological responses of marine organisms to environmental change. Using integrative approaches we strive to examine impacts and adaptive potential from the nucleotide to organismal level. A core component of this includes investigating the functional relationship of genetics, epigenetics, and protein expression. Three major themes of are current projects include Environmental Epigenetics, Reproductive Biology and Ecology, and Aquaculture Resource Development.</p>
+<p>Our lab strives to make all research products readily available. This includes publishing of online lab notebooks, presentations, data, and more. This is an effective means to openly share our activities with the public.</p>
+<p>Below is a snapshot of some of current activity. Use the menu to explore about our research, people, and lab culture.</p>
 
 
 
@@ -434,23 +340,6 @@ ul.task-list li input[type="checkbox"] {
 <h5 class="no-anchor card-title listing-title">
 Epidiverse GRM
 </h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('ceabigr'); return false;">
-ceabigr
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('R'); return false;">
-R
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('tidyverse'); return false;">
-tidyverse
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('ggplot'); return false;">
-ggplot
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('snp'); return false;">
-snp
-</div>
-</div>
 <div class="card-text listing-description">
 re-evaluating the grm
 </div>
@@ -476,23 +365,6 @@ Jul 24, 2023
 <h5 class="no-anchor card-title listing-title">
 ggplotting some qPCR
 </h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Quarto'); return false;">
-Quarto
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('R'); return false;">
-R
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('tidyverse'); return false;">
-tidyverse
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('ggplot'); return false;">
-ggplot
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('qPCR'); return false;">
-qPCR
-</div>
-</div>
 <div class="card-text listing-description">
 quick take on graphing out some of Noah’s data
 </div>

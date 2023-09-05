@@ -10,15 +10,13 @@ github: "https://github.com/sr320/ceabigr"
 toc: TRUE
 categories:
   - oyster
-  - methylation
   - epigenetics
-  - acidifcation
-  - NSF
+  - acidification
 ---
 
 ## Collaborators
 
-Katie Lotterhos 
+Katie Lotterhos
 
 ## Summary
 

@@ -4,15 +4,13 @@ code: "68-7685"
 status: "active"
 type: "grant"
 website: ""
-theme: "education"
+theme: "reproductive biology and ecology"
 agency: "UW EarthLab"
 year: "2023"
 github: "https://drive.google.com/drive/u/1/folders/14fQbiccvyMRWt22n5PoMi2fpa3txRVQX"
 toc: FALSE
 categories:
-  - art
-  - dei
-  - innovation
+  - education
 ---
 
 ## Collaborators
@@ -21,11 +19,6 @@ ccc
 
 ## Summary
 
-As the country comes to a reckoning on education and the environment, we are forced to interrogate the historic events that have led to such crises and how we can support inclusive solutions. Covid-19 has offered us an unprecedented glimpse into the challenges students face in the K-12 education system. It has also profoundly impacted socio-economically disadvantaged communities through the exposure of crippled or missing infrastructure. These same communities have been deliberately disconnected from building relationships with the natural world. In the face of complex problems like climate change, which will disproportionately impact these communities, we must act urgently to support the students who have historically been excluded from environmental science education. Our project starts with reconnecting community to environment, followed by engaging learners dynamically through the co-production of place-based knowledge.
-Although disadvantaged communities are highly engaged in climate change mitigation, this is often limited to anecdotes about water quality during trash pick-ups or community beautification projects led by outside non-profit volunteers, rather than building knowledge and strength within the community. Rarely do students have the opportunity to access their local environment through a non- problem solving lens and participate as equal partners. We want to change who is leading the learning as well as how the learning is done. Partnering with Sea Potential and Black in Marine Science, our team of scientists and digital arts experts will co-produce an arts based learning approach to increase environmental literacy in the communities most regularly overlooked. We will empower students to engage with the intertidal ecosystem, a defining feature of all coastlines and an accessible and dynamic place to learn about ocean science, organismal resilience, and community composition.
-Student projects will demonstrate how they understand the intertidal ecosystem, their connection to it, and its relationship to their home neighborhoods. Each of the projects will be presented to their academic and familial communities as well as used to create a teaching toolkit for local and national educators to replicate our art- and science-integrated student centered learning model for intertidal ecology.
-
+As the country comes to a reckoning on education and the environment, we are forced to interrogate the historic events that have led to such crises and how we can support inclusive solutions. Covid-19 has offered us an unprecedented glimpse into the challenges students face in the K-12 education system. It has also profoundly impacted socio-economically disadvantaged communities through the exposure of crippled or missing infrastructure. These same communities have been deliberately disconnected from building relationships with the natural world. In the face of complex problems like climate change, which will disproportionately impact these communities, we must act urgently to support the students who have historically been excluded from environmental science education. Our project starts with reconnecting community to environment, followed by engaging learners dynamically through the co-production of place-based knowledge. Although disadvantaged communities are highly engaged in climate change mitigation, this is often limited to anecdotes about water quality during trash pick-ups or community beautification projects led by outside non-profit volunteers, rather than building knowledge and strength within the community. Rarely do students have the opportunity to access their local environment through a non- problem solving lens and participate as equal partners. We want to change who is leading the learning as well as how the learning is done. Partnering with Sea Potential and Black in Marine Science, our team of scientists and digital arts experts will co-produce an arts based learning approach to increase environmental literacy in the communities most regularly overlooked. We will empower students to engage with the intertidal ecosystem, a defining feature of all coastlines and an accessible and dynamic place to learn about ocean science, organismal resilience, and community composition. Student projects will demonstrate how they understand the intertidal ecosystem, their connection to it, and its relationship to their home neighborhoods. Each of the projects will be presented to their academic and familial communities as well as used to create a teaching toolkit for local and national educators to replicate our art- and science-integrated student centered learning model for intertidal ecology.
 
 ## Data Availability
-
-

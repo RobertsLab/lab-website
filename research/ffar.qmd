@@ -1,0 +1,25 @@
+---
+title: "Development of environmental conditioning practices to decrease impacts of climate change on shellfish aquaculture"
+code: ""
+status: "complete"
+type: "grant"
+website: ""
+theme: "aquaculture resource development"
+agency: "FFAR"
+year: "2016"
+github: ""
+toc: FALSE
+categories:
+  - clam
+  - epigenetics
+---
+
+## Collaborators
+
+Hollie Putnam
+
+## Summary
+
+The project will be completed using commercial hatchery rearing of geoduck clams. We will test and implement shellfish performance enhancement methods through the use of environmental stressor preconditioning, or "hardening". The objectives of this work are to A) Identify key stages in the geoduck life cycle when environmental conditioning can be applied for optimal benefits to productivity, including: -- Broodstock conditioning and reproductive performance, -- Larval growth and survivorship, and -- Juvenile resistance to stress through repeated exposures, B) Use genomics and epigenomics to identify underlying mechanisms involved in enhanced performance. This will provide mechanistic information that enables the application of optimal preconditioning approaches in other shellfish species. This project directly addresses the research topics of genomics, quantitative genetics, and phenomics in the less studied, yet viable, geoduck clam. The proposed work is based on our group's prior finding that some exposure to low pH conditions can improve larval and juvenile performance traits. The research proposed will integrate and further test these findings in a commercial shellfish hatchery setting and determine the genetic and epigenetic markers associated with improved performance. In addition, we will explore how the "memory" of prior exposure increases later performance such that epigenetic markers could be leveraged in broodstock management and hatchery practices. A number of phenotypes will be assessed, as well as the underlying genomic factors, including fecundity, survival, and growth.
+
+## Data Availability

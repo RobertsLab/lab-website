@@ -11,6 +11,8 @@ title-block-banner: true
 
 see also <a href="#preprint">*preprints*</a> and [*Google Scholar*](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=aAoYWVUAAAAJ&view_op=list_works)
 
+Page in development: [publications02.qmd](publications02.qmd)
+
 Katherine Silliman, Laura H Spencer, Samuel J White, Steven B Roberts (**2023**) [Epigenetic and genetic population structure is coupled in a marine invertebrate](https://doi.org/10.1093/gbe/evad013) Genome Biology and Evolution, 2023;, evad013 doi:10.1093/gbe/evad013 [Primary]{.badge .rounded-pill .bg-primary}
 
 Dang, X., Lim, Y.-K., Li, Y., Roberts, S. B., Li, L., & Thiyagarajan, V. (**2022**). [Epigenetic-associated phenotypic plasticity of the ocean acidification-acclimated edible oyster in the mariculture environment](https://doi.org/10.1111/mec.16751) Molecular Ecology, 00, 1-- 16. doi:10.1111/mec.16751

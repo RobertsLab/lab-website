@@ -50,11 +50,11 @@ website:
     style: "docked"
     search: true
     contents:
-      - research.qmd
       - section: People
         contents:
           - people.qmd
           - collaborators.qmd
+      - research02.qmd
       - section: Products
         contents:
           - publications02.qmd

@@ -29,10 +29,6 @@ listing:
       publication: "Publication"
 ---
 
-n
-
-or here?
-
 # Papers (beta)
 
 ::: {#articles}

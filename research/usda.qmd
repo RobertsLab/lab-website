@@ -1,0 +1,29 @@
+---
+title: "Improved climate resilience in oysters through optimization of hatchery-based environmental conditioning practices"
+code: ""
+status: "active"
+type: "grant"
+website: ""
+theme: "aquaculture resource development"
+agency: "USDA"
+year: "2023"
+github: "https://github.com/RobertsLab/project-gigas-carryover/tree/main"
+toc: FALSE
+categories:
+  - oyster
+  - carryover
+---
+
+## Collaborators
+
+Matt George
+
+## Summary
+
+As academic, industry, and tribal stakeholders, our collective goal is to ensure the sustainable expansion of oyster aquaculture within the U.S. by reducing the frequency and severity of mass mortality events by improving the climate resilience of oyster stocks. The specific research objectives are: Optimize early-life stage environmental conditioning to improve climate resilience Assess carry-over benefits of broodstock husbandry practices on offspring performance Objective 1. Optimize early-life stage environmental conditioning to improve climate resilience. Developmental plasticity occurs when the environment experienced by an organism during development alters the phenotype of the same organism during later life-stages (Figure). To assess the potential for developmental plasticity to produce positive carry-over effects that improve resilience, we will expose oysters to a variety of environmental stressors at nonlethal levels during larval rearing. The performance of larvae will be assessed during early development and compared with performance after summer deployment at grow-out sites.
+
+![fig](http://gannet.fish.washington.edu/seashell/snaps/Monosnap_USDA_SRGARP_Proposal_2022_-_Google_Docs_2023-09-01_10-42-25.png)
+
+Objective 2. Assess carry-over benefits of broodstock husbandry practices on offspring performance. Transgenerational plasticity occurs when the environment experienced by parents influences the phenotype of their offspring (Fig. 4B). To assess the potential for transgenerational plasticity to produce positive carry-over effects that improve offspring resilience, we will expose oyster broodstock to a variety of environmental stressors at nonlethal levels prior to broodstock conditioning and spawning. The performance of offspring will then be assessed during the pre- and post-settlement larval stages and compared with performance after summer deployment at grow-out site
+
+## Data Availability

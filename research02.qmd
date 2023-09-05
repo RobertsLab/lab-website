@@ -1,6 +1,5 @@
 ---
 pagetitle: "Research | Roberts Lab"
-
 listing:
   - id: research
     contents: "research/**.qmd"
@@ -9,19 +8,17 @@ listing:
     sort:
       - "status"
       - "theme"
-    sort-ui: [status, agency, year, theme]
+    sort-ui: [theme, status, agency, year]
     filter-ui: [agency, status, theme]
-    page-size: 10
+    page-size: 20
     field-display-names: 
       publication: "Publication"
       year: "year"
 ---
 
-n
+# Research
 
-or here?
-
-# research
+Our efforts can broadly be defined as xx go herae=
 
 ::: {#research}
 :::

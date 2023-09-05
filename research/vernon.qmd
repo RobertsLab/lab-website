@@ -1,0 +1,25 @@
+---
+title: "Vernon: Development of innovative approaches to support sustainable aquaculture and understand the effects of ocean acidification on marine species"
+code: ""
+status: "active"
+type: "grant"
+website: ""
+theme: "aquaculture resource development"
+agency: "NOAA"
+year: "2021"
+github: ""
+toc: FALSE
+categories:
+  - oyster
+  - acidification
+---
+
+## Collaborators
+
+Mackenzie Gavery
+
+## Summary
+
+Environmental variability due to climate change and ocean acidification (OA) are having multifaceted impacts on marine species, ecosystems and human industries such as marine aquaculture. It is absolutely critical to understand how marine organisms, and industries that rely on them, will respond to these changing conditions. Arguably, it will be just as important to provide tools and best practices to mitigate these effects, and in the case of marine aquaculture -- find solutions to increase sustainability of the sector broadly, to create resilience even in the face of environmental uncertainty. Innovative scientific solutions are required to meet these ongoing and future challenges. In this project, we will add capacity to collaborative research between partners at the University of Washington and the Northwest Fisheries Science Center, addressing objectives of key importance to the National Marine Fisheries Service mission. These include innovative problem-solving approaches to address challenges facing sustainable aquaculture development, understanding the impacts of climate variability on marine fish and shellfish, and woven throughout these research activities is the development of 'omics and bioinformatics workflows for both data generation and data analysis (bioinformatics). Through this composite project, our goal is to contribute to applications to support sustainable aquaculture, increase our understanding of the effects of OA on marine fish and shellfish and contribute bioinformatic capacity, tools and workflows for research related to aquaculture, genomics and climate change.
+
+## Data Availability

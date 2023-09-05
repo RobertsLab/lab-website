@@ -18,10 +18,10 @@ Professor in the School of Aquatic and Fishery Sciences at the University of Was
 
 ## Aidan Coyle
 
-- [Lab notebook](https://afcoyle.github.io/)
-- [CV](https://afcoyle.github.io/cv/Coyle_CV_Sept_2021.pdf)
-- [Github](https://github.com/afcoyle)
-- Email: afcoyle\@uw.edu
+-   [Lab notebook](https://afcoyle.github.io/)
+-   [CV](https://afcoyle.github.io/cv/Coyle_CV_Sept_2021.pdf)
+-   [Github](https://github.com/afcoyle)
+-   Email: afcoyle\@uw.edu
 
 ![](https://raw.githubusercontent.com/afcoyle/afcoyle-misc/master/download%20(3).png){width="152" height="162" align="left" border="10" style="border-color: white"}
 
@@ -29,30 +29,28 @@ Growing up in coastal Alaska, I spent most of my youth being poked by sea urchin
 
 ## Zach Bengtsson
 
-- [Lab notebook](https://zbengt.github.io/)
-- Email: zbengt\@uw.edu
+-   [Lab notebook](https://zbengt.github.io/)
+-   Email: zbengt\@uw.edu
 
 ![](https://avatars.githubusercontent.com/u/91245841?v=4){width="140" height="150" align="left" border="10" style="border-color: white"}
 
-
 I grew up in the beautiful, landlocked city of Colorado Springs, CO, but I have always been fascinated by the ocean and marine life. In my undergraduate studies at Boston University, I developed a passion for marine invertebrates and studied coral epibionts living on mangrove prop roots in Belize. After graduating in 2015, I developed my skills in science and research through positions in medical molecular biology, seasonal environmental DNA work at The Nature Conservancy, and various environmental remote sensing roles in the NASA Earth Applied Sciences Program. I joined the Roberts Lab in Fall 2021, where I work on the [E5 Coral Project](https://e5coral.org/). My research focuses on assessing the response of corals to changing environmental conditions in Moorea using epigenetic techniques. I am also interested in incorporating remotely-sensed datasets as model inputs to better understand the relationship between environmental stressors and organismal response. Please feel free to get in touch with me via email or through my [LinkedIn](https://www.linkedin.com/in/zachary-bengtsson/)!
-
 
 ## Chris Mantegna
 
-- [Lab notebook](https://chrismantegna.github.io/)
-- Email: cnmntgna@uw.edu
+-   [Lab notebook](https://chrismantegna.github.io/)
+-   Email: cnmntgna\@uw.edu
 
-![Chris Mantegna](https://avatars.githubusercontent.com/u/81385272?s=400&amp;u=db9e68ce341c74ff870634cc398654e82d7aea73&amp;v=4){width=140px height=150px}
+![Chris Mantegna](https://avatars.githubusercontent.com/u/81385272?s=400&u=db9e68ce341c74ff870634cc398654e82d7aea73&v=4){width="140px" height="150px"}
 
 Deciding to chase my love of Orcas, coffee, and grunge to the Pacific Northwest has yielded this Baltimore, MD transplant an opportunity to become a double University of Washington alumna. I graduated with my B.S. in Marine Biology in 2021 and am continuing my academic pursuits as a SAFS and NSF Graduate Fellow. Moving into the marine science space has been a dream fulfilled. I am currently using -omics techniques to evaluate the relationship between environmental influences, ecotoxins, and organism physiology in the Pacific Northwest using bivalves as the target organisms. Moving through my graduate work I'd like to expand into warmer waters and study those relationships with Syngnathids as the target organisms. When not working in the lab I happily pepper my daughter with dad jokes, build community as the Mentorship Coordinator for [BWEEMS](https://www.bweems.org/), create content and programming as an active member of [BIMS](https://www.blackinmarinescience.org/), and spend my free time moonlighting as a wannabe Chihuly in beginners glass blowing classes.
 
 ## Celeste Valdivia
 
-- [Lab notebook](https://valeste.github.io/)
-- Email: cvaldi@uw.edu
+-   [Lab notebook](https://valeste.github.io/)
+-   Email: cvaldi\@uw.edu
 
-![Celeste Valdivia](https://avatars.githubusercontent.com/u/114775924?s=400&amp;u=ac323874acba109b05b1e5def35f43bd00a65fde&amp;v=4){width=140px height=150px}
+![Celeste Valdivia](https://avatars.githubusercontent.com/u/114775924?s=400&u=ac323874acba109b05b1e5def35f43bd00a65fde&v=4){width="140px" height="150px"}
 
 Although growing up in San Diego, CA meant that I spent many days of my youth out in the ocean, my scientific interest in the aquatic environment and it's species wasn't fully realized until I began a position in 2018 as an undergraduate research assistant in an aquatic ecotoxicology lab the University of California, Davis. During that time, I completed my undergraduate capstone project analyzing the effects of bifenthrin exposure on the behavior of the federally endangered Delta Smelt. After graduating with a bachelor of science in Animal Biology in 2020, I continued my research work in that same lab for an additional two years and further explored the developmental, behavioral, and reproductive impacts several commonly employed urban and agricultural pyrethroids had on native Californian estuarine fish species. In 2022, I dually joined the [Gardell Lab](https://gardell.ds.lib.uw.edu/) at the University of Washington, Tacoma and the Roberts Lab housed in the [School of Aquatic and Fishery Sciences](https://fish.uw.edu/) (SAFS) at the University of Washington, Seattle. As a graduate student at SAFS, I am now focused on identifying the constraints on *in vitro* cellular immortality in the marine model invertebrate, *Botryllus schlosseri*. This exploratory process will primarily involve the implementation of procedures for systematic primary cell culture optimization, stress-induced mutagenesis, and bioinformatic network analysis. In my free time I enjoy cooking, tending to my mini indoor garden, and playing guitar. Feel free to get in touch with me through email if you have any questions!
 
@@ -60,16 +58,15 @@ Although growing up in San Diego, CA meant that I spent many days of my youth ou
 
 ## Ariana S. Huffmyer, PhD
 
-- [Lab notebook](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/)
-- [CV](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/about/)
-- Twitter: @Dr_Cnidariana
-- [ORCID iD](https://orcid.org/0000-0002-9170-0971)
-- Email: ashuffmyer@uri.edu
-- National Science Foundation Ocean Sciences Postdoctoral Fellow
-- UW eScience Data Science Postdoctoral Fellow
+-   [Lab notebook](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/)
+-   [CV](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/about/)
+-   Twitter: @Dr_Cnidariana
+-   [ORCID iD](https://orcid.org/0000-0002-9170-0971)
+-   Email: ashuffmyer\@uri.edu
+-   National Science Foundation Ocean Sciences Postdoctoral Fellow
+-   UW eScience Data Science Postdoctoral Fellow
 
-![](https://raw.githubusercontent.com/ahuffmyer/ASH_Putnam_Lab_Notebook/master/images/ArianaHuffmyer.jpg){width=130px height=150px}
-
+![](https://raw.githubusercontent.com/ahuffmyer/ASH_Putnam_Lab_Notebook/master/images/ArianaHuffmyer.jpg){width="130px" height="150px"}
 
 I am a postdoctoral researcher working with [Dr. Hollie Putnam at the University of Rhode Island](http://putnamlab.com/) and Dr. Steven Roberts at the University of Washington studying the effects of climate change on marine invertebrate early life history, with a particular interest in the formation of coral-algal symbiosis during coral development.
 
@@ -83,11 +80,11 @@ Outside the lab, I enjoy hiking, mountain biking, fly fishing, and exploring wit
 
 ## Larken Root
 
-- [Lab notebook](https://larkenr.github.io)
-- [CV](https://github.com/larkenr/larkenr.github.io/blob/master/cv/Curriculum%20vitae%20.pdf)
-- Email: larker@uw.edu
+-   [Lab notebook](https://larkenr.github.io)
+-   [CV](https://github.com/larkenr/larkenr.github.io/blob/master/cv/Curriculum%20vitae%20.pdf)
+-   Email: larker\@uw.edu
 
-![](https://avatars.githubusercontent.com/u/60525206?s=400&amp;u=59560ff1e74ecde55ae63ba22e7c83d642e239c2&amp;v=4){width=130px height=150px}
+![](https://avatars.githubusercontent.com/u/60525206?s=400&u=59560ff1e74ecde55ae63ba22e7c83d642e239c2&v=4){width="130px" height="150px"}
 
 I am currently working as a [Cooperative Institute for Climate, Ocean, & Ecosystem Studies (CICOES)](https://cicoes.uw.edu/) Fellow in the Roberts Lab in collaboration with Mackenzie Gavery at the NOAA Northwest Fisheries Science Center and Ryan Crim at the Puget Sound Restoration Fund to assess the potential impacts of ocean acidification (OA) on native Pacific Littleneck Clams and naturalized Manila Clams. Specifically, we will determine the physiological impact of OA conditions on adult clams and determine how this impacts reproduction by assessing reproductive success as well as gene expression in gametes. Larvae collected from clams will also be used to determine transgenerational effects on the capacity of larvae to tolerate the same OA conditions by assessing growth performance and gene expression. Results from these experiments are intentionally aimed at expanding the portfolio of options for Puget Sound shellfish growers, and I will be involved in surveying growers to determine the applicability of the methods we develop on clam production. I am also active in a separate project to identify and then silence genes expressed in the development of germ line cells in shellfish embryos, with the ultimate goal of establishing a method for producing sterile shellfish for use in aquaculture.
 
@@ -97,21 +94,18 @@ When not doing research, I am an avid hiker, and I enjoy a number of hobbies inc
 
 ## Laura Spencer
 
-
-
 # Research Scientists
 
 ## Sam White
 
-- [Lab notebook](https://robertslab.github.io/sams-notebook/)
-- [Email Sam](mailto:samwhite@uw.edu)
+-   [Lab notebook](https://robertslab.github.io/sams-notebook/)
+-   [Email Sam](mailto:samwhite@uw.edu)
 
-![](https://avatars.githubusercontent.com/u/4514104?s=400&amp;u=4ca84a191a9207abf4a374cce575663b22f8e69a&amp;v=4){height=142px}
+![](https://avatars.githubusercontent.com/u/4514104?s=400&u=4ca84a191a9207abf4a374cce575663b22f8e69a&v=4){height="142px"}
 
 I am a research scientist in the lab since the lab's inception in 2007 and am jack-of-all-trades lab member. I dabble in all aspects of helping the lab run efficiently (bionformatics, computer/server maintenance, training new personnel, purchasing/reconciliation, safety documentation/training, etc), but as a molecular biologist by training (B.S. Univ. of Illinois \@ Urbana-Champaign - Plant Biology; M.S. Arizona State Univerity - Plant Biology), I excel at bench work.
 
 Outside of lab-related work, I dig playing video games and listening to Phish (and, to placate the haters, I also like other good bands/musicians like Queens of the Stone Age, Uriah Heep, and Kacey Musgraves). I guess I also enjoy spending time with my spouse, kid, and dog, too.
-
 
 ## Brent Vadopalas
 
@@ -271,7 +265,7 @@ Zachary Schiller; Tufts University <a title="http://fish.washington.edu/research
 
 ### *Visiting Scientists*
 
-Shanelle Haughton; PhD student in the Marine-Estuarine-Environmental Science program at the University of Maryland Eastern Shore  - 2021
+Shanelle Haughton; PhD student in the Marine-Estuarine-Environmental Science program at the University of Maryland Eastern Shore - 2021
 
 Javier A. Rodriguez-Casariego; Florida International University\
 August 2019

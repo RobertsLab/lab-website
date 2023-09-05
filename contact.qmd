@@ -4,7 +4,7 @@ title-block-banner: true
 toc: true
 ---
 
-Steven Roberts - 206-866-5141; sr320@uw.edu
+Steven Roberts - 206-866-5141; sr320\@uw.edu
 
 Feel free to email any lab member - you can find that information [here](people.qmd).
 

@@ -1,0 +1,25 @@
+---
+title: "Enhancing sustainability of shellfish aquaculture through streamlined maturation control"
+code: ""
+status: "complete"
+type: "grant"
+website: ""
+theme: "reproductive biology and ecology"
+agency: "Washington Sea Grant"
+year: "2019"
+github: "https://github.com/RobertsLab/project-maturation-control"
+toc: FALSE
+categories:
+  - oyster
+  - scRNAseq
+---
+
+## Collaborators
+
+Mackenzie Gavery
+
+## Summary
+
+The proposed objectives cover the essential first steps toward generating sterile bivalves via molecular disruption of germ cell formation. The first step in the process is the identification of genes involved in primordial germ cell (PGC) specification in bivalves via single-cell RNA sequencing (scRNA- Seq). This cutting-edge technique is particularly suited to identify germ cell markers in bivalves, since germ cell precursors represent a small number of cells in developing embryos. This information is integral to being able to control germ cell fate for reproductive sterilization of aquaculture species, and our proposed use of scRNA-Seq for directed application to aquaculture is both novel and potentially highly beneficial to the broader shellfish aquaculture community. Our first specific research aim is to characterize genomic processes involved in germ cell specification in Pacific oysters. A second fundamental step in the process is the optimization of techniques to deliver targeted, gene-regulating molecules to embryos to inhibit germ cell formation. Methods to optimize delivery techniques, including the use of CRISPR-Cas9 and morpholino constructs, have yet to be developed for bivalve embryos. Therefore, our second specific research aim is to optimize delivery techniques of custom gene-regulating molecules to oyster embryos. The completion of these objectives sets the stage for a more effective and sustainable approach for sterilization of shellfish.
+
+## Data Availability
