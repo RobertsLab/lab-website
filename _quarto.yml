@@ -58,7 +58,6 @@ website:
       - section: Products
         contents:
           - publications02.qmd
-          - publications.qmd
           - products.qmd
       - section: "Lab Culture"
         contents:
