@@ -11,7 +11,7 @@ listing:
       - "title"
     sort-ui: [title,author,publication,year]
     filter-ui: [title,author,publication,year]
-    page-size: 10
+    page-size: 30
     field-display-names: 
       publication: "Publication"
       year: "Year"
@@ -33,13 +33,10 @@ listing:
 
 Below you will find links to research papers. Recent papers can be searched by sorting and/or using filter function. Filter function works on author and title. Recent papers can aslso be identified by categories.
 
-
-
 # Recent Papers
 
 ::: {#articles}
 :::
-
 
 # Less Recent Papers (2020 and older)
 
@@ -353,7 +350,6 @@ Genetic and phenotypic diversity in sockeye salmon, <em>Oncorhynchus nerka</em>.
 Characterizing the effects of ocean acidification in larval and juvenile Manila clam, <em>Ruditapes philippinarum</em>, using a transcriptomic approach. David Metzger. 2012 <a href="http://fish.washington.edu/research/publications/ms_phd/Metzger_D_MS_Sp12.pdf"> download</a>
 
 ------------------------------------------------------------------------
-
 
 # Notebooks
 
