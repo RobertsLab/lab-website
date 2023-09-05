@@ -3,16 +3,14 @@ title: "Triploid Pacific oysters exhibit stress response dysregulation and eleva
 type: "article"
 author: "Matthew N. George, Olivia Cattau, Mollie Middleton, Delaney Lawson, Brent Vadopalas, Mackenzie Gavery, Steven Roberts"
 year: "2023"
-publication: ""
-preprint: "https://www.biorxiv.org/content/10.1101/2023.03.02.530828v1"
+publication: "Global Change Biology"
+preprint: "https://doi.org/10.1111/gcb.16880"
 doi: ""
 materials: ""
 eprint: ""
 toc: FALSE
 categories:
   - oyster
-  - methylation
-  - epigenetic
   - triploid
   - Pacific oyster
   - Crassostrea
@@ -20,7 +18,7 @@ categories:
 
 ## Citation
 
-> Venkataraman, Y.R., White, S.J. & Roberts, S.B. Differential DNA methylation in Pacific oyster reproductive tissue in response to ocean acidification. BMC Genomics 23, 556 (2022). https://doi.org/10.1186/s12864-022-08781-5
+> George, M. N.,  Cattau, O.,  Middleton, M. A.,  Lawson, D.,  Vadopalas, B.,  Gavery, M., &  Roberts, S. B. (2023). Triploid Pacific oysters exhibit stress response dysregulation and elevated mortality following heatwaves. *Global Change Biology*,  00,  1--19. <https://doi.org/10.1111/gcb.16880>
 
 ## Abstract
 
@@ -28,3 +26,4 @@ Polyploidy has been shown to negatively impact environmental stress tolerance, r
 
 ## Data Availability
 
+The data that support the findings of this study are openly available at [**https://doi.org/10.5281/zenodo.7693092**](https://doi.org/10.5281/zenodo.7693092) (George et al., [**2023**](https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.16880#gcb16880-bib-0033)). Tag-seq data are available under the NCBI BioProject ID 913164. Supporting tables and figures are provided together with this manuscript.

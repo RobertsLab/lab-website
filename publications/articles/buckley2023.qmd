@@ -1,0 +1,31 @@
+---
+title: "Characterizing biological responses to climate variability and extremes to improve biodiversity projections"
+type: "article"
+author: :Lauren B Buckley, Emily Carrington, Michael E Dillon, Carlos García-Robledo, Steven B Roberts, Jill L Wegrzyn, Mark C Urban"
+year: "2023"
+publication: "PLOS Climate""
+preprint: "https://doi.org/10.1371/journal.pclm.0000226"
+doi: ""
+materials: ""
+eprint: ""
+toc: FALSE
+categories:
+  - climate
+  - biodiversity
+---
+
+## Citation
+
+> Buckley LB, Carrington E, Dillon ME, García-Robledo C, Roberts SB, Wegrzyn JL, et al. (2023) Characterizing biological responses to climate variability and extremes to improve biodiversity projections. PLOS Clim 2(6): e0000226. https://doi.org/10.1371/journal.pclm.0000226
+
+## Abstract
+
+Projecting ecological and evolutionary responses to variable and changing environments is central to anticipating and managing impacts to biodiversity and ecosystems. Current modeling approaches are largely phenomenological and often fail to accurately project responses due to numerous biological processes at multiple levels of biological organization responding to environmental variation at varied spatial and temporal scales. Limited mechanistic understanding of organismal responses to environmental variability and extremes also restricts predictive capacity. We outline a strategy for identifying and modeling the key organismal mechanisms across levels of biological organization that mediate ecological and evolutionary responses to environmental variation. A central component of this strategy is quantifying timescales and magnitudes of climatic variability and how organisms experience them. We highlight recent empirical research that builds this information and suggest how to design future experiments that can produce more generalizable principles. We discuss how to create biologically informed projections in a feasible way by combining statistical and mechanistic approaches. Predictions will inform both fundamental and practical questions at the interface of ecology, evolution, and Earth science such as how organisms experience, adapt to, and respond to environmental variation at multiple hierarchical spatial and temporal scales.
+
+## Data Availability
+
+[**S1 Text.** ](https://journals.plos.org/climate/article/file?type=supplementary&id=10.1371/journal.pclm.0000226.s001)**Supplementary methods for fitting data on the temperature dependence of mussel assimilation rate.**
+
+<https://doi.org/10.1371/journal.pclm.0000226.s001>
+
+(DOCX)
