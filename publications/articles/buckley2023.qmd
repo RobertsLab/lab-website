@@ -4,8 +4,8 @@ type: "article"
 author: "Lauren B Buckley, Emily Carrington, Michael E Dillon, Carlos García-Robledo, Steven B Roberts, Jill L Wegrzyn, Mark C Urban"
 year: "2023"
 publication: "PLOS Climate"
-preprint: "https://doi.org/10.1371/journal.pclm.0000226"
-doi: ""
+preprint: ""
+doi: "https://doi.org/10.1371/journal.pclm.0000226"
 materials: ""
 eprint: ""
 toc: FALSE
@@ -24,7 +24,7 @@ Projecting ecological and evolutionary responses to variable and changing enviro
 
 ## Data Availability
 
-[**S1 Text.** ](https://journals.plos.org/climate/article/file?type=supplementary&id=10.1371/journal.pclm.0000226.s001)**Supplementary methods for fitting data on the temperature dependence of mussel assimilation rate.**
+[**S1 Text.**](https://journals.plos.org/climate/article/file?type=supplementary&id=10.1371/journal.pclm.0000226.s001)**Supplementary methods for fitting data on the temperature dependence of mussel assimilation rate.**
 
 <https://doi.org/10.1371/journal.pclm.0000226.s001>
 

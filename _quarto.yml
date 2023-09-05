@@ -54,11 +54,14 @@ website:
         contents:
           - people.qmd
           - collaborators.qmd
-      - research02.qmd
       - section: Products
         contents:
-          - publications02.qmd
-          - products.qmd
+          - text: "Projects"
+            file: research02.qmd
+          - text: "Papers"
+            file: publications02.qmd
+          - text: "Decks and Notebooks"  
+            file: products.qmd
       - section: "Lab Culture"
         contents:
           - dei.qmd

@@ -31,7 +31,7 @@ listing:
 
 # Research Papers
 
-Below you will find links to research papers. Recent papers can be searched by sorting and/or using filter function. Filter function works on author and title. Recent papers can aslso be identified by categories.
+Below you will find links to research papers. Recent papers can be searched by sorting and/or using filter function. Filter function works on author and title. Recent papers can also be identified by categories. Search the entire website using the search icon in top right menu.
 
 # Recent Papers
 
