@@ -12,6 +12,7 @@ categories:
   - oyster
   - epigenetics
   - acidification
+  - aquaculture
 ---
 
 ## Collaborators

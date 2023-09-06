@@ -12,6 +12,7 @@ toc: FALSE
 categories:
   - clam
   - scRNAseq
+  - aquaculture
 ---
 
 ## Collaborators
