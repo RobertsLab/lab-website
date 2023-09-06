@@ -54,7 +54,7 @@ website:
         contents:
           - people.qmd
           - collaborators.qmd
-      - section: Products
+      - section: Research
         contents:
           - text: "Projects"
             file: research02.qmd

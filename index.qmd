@@ -12,7 +12,6 @@ listing:
   categories: false # allows you to sort posts by assigned categories 
 ---
 
-
 Research in our lab focuses on characterizing physiological responses of marine organisms to environmental change. Using integrative approaches we strive to examine impacts and adaptive potential from the nucleotide to organismal level. A core component of this includes investigating the functional relationship of genetics, epigenetics, and protein expression. Three major themes of are current projects include Environmental Epigenetics, Reproductive Biology and Ecology, and Aquaculture Resource Development.
 
 Our lab strives to make all research products readily available. This includes publishing of online lab notebooks, presentations, data, and more. This is an effective means to openly share our activities with the public.

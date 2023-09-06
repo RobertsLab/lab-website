@@ -6,7 +6,6 @@ listing:
     template: ./ejs/grants.ejs
     categories: true
     sort:
-      - "status"
       - "theme"
     sort-ui: [theme, status, agency, year]
     filter-ui: [agency, status, theme]
@@ -16,9 +15,9 @@ listing:
       year: "year"
 ---
 
-# Research
+# Research Projects
 
-Our efforts can broadly be defined as xx go herae=
+Below is list of active research projects. Three major themes of our current projects include Environmental Epigenetics, Reproductive Biology and Ecology, and Aquaculture Resource Development.
 
 ::: {#research}
 :::

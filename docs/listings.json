@@ -39,6 +39,7 @@
   {
     "listing": "/research02.html",
     "items": [
+      "/research/ffar.html",
       "/research/nrsp8.html",
       "/research/safs.html",
       "/research/usda.html",
@@ -48,9 +49,8 @@
       "/research/e5.html",
       "/research/art.html",
       "/research/cod.html",
-      "/research/psmfc.html",
-      "/research/ffar.html",
       "/research/nprb.html",
+      "/research/psmfc.html",
       "/research/wsg-sc.html",
       "/research/ceabigr.html"
     ]
