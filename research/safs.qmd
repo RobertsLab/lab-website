@@ -1,0 +1,29 @@
+---
+title: "Field-based Education and Research at Regional Aquaculture Sites (FERRAS)"
+code: ""
+status: "active"
+type: "grant"
+website: ""
+theme: "aquaculture resource development"
+agency: "UW SAFS"
+year: "2023"
+github: ""
+toc: FALSE
+categories:
+  - oyster
+  - aquaculture
+---
+
+## Collaborators
+
+## Summary
+
+Aquaculture operations serve as a vital cog in our local economy, playing an integral role in conservation efforts and holding cultural significance. Primarily, my laboratory's research program is devoted to enhancing aquaculture practices in the Pacific Northwest, having received several research awards in collaboration with tribes, industry players, and conservation organizations.
+
+Despite having various projects involving shellfish transfer to the field for commercial or conservation purposes, budget constraints and directives in specific Requests for Proposals (RFPs) have hindered us from leveraging these opportunities to engage students and staff in fieldwork components. Thus, the purpose of this proposal is to request funds that would facilitate student and staff involvement in ongoing field grow-outs, thereby creating unique opportunities for SAFS community members. The funding will cover travel expenses, field sampling, and reagents and equipment for physiological analysis.
+
+Our partnerships span both local and regional scopes, enabling a range of experiences. For instance, local sites include shellfish farms in Puget Sound, as well as with sites associated with the MusselWatch program via UW Tacoma. These local sites provide a platform for integrating field research into courses like FISH 441/541 Integrative Environmental Physiology. Traditionally, the lab has exclusively engaged in lab-based environmental manipulation. However, this funding would enable us to shift focus to comparative studies across different field sites, offering students a more immersive experience in data collection and physiological assessment. Additionally, students would gain the invaluable experience of observing active aquaculture operations, providing them with practical insights into the application of their classroom knowledge. With some necessary constraints, students would be given the freedom to design their experiments. For instance, they could assess the stress response in oysters from two different field sites, formulating hypotheses to test based on natural conditions.
+
+Moreover, as part of a recent USDA award, we are dispatching oysters to commercial producers in Oregon. These field sites would provide an excellent framework for studies, which may be more apt for graduate students or scientific staff due to the need for accommodation. This experience would also illuminate the variations in environmental conditions and aquaculture practices across the region, fostering the expansion of research networks for our students.
+
+## Data Availability
