@@ -58,7 +58,7 @@ website:
         contents:
           - text: "Projects"
             file: research02.qmd
-          - text: "Papers"
+          - text: "Publications"
             file: publications02.qmd
           - text: "Decks and Notebooks"  
             file: products.qmd

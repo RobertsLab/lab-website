@@ -29,9 +29,9 @@ listing:
       publication: "Publication"
 ---
 
-# Research Papers
+# Publications
 
-Below you will find links to research papers. Recent papers can be searched by sorting and/or using filter function. Filter function works on author and title. Recent papers can also be identified by categories. Search the entire website using the search icon in top right menu.
+Below you will find links to research papers. Recent papers can be searched by sorting and/or using filter function. Filter function works on author and title. Recent papers can also be identified by categories. See the table of contents at the right to jump to book chapters, preprints, theses, and notbooks. Search the entire website using the search icon in top right menu.
 
 # Recent Papers
 
@@ -171,10 +171,6 @@ Roberts SB, Hauser L, Seeb LW and Seeb JE (**2012**) [Development of genomic res
 
 Roberts SB and Gavery MR (**2012**) [Is there a relationship between DNA methylation and phenotypic plasticity in invertebrates?](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3249382/?tool=pubmed) Frontiers in Physiology 2:116. doi:10.3389/fphys.2011.00116
 
-<a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3249382/?tool=pubmed"><img src="http://c431376.r76.cf2.rackcdn.com/19155/fphys-02-00116-HTML/image_m/fphys-02-00116-g002.jpg" title="merv" class="aligncenter" width="300" height="154"/></a>
-
-</p>
-
 Gavery MR and Roberts SB (**2012**) [Characterizing short read sequencing for gene discovery and RNA-Seq analysis in Crassostrea gigas](http://www.sciencedirect.com/science/article/pii/S1744117X11001018) Comparative Biochemistry and Physiology Part D: Genomics and Proteomics 7:2 94-99. doi:10.1016/j.cbd.2011.12.003
 
 Morera D, Roher N, Ribas L, Balasch JC, Doñate C, Callol A, Boltaña A, Roberts SB, Goetz G, Goetz FW and Mackenzie SA. (**2011**) [RNA-Seq reveals an integrated immune response in nucleated erythrocytes](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0026998) PLoS ONE 6(10): e26998. doi:10.1371/journal.pone.0026998
@@ -188,10 +184,6 @@ Seeb JE, Pascal CE, Graue ED, Seeb LW, Templin WD, Harkins T and Roberts SB. (**
 Gavery MR and Roberts SB. (**2010**) [DNA methylation patterns provide insight into epigenetic regulation in the Pacific oyster (*Crassostrea gigas*)](http://www.biomedcentral.com/1471-2164/11/483) BMC Genomics 11:483. doi:10.1186/1471-2164-11-483
 
 Mathger L, Roberts SB, and Hanlon R. (**2010**) [Evidence for distributed light sensing in the skin of cuttlefish, *Sepia officinalis*](http://rsbl.royalsocietypublishing.org/content/6/5/600.long) Biology Letters. doi: 10.1098/rsbl.2010.0223
-
-<img src="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2936158/bin/rsbl20100223-g1.jpg" title="sepia" class="alignright" width="266" height="211"/>
-
-</p>
 
 Goetz FW, Rosauer D, Sitar S, Goetz G, Simchick C, Roberts SB, Johnson R, Murphy C, Bronte C, and Mackenzie S. (**2010**) [A genetic basis for the phenotypic differentiation between siscowet and lean lake trout (*Salvelinus namaycush*)](http://onlinelibrary.wiley.com/doi/10.1111/j.1365-294X.2009.04481.x/abstract) Molecular Ecology 19 176--196.
 
@@ -261,7 +253,7 @@ Roberts SB, Jackson LF, King WK, Taylor RG, Grier HJ, Sullivan CV. (**1999**) [A
 
 ------------------------------------------------------------------------
 
-<a id="book"> \## Book Chapters</a>
+# Book Chapters
 
 Moreira Sanmartín R, Roberts SB, Figueras A. (2016) [Molluscs. pages 223-245, in Genomics in Aquaculture](http://www.sciencedirect.com/science/book/9780128014189). Editors: Simon A. MacKenzie and Sissel Jentoft. ISBN: 978-0-12-801418-9
 
@@ -269,7 +261,7 @@ Gavery, M., & Roberts, S. (2018). [Genetics & Epigenetics in Life History and Re
 
 ------------------------------------------------------------------------
 
-<a id="preprint"> \## PrePrints</a>
+# Preprints
 
 Shelly A Trigg, Kaitlyn R Mitchell, Rhonda Elliott Thompson, Benoit Eudeline, Brent Vadopalas, Emma B Timmins-Schiffman, Steven B Roberts (2020). Temporal proteomic profiling reveals insight into critical devleopmental processes and temperature-influenced physiological response differences in a bivalve mollusc. **bioRxiv**. https://doi.org/10.1101/2020.06.05.137059
 
@@ -329,7 +321,7 @@ Thompson R and Roberts SB (**preprint**) Influence of carbon dioxide-induced aci
 
 ------------------------------------------------------------------------
 
-<a id="theses"> \## Theses</a>
+# Theses
 
 Patterns, dynamics, and potential roles of DNA methylation in reef corals and their allies. James Dimond. 2019 <http://hdl.handle.net/1773/44815>
 

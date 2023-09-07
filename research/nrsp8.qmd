@@ -3,7 +3,7 @@ title: "Identifying genomic architecture features that contribute to critical ph
 code: ""
 status: "active"
 type: "grant"
-website: "https://github.com/mattgeorgephd/USDA-NRSP-8-gigas-rDNA/tree/main"
+website: ""
 theme: "aquaculture resource development"
 agency: "USDA NRSP-8"
 year: "2021"
@@ -14,6 +14,7 @@ categories:
   - triploidy
   - acidification
   - aquaculture
+  - epigenetics
 ---
 
 ## Collaborators

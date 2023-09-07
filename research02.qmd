@@ -6,18 +6,18 @@ listing:
     template: ./ejs/grants.ejs
     categories: true
     sort:
-      - "theme"
-    sort-ui: [theme, status, agency, year]
+      - "status"
+    #sort-ui: [agency]
     filter-ui: [agency, status, theme]
     page-size: 20
     field-display-names: 
-      publication: "Publication"
+      #publication: "Publication"
       year: "year"
 ---
 
 # Research Projects
 
-Below is list of active research projects. Three major themes of our current projects include Environmental Epigenetics, Reproductive Biology and Ecology, and Aquaculture Resource Development.
+Below is list of active and recently finished research projects. Major themes of our projects include Environmental Epigenetics, Reproductive Biology and Ecology, and Aquaculture Resource Development. You can use the filter feature below to search projects based on funding agency.
 
 ::: {#research}
 :::

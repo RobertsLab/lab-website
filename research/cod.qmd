@@ -3,7 +3,7 @@ title: "Gene activity and genetic selection in Pacific cod reared under thermal 
 code: ""
 status: "active"
 type: "grant"
-website: "https://github.com/RobertsLab/project-cod-temperature"
+website: ""
 theme: "reproductive biology and ecology"
 agency: "Pacific States Marine Fishery Commission"
 year: "2023"
@@ -12,6 +12,7 @@ toc: FALSE
 categories:
   - cod
   - Alaska
+  - epigenetics
 ---
 
 ## Collaborators
