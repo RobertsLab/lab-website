@@ -1,0 +1,34 @@
+---
+title: "Coupled microbiome analyses highlights relative functional roles of bacteria in a bivalve hatchery"
+type: "article"
+author: "Emma Timmins-Schiffman, Samuel J. White, Rhonda Elliott Thompson, Brent Vadopalas, Benoit Eudeline, Brook L. Nunn & Steven B. Roberts"
+year: "2021"
+publication: "Environmental Microbiome"
+preprint: ""
+doi: "https://doi.org/10.1186/s40793-021-00376-z"
+materials: ""
+eprint: "https://environmentalmicrobiome.biomedcentral.com/counter/pdf/10.1186/s40793-021-00376-z.pdf"
+toc: FALSE
+categories:
+  - geoduck
+  - microbiome
+  - metagenomics
+  - metaproteomics
+---
+
+## Citation
+
+> Timmins-Schiffman, E., White, S.J., Thompson, R.E. et al. Coupled microbiome analyses highlights relative functional roles of bacteria in a bivalve hatchery. Environmental Microbiome 16, 7 (2021). https://doi.org/10.1186/s40793-021-00376-z
+
+## Abstract
+
+Background
+Microbial communities are ubiquitous throughout ecosystems and are commensal with hosts across taxonomic boundaries. Environmental and species-specific microbiomes are instrumental in maintaining ecosystem and host health, respectively. The introduction of pathogenic microbes that shift microbiome community structure can lead to illness and death. Understanding the dynamics of microbiomes across a diversity of environments and hosts will help us to better understand which taxa forecast survival and which forecast mortality events.
+Results
+We characterized the bacterial community microbiome in the water of a commercial shellfish hatchery in Washington state, USA, where the hatchery has been plagued by recurring and unexplained larval mortality events. By applying the complementary methods of metagenomics and metaproteomics we were able to more fully characterize the bacterial taxa in the hatchery at high (pH 8.2) and low (pH 7.1) pH that were metabolically active versus present but not contributing metabolically. There were shifts in the taxonomy and functional profile of the microbiome between pH and over time. Based on detected metagenomic reads and metaproteomic peptide spectral matches, some taxa were more metabolically active than expected based on presence alone (Deltaproteobacteria, Alphaproteobacteria) and some were less metabolically active than expected (e.g., Betaproteobacteria, Cytophagia). There was little correlation between potential and realized metabolic function based on Gene Ontology analysis of detected genes and peptides.
+Conclusion
+The complementary methods of metagenomics and metaproteomics contribute to a more full characterization of bacterial taxa that are potentially active versus truly metabolically active and thus impact water quality and inter-trophic relationships.
+
+## Data Availability
+
+The sequenced metagenomics data can be found in NCBI’s Short Read Archive under BioProject PRJNA649049. The metaproteomics dataset can be found in the ProteomeXchange PRIDE repository under accession PXD020692.

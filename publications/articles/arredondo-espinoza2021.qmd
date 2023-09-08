@@ -1,0 +1,26 @@
+---
+title: "Differentially methylated gene regions between resistant and susceptible heat-phenotypes of the Pacific oyster Crassostrea gigas"
+type: "article"
+author: "Arredondo-Espinoza Roberto, Ibarra Ana M., Roberts B. Steven, Sicard-Gonzalez Maria Teresa, Escobedo-Fregoso Cristina"
+year: "2021"
+publication: "Aquaculture"
+preprint: ""
+doi: "https://doi.org/10.1016/j.aquaculture.2021.736923"
+materials: ""
+eprint: ""
+toc: FALSE
+categories:
+  - oyster
+  - epigenetics
+  - temperature
+---
+
+## Citation
+
+\>Arredondo-Espinoza Roberto, Ibarra Ana M., Roberts B. Steven, Sicard-Gonzalez Maria Teresa, Escobedo-Fregoso Cristina (2021) Differentially methylated gene regions between resistant and susceptible heat-phenotypes of the Pacific oyster Crassostrea gigas Aquaculture Vol 543. doi:10.1016/j.aquaculture.2021.736923.
+
+## Abstract
+
+Heat stress is one of the factors that affect aquaculture production of the Pacific oyster Crassostrea gigas in Mexico, and research aiming to improve heat tolerance is required. C. gigas breeding stock, produced for genetic improvement, is being implemented, and breeding lines available with 50 families were characterized for their heat-tolerance, selecting the two-most heat-resistant and the two-most heat-susceptible families. These families were analyzed for differences in their DNA methylation patterns after maintaining them for 30 days in a regime of oscillating temperatures (26 °C to 34 °C), similar to what is found in culture areas of Mexico. Whereas no differences were found in global methylation among heat-phenotypes, differentially methylated regions (DMRs) were found between phenotypes. Temperature modifies the methylation in gene bodies of C. gigas, where the heat-resistant phenotype (RR) showed more genes with DMRs in promoters (3672), exons (6340), and introns (18,685). Hyper-methylated genes among phenotypes were more abundant in RR introns (122), followed by exons (23), and promoters (2), whereas hypo-methylated regions corresponded to ten in introns, three in exons, and one in promoters. Hyper-methylated DMRs were mostly found in genes associated with processes such as regulation of gene expression, ions interactions, metabolism, and production of cellular components. This suggests that DMRs among heat-phenotypes in C. gigas families are involved in the heat-shock stress response regulated by methylation. The DMRs reported in this study could be used as methylation markers for a future broodstock selection.
+
+## Data Availability

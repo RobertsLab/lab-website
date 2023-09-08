@@ -15,15 +15,14 @@ categories:
   - larvae
   - temperature
   - carryover
-
 ---
 
 ## Citation
 
 > Laura H. Spencer, Erin Horkan, Ryan Crim, Steven B. Roberts (2021) Latent effects of winter warming on Olympia oyster reproduction and larval viability Journal of Experimental Marine Biology and Ecology. doi:10.1016/j.jembe.2021.151604
 
-
 ## Highlights
+
 • Gametes were more developed following elevated winter temperature.
 
 • Oocytes and larvae were larger following elevated winter temperature.
@@ -38,14 +37,8 @@ categories:
 
 For ectothermic marine invertebrates living in temperate regions, impacts of ocean warming will vary considerably by season. In many species, reproductive and metabolic processes are tightly linked to the seasonal change from winter to spring, yet we know little about how these processes will shift as winters become milder. This study examined latent effects of winter warming on spring reproduction in the Olympia oyster, Ostrea lurida. Adults were collected in autumn from central Puget Sound, WA, USA, and exposed to two winter temperatures (7 °C, 10 °C) in the presence of food limited (5 k algal cells/mL) and food abundant (50 k algal cells/mL) environments. Following treatments, adults exposed to elevated winter temperature contained larger oocytes regardless of feeding regime, and those also fed abundant food contained more developed sperm. Adults then spawned in common conditions, and larvae were reared through settlement to assess carryover effects of winter treatments on larval viability. Adults previously exposed to elevated winter temperature (10 °C) produced larger larvae, particularly if they were also fed high food levels. More developed gametes and larger larvae suggest that gametogenesis occurred at low levels throughout the winter, possibly resulting in increased maternal provisioning to influence larval size. Interestingly, winter temperature did not impact larval survival, or the timing or magnitude of larval production. In the wild, more developed gametes and larger larvae following milder winters could greatly impact recruitment patterns, possibly benefitting O. lurida populations. In the hatchery setting, larval production and survival is not contingent upon winter conditions, and larval survival does not correlate with oocyte and larval size. Our results suggest that O. lurida reproduction is resilient to winter warming. Furthermore, as global temperature continues to rise, winter conditions should not be overlooked when examining reproduction in O. lurida and other temperate marine invertebrates with similar reproductive cycles.
 
-
-
-
 ## Data Availability
 
-All data and code associated with this project are publicly available 
-<https://doi.org/10.6084/m9.figshare.14066498.v3>
+All data and code associated with this project are publicly available <https://doi.org/10.6084/m9.figshare.14066498.v3>
 
-L.H. Spencer, E. Horkan, R. Crim, S.B. Roberts
-Paper-olurida-latent-effects. figshare. Dataset
-(2021), 10.6084/m9.figshare.14066498.v3
+L.H. Spencer, E. Horkan, R. Crim, S.B. Roberts Paper-olurida-latent-effects. figshare. Dataset (2021), 10.6084/m9.figshare.14066498.v3

@@ -1,0 +1,31 @@
+---
+title: "Characterization of the Gene Repertoire and Environmentally Driven Expression Patterns in Tanner Crab (Chionoecetes bairdi) "
+type: "article"
+author: "Grace Crandall, Pamela C. Jensen, Samuel J. White, Steven Roberts "
+year: "2022"
+publication: "Marine Biotechnology"
+preprint: ""
+doi: "https://dx.doi.org/10.1007/s10126-022-10100-8"
+materials: "https://doi.org/10.5281/zenodo.4563060"
+eprint: ""
+toc: FALSE
+categories:
+  - Chionoecetes bairdi
+  - Hematodinium
+  - temperature
+  - RNA-seq
+  - bitter crab disease
+  - transcriptomic
+---
+
+## Citation
+
+> Crandall, G., Jensen, P.C., White, S.J. et al. Characterization of the Gene Repertoire and Environmentally Driven Expression Patterns in Tanner Crab (Chionoecetes bairdi). Mar Biotechnol 24, 216--225 (2022). https://doi.org/10.1007/s10126-022-10100-8
+
+## Abstract
+
+Tanner crab (Chionoecetes bairdi) is an economically important species that is threatened by ocean warming and bitter crab disease, which is caused by an endoparasitic dinoflagellate, Hematodinium. Little is known about disease transmission or its link to host mortality, or how ocean warming will affect pathogenicity or host susceptibility. To provide a transcriptomic resource for the Tanner crab, we generated a suite of RNA-seq libraries encompassing pooled hemolymph samples from crab displaying differing infection statuses and maintained at different temperatures (ambient (7.5˚C), elevated (10˚C), or decreased (4˚C)). After assembling a transcriptome and performing a multifactor differential gene expression analysis, we found genes influenced by temperature in relation to infection and detected some of those genes over time at the individual level using RNA-seq data from one crab. Biological processes associated with those genes include lipid storage, transcription, response to oxidative stress, cell adhesion, and morphogenesis. Alteration in lipid storage and transcription provide insight into how temperature impacts energy allocation in Hematodinium infected crabs. Alteration in expression patterns in genes associated with morphogenesis could suggest that hemocytes were changing morphology and/or type in response to temperature. This project provides insight into how Hematodinium infection could influence crab physiology as oceans warm.
+
+## Data Availability
+
+The online version contains supplementary material available at https://doi.org/10.5281/zenodo.4563060

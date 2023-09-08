@@ -1,0 +1,27 @@
+---
+title: "Repeat exposure to hypercapnic seawater modifies growth and oxidative status in a tolerant burrowing clam"
+type: "article"
+author: "Samuel J. Gurr, Shelly A. Trigg, Brent Vadopalas, Steven B. Roberts, Hollie M. Putnam"
+year: "2022"
+publication: "Journal of Experimental Biology"
+preprint: ""
+doi: "https://doi.org/10.1242/jeb.233932"
+materials: "http://doi.org/10.5281/zenodo.3903019"
+eprint: "https://journals.biologists.com/jeb/article-pdf/224/13/jeb233932/2421297/jeb233932.pdf"
+toc: FALSE
+categories:
+  - geoduck
+  - Panopea
+---
+
+## Citation
+
+> Samuel J. Gurr, Shelly A. Wanamaker, Brent Vadopalas, Steven B. Roberts, Hollie M. Putnam; Repeat exposure to hypercapnic seawater modifies growth and oxidative status in a tolerant burrowing clam. J Exp Biol 1 July 2021; 224 (13): jeb233932. doi: https://doi.org/10.1242/jeb.233932
+
+## Abstract
+
+Although low levels of thermal stress, irradiance and dietary restriction can have beneficial effects for many taxa, stress acclimation remains little studied in marine invertebrates, even though they are threatened by climate change stressors such as ocean acidification. To test the role of life-stage and stress-intensity dependence in eliciting enhanced tolerance under subsequent stress encounters, we initially conditioned pediveliger Pacific geoduck (Panopea generosa) larvae to ambient and moderately elevated PCO2 (920 µatm and 2800 µatm, respectively) for 110 days. Then, clams were exposed to ambient, moderate or severely elevated PCO2 (750, 2800 or 4900 µatm, respectively) for 7 days and, following 7 days in ambient conditions, a 7-day third exposure to ambient (970 µatm) or moderate PCO2 (3000 µatm). Initial conditioning to moderate PCO2 stress followed by second and third exposure to severe and moderate PCO2 stress increased respiration rate, organic biomass and shell size, suggesting a stress-intensity-dependent effect on energetics. Additionally, stress-acclimated clams had lower antioxidant capacity compared with clams under ambient conditions, supporting the hypothesis that stress over postlarval-to-juvenile development affects oxidative status later in life. Time series and stress intensity-specific approaches can reveal life-stages and magnitudes of exposure, respectively, that may elicit beneficial phenotypic variation.
+
+## Data Availability
+
+All raw data and statistical code are openly available in the Zenodo repository at: http://doi.org/10.5281/zenodo.3903019.

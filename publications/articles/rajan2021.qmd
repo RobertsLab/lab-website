@@ -1,0 +1,29 @@
+---
+title: "Oyster biomineralisation under ocean acidification: from genes to shell"
+type: "article"
+author: "Chandra Rajan, K., Yuan, M., Yu, Z., Roberts, S.B. and Thiyagarajan, V. "
+year: "2021"
+publication: "Global Change Biology"
+preprint: ""
+doi: "https://doi.org/10.1111/gcb.15675"
+materials: ""
+eprint: ""
+toc: FALSE
+categories:
+  - oyster
+  - acidificaiton
+  - epigenetics
+  - RNA-seq
+---
+
+## Citation
+
+> Chandra Rajan, K., Yuan, M., Yu, Z., Roberts, S.B. and Thiyagarajan, V. (**2021**) [Oyster biomineralisation under ocean acidification: from genes to shell](https://doi.org/10.1111/gcb.15675) Global Change Biology. doi:10.1111/gcb.15675
+
+## Abstract
+
+Biomineralization is one of the key processes that is notably affected in marine calcifiers such as oysters under ocean acidification (OA). Understanding molecular changes in the biomineralization process under OA and its heritability, therefore, is key to developing conservation strategies for protecting ecologically and economically important oyster species. To do this, in this study, we have explicitly chosen the tissue involved in biomineralization (mantle) of an estuarine commercial oyster species, *Crassostrea hongkongensis*. The primary aim of this study is to understand the influence of DNA methylation over gene expression of mantle tissue under decreased \~pH 7.4, a proxy of OA, and to extrapolate if these molecular changes can be observed in the product of biomineralization---the shell. We grew early juvenile *C. hongkongensis*, under decreased \~pH 7.4 and control \~pH 8.0 over 4.5 months and studied OA-induced DNA methylation and gene expression patterns along with shell properties such as microstructure, crystal orientation and hardness. The population of oysters used in this study was found to be moderately resilient to OA at the end of the experiment. The expression of key biomineralization-related genes such as carbonic anhydrase and alkaline phosphatase remained unaffected; thus, the mechanical properties of the shell (shell growth rate, hardness and crystal orientation) were also maintained without any significant difference between control and OA conditions with signs of severe dissolution. In addition, this study makes three major conclusions: (1) higher expression of Ca^2+^ binding/signalling-related genes in the mantle plays a key role in maintaining biomineralization under OA; (2) DNA methylation changes occur in response to OA; however, these methylation changes do not directly control gene expression; and (3) OA would be more of a \'dissolution problem\' rather than a \'biomineralization problem\' for resilient species that maintain calcification rate with normal shell growth and mechanical properties.
+
+## Data Availability
+
+The RNA-Seq and Methyl RAD data are available under the NCBI Bio-project ID: [**P**](http://www.peptideatlas.org/PASS/P "Link to external resource: P")[**RJNA643001**](http://www.peptideatlas.org/PASS/RJNA643001 "Link to external resource: RJNA643001"). [**Supporting Information**](https://onlinelibrary.wiley.com/doi/10.1111/gcb.15675#support-information-section) files including the R and perl scripts are provided together with this manuscript.

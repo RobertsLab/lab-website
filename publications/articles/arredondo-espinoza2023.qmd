@@ -17,7 +17,7 @@ categories:
 
 ## Citation
 
-
+\>Arredondo-Espinoza R, Ibarra AM, Roberts SB, Sicard-González MT, Escobedo-Fregoso C. Transcriptome profile in heat resilient Pacific oyster Crassostrea gigas families under thermal challenge. Comp Biochem Physiol Part D Genomics Proteomics. 2023 Sep;47:101089. doi: 10.1016/j.cbd.2023.101089. Epub 2023 May 26. PMID: 37269757.
 
 ## Abstract
 
@@ -26,4 +26,3 @@ Since the introduction of the Pacific oyster Crassostrea gigas in Baja Californi
 ![ga](http://gannet.fish.washington.edu/seashell/snaps/Monosnap_1-s2.0-S1744117X23000345-ga1_lrg.jpg_851531_pixels_2023-09-05_12-33-35.png)
 
 ## Data Availability
-

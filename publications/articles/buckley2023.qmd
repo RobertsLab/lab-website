@@ -7,7 +7,7 @@ publication: "PLOS Climate"
 preprint: ""
 doi: "https://doi.org/10.1371/journal.pclm.0000226"
 materials: ""
-eprint: ""
+eprint: "https://journals.plos.org/climate/article/file?id=10.1371/journal.pclm.0000226&type=printable"
 toc: FALSE
 categories:
   - climate

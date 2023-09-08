@@ -5,9 +5,9 @@ author: "Katherine Silliman, Laura H Spencer, Samuel J White, Steven B Roberts"
 year: "2023"
 publication: "Genome Biology and Evolution"
 preprint: "https://doi.org/10.1101/2022.03.23.485415"
-doi: "https://dx.doi.org/10.1093/gbe/evad013"
+doi: "https://doi.org/10.1093%2Fgbe%2Fevad013"
 materials: "https://doi.org/10.5281/zenodo.7083311"
-eprint: "https://academic.oup.com/gbe/article-pdf/15/2/evad013/49317040/evad013.pdf"
+eprint: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10468963/pdf/evad013.pdf"
 toc: FALSE
 categories:
   - oyster
@@ -25,6 +25,7 @@ categories:
 
 Delineating the relative influence of genotype and the environment on DNA methylation is critical for characterizing the spectrum of organism fitness as driven by adaptation and phenotypic plasticity. In this study, we integrated genomic and DNA methylation data for two distinct Olympia oyster (Ostrea lurida) populations while controlling for within-generation environmental influences. In addition to providing the first characterization of genome-wide DNA methylation patterns in the oyster genus Ostrea, we identified 3,963 differentially methylated loci between populations. Our results show a clear coupling between genetic and epigenetic patterns of variation, with 27% of variation in interindividual methylation differences explained by genotype. Underlying this association are both direct genetic changes in CpGs (CpG-SNPs) and genetic variation with indirect influence on methylation (mQTLs). When comparing measures of genetic and epigenetic population divergence at specific genomic regions this relationship surprisingly breaks down, which has implications for the methods commonly used to study epigenetic and genetic coupling in marine invertebrates.
 
+![fig7](http://gannet.fish.washington.edu/seashell/snaps/Monosnap_httpswww.ncbi.nlm.nih.govpmcarticlesPMC10468963pdfevad013.pdf_2023-09-07_22-25-36.png)
 
 ## Significance
 

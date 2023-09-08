@@ -1,31 +1,32 @@
 ---
-title: "Characterization of the Gene Repertoire and Environmentally Driven Expression Patterns in Tanner Crab (Chionoecetes bairdi) "
+title: "Proteomic response of early juvenile Pacific oysters (Crassostrea gigas) to temperature"
 type: "article"
-author: "Grace Crandall, Pamela C. Jensen, Samuel J. White, Steven Roberts "
+author: "Crandall G, Elliott Thompson R, Eudeline B, Vadopalas B, Timmins-Schiffman E, Roberts S."
 year: "2022"
-publication: "Marine Biotechnology"
+publication: "PeerJ"
 preprint: ""
-doi: "https://dx.doi.org/10.1007/s10126-022-10100-8"
-materials: "https://doi.org/10.5281/zenodo.4563060"
+doi: "https://doi.org/10.7717/peerj.14158"
+materials: "https://doi.org/10.5281/zenodo.5708415"
 eprint: ""
 toc: FALSE
 categories:
-  - Chionoecetes bairdi
-  - Hematodinium
+  - oyster
+  - proteomics
   - temperature
-  - RNA-seq
-  - bitter crab disease
-  - transcriptomic
 ---
 
 ## Citation
 
-> Crandall, G., Jensen, P.C., White, S.J. et al. Characterization of the Gene Repertoire and Environmentally Driven Expression Patterns in Tanner Crab (Chionoecetes bairdi). Mar Biotechnol 24, 216--225 (2022). https://doi.org/10.1007/s10126-022-10100-8
+> Crandall G, Elliott Thompson R, Eudeline B, Vadopalas B, Timmins-Schiffman E, Roberts S. 2022. Proteomic response of early juvenile Pacific oysters (*Crassostrea gigas*) to temperature. PeerJ 10:e14158 <https://doi.org/10.7717/peerj.14158>
 
 ## Abstract
 
-Tanner crab (Chionoecetes bairdi) is an economically important species that is threatened by ocean warming and bitter crab disease, which is caused by an endoparasitic dinoflagellate, Hematodinium. Little is known about disease transmission or its link to host mortality, or how ocean warming will affect pathogenicity or host susceptibility. To provide a transcriptomic resource for the Tanner crab, we generated a suite of RNA-seq libraries encompassing pooled hemolymph samples from crab displaying differing infection statuses and maintained at different temperatures (ambient (7.5˚C), elevated (10˚C), or decreased (4˚C)). After assembling a transcriptome and performing a multifactor differential gene expression analysis, we found genes influenced by temperature in relation to infection and detected some of those genes over time at the individual level using RNA-seq data from one crab. Biological processes associated with those genes include lipid storage, transcription, response to oxidative stress, cell adhesion, and morphogenesis. Alteration in lipid storage and transcription provide insight into how temperature impacts energy allocation in Hematodinium infected crabs. Alteration in expression patterns in genes associated with morphogenesis could suggest that hemocytes were changing morphology and/or type in response to temperature. This project provides insight into how Hematodinium infection could influence crab physiology as oceans warm.
+Pacific oysters (*Crassostrea gigas*) are a valuable aquaculture product that provides important ecosystem benefits. Among other threats, climate-driven changes in ocean temperature can impact oyster metabolism, survivorship, and immune function. We investigated how elevated temperature impacts larval oysters during settlement (19--33 days post-fertilization), using shotgun proteomics with data-independent acquisition to identify proteins present in the oysters after 2 weeks of exposure to 23 °C or 29 °C. Oysters maintained at elevated temperatures were larger and had a higher settlement rate, with 86% surviving to the end of the experiment; these oysters also had higher abundance trends of proteins related to metabolism and growth. Oysters held at 23 °C were smaller, had a decreased settlement rate, displayed 100% mortality, and had elevated abundance trends of proteins related to immune response. This novel use of proteomics was able to capture characteristic shifts in protein abundance that hint at important differences in the phenotypic response of Pacific oysters to temperature regimes. Additionally, this work has produced a robust proteomic product that will be the basis for future research on bivalve developmental processes.
 
 ## Data Availability
 
-The online version contains supplementary material available at https://doi.org/10.5281/zenodo.4563060
+The following information was supplied regarding data availability:
+
+Additional files, scripts, and data are available at Zenodo: grace-ac, & Steven Roberts. (2021). grace-ac/paper-pacific.oyster-larvae: release for PeerJ submission (v2.1.0). Zenodo. <https://doi.org/10.5281/zenodo.5708415>.
+
+The proteomic data is available at PRIDE: [PXD015434](http://www.ebi.ac.uk/pride/archive/projects/PXD015434).

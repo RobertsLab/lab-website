@@ -11,13 +11,18 @@
       Details
     </a>
     <% if (item.doi) { %>
-    <a href="<%- item.github %>" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
+    <a href="<%- item.doi %>" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
       DOI
     </a>
     <% } %>
     <% if (item.preprint) { %>
     <a href="<%- item.preprint %>" class="btn btn-light" target="_blank" rel="noopener noreferrer">
       <i class="bi bi-file-earmark-text"></i> Preprint
+    </a>
+    <% } %>
+    <% if (item.eprint) { %>
+    <a href="<%- item.eprint %>" class="btn btn-outline-success" target="_blank" rel="noopener noreferrer">
+      <i class="bi bi-file-earmark-text"></i> eprint
     </a>
     <% } %>
     <% if (item.materials) { %>
