@@ -60,8 +60,6 @@ website:
             file: research02.qmd
           - text: "Publications"
             file: publications02.qmd
-          - text: "Decks and Notebooks"  
-            file: products.qmd
       - section: "Lab Culture"
         contents:
           - dei.qmd

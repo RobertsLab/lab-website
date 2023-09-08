@@ -8,13 +8,15 @@ Steven Roberts - 206-866-5141; sr320\@uw.edu
 
 Feel free to email any lab member - you can find that information [here](people.qmd).
 
-If you have a query related to wet lab or data analysis - please submit a GitHub Issue in RobertsLab/resources.
-
-Potential Graduate Student? Complete \[this form\]
+If you have a query related to wet lab work or data analysis - please submit a [GitHub Issue in RobertsLab/resources.](https://github.com/RobertsLab/resources/issues)
 
 <hr />
 
-<strong>Physical Address:</strong> (for walking, etc) University of Washington <a href="http://uw.edu/maps/?FTR"> 1140 NE Boat Street Fisheries Research and Teaching Building</a> Room \# 232 Seattle, WA 98105
+<strong>Physical Address:</strong> (for walking, etc) University of Washington <a href="http://uw.edu/maps/?FTR">\
+1140 NE Boat Street \
+Fisheries Research and Teaching Building</a>\
+Room \# 232 \
+Seattle, WA 98105
 
 [Google Map Link](https://goo.gl/maps/GDtRRsUCMGfuYQ3Q9)
 
@@ -22,8 +24,16 @@ Potential Graduate Student? Complete \[this form\]
 
 </iframe>
 
-<strong>Shipping Address:</strong> University of Washington School of Aquatic and Fishery Sciences 1122 Boat Street Seattle, WA 98105-5020
+<strong>Shipping Address:</strong> \
+University of Washington \
+School of Aquatic and Fishery Sciences \
+1122 Boat Street \
+Seattle, WA 98105-5020
 
-<strong>Campus Mail Address:</strong> University of Washington School of Aquatic and Fishery Sciences Box 355020 Seattle, WA 98195
+<strong>Campus Mail Address:</strong> \
+University of Washington \
+School of Aquatic and Fishery Sciences \
+Box 355020 \
+Seattle, WA 98195
 
 <hr />
