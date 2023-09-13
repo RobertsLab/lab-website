@@ -1,0 +1,29 @@
+---
+title: "Population-specific effects of ocean acidification in the Olympia oyster"
+type: "article"
+author: "Laura H Spencer, Steven B Roberts, Katherine Silliman, "
+year: "2023"
+publication: "bioRxiv"
+preprint: "https://www.biorxiv.org/content/10.1101/2023.09.08.556443v1"
+#doi: ""
+materials: ""
+eprint: "https://www.biorxiv.org/content/10.1101/2023.09.08.556443v1.full.pdf"
+toc: FALSE
+categories:
+  - oyster
+  - Tag-seq
+  - Ostrea
+---
+
+## Citation
+
+> Population-specific effects of ocean acidification in the Olympia oyster
+Laura H Spencer, Steven B Roberts, Katherine Silliman
+bioRxiv 2023.09.08.556443; doi: https://doi.org/10.1101/2023.09.08.556443
+
+## Abstract
+
+Populations of marine species that respond differently to ocean acidification offer natural reservoirs of biodiversity that can be leveraged for conservation efforts and to sustain marine food systems. The molecular and physiological traits associated with tolerance to acidification must first be identified. This study leveraged oysters from three phenotypically-distinct populations of the Olympia oyster, Ostrea lurida, but that were bred and reared in common conditions for four years. We assessed their growth, reproductive development, and transcriptional response to acidification within and across generations. Responses reveal energetic trade-offs that reflect unique physiotypes previously observed among populations. The population with the slowest growth but high survival rates, oysters from Dabob Bay, mounted the largest transcriptional response to acidification without effects to growth and reproduction. A moderate response was observed in the population with fastest growth rate but lowest fecundity (Fidalgo Bay). Oyster Bay, the population with highest fecundity but lowest survival rates, did not respond at the transcript level. Oyster Bay was also the only population for which acidification negatively affected growth and reproductive development. While exposure to acidification did not affect gene expression in the next generation's larval stage, it did result in larger larvae in the Oyster Bay population, which could partially alleviate negative effects of acidification in the wild for that population. Given the distinct transcriptional response of the Dabob Bay population to acidification and its high survival rates in previous studies, we then identified genes that were uniquely expressed in Dabob Bay oysters compared to the other populations. Genes involved in antibacterial and antiviral processes, metabolism, growth, and reproduction were uniquely expressed in Dabob Bay, and many similar functions were identified in both adults and larvae, which provides insight into the mechanisms behind a stress-tolerant oyster population. The population-specific physiotypes and responses to acidification illustrate the diversity of physiological strategies in O. lurida that balance the energetic demands of growth, reproduction, cellular maintenance, and offspring viability. Taken together this study reveals that there are distinct physiotypes among marine invertebrate populations on small geographic scales with implications for species resilience to acidification and other environmental stressors.
+
+## Data Availability
+
