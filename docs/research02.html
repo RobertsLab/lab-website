@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.353">
+<meta name="generator" content="quarto-1.2.475">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -17,7 +17,7 @@ div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
   width: 0.8em;
-  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  margin: 0 0.8em 0.2em -1.6em;
   vertical-align: middle;
 }
 </style>
@@ -72,7 +72,7 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-project','listing-website','listing-format','listing-editor','listing-language','listing-title','listing-code','listing-status','listing-type','listing-theme','listing-agency','listing-year','listing-github','listing-toc','listing-categories','listing-path','listing-outputHref','listing-author','listing-description','listing-filename','listing-file-modified','listing-reading-time',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] }],
+      valueNames: ['listing-title','listing-code','listing-status','listing-type','listing-website','listing-theme','listing-agency','listing-year','listing-github','listing-toc','listing-categories','listing-path','listing-author','listing-description','listing-filename','listing-file-modified','listing-reading-time','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] }],
       
       searchColumns: ["listing-agency","listing-status","listing-theme"],
     };
@@ -92,7 +92,6 @@ ul.task-list li input[type="checkbox"] {
   })
   </script>
 
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="styles.css">
@@ -109,73 +108,17 @@ ul.task-list li input[type="checkbox"] {
     <span class="navbar-title">robertslab.info</span>
     </a>
   </div>
-        <div class="quarto-navbar-tools ms-auto tools-wide">
-    <div class="dropdown">
-      <a href="" title="" id="quarto-navigation-tool-dropdown-0" class="quarto-navigation-tool dropdown-toggle px-1" data-bs-toggle="dropdown" aria-expanded="false" aria-label=""><i class="bi bi-hdd-network"></i></a>
-      <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="quarto-navigation-tool-dropdown-0">
-          <li>
-            <a class="dropdown-item quarto-navbar-tools ms-auto-item" href="http://raven.fish.washington.edu:8787">
-            raven
-            </a>
-          </li>
-          <li>
-            <a class="dropdown-item quarto-navbar-tools ms-auto-item" href="https://gannet.fish.washington.edu">
-            gannet
-            </a>
-          </li>
-      </ul>
-    </div>
-    <div class="dropdown">
-      <a href="" title="" id="quarto-navigation-tool-dropdown-1" class="quarto-navigation-tool dropdown-toggle px-1" data-bs-toggle="dropdown" aria-expanded="false" aria-label=""><i class="bi bi-journal-code"></i></a>
-      <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="quarto-navigation-tool-dropdown-1">
-          <li>
-            <a class="dropdown-item quarto-navbar-tools ms-auto-item" href="https://robertslab.github.io/sams-notebook/">
-            sam
-            </a>
-          </li>
-          <li>
-            <a class="dropdown-item quarto-navbar-tools ms-auto-item" href="https://sr320.github.io">
-            steven
-            </a>
-          </li>
-      </ul>
-    </div>
-    <div class="dropdown">
-      <a href="" title="" id="quarto-navigation-tool-dropdown-2" class="quarto-navigation-tool dropdown-toggle px-1" data-bs-toggle="dropdown" aria-expanded="false" aria-label=""><i class="bi bi-github"></i></a>
-      <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="quarto-navigation-tool-dropdown-2">
-          <li>
-            <a class="dropdown-item quarto-navbar-tools ms-auto-item" href="https://github.com/RobertsLab/resources/issues/new">
-            Submit an Issue
-            </a>
-          </li>
-          <li>
-            <a class="dropdown-item quarto-navbar-tools ms-auto-item" href="https://github.com/RobertsLab">
-            Lab Organization
-            </a>
-          </li>
-          <li>
-            <a class="dropdown-item quarto-navbar-tools ms-auto-item" href="https://github.com/sr320/lab-website">
-            Edit this site
-            </a>
-          </li>
-      </ul>
-    </div>
-    <a href="https://calendar.google.com/calendar/embed?src=mrc305@gmail.com&amp;ctz=America/Vancouver" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-calendar-week"></i></a>
-  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
-</div>
+          <div class="quarto-toggle-container ms-auto">
+              <a href="" class="quarto-color-scheme-toggle nav-link" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
+          </div>
           <div id="quarto-search" class="" title="Search"></div>
       </div> <!-- /container-fluid -->
     </nav>
-  <nav class="quarto-secondary-nav">
-    <div class="container-fluid d-flex">
-      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
-        <i class="bi bi-layout-text-sidebar-reverse"></i>
-      </button>
-      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./research02.html">Research</a></li><li class="breadcrumb-item"><a href="./research02.html">Projects</a></li></ol></nav>
-      <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
-      </a>
-      <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
-        <i class="bi bi-search"></i>
+  <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+    <div class="container-fluid d-flex justify-content-between">
+      <h1 class="quarto-secondary-nav-title"></h1>
+      <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
+        <i class="bi bi-chevron-right"></i>
       </button>
     </div>
   </nav>
@@ -183,97 +126,85 @@ ul.task-list li input[type="checkbox"] {
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal sidebar-navigation docked overflow-auto">
-        <div class="mt-2 flex-shrink-0 align-items-center">
+  <nav id="quarto-sidebar" class="sidebar collapse sidebar-navigation docked overflow-auto">
+      <div class="mt-2 flex-shrink-0 align-items-center">
         <div class="sidebar-search">
         <div id="quarto-search" class="" title="Search"></div>
         </div>
-        </div>
+      </div>
     <div class="sidebar-menu-container"> 
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">
- <span class="menu-text">People</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true" aria-label="Toggle section">
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">People</a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./people.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Lab Members</span></a>
+  <a href="./people.html" class="sidebar-item-text sidebar-link">Lab Members</a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./collaborators.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Collaborators</span></a>
+  <a href="./collaborators.html" class="sidebar-item-text sidebar-link">Collaborators</a>
   </div>
 </li>
       </ul>
   </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true">
- <span class="menu-text">Research</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true" aria-label="Toggle section">
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true">Research</a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
       <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./research02.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text">Projects</span></a>
+  <a href="./research02.html" class="sidebar-item-text sidebar-link active">Projects</a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./publications02.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Publications</span></a>
+  <a href="./publications02.html" class="sidebar-item-text sidebar-link">Publications</a>
   </div>
 </li>
       </ul>
   </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="true">
- <span class="menu-text">Lab Culture</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="true" aria-label="Toggle section">
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="true">Lab Culture</a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="true">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
       <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./dei.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">DEI</span></a>
+  <a href="./dei.html" class="sidebar-item-text sidebar-link">DEI</a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./outreach.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Outreach and Education</span></a>
+  <a href="./outreach.html" class="sidebar-item-text sidebar-link">Outreach and Education</a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./posts.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">News and Updates</span></a>
+  <a href="./posts.html" class="sidebar-item-text sidebar-link">News and Updates</a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./culture.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Lab Culture</span></a>
+  <a href="./culture.html" class="sidebar-item-text sidebar-link">Lab Culture</a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./contact.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Contact Us</span></a>
+  <a href="./contact.html" class="sidebar-item-text sidebar-link">Contact Us</a>
   </div>
 </li>
       </ul>
@@ -281,7 +212,6 @@ ul.task-list li input[type="checkbox"] {
     </ul>
     </div>
 </nav>
-<div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         <nav id="TOC" role="doc-toc" class="toc-active">
@@ -308,7 +238,7 @@ ul.task-list li input[type="checkbox"] {
     </div>
 </div>
 <ul class="grant-list list">
-  <li data-index="0" data-categories="education" data-listing-file-modified-sort="1693590219258" data-listing-reading-time-sort="2">
+  <li data-index="0" data-categories="education" data-listing-file-modified-sort="1694721184534" data-listing-reading-time-sort="1.7">
     <span class="listing-title lead">Increasing Environmental Connection, Literacy and Engagement through an Art + Science Collaborative Education Practice</span><br>
     <a href="./research/art.html" class="btn btn-primary">
       Summary
@@ -318,7 +248,7 @@ ul.task-list li input[type="checkbox"] {
     </a>
 <strong>Support</strong>::<span class="listing-agency">UW EarthLab</span>
   </li>
-  <li data-index="1" data-categories="cod,Alaska,epigenetics" data-listing-file-modified-sort="1694127621546" data-listing-reading-time-sort="1">
+  <li data-index="1" data-categories="cod,Alaska,epigenetics" data-listing-file-modified-sort="1694721184534" data-listing-reading-time-sort="0.89">
     <span class="listing-title lead">Gene activity and genetic selection in Pacific cod reared under thermal stress</span><br>
     <a href="./research/cod.html" class="btn btn-primary">
       Summary
@@ -328,7 +258,7 @@ ul.task-list li input[type="checkbox"] {
     </a>
 <strong>Support</strong>::<span class="listing-agency">Pacific States Marine Fishery Commission</span>
   </li>
-  <li data-index="2" data-categories="coral,epigenetics" data-listing-file-modified-sort="1693590244386" data-listing-reading-time-sort="3">
+  <li data-index="2" data-categories="coral,epigenetics" data-listing-file-modified-sort="1694721184534" data-listing-reading-time-sort="2.28">
     <span class="listing-title lead">Collaborative Research: URoL : Epigenetics 2: Predicting phenotypic and eco-evolutionary consequences of environmental-energetic-epigenetic linkages</span><br>
     <a href="./research/e5.html" class="btn btn-primary">
       Summary
@@ -341,7 +271,7 @@ ul.task-list li input[type="checkbox"] {
     </a>
 <strong>Support</strong>::<span class="listing-agency">NSF</span>
   </li>
-  <li data-index="3" data-categories="oyster,triploidy,acidification,aquaculture,epigenetics" data-listing-file-modified-sort="1694127641696" data-listing-reading-time-sort="2">
+  <li data-index="3" data-categories="oyster,triploidy,acidification,aquaculture,epigenetics" data-listing-file-modified-sort="1694721184534" data-listing-reading-time-sort="1.3">
     <span class="listing-title lead">Identifying genomic architecture features that contribute to critical phenotypes in shellfish</span><br>
     <a href="./research/nrsp8.html" class="btn btn-primary">
       Summary
@@ -351,7 +281,7 @@ ul.task-list li input[type="checkbox"] {
     </a>
 <strong>Support</strong>::<span class="listing-agency">USDA NRSP-8</span>
   </li>
-  <li data-index="4" data-categories="clam,scRNAseq,aquaculture" data-listing-file-modified-sort="1694030842868" data-listing-reading-time-sort="1">
+  <li data-index="4" data-categories="clam,scRNAseq,aquaculture" data-listing-file-modified-sort="1694721184534" data-listing-reading-time-sort="0.82">
     <span class="listing-title lead">Applying cutting-edge technology for reproductive control in emerging bivalve species</span><br>
     <a href="./research/psmfc.html" class="btn btn-primary">
       Summary
@@ -361,14 +291,14 @@ ul.task-list li input[type="checkbox"] {
     </a>
 <strong>Support</strong>::<span class="listing-agency">Pacific States Marine Fishery Commision</span>
   </li>
-  <li data-index="5" data-categories="oyster,aquaculture" data-listing-file-modified-sort="1694005878114" data-listing-reading-time-sort="2">
+  <li data-index="5" data-categories="oyster,aquaculture" data-listing-file-modified-sort="1694721184534" data-listing-reading-time-sort="1.785">
     <span class="listing-title lead">Field-based Education and Research at Regional Aquaculture Sites (FERRAS)</span><br>
     <a href="./research/safs.html" class="btn btn-primary">
       Summary
     </a>
 <strong>Support</strong>::<span class="listing-agency">UW SAFS</span>
   </li>
-  <li data-index="6" data-categories="oyster,carryover,aquaculture" data-listing-file-modified-sort="1694030828939" data-listing-reading-time-sort="2">
+  <li data-index="6" data-categories="oyster,carryover,aquaculture" data-listing-file-modified-sort="1694721184534" data-listing-reading-time-sort="1.205">
     <span class="listing-title lead">Improved climate resilience in oysters through optimization of hatchery-based environmental conditioning practices</span><br>
     <a href="./research/usda.html" class="btn btn-primary">
       Summary
@@ -378,28 +308,28 @@ ul.task-list li input[type="checkbox"] {
     </a>
 <strong>Support</strong>::<span class="listing-agency">USDA</span>
   </li>
-  <li data-index="7" data-categories="oyster,acidification,aquaculture" data-listing-file-modified-sort="1694030821633" data-listing-reading-time-sort="2">
+  <li data-index="7" data-categories="oyster,acidification,aquaculture" data-listing-file-modified-sort="1694721184534" data-listing-reading-time-sort="1.15">
     <span class="listing-title lead">Vernon: Development of innovative approaches to support sustainable aquaculture and understand the effects of ocean acidification on marine species</span><br>
     <a href="./research/vernon.html" class="btn btn-primary">
       Summary
     </a>
 <strong>Support</strong>::<span class="listing-agency">NOAA</span>
   </li>
-  <li data-index="8" data-categories="clam,acidification,carryover,aquaculture,epigenetics" data-listing-file-modified-sort="1694127689318" data-listing-reading-time-sort="2">
+  <li data-index="8" data-categories="clam,acidification,carryover,aquaculture,epigenetics" data-listing-file-modified-sort="1694721184534" data-listing-reading-time-sort="1.045">
     <span class="listing-title lead">Readying sustainable aquaculture for a changing ocean: uncovering the mechanisms associated with intergenerational carryover effects to enhance bivalve resilience to acidification</span><br>
     <a href="./research/wsg-clam.html" class="btn btn-primary">
       Summary
     </a>
 <strong>Support</strong>::<span class="listing-agency">Washington Sea Grant</span>
   </li>
-  <li data-index="9" data-categories="oyster,aquaculture,disease" data-listing-file-modified-sort="1694127743038" data-listing-reading-time-sort="2">
+  <li data-index="9" data-categories="oyster,aquaculture,disease" data-listing-file-modified-sort="1694721184535" data-listing-reading-time-sort="1.41">
     <span class="listing-title lead">A collaborative partnership to address mass mortalities in oyster aquaculture through improved field monitoring, husbandry practices, and workforce development</span><br>
     <a href="./research/wsg-ec.html" class="btn btn-primary">
       Summary
     </a>
 <strong>Support</strong>::<span class="listing-agency">Washington Sea Grant</span>
   </li>
-  <li data-index="10" data-categories="oyster,epigenetics,acidification,aquaculture" data-listing-file-modified-sort="1694117829607" data-listing-reading-time-sort="3">
+  <li data-index="10" data-categories="oyster,epigenetics,acidification,aquaculture" data-listing-file-modified-sort="1694721184534" data-listing-reading-time-sort="2.28">
     <span class="listing-title lead">Collaborative Research: Does ocean acidification induce a methylation response that affects the fitness of the next generation in oysters?</span><br>
     <a href="./research/ceabigr.html" class="btn btn-primary">
       Summary
@@ -409,14 +339,14 @@ ul.task-list li input[type="checkbox"] {
     </a>
 <strong>Support</strong>::<span class="listing-agency">NSF</span>
   </li>
-  <li data-index="11" data-categories="clam,epigenetics,aquaculture" data-listing-file-modified-sort="1694030870143" data-listing-reading-time-sort="2">
+  <li data-index="11" data-categories="clam,epigenetics,aquaculture" data-listing-file-modified-sort="1694721184534" data-listing-reading-time-sort="1.15">
     <span class="listing-title lead">Development of environmental conditioning practices to decrease impacts of climate change on shellfish aquaculture</span><br>
     <a href="./research/ffar.html" class="btn btn-primary">
       Summary
     </a>
 <strong>Support</strong>::<span class="listing-agency">FFAR</span>
   </li>
-  <li data-index="12" data-categories="crab,disease,Alaska" data-listing-file-modified-sort="1694008184148" data-listing-reading-time-sort="2">
+  <li data-index="12" data-categories="crab,disease,Alaska" data-listing-file-modified-sort="1694721184534" data-listing-reading-time-sort="1.51">
     <span class="listing-title lead">Effects of temperature change and Hematodinium sp. infection (Bitter Crab Disease) on Tanner crab (Chionoecetes bairdi)</span><br>
     <a href="./research/nprb.html" class="btn btn-primary">
       Summary
@@ -426,7 +356,7 @@ ul.task-list li input[type="checkbox"] {
     </a>
 <strong>Support</strong>::<span class="listing-agency">North Pacfic Research Board</span>
   </li>
-  <li data-index="13" data-categories="oyster,scRNAseq,aquaculture" data-listing-file-modified-sort="1694030782825" data-listing-reading-time-sort="2">
+  <li data-index="13" data-categories="oyster,scRNAseq,aquaculture" data-listing-file-modified-sort="1694721184535" data-listing-reading-time-sort="1.085">
     <span class="listing-title lead">Enhancing sustainability of shellfish aquaculture through streamlined maturation control</span><br>
     <a href="./research/wsg-sc.html" class="btn btn-primary">
       Summary
@@ -589,23 +519,9 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     icon: icon
   };
   anchorJS.add('.anchored');
-  const isCodeAnnotation = (el) => {
-    for (const clz of el.classList) {
-      if (clz.startsWith('code-annotation-')) {                     
-        return true;
-      }
-    }
-    return false;
-  }
   const clipboard = new window.ClipboardJS('.code-copy-button', {
-    text: function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
-        }
-      }
-      return codeEl.innerText;
+    target: function(trigger) {
+      return trigger.previousElementSibling;
     }
   });
   clipboard.on('success', function(e) {
@@ -670,92 +586,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return note.innerHTML;
     });
   }
-      let selectedAnnoteEl;
-      const selectorForAnnotation = ( cell, annotation) => {
-        let cellAttr = 'data-code-cell="' + cell + '"';
-        let lineAttr = 'data-code-annotation="' +  annotation + '"';
-        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
-        return selector;
-      }
-      const selectCodeLines = (annoteEl) => {
-        const doc = window.document;
-        const targetCell = annoteEl.getAttribute("data-target-cell");
-        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
-        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
-        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
-        const lineIds = lines.map((line) => {
-          return targetCell + "-" + line;
-        })
-        let top = null;
-        let height = null;
-        let parent = null;
-        if (lineIds.length > 0) {
-            //compute the position of the single el (top and bottom and make a div)
-            const el = window.document.getElementById(lineIds[0]);
-            top = el.offsetTop;
-            height = el.offsetHeight;
-            parent = el.parentElement.parentElement;
-          if (lineIds.length > 1) {
-            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
-            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
-            height = bottom - top;
-          }
-          if (top !== null && height !== null && parent !== null) {
-            // cook up a div (if necessary) and position it 
-            let div = window.document.getElementById("code-annotation-line-highlight");
-            if (div === null) {
-              div = window.document.createElement("div");
-              div.setAttribute("id", "code-annotation-line-highlight");
-              div.style.position = 'absolute';
-              parent.appendChild(div);
-            }
-            div.style.top = top - 2 + "px";
-            div.style.height = height + 4 + "px";
-            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
-            if (gutterDiv === null) {
-              gutterDiv = window.document.createElement("div");
-              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
-              gutterDiv.style.position = 'absolute';
-              const codeCell = window.document.getElementById(targetCell);
-              const gutter = codeCell.querySelector('.code-annotation-gutter');
-              gutter.appendChild(gutterDiv);
-            }
-            gutterDiv.style.top = top - 2 + "px";
-            gutterDiv.style.height = height + 4 + "px";
-          }
-          selectedAnnoteEl = annoteEl;
-        }
-      };
-      const unselectCodeLines = () => {
-        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
-        elementsIds.forEach((elId) => {
-          const div = window.document.getElementById(elId);
-          if (div) {
-            div.remove();
-          }
-        });
-        selectedAnnoteEl = undefined;
-      };
-      // Attach click handler to the DT
-      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
-      for (const annoteDlNode of annoteDls) {
-        annoteDlNode.addEventListener('click', (event) => {
-          const clickedEl = event.target;
-          if (clickedEl !== selectedAnnoteEl) {
-            unselectCodeLines();
-            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
-            if (activeEl) {
-              activeEl.classList.remove('code-annotation-active');
-            }
-            selectCodeLines(clickedEl);
-            clickedEl.classList.add('code-annotation-active');
-          } else {
-            // Unselect the line
-            unselectCodeLines();
-            clickedEl.classList.remove('code-annotation-active');
-          }
-        });
-      }
   const findCites = (el) => {
     const parentEl = el.parentElement;
     if (parentEl) {
