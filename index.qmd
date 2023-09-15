@@ -6,18 +6,15 @@ toc: true
 
 listing: 
   contents:
-    - "notebook/*/*.qmd"
+    - "frontpage/*/*.qmd"
   type: grid # or `default` or `table`; each type has its own set of yaml options to include
   sort: "date desc" # can also sort on more than one field
   categories: false # allows you to sort posts by assigned categories 
 ---
 
-::: callout-note
-This is our new website in the late stages of being completed. Our target date for completion is mid September. This will replace http://faculty.washington.edu/sr320/
-:::
 
 Research in our lab focuses on characterizing physiological responses of marine organisms to environmental change. Using integrative approaches we strive to examine impacts and adaptive potential from the nucleotide to organismal level. A core component of this includes investigating the functional relationship of genetics, epigenetics, and physiology.
 
 Our lab strives to make all research products readily available. This includes publishing of online lab notebooks, presentations, data, and more.
 
-Below is a snapshot of some of current activity. Use the menu to learn more about the people, research, and lab culture.
+Below is a snapshot of some of current activity. Use the menu to learn more about the people, research, and lab culture. If you explore this site and want more, you can checkout our [handbook](https://robertslab.github.io/resources/) or [tusk](https://robertslab.github.io/tusk/).

@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.2.475">
+<meta name="generator" content="quarto-1.3.353">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -17,7 +17,7 @@ div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
   width: 0.8em;
-  margin: 0 0.8em 0.2em -1.6em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
 </style>
@@ -72,7 +72,7 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-type','listing-author','listing-year','listing-publication','listing-preprint','listing-doi','listing-materials','listing-eprint','listing-toc','listing-categories','listing-path','listing-description','listing-filename','listing-file-modified','listing-reading-time','listing-image',{ data: ['index'] },{ data: ['categories'] }],
+      valueNames: ['listing-project','listing-website','listing-format','listing-editor','listing-language','listing-title','listing-type','listing-author','listing-year','listing-publication','listing-preprint','listing-doi','listing-materials','listing-eprint','listing-toc','listing-categories','listing-path','listing-outputHref','listing-description','listing-filename','listing-file-modified','listing-reading-time',{ data: ['index'] },{ data: ['categories'] }],
       
       searchColumns: ["listing-title","listing-author","listing-publication","listing-year"],
     };
@@ -100,7 +100,7 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-type','listing-author','listing-year','listing-publication','listing-preprint','listing-doi','listing-materials','listing-eprint','listing-toc','listing-categories','listing-path','listing-description','listing-filename','listing-file-modified','listing-reading-time',{ data: ['index'] },{ data: ['categories'] }],
+      valueNames: ['listing-project','listing-website','listing-format','listing-editor','listing-language','listing-title','listing-type','listing-author','listing-year','listing-publication','listing-preprint','listing-doi','listing-materials','listing-eprint','listing-toc','listing-categories','listing-path','listing-outputHref','listing-description','listing-filename','listing-file-modified','listing-reading-time',{ data: ['index'] },{ data: ['categories'] }],
       
       searchColumns: ["listing-title","listing-author","listing-publication","listing-year"],
     };
@@ -120,6 +120,7 @@ ul.task-list li input[type="checkbox"] {
   })
   </script>
 
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="styles.css">
@@ -136,17 +137,73 @@ ul.task-list li input[type="checkbox"] {
     <span class="navbar-title">robertslab.info</span>
     </a>
   </div>
-          <div class="quarto-toggle-container ms-auto">
-              <a href="" class="quarto-color-scheme-toggle nav-link" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
-          </div>
+        <div class="quarto-navbar-tools ms-auto tools-wide">
+    <div class="dropdown">
+      <a href="" title="" id="quarto-navigation-tool-dropdown-0" class="quarto-navigation-tool dropdown-toggle px-1" data-bs-toggle="dropdown" aria-expanded="false" aria-label=""><i class="bi bi-hdd-network"></i></a>
+      <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="quarto-navigation-tool-dropdown-0">
+          <li>
+            <a class="dropdown-item quarto-navbar-tools ms-auto-item" href="http://raven.fish.washington.edu:8787">
+            raven
+            </a>
+          </li>
+          <li>
+            <a class="dropdown-item quarto-navbar-tools ms-auto-item" href="https://gannet.fish.washington.edu">
+            gannet
+            </a>
+          </li>
+      </ul>
+    </div>
+    <div class="dropdown">
+      <a href="" title="" id="quarto-navigation-tool-dropdown-1" class="quarto-navigation-tool dropdown-toggle px-1" data-bs-toggle="dropdown" aria-expanded="false" aria-label=""><i class="bi bi-journal-code"></i></a>
+      <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="quarto-navigation-tool-dropdown-1">
+          <li>
+            <a class="dropdown-item quarto-navbar-tools ms-auto-item" href="https://robertslab.github.io/sams-notebook/">
+            sam
+            </a>
+          </li>
+          <li>
+            <a class="dropdown-item quarto-navbar-tools ms-auto-item" href="https://sr320.github.io">
+            steven
+            </a>
+          </li>
+      </ul>
+    </div>
+    <div class="dropdown">
+      <a href="" title="" id="quarto-navigation-tool-dropdown-2" class="quarto-navigation-tool dropdown-toggle px-1" data-bs-toggle="dropdown" aria-expanded="false" aria-label=""><i class="bi bi-github"></i></a>
+      <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="quarto-navigation-tool-dropdown-2">
+          <li>
+            <a class="dropdown-item quarto-navbar-tools ms-auto-item" href="https://github.com/RobertsLab/resources/issues/new">
+            Submit an Issue
+            </a>
+          </li>
+          <li>
+            <a class="dropdown-item quarto-navbar-tools ms-auto-item" href="https://github.com/RobertsLab">
+            Lab Organization
+            </a>
+          </li>
+          <li>
+            <a class="dropdown-item quarto-navbar-tools ms-auto-item" href="https://github.com/sr320/lab-website">
+            Edit this site
+            </a>
+          </li>
+      </ul>
+    </div>
+    <a href="https://calendar.google.com/calendar/embed?src=mrc305@gmail.com&amp;ctz=America/Vancouver" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-calendar-week"></i></a>
+  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
+</div>
           <div id="quarto-search" class="" title="Search"></div>
       </div> <!-- /container-fluid -->
     </nav>
-  <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
-    <div class="container-fluid d-flex justify-content-between">
-      <h1 class="quarto-secondary-nav-title"></h1>
-      <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
-        <i class="bi bi-chevron-right"></i>
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./research02.html">Research</a></li><li class="breadcrumb-item"><a href="./publications02.html">Publications</a></li></ol></nav>
+      <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+      </a>
+      <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
+        <i class="bi bi-search"></i>
       </button>
     </div>
   </nav>
@@ -154,85 +211,97 @@ ul.task-list li input[type="checkbox"] {
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse sidebar-navigation docked overflow-auto">
-      <div class="mt-2 flex-shrink-0 align-items-center">
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal sidebar-navigation docked overflow-auto">
+        <div class="mt-2 flex-shrink-0 align-items-center">
         <div class="sidebar-search">
         <div id="quarto-search" class="" title="Search"></div>
         </div>
-      </div>
+        </div>
     <div class="sidebar-menu-container"> 
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">People</a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">
+ <span class="menu-text">People</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./people.html" class="sidebar-item-text sidebar-link">Lab Members</a>
+  <a href="./people.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Lab Members</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./collaborators.html" class="sidebar-item-text sidebar-link">Collaborators</a>
+  <a href="./collaborators.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Collaborators</span></a>
   </div>
 </li>
       </ul>
   </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true">Research</a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true">
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true">
+ <span class="menu-text">Research</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
       <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./research02.html" class="sidebar-item-text sidebar-link">Projects</a>
+  <a href="./research02.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Projects</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./publications02.html" class="sidebar-item-text sidebar-link active">Publications</a>
+  <a href="./publications02.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text">Publications</span></a>
   </div>
 </li>
       </ul>
   </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="true">Lab Culture</a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="true">
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="true">
+ <span class="menu-text">Lab Culture</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
       <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./dei.html" class="sidebar-item-text sidebar-link">DEI</a>
+  <a href="./dei.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">DEI</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./outreach.html" class="sidebar-item-text sidebar-link">Outreach and Education</a>
+  <a href="./outreach.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Outreach and Education</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./posts.html" class="sidebar-item-text sidebar-link">News and Updates</a>
+  <a href="./posts.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">News and Updates</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./culture.html" class="sidebar-item-text sidebar-link">Lab Culture</a>
+  <a href="./culture.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Lab Culture</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./contact.html" class="sidebar-item-text sidebar-link">Contact Us</a>
+  <a href="./contact.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Contact Us</span></a>
   </div>
 </li>
       </ul>
@@ -240,6 +309,7 @@ ul.task-list li input[type="checkbox"] {
     </ul>
     </div>
 </nav>
+<div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         <nav id="TOC" role="doc-toc" class="toc-active">
@@ -297,7 +367,7 @@ ul.task-list li input[type="checkbox"] {
 </div>
 
 <ul class="pub-list list">
-  <li data-index="0" data-categories="climate,biodiversity" data-listing-file-modified-sort="1694721184532" data-listing-reading-time-sort="1.195">
+  <li data-index="0" data-categories="climate,biodiversity" data-listing-file-modified-sort="1694139711429" data-listing-reading-time-sort="2">
     <span class="listing-title lead">Characterizing biological responses to climate variability and extremes to improve biodiversity projections</span><br>
     <span class="listing-author">Lauren B Buckley, Emily Carrington, Michael E Dillon, Carlos García-Robledo, Steven B Roberts, Jill L Wegrzyn, Mark C Urban</span><br>
     <span class="listing-github fst-italic "></span>
@@ -312,7 +382,7 @@ ul.task-list li input[type="checkbox"] {
       <i class="bi bi-file-earmark-text"></i> eprint
     </a>
   </li>
-  <li data-index="1" data-categories="mussel,genome" data-listing-file-modified-sort="1694721184532" data-listing-reading-time-sort="1.825">
+  <li data-index="1" data-categories="mussel,genome" data-listing-file-modified-sort="1694139842451" data-listing-reading-time-sort="2">
     <span class="listing-title lead">Chromosome-Level Genome Assembly of the Blue Mussel Mytilus chilensis Reveals Molecular Signatures Facing the Marine Environment</span><br>
     <span class="listing-author">Cristian Gallardo-Escárate, Valentina Valenzuela-Muñoz, Gustavo Nuñez-Acuña, Diego Valenzuela-Miranda, Fabian J Tapia, Marco Yévenes, Gonzalo Gajardo, Jorge E Toro, Pablo A Oyarzún, Gloria Arriagada, Beatriz Novoa, Antonio Figueras, Steven Roberts, Marco Gerdol</span><br>
     <span class="listing-github fst-italic "></span>
@@ -327,7 +397,7 @@ ul.task-list li input[type="checkbox"] {
       <i class="bi bi-file-earmark-text"></i> eprint
     </a>
   </li>
-  <li data-index="2" data-categories="oyster,methylation,SNP,epigenetic,Ostrea" data-listing-file-modified-sort="1694721184533" data-listing-reading-time-sort="1.875">
+  <li data-index="2" data-categories="oyster,methylation,SNP,epigenetic,Ostrea" data-listing-file-modified-sort="1694140050873" data-listing-reading-time-sort="2">
     <span class="listing-title lead">Epigenetic and genetic population structure is coupled in a marine invertebrate</span><br>
     <span class="listing-author">Katherine Silliman, Laura H Spencer, Samuel J White, Steven B Roberts</span><br>
     <span class="listing-github fst-italic "></span>
@@ -348,7 +418,7 @@ ul.task-list li input[type="checkbox"] {
       <i class="bi bi-file-earmark-zip"></i> Materials
     </a>
   </li>
-  <li data-index="3" data-categories="oyster,Tag-seq,Ostrea" data-listing-file-modified-sort="1694721184533" data-listing-reading-time-sort="1.845">
+  <li data-index="3" data-categories="oyster,Tag-seq,Ostrea" data-listing-file-modified-sort="1694629966924" data-listing-reading-time-sort="2">
     <span class="listing-title lead">Population-specific effects of ocean acidification in the Olympia oyster</span><br>
     <span class="listing-author">Laura H Spencer, Steven B Roberts, Katherine Silliman, </span><br>
     <span class="listing-github fst-italic "></span>
@@ -363,7 +433,7 @@ ul.task-list li input[type="checkbox"] {
       <i class="bi bi-file-earmark-text"></i> eprint
     </a>
   </li>
-  <li data-index="4" data-categories="oyster,RNA-seq,temperature" data-listing-file-modified-sort="1694721184532" data-listing-reading-time-sort="1.38">
+  <li data-index="4" data-categories="oyster,RNA-seq,temperature" data-listing-file-modified-sort="1694135198520" data-listing-reading-time-sort="2">
     <span class="listing-title lead">Transcriptome profile in heat resilient Pacific oyster Crassostrea gigas families under thermal challenge</span><br>
     <span class="listing-author">Roberto Arredondo-Espinoza, Ana M Ibarra, Steven B Roberts, Maria Teresa Sicard-González, Cristina Escobedo-Fregoso</span><br>
     <span class="listing-github fst-italic "></span>
@@ -375,7 +445,7 @@ ul.task-list li input[type="checkbox"] {
       DOI
     </a>
   </li>
-  <li data-index="5" data-categories="oyster,triploid,Pacific oyster,Crassostrea" data-listing-file-modified-sort="1694721184532" data-listing-reading-time-sort="1.755">
+  <li data-index="5" data-categories="oyster,triploid,Pacific oyster,Crassostrea" data-listing-file-modified-sort="1694629983223" data-listing-reading-time-sort="2">
     <span class="listing-title lead">Triploid Pacific oysters exhibit stress response dysregulation and elevated mortality following heatwaves</span><br>
     <span class="listing-author">Matthew N. George, Olivia Cattau, Mollie Middleton, Delaney Lawson, Brent Vadopalas, Mackenzie Gavery, Steven Roberts</span><br>
     <span class="listing-github fst-italic "></span>
@@ -390,7 +460,7 @@ ul.task-list li input[type="checkbox"] {
       <i class="bi bi-file-earmark-text"></i> Preprint
     </a>
   </li>
-  <li data-index="6" data-categories="Open Data Badge,geoduck,Panopea,TagSeq,RNA-sea" data-listing-file-modified-sort="1688678543740" data-listing-reading-time-sort="1.7">
+  <li data-index="6" data-categories="Open Data Badge,geoduck,Panopea,TagSeq,RNA-sea" data-listing-file-modified-sort="1688082576784" data-listing-reading-time-sort="2">
     <span class="listing-title lead">Acclimatory gene expression of primed clams enhances robustness to elevated pCO2</span><br>
     <span class="listing-author">Samuel J. Gurr, Shelly A. Trigg, Brent Vadopalas, Steven B. Roberts, Hollie M. Putnam</span><br>
     <span class="listing-github fst-italic "></span>
@@ -405,7 +475,7 @@ ul.task-list li input[type="checkbox"] {
       <i class="bi bi-file-earmark-zip"></i> Materials
     </a>
   </li>
-  <li data-index="7" data-categories="Chionoecetes bairdi,Hematodinium,temperature,RNA-seq,bitter crab disease,transcriptomic" data-listing-file-modified-sort="1694721184532" data-listing-reading-time-sort="1.2">
+  <li data-index="7" data-categories="Chionoecetes bairdi,Hematodinium,temperature,RNA-seq,bitter crab disease,transcriptomic" data-listing-file-modified-sort="1694136940121" data-listing-reading-time-sort="2">
     <span class="listing-title lead">Characterization of the Gene Repertoire and Environmentally Driven Expression Patterns in Tanner Crab (Chionoecetes bairdi)</span><br>
     <span class="listing-author">Grace Crandall, Pamela C. Jensen, Samuel J. White, Steven Roberts </span><br>
     <span class="listing-github fst-italic "></span>
@@ -420,7 +490,7 @@ ul.task-list li input[type="checkbox"] {
       <i class="bi bi-file-earmark-zip"></i> Materials
     </a>
   </li>
-  <li data-index="8" data-categories="oyster,methylation,epigenetic,acidification,Pacific oyster,Crassostrea" data-listing-file-modified-sort="1688068938874" data-listing-reading-time-sort="1.745">
+  <li data-index="8" data-categories="oyster,methylation,epigenetic,acidification,Pacific oyster,Crassostrea" data-listing-file-modified-sort="1687560150682" data-listing-reading-time-sort="2">
     <span class="listing-title lead">Differential DNA methylation in Pacific oyster reproductive tissue in response to ocean acidification</span><br>
     <span class="listing-author">Yaamini Venkataraman, Samuel J White and Steven Roberts</span><br>
     <span class="listing-github fst-italic "></span>
@@ -441,7 +511,7 @@ ul.task-list li input[type="checkbox"] {
       <i class="bi bi-file-earmark-zip"></i> Materials
     </a>
   </li>
-  <li data-index="9" data-categories="geoduck,methylation,acidification,Panopea,genome,epigenetic" data-listing-file-modified-sort="1688068938874" data-listing-reading-time-sort="1.64">
+  <li data-index="9" data-categories="geoduck,methylation,acidification,Panopea,genome,epigenetic" data-listing-file-modified-sort="1687559764604" data-listing-reading-time-sort="2">
     <span class="listing-title lead">Dynamic DNA methylation contributes to carryover effects and beneficial acclimatization in geoduck clams</span><br>
     <span class="listing-author">Hollie M. Putnam, Shelly A. Trigg, Samuel J. White, Laura H. Spencer, Brent Vadopalas, Aparna Natarajan, Jonathan Hetzel, Erich Jaeger, Jonathan Soohoo, Cristian Gallardo-Escárate, Frederick W. Goetz, Steven B. Roberts</span><br>
     <span class="listing-github fst-italic "></span>
@@ -456,7 +526,7 @@ ul.task-list li input[type="checkbox"] {
       <i class="bi bi-file-earmark-zip"></i> Materials
     </a>
   </li>
-  <li data-index="10" data-categories="oyster,methylation,acidification,epigenetic,Crassostrea" data-listing-file-modified-sort="1688068938874" data-listing-reading-time-sort="1.55">
+  <li data-index="10" data-categories="oyster,methylation,acidification,epigenetic,Crassostrea" data-listing-file-modified-sort="1687557809601" data-listing-reading-time-sort="2">
     <span class="listing-title lead">Epigenetic-associated phenotypic plasticity of the ocean acidification-acclimated edible oyster in the mariculture environment</span><br>
     <span class="listing-author">Dang, X., Lim, Y.-K., Li, Y., Roberts, S. B., Li, L., &amp; Thiyagarajan, V.</span><br>
     <span class="listing-github fst-italic "></span>
@@ -471,7 +541,7 @@ ul.task-list li input[type="checkbox"] {
       <i class="bi bi-file-earmark-text"></i> eprint
     </a>
   </li>
-  <li data-index="11" data-categories="oyster,proteomics,temperature" data-listing-file-modified-sort="1694721184532" data-listing-reading-time-sort="1.19">
+  <li data-index="11" data-categories="oyster,proteomics,temperature" data-listing-file-modified-sort="1694137110851" data-listing-reading-time-sort="2">
     <span class="listing-title lead">Proteomic response of early juvenile Pacific oysters (Crassostrea gigas) to temperature</span><br>
     <span class="listing-author">Crandall G, Elliott Thompson R, Eudeline B, Vadopalas B, Timmins-Schiffman E, Roberts S.</span><br>
     <span class="listing-github fst-italic "></span>
@@ -486,7 +556,7 @@ ul.task-list li input[type="checkbox"] {
       <i class="bi bi-file-earmark-zip"></i> Materials
     </a>
   </li>
-  <li data-index="12" data-categories="geoduck,Panopea" data-listing-file-modified-sort="1694721184533" data-listing-reading-time-sort="1.24">
+  <li data-index="12" data-categories="geoduck,Panopea" data-listing-file-modified-sort="1694139356723" data-listing-reading-time-sort="2">
     <span class="listing-title lead">Repeat exposure to hypercapnic seawater modifies growth and oxidative status in a tolerant burrowing clam</span><br>
     <span class="listing-author">Samuel J. Gurr, Shelly A. Trigg, Brent Vadopalas, Steven B. Roberts, Hollie M. Putnam</span><br>
     <span class="listing-github fst-italic "></span>
@@ -504,7 +574,7 @@ ul.task-list li input[type="checkbox"] {
       <i class="bi bi-file-earmark-zip"></i> Materials
     </a>
   </li>
-  <li data-index="13" data-categories="Caligus,genome" data-listing-file-modified-sort="1694721184532" data-listing-reading-time-sort="2.415">
+  <li data-index="13" data-categories="Caligus,genome" data-listing-file-modified-sort="1694137435051" data-listing-reading-time-sort="3">
     <span class="listing-title lead">Chromosome-scale genome assembly of the sea louse Caligus rogercresseyi by SMRT sequencing and Hi-C analysis</span><br>
     <span class="listing-author">Cristian Gallardo-Escárate, Valentina Valenzuela-Muñoz, Gustavo Nuñez-Acuña, Diego Valenzuela-Miranda, Ana Teresa Gonçalves, Hugo Escobar-Sepulveda, Ivan Liachko, Bradley Nelson, Steven Roberts &amp; Wesley Warren</span><br>
     <span class="listing-github fst-italic "></span>
@@ -519,7 +589,7 @@ ul.task-list li input[type="checkbox"] {
       <i class="bi bi-file-earmark-zip"></i> Materials
     </a>
   </li>
-  <li data-index="14" data-categories="geoduck,microbiome,metagenomics,metaproteomics" data-listing-file-modified-sort="1694721184533" data-listing-reading-time-sort="1.5">
+  <li data-index="14" data-categories="geoduck,microbiome,metagenomics,metaproteomics" data-listing-file-modified-sort="1694137969307" data-listing-reading-time-sort="2">
     <span class="listing-title lead">Coupled microbiome analyses highlights relative functional roles of bacteria in a bivalve hatchery</span><br>
     <span class="listing-author">Emma Timmins-Schiffman, Samuel J. White, Rhonda Elliott Thompson, Brent Vadopalas, Benoit Eudeline, Brook L. Nunn &amp; Steven B. Roberts</span><br>
     <span class="listing-github fst-italic "></span>
@@ -534,7 +604,7 @@ ul.task-list li input[type="checkbox"] {
       <i class="bi bi-file-earmark-text"></i> eprint
     </a>
   </li>
-  <li data-index="15" data-categories="coral,methylation,nanopore,symbiosis,epigenetic" data-listing-file-modified-sort="1694721184532" data-listing-reading-time-sort="1.54">
+  <li data-index="15" data-categories="coral,methylation,nanopore,symbiosis,epigenetic" data-listing-file-modified-sort="1694139527558" data-listing-reading-time-sort="2">
     <span class="listing-title lead">DNA methylation profiling of a cnidarian-algal symbiosis using nanopore sequencing</span><br>
     <span class="listing-author">James L Dimond, Nhung Nguyen, Steven B Roberts</span><br>
     <span class="listing-github fst-italic "></span>
@@ -552,7 +622,7 @@ ul.task-list li input[type="checkbox"] {
       <i class="bi bi-file-earmark-zip"></i> Materials
     </a>
   </li>
-  <li data-index="16" data-categories="oyster,epigenetics,temperature" data-listing-file-modified-sort="1694721184532" data-listing-reading-time-sort="1.365">
+  <li data-index="16" data-categories="oyster,epigenetics,temperature" data-listing-file-modified-sort="1694139085474" data-listing-reading-time-sort="2">
     <span class="listing-title lead">Differentially methylated gene regions between resistant and susceptible heat-phenotypes of the Pacific oyster Crassostrea gigas</span><br>
     <span class="listing-author">Arredondo-Espinoza Roberto, Ibarra Ana M., Roberts B. Steven, Sicard-Gonzalez Maria Teresa, Escobedo-Fregoso Cristina</span><br>
     <span class="listing-github fst-italic "></span>
@@ -564,7 +634,7 @@ ul.task-list li input[type="checkbox"] {
       DOI
     </a>
   </li>
-  <li data-index="17" data-categories="Open Data Badge,coral,methylation,epigenetic" data-listing-file-modified-sort="1688678543740" data-listing-reading-time-sort="1.725">
+  <li data-index="17" data-categories="Open Data Badge,coral,methylation,epigenetic" data-listing-file-modified-sort="1688083560672" data-listing-reading-time-sort="2">
     <span class="listing-title lead">Invertebrate methylomes provide insight into mechanisms of environmental tolerance and reveal methodological biases</span><br>
     <span class="listing-author">Shelly A. Trigg, Yaamini R. Venkataraman, Mackenzie R. Gavery, Steven B. Roberts, Debashish Bhattacharya, Alan Downey-Wall, Jose M. Eirin-Lopez, Kevin M. Johnson, Katie E. Lotterhos, Jonathan B. Puritz and Hollie M. Putnam</span><br>
     <span class="listing-github fst-italic "></span>
@@ -585,7 +655,7 @@ ul.task-list li input[type="checkbox"] {
       <i class="bi bi-file-earmark-zip"></i> Materials
     </a>
   </li>
-  <li data-index="18" data-categories="Ostrea,reproduction,larvae,temperature,carryover" data-listing-file-modified-sort="1694721184533" data-listing-reading-time-sort="2.045">
+  <li data-index="18" data-categories="Ostrea,reproduction,larvae,temperature,carryover" data-listing-file-modified-sort="1694139398668" data-listing-reading-time-sort="3">
     <span class="listing-title lead">Latent effects of winter warming on Olympia oyster reproduction and larval viability</span><br>
     <span class="listing-author">Laura H. Spencer, Erin Horkan, Ryan Crim, Steven B. Roberts</span><br>
     <span class="listing-github fst-italic "></span>
@@ -600,7 +670,7 @@ ul.task-list li input[type="checkbox"] {
       <i class="bi bi-file-earmark-zip"></i> Materials
     </a>
   </li>
-  <li data-index="19" data-categories="oyster,acidificaiton,epigenetics,RNA-seq" data-listing-file-modified-sort="1694721184533" data-listing-reading-time-sort="1.77">
+  <li data-index="19" data-categories="oyster,acidificaiton,epigenetics,RNA-seq" data-listing-file-modified-sort="1694138865825" data-listing-reading-time-sort="2">
     <span class="listing-title lead">Oyster biomineralisation under ocean acidification: from genes to shell</span><br>
     <span class="listing-author">Chandra Rajan, K., Yuan, M., Yu, Z., Roberts, S.B. and Thiyagarajan, V. </span><br>
     <span class="listing-github fst-italic "></span>
@@ -935,7 +1005,7 @@ No matching items
     </div>
 </div>
 <ul class="pub-list list">
-  <li data-index="0" data-categories="oyster,proteomics,temperature,Pacific oyster,Crassostrea" data-listing-file-modified-sort="1688068938874" data-listing-reading-time-sort="1.225">
+  <li data-index="0" data-categories="oyster,proteomics,temperature,Pacific oyster,Crassostrea" data-listing-file-modified-sort="1687559655026" data-listing-reading-time-sort="2">
     <span class="listing-title lead">Proteomic response of early juvenile Pacific oysters (Crassostrea gigas) to temperature</span><br>
     <span class="listing-author">Crandall G, Elliott Thompson R, Eudeline B, Vadopalas B, Timmins-Schiffman E, Roberts S.</span><br>
     <span class="listing-github fst-italic "></span>
@@ -1100,9 +1170,23 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     icon: icon
   };
   anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
   const clipboard = new window.ClipboardJS('.code-copy-button', {
-    target: function(trigger) {
-      return trigger.previousElementSibling;
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
     }
   });
   clipboard.on('success', function(e) {
@@ -1167,6 +1251,92 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return note.innerHTML;
     });
   }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
   const findCites = (el) => {
     const parentEl = el.parentElement;
     if (parentEl) {

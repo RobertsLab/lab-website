@@ -7,10 +7,8 @@ author:
     orcid: 0000-0001-8302-1138
     affiliation: Professor, UW - School of Aquatic and Fishery Sciences
     affiliation-url: https://robertslab.info
-date: 07-24-2023
-categories: [ceabigr, R, tidyverse, ggplot, snp] # self-defined categories
-citation: 
- url: https://sr320.github.io/tumbling-oysters/posts/sr320-spencer-paper # self-defined
+date: 09-15-2023
+categories: [paper, acidication, oyster, ostrea, tag-seq] # self-defined categories
 image: https://gannet.fish.washington.edu/seashell/snaps/httpswww.biorxiv.orgcontent10.11012023.09.08.556443v1.full.pdf_2023-09-14_12-56-48.png # finding a good image
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 
@@ -37,34 +35,32 @@ The study focused on three phenotypically distinct populations of Olympia oyster
 
 ### Key Findings
 
-- **Dabob Bay Population**: Exhibited the slowest growth but had high survival rates. This population also mounted the largest transcriptional response to acidification without affecting its growth and reproduction.
-  
-- **Fidalgo Bay Population**: Exhibited the fastest growth rate but had the lowest fecundity. This population showed a moderate transcriptional response to acidification.
-  
-- **Oyster Bay Population**: Had the highest fecundity but the lowest survival rates. Interestingly, this population did not respond at the transcript level and was the only group where acidification negatively affected growth and reproductive development.
+-   **Dabob Bay Population**: Exhibited the slowest growth but had high survival rates. This population also mounted the largest transcriptional response to acidification without affecting its growth and reproduction.
 
-- **Next Generation Impact**: Acidification did not affect gene expression in the larval stage for any population, although the Oyster Bay population produced larger larvae, which might partly mitigate the negative effects of acidification.
+-   **Fidalgo Bay Population**: Exhibited the fastest growth rate but had the lowest fecundity. This population showed a moderate transcriptional response to acidification.
+
+-   **Oyster Bay Population**: Had the highest fecundity but the lowest survival rates. Interestingly, this population did not respond at the transcript level and was the only group where acidification negatively affected growth and reproductive development.
+
+-   **Next Generation Impact**: Acidification did not affect gene expression in the larval stage for any population, although the Oyster Bay population produced larger larvae, which might partly mitigate the negative effects of acidification.
 
 ### Why This Matters
 
 The findings are revolutionary for several reasons:
 
-1. **Conservation Implications**: Populations with distinct resilience levels offer natural reservoirs of biodiversity that can be targeted for conservation efforts.
-  
-2. **Food System Sustainability**: Understanding population-specific traits can help in developing more resilient aquaculture practices.
-  
-3. **Genetic Insights**: The study identified specific genes in the Dabob Bay population related to antibacterial and antiviral processes, metabolism, growth, and reproduction, providing crucial clues into the mechanisms of stress tolerance.
+1.  **Conservation Implications**: Populations with distinct resilience levels offer natural reservoirs of biodiversity that can be targeted for conservation efforts.
 
-4. **Microscale Variability**: The research underscores that distinct physiotypes can exist among marine invertebrate populations even on small geographic scales, which has far-reaching implications for species resilience to environmental stressors.
+2.  **Food System Sustainability**: Understanding population-specific traits can help in developing more resilient aquaculture practices.
+
+3.  **Genetic Insights**: The study identified specific genes in the Dabob Bay population related to antibacterial and antiviral processes, metabolism, growth, and reproduction, providing crucial clues into the mechanisms of stress tolerance.
+
+4.  **Microscale Variability**: The research underscores that distinct physiotypes can exist among marine invertebrate populations even on small geographic scales, which has far-reaching implications for species resilience to environmental stressors.
 
 ### Moving Forward
 
 The research paves the way for future studies that can focus on leveraging these population-specific responses for the betterment of marine ecosystems and human needs. The identified genetic markers can also be used in selective breeding programs to improve resilience against ocean acidification.
 
-We extend our heartfelt thanks to everyone involved in this vital research and look forward to the positive impact it will undoubtedly have in the fields of marine biology, environmental science, and beyond.
-
 #### Citation
+
 Laura H Spencer, Steven B Roberts, Katherine Silliman, "Population-specific effects of ocean acidification in the Olympia oyster," bioRxiv 2023.09.08.556443; [doi: 10.1101/2023.09.08.556443](https://doi.org/10.1101/2023.09.08.556443)
 
 Feel free to dive into the [full paper](https://doi.org/10.1101/2023.09.08.556443) for a more detailed understanding of our findings.
-

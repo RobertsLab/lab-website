@@ -2,19 +2,15 @@
   {
     "listing": "/index.html",
     "items": [
-      "/posts/notebook/sr320-03-grm/index.html",
-      "/posts/notebook/sr320-spencer-paper/index.html",
-      "/posts/notebook/sr320-02-qpcr/index.html"
+      "/posts/frontpage/sr320-spencer-paper/index.html"
     ]
   },
   {
     "listing": "/posts.html",
     "items": [
-      "/posts/notebook/sr320-spencer-paper/index.html",
-      "/posts/notebook/sr320-03-grm/index.html",
+      "/posts/frontpage/sr320-spencer-paper/index.html",
       "/posts/sr320-03-grm/index.html",
       "/posts/sr320-02-qpcr/index.html",
-      "/posts/notebook/sr320-02-qpcr/index.html",
       "/posts/sr320-01-mytilus/index.html",
       "/posts/2023-07-06-start/index.html"
     ]
