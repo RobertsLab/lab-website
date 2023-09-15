@@ -1,0 +1,59 @@
+---
+title: "The Double-Edged Sword of Triploidy in Pacific Oysters"
+description: "New Research Highlights Increased Vulnerability to Climate Stressors"
+author:
+  - name: Steven Roberts
+    url: https://sr320.github.io/
+    orcid: 0000-0001-8302-1138
+    affiliation: Professor, UW - School of Aquatic and Fishery Sciences
+    affiliation-url: https://robertslab.info
+date: 09-15-2023
+categories: [paper, acidication, oyster, ostrea, tag-seq] # self-defined categories
+image: http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Global_Change_Biology_-_2023_-_George_-_Triploid_Pacific_oysters_exhibit_stress_response_dysregulation_and_elevated.pdf_2023-09-14_18-15-06.png # finding a good image
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+
+format:
+  html:
+    code-fold: true
+    code-tools: true
+    code-copy: true
+    highlight-style: github
+    code-overflow: wrap
+---
+
+# The Double-Edged Sword of Triploidy in Pacific Oysters: New Research Highlights Increased Vulnerability to Climate Stressors 
+
+## Introduction
+
+The issue of climate change and its cascading effects on marine ecosystems is a growing concern for researchers, conservationists, and policymakers alike. One of the intriguing avenues of research in marine science involves the impact of polyploidy, a genetic variation where organisms have extra sets of chromosomes, on stress tolerance in marine species. A recent study led by Matthew N. George and Brent Vadopalas from the School of Aquatic & Fishery Sciences at the University of Washington, along with affiliations from the Environmental and Fisheries Sciences Division at the Northwest Fisheries Science Center, sheds new light on the vulnerability of triploid Pacific oysters to climate stressors.
+
+## Summary of the Paper
+
+The study, titled "Triploid Pacific oysters exhibit stress response dysregulation and elevated mortality following heatwaves," focuses on the comparison of diploid (2n) and triploid (3n) Pacific oysters (Crassostrea gigas) in response to environmental conditions akin to a heatwave. By exposing these oysters to different stressors such as elevated seawater temperature and aerial emersion, the researchers found that triploid oysters had a significantly higher mortality rate than their diploid counterparts when subjected to multiple stressors.
+
+### Key Findings
+
+1. **Higher Mortality Rates in Triploids**: The mortality rate in triploid oysters exposed to multiple stressors was 36.4% compared to 14.8% in diploid oysters.
+  
+2. **Metabolic and Physiological Limitations**: Triploid oysters showed signs of metabolic depression, a reduction in ctenidium Na+/K+ ATPase activity, and dysregulated expression of stress response genes.
+  
+3. **Functional Genomics Insights**: Gene sets enriched in biological processes like metabolism, stress tolerance, and immune function were disproportionately represented in triploids across stress treatments.
+
+### Implications for Marine Aquaculture and Food Security
+
+The increased vulnerability of triploid Pacific oysters to climate stressors has far-reaching implications. Triploidy is often induced to achieve reproductive control in species used for marine aquaculture. While this serves to boost production and control unwanted reproduction, the study highlights that it may also render these organisms more susceptible to environmental extremes. This, in turn, could impact food security in regions dependent on marine aquaculture.
+
+## Discussion and Future Directions
+
+The findings of this study present a clear need for further research to fully understand the complexities of triploidy and its relationship with environmental stress tolerance. As climate change continues to bring about more frequent and severe heatwaves, understanding the impact on marine organisms is crucial. Future research should explore the possibility of developing stress-resilient triploid species and consider alternative strategies for reproductive control in aquaculture.
+
+## Conclusion
+
+While triploidy offers some benefits for controlling reproduction in marine aquaculture, this genetic modification may inadvertently make these organisms more susceptible to the threats posed by climate change. As we continue to grapple with the realities of a changing climate, research like this serves as an invaluable resource for better understanding the complex interactions between genetic variation and environmental stressors, thereby informing both conservation strategies and aquaculture practices.
+
+
+#### Citation
+
+> George, M. N.,  Cattau, O.,  Middleton, M. A.,  Lawson, D.,  Vadopalas, B.,  Gavery, M., &  Roberts, S. B. (2023). Triploid Pacific oysters exhibit stress response dysregulation and elevated mortality following heatwaves. *Global Change Biology*,  00,  1--19. <https://doi.org/10.1111/gcb.16880>
+
+Feel free to dive into the [full paper](http://gannet.fish.washington.edu/seashell/snaps/Global_Change_Biology_-_2023_-_George_-_Triploid_Pacific_oysters_exhibit_stress_response_dysregulation_and_elevated.pdf) for a more detailed understanding of our findings.

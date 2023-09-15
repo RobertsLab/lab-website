@@ -7,7 +7,7 @@ publication: "Global Change Biology"
 preprint: "https://www.biorxiv.org/content/10.1101/2023.03.02.530828v1"
 doi: "https://doi.org/10.1111/gcb.16880"
 materials: ""
-eprint: ""
+eprint: "http://gannet.fish.washington.edu/seashell/snaps/Global_Change_Biology_-_2023_-_George_-_Triploid_Pacific_oysters_exhibit_stress_response_dysregulation_and_elevated.pdf"
 toc: FALSE
 categories:
   - oyster
