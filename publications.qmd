@@ -1,47 +1,46 @@
 ---
-title: "Papers"
-subtitle: "School of Aquiatic and Fishery Sciences - UW"
-title-block-banner: true
+pagetitle: "Publications | Roberts Lab"
+
+listing:
+  - id: articles
+    contents: "publications/articles/**.qmd"
+    template: ./ejs/article.ejs
+    categories: true
+    sort:
+      - "year desc"
+      - "title"
+    sort-ui: [title,author,publication,year]
+    filter-ui: [title,author,publication,year]
+    page-size: 30
+    field-display-names: 
+      publication: "Publication"
+      year: "Year"
+  - id: notebooks
+    contents: "publications/notebooks/**.qmd"
+    template: ./ejs/article.ejs
+    categories: false
+    sort:
+      - "year desc"
+      - "title"
+    sort-ui: [title,author,publication,year]
+    filter-ui: [title,author,publication,year]
+    page-size: 10
+    field-display-names: 
+      publication: "Publication"
 ---
 
-```{=html}
-<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
-```
-## Peer-Reviewed Publications
+# Publications
 
-see also <a href="#preprint">*preprints*</a> and [*Google Scholar*](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=aAoYWVUAAAAJ&view_op=list_works)
+Below you will find links to research papers. Recent papers can be searched by sorting and/or using filter function. Filter function works on author and title. Recent papers can also be identified by categories. See the table of contents at the right to jump to book chapters, preprints, theses, notebooks, and recent presentations. Search the entire website using the search icon in top right menu.
 
-Page in development: [publications02.qmd](publications02.qmd)
+# Recent Papers
 
-Katherine Silliman, Laura H Spencer, Samuel J White, Steven B Roberts (**2023**) [Epigenetic and genetic population structure is coupled in a marine invertebrate](https://doi.org/10.1093/gbe/evad013) Genome Biology and Evolution, 2023;, evad013 doi:10.1093/gbe/evad013 [Primary]{.badge .rounded-pill .bg-primary}
+_see also_: [Google Scholar](https://scholar.google.com/citations?hl=en&user=aAoYWVUAAAAJ&view_op=list_works&sortby=pubdate)
 
-Dang, X., Lim, Y.-K., Li, Y., Roberts, S. B., Li, L., & Thiyagarajan, V. (**2022**). [Epigenetic-associated phenotypic plasticity of the ocean acidification-acclimated edible oyster in the mariculture environment](https://doi.org/10.1111/mec.16751) Molecular Ecology, 00, 1-- 16. doi:10.1111/mec.16751
+::: {#articles}
+:::
 
-Crandall G, Elliott Thompson R, Eudeline B, Vadopalas B, Timmins-Schiffman E, Roberts S. (**2022**) [Proteomic response of early juvenile Pacific oysters (*Crassostrea gigas*) to temperature](https://doi.org/10.7717/peerj.14158) PeerJ 10:e14158 doi:10.7717/peerj.14158
-
-Hollie M. Putnam, Shelly A. Trigg, Samuel J. White, Laura H. Spencer, Brent Vadopalas, Aparna Natarajan, Jonathan Hetzel, Erich Jaeger, Jonathan Soohoo, Cristian Gallardo-Escárate, Frederick W. Goetz, Steven B. Roberts (**2022**) Dynamic DNA methylation contributes to carryover effects and beneficial acclimatization in geoduck clams. bioRxiv https://doi.org/10.1101/2022.06.24.497506
-
-Yaamini Venkataraman, Samuel J White and Steven Roberts (**2022**) [Differential DNA methylation in Pacific oyster reproductive tissue in response to ocean acidification](https://doi.org/10.1186/s12864-022-08781-5). BMC Genomics 23, 556 doi:10.1186/s12864-022-08781-5
-
-Samuel J. Gurr, Shelly A. Trigg, Brent Vadopalas, Steven B. Roberts, Hollie M. Putnam (**2022**) [Acclimatory gene expression of primed clams enhances robustness to elevated pCO2](https://doi.org/10.1111/mec.16644) Molecular Ecology. doi:10.1111/mec.16644
-
-Grace Crandall, Pamela C. Jensen, Samuel J. White, Steven Roberts (**2022**) [Characterization of the Gene Repertoire and Environmentally Driven Expression Patterns in Tanner Crab (*Chionoecetes bairdi*)](https://doi.org/10.1007/s10126-022-10100-8) Marine Biotechnology. doi:110.1007/s10126-022-10100-8
-
-Shelly A. Trigg, Yaamini R. Venkataraman, Mackenzie R. Gavery, Steven B. Roberts, Debashish Bhattacharya, Alan Downey-Wall, Jose M. Eirin-Lopez, Kevin M. Johnson, Katie E. Lotterhos, Jonathan B. Puritz and Hollie M. Putnam (**2021**) [Invertebrate methylomes provide insight into mechanisms of environmental tolerance and reveal methodological biases](https://doi.org/10.1111/1755-0998.13542) Molecular Ecology Resources. doi:10.1111/1755-0998.13542 [*pdf*](https://d.pr/f/LqAVdC)
-
-Laura H. Spencer, Erin Horkan, Ryan Crim, Steven B. Roberts (**2021**) [Latent effects of winter warming on Olympia oyster reproduction and larval viability](https://doi.org/10.1016/j.jembe.2021.151604) Journal of Experimental Marine Biology and Ecology. doi:10.1016/j.jembe.2021.151604
-
-James L Dimond, Nhung Nguyen, Steven B Roberts (**2021**) [DNA methylation profiling of a cnidarian-algal symbiosis using nanopore sequencing](https://doi.org/10.1093/g3journal/jkab148) G3 Genes\|Genomes\|Genetics, Volume 11, Issue 7, July 2021, doi:10.1093/g3journal/jkab148
-
-Samuel J. Gurr, Shelly A. Trigg, Brent Vadopalas, Steven B. Roberts, Hollie M. Putnam (**2021**) [Repeat exposure to hypercapnic seawater modifies growth and oxidative status in a tolerant burrowing clam](https://doi.org/10.1242/jeb.233932) J Exp Biol 1 July 2021; 224 (13) doi:10.1242/jeb.233932
-
-Arredondo-Espinoza Roberto, Ibarra Ana M., Roberts B. Steven, Sicard-Gonzalez Maria Teresa, Escobedo-Fregoso Cristina (**2021**) [Differentially methylated gene regions between resistant and susceptible heat-phenotypes of the Pacific oyster *Crassostrea gigas*](https://doi.org/10.1016/j.aquaculture.2021.736923) Aquaculture Vol 543. doi:10.1016/j.aquaculture.2021.736923
-
-Chandra Rajan, K., Yuan, M., Yu, Z., Roberts, S.B. and Thiyagarajan, V. (**2021**) [Oyster biomineralisation under ocean acidification: from genes to shell](https://doi.org/10.1111/gcb.15675) Global Change Biology. doi:10.1111/gcb.15675
-
-Emma Timmins-Schiffman, Samuel J. White, Rhonda Elliott Thompson, Brent Vadopalas, Benoit Eudeline, Brook L. Nunn & Steven B. Roberts. (**2021**) [Coupled microbiome analyses highlights relative functional roles of bacteria in a bivalve hatchery](https://doi.org/10.1186/s40793-021-00376-z) Environmental Microbiome 16, 7 doi:10.1186/s40793-021-00376-z
-
-Cristian Gallardo-Escárate, Valentina Valenzuela-Muñoz, Gustavo Nuñez-Acuña, Diego Valenzuela-Miranda, Ana Teresa Gonçalves, Hugo Escobar-Sepulveda, Ivan Liachko, Bradley Nelson, Steven Roberts & Wesley Warren. (**2021**) [Chromosome-scale genome assembly of the sea louse Caligus rogercresseyi by SMRT sequencing and Hi-C analysis](https://doi.org/10.1038/s41597-021-00842-w) Sci Data 8, 60 doi:10.1038/s41597-021-00842-w
+# Less Recent Papers (2020 and older)
 
 Shelly A. Trigg, Kaitlyn R. Mitchell, Rhonda Elliott Thompson, Benoit Eudeline, Brent Vadopalas, Emma B. Timmins-Schiffman & Steven B. Roberts. (**2020**) [Temporal proteomic profiling reveals insight into critical developmental processes and temperature-influenced physiological response differences in a bivalve mollusc](http://doi.org/10.1186/s12864-020-07127-3) BMC Genomics 21, 723 doi:10.1186/s12864-020-07127-3
 
@@ -174,10 +173,6 @@ Roberts SB, Hauser L, Seeb LW and Seeb JE (**2012**) [Development of genomic res
 
 Roberts SB and Gavery MR (**2012**) [Is there a relationship between DNA methylation and phenotypic plasticity in invertebrates?](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3249382/?tool=pubmed) Frontiers in Physiology 2:116. doi:10.3389/fphys.2011.00116
 
-<a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3249382/?tool=pubmed"><img src="http://c431376.r76.cf2.rackcdn.com/19155/fphys-02-00116-HTML/image_m/fphys-02-00116-g002.jpg" title="merv" class="aligncenter" width="300" height="154"/></a>
-
-</p>
-
 Gavery MR and Roberts SB (**2012**) [Characterizing short read sequencing for gene discovery and RNA-Seq analysis in Crassostrea gigas](http://www.sciencedirect.com/science/article/pii/S1744117X11001018) Comparative Biochemistry and Physiology Part D: Genomics and Proteomics 7:2 94-99. doi:10.1016/j.cbd.2011.12.003
 
 Morera D, Roher N, Ribas L, Balasch JC, Doñate C, Callol A, Boltaña A, Roberts SB, Goetz G, Goetz FW and Mackenzie SA. (**2011**) [RNA-Seq reveals an integrated immune response in nucleated erythrocytes](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0026998) PLoS ONE 6(10): e26998. doi:10.1371/journal.pone.0026998
@@ -191,10 +186,6 @@ Seeb JE, Pascal CE, Graue ED, Seeb LW, Templin WD, Harkins T and Roberts SB. (**
 Gavery MR and Roberts SB. (**2010**) [DNA methylation patterns provide insight into epigenetic regulation in the Pacific oyster (*Crassostrea gigas*)](http://www.biomedcentral.com/1471-2164/11/483) BMC Genomics 11:483. doi:10.1186/1471-2164-11-483
 
 Mathger L, Roberts SB, and Hanlon R. (**2010**) [Evidence for distributed light sensing in the skin of cuttlefish, *Sepia officinalis*](http://rsbl.royalsocietypublishing.org/content/6/5/600.long) Biology Letters. doi: 10.1098/rsbl.2010.0223
-
-<img src="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2936158/bin/rsbl20100223-g1.jpg" title="sepia" class="alignright" width="266" height="211"/>
-
-</p>
 
 Goetz FW, Rosauer D, Sitar S, Goetz G, Simchick C, Roberts SB, Johnson R, Murphy C, Bronte C, and Mackenzie S. (**2010**) [A genetic basis for the phenotypic differentiation between siscowet and lean lake trout (*Salvelinus namaycush*)](http://onlinelibrary.wiley.com/doi/10.1111/j.1365-294X.2009.04481.x/abstract) Molecular Ecology 19 176--196.
 
@@ -264,7 +255,7 @@ Roberts SB, Jackson LF, King WK, Taylor RG, Grier HJ, Sullivan CV. (**1999**) [A
 
 ------------------------------------------------------------------------
 
-<a id="book"> \## Book Chapters</a>
+# Book Chapters
 
 Moreira Sanmartín R, Roberts SB, Figueras A. (2016) [Molluscs. pages 223-245, in Genomics in Aquaculture](http://www.sciencedirect.com/science/book/9780128014189). Editors: Simon A. MacKenzie and Sissel Jentoft. ISBN: 978-0-12-801418-9
 
@@ -272,7 +263,7 @@ Gavery, M., & Roberts, S. (2018). [Genetics & Epigenetics in Life History and Re
 
 ------------------------------------------------------------------------
 
-<a id="preprint"> \## PrePrints</a>
+# Preprints
 
 Shelly A Trigg, Kaitlyn R Mitchell, Rhonda Elliott Thompson, Benoit Eudeline, Brent Vadopalas, Emma B Timmins-Schiffman, Steven B Roberts (2020). Temporal proteomic profiling reveals insight into critical devleopmental processes and temperature-influenced physiological response differences in a bivalve mollusc. **bioRxiv**. https://doi.org/10.1101/2020.06.05.137059
 
@@ -332,7 +323,7 @@ Thompson R and Roberts SB (**preprint**) Influence of carbon dioxide-induced aci
 
 ------------------------------------------------------------------------
 
-<a id="theses"> \## Theses</a>
+# Theses
 
 Patterns, dynamics, and potential roles of DNA methylation in reef corals and their allies. James Dimond. 2019 <http://hdl.handle.net/1773/44815>
 
@@ -353,3 +344,77 @@ Genetic and phenotypic diversity in sockeye salmon, <em>Oncorhynchus nerka</em>.
 Characterizing the effects of ocean acidification in larval and juvenile Manila clam, <em>Ruditapes philippinarum</em>, using a transcriptomic approach. David Metzger. 2012 <a href="http://fish.washington.edu/research/publications/ms_phd/Metzger_D_MS_Sp12.pdf"> download</a>
 
 ------------------------------------------------------------------------
+
+# Notebooks
+
+
+| Person               | Notebook                                                                    | Commitment                                                                                                                                                  |
+|---------------|------------------|---------------------------------------|
+| Steven Roberts       | [sr320.github.io](https://sr320.github.io/)                                 | ![GitHub last commit](https://img.shields.io/github/last-commit/sr320/sr320.github.io)                                                                      |
+| Sam White            | [robertslab.github.io](https://robertslab.github.io/sams-notebook/)         | ![GitHub last commit](https://img.shields.io/github/last-commit/RobertsLab/sams-notebook)                                                                   |
+| Matt George          | [mattgeorgephd.github.io](https://mattgeorgephd.github.io/notebook/)        | ![GitHub last commit](https://img.shields.io/github/last-commit/mattgeorgephd/mattgeorgephd.github.io)                                                      |
+| Aidan Coyle          | [afcoyle.github.io](https://afcoyle.github.io)                              | ![GitHub last commit](https://img.shields.io/github/last-commit/afcoyle/afcoyle.github.io)                                                                  |
+| Olivia Cattau        | [ocattau.github.io](https://ocattau.github.io)                              | ![GitHub last commit](https://img.shields.io/github/last-commit/ocattau/ocattau.github.io)                                                                  |
+| Delaney Lawson       | [drlawson.github.io](https://drlawson.github.io)                            | ![GitHub last commit](https://img.shields.io/github/last-commit/drlawson/drlawson.github.io)                                                                |
+| Ariana Huffmyer      | [ahuffmyer.github.io](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/) | ![GitHub last commit](https://img.shields.io/github/last-commit/AHuffmyer/ASH_Putnam_Lab_Notebook)                                                          |
+| Larken Root          | [larkenr.github.io](https://github.com/larkenr/larkenr.github.io)           | ![GitHub last commit](https://img.shields.io/github/last-commit/larkenr/larkenr.github.io)                                                                  |
+| Laura Spencer        | [laurahspencer.github.io](https://laurahspencer.github.io/LabNotebook/)     | [![GitHub followers](https://img.shields.io/github/followers/laurahspencer.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/laurahspencer) |
+| Yaamini Venkataraman | [yaaminiv.github.io](https://yaaminiv.github.io/)                           | [![GitHub followers](https://img.shields.io/github/followers/yaaminiv.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/yaaminiv)           |
+| Grace Crandall       | [grace-ac.github.io](https://grace-ac.github.io/)                           | [![GitHub followers](https://img.shields.io/github/followers/grace-ac.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/grace-ac)           |
+| Shelly Trigg         | [shellytrigg.github.io/notebook](https://shellytrigg.github.io/notebook/)   | [![GitHub followers](https://img.shields.io/github/followers/shellytrigg.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/shellytrigg)     |
+| Celeste Valdivia     | [valeste.github.io](https://valeste.github.io/)                             | ![GitHub last commit](https://img.shields.io/github/last-commit/valeste/valeste.github.io)                                                                  |
+
+------------------------------------------------------------------------
+
+# Recent Presentations
+
+#### 2023
+
+-   [Triploid Pacific oysters experience enhanced mortality following marine heatwaves]() Presentation. National Shellfish Association Annual Meeting, Baltimore, MD, March 30, 2023.
+
+-   [Ploidy mediates the stress response of Pacific oysters following marine heatwave exposure]() Presentation. Plant and Animal Genome Conference, San Diego, CA, January 14, 2023.
+
+-   [Triploid Pacific oysters exhibit stress response dysregulation and elevated mortality following marine heatwaves]() Presentation. NOAA Fisheries Northwest Fisheries Science Center Physiology Group Meeting, Seattle, WA, January 11, 2023.
+
+#### 2022
+
+-   [Mechanisms of tilapia salinity tolerance at the limits of osmoregulation](https://github.com/larkenr/larkenr.github.io/blob/master/NOAA%20physiology%20meeting.pdf) Presentation. NOAA physiology program monthly meeting, Virtual, March 3, 2022.
+
+-   [Yellow Island Intertidal Ecological Monitoring](https://github.com/ChrisMantegna/Yellow-Island/blob/69d21b1f1d52ba1bb2604e1ba387e0764242c50a/Yellow%20Island%20NWSC%20Presentation.pdf) Presentation. NWStraits Commission meeting, Virtual, August 12, 2022.
+
+-   [Comparative Response of Littleneck and Manila Clams from the Puget Sound to Ocean Acidification Conditions: Year 1](https://github.com/larkenr/Clam-OA-project/blob/main/PCSGA%20sept%2022.pdf) Presentation. Pacific Coast Shellfish Growers Association (PCSGA) annual meeting, Wenatchee, September 20, 2022.
+
+-   [Using aquaculture to turn the tide on aquatic ecosystem collapse](https://github.com/larkenr/larkenr.github.io/blob/master/UPS%20science%20seminar.pdf) Presentation. University of Puget Sound Weekly Science Seminar, Thompson Hall, September 29, 2022.
+
+-   [Physiological and multi-omic signatures of shifts in symbiotic nutritional exchange in reef-building coral early life history](https://github.com/AHuffmyer/presentations/blob/master/2022/Benthics_Huffmyer_2022.pdf) Presentation. Benthic Ecology Meeting. Portsmouth, New Hampshire. March 2022.
+
+-   [Understanding shifts in symbiotic and physiological state in reef- building corals across developmental and environmental gradients](https://github.com/AHuffmyer/presentations/blob/master/2022/OldDominion_Seminar_Huffmyer_2022.pdf) Virtual seminar. Old Dominion University. December 2022.
+
+-   [Multi-omic approaches to understand reef coral development and symbiosis](https://github.com/AHuffmyer/presentations/blob/master/2022/UW_eScience_Seminar_Huffmyer_2022.pdf) Virtual seminar. University of Washington eScience Institute Postdoctoral Seminar Series. November 2022.
+
+-   [The contribution of summer heatwaves to 'triploid mortality' events observed during commercial pacific oyster production in Washington State](https://github.com/mattgeorgephd/NOPP-gigas-ploidy-temp/blob/2ce2524f71c3b7a3344ce185f5c81e4f1cee6349/presentations/Aqua_2022.pdf) Presentation. The Society of Integrative and Comparative Biology, Virtual, January 4, 2022.
+
+#### 2021
+
+-   [Diversity in animal response to environmental change](https://github.com/shellytrigg/talk-Coast2Coast2021) Presentation. Academic Data Science Alliance (ADSA) 2021 Data Science Coast to Coast Seminar Series, Virtual May 19, 2021 3pm.
+
+-   [Exploring the tolerance of Pacific geoduck to low pH through comparative physiology, genomics, and DNA methylation](https://github.com/shellytrigg/talk-SICB2020) Presentation. The Society for Integrative and Comparative Biology (SICB) 2021 Annual Meeting, Virtual January - February 2021
+
+-   [A perspective on DNA methylation in bivalves](https://github.com/sr320/talk-sicb-2021) Presentation. The Society for Integrative and Comparative Biology (SICB) 2021 Annual Meeting, Virtual January - February 2021
+
+-   [How do dynamic conditions shape coral symbiosis and metabolism and drive energetic-epigenetic linkages?](https://github.com/AHuffmyer/presentations/blob/master/2021/MCR_AIM_Huffmyer_2021.pdf) Presentation. 2021 Moorea Coral Reef Long Term Ecological Research All Invesitgator Meeting. November 2021.
+
+#### 2020
+
+-   [Harnessing the power of single-cell RNA sequencing to control reproductive development in bivalves](https://d.pr/IC8n80) 74th Annual Pacific Coast Shellfish Growers Association Conference, Virtual October 2020
+
+-   [Carryover effects of winter warming in the Olympia oyster](https://doi.org/10.6084/m9.figshare.13224911.v3). Presentation. 74th Annual Pacific Coast Shellfish Growers Association Conference, Virtual October 2020
+
+-   [Oysters, Ocean Acidification, and -Omics](https://doi.org/10.6084/m9.figshare.13198262) Presentation, Friday Harbor Laboratories Summer Seminar Series, June 2020
+
+-   [Influence of ocean acidification on eastern (*Crassostrea virginica*) and Pacific oyster (*Crassostrea gigas*) DNA methylation](https://doi.org/10.6084/m9.figshare.11868231.v1) Poster, Ocean Sciences Meeting 2020, San Diego, CA February 2020
+
+-   [DNA methylation associations with growth rate in Olympia oyster populations](https://doi.org/10.6084/m9.figshare.11857854.v1) presentation, Aquaculture America 2020, Honolulu, HI, February 2020
+
+-   [Influence of ocean acidification on DNA methylation patterns in geoduck](https://github.com/shellytrigg/talk-pag2020) Presentation, The Plant and Animal Genome XXVII Conference (PAG), San Diego, CA, January 2020
+

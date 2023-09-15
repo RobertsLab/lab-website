@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>robertslab.info - Papers</title>
+<title>Publications | Roberts Lab</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,6 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -60,7 +62,66 @@ ul.task-list li input[type="checkbox"] {
     "search-submit-button-title": "Submit"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-articles .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-project','listing-website','listing-format','listing-editor','listing-language','listing-title','listing-type','listing-author','listing-year','listing-publication','listing-preprint','listing-doi','listing-materials','listing-eprint','listing-toc','listing-categories','listing-path','listing-outputHref','listing-description','listing-filename','listing-file-modified','listing-reading-time',{ data: ['index'] },{ data: ['categories'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-publication","listing-year"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-articles'] = new List('listing-articles', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-notebooks .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-project','listing-website','listing-format','listing-editor','listing-language','listing-title','listing-type','listing-author','listing-year','listing-publication','listing-preprint','listing-doi','listing-materials','listing-eprint','listing-toc','listing-categories','listing-path','listing-outputHref','listing-description','listing-filename','listing-file-modified','listing-reading-time',{ data: ['index'] },{ data: ['categories'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-publication","listing-year"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-notebooks'] = new List('listing-notebooks', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -121,7 +182,7 @@ ul.task-list li input[type="checkbox"] {
             </a>
           </li>
           <li>
-            <a class="dropdown-item quarto-navbar-tools ms-auto-item" href="https://github.com/sr320/lab-website">
+            <a class="dropdown-item quarto-navbar-tools ms-auto-item" href="https://github.com/RobertsLab/lab-website">
             Edit this site
             </a>
           </li>
@@ -138,7 +199,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Papers</li></ol></nav>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./research.html">Research</a></li><li class="breadcrumb-item"><a href="./publications.html">Publications</a></li></ol></nav>
       <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
       </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -148,24 +209,7 @@ ul.task-list li input[type="checkbox"] {
   </nav>
 </header>
 <!-- content -->
-<header id="title-block-header" class="quarto-title-block default page-columns page-full">
-  <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-body">
-      <h1 class="title">Papers</h1>
-            <p class="subtitle lead">School of Aquiatic and Fishery Sciences - UW</p>
-                      </div>
-  </div>
-    
-  
-  <div class="quarto-title-meta">
-
-      
-    
-      
-    </div>
-    
-  
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal sidebar-navigation docked overflow-auto">
         <div class="mt-2 flex-shrink-0 align-items-center">
@@ -178,12 +222,35 @@ ul.task-list li input[type="checkbox"] {
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">
- <span class="menu-text">People</span></a>
+ <span class="menu-text">Research</span></a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./research.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Projects</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./publications.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text">Publications</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true">
+ <span class="menu-text">People</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./people.html" class="sidebar-item-text sidebar-link">
@@ -194,29 +261,6 @@ ul.task-list li input[type="checkbox"] {
   <div class="sidebar-item-container"> 
   <a href="./collaborators.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Collaborators</span></a>
-  </div>
-</li>
-      </ul>
-  </li>
-        <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true">
- <span class="menu-text">Research</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true" aria-label="Toggle section">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./research02.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Projects</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./publications02.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Publications</span></a>
   </div>
 </li>
       </ul>
@@ -272,36 +316,383 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#peer-reviewed-publications" id="toc-peer-reviewed-publications" class="nav-link active" data-scroll-target="#peer-reviewed-publications">Peer-Reviewed Publications</a></li>
+  <li><a href="#publications" id="toc-publications" class="nav-link active" data-scroll-target="#publications">Publications</a></li>
+  <li><a href="#recent-papers" id="toc-recent-papers" class="nav-link" data-scroll-target="#recent-papers">Recent Papers</a></li>
+  <li><a href="#less-recent-papers-2020-and-older" id="toc-less-recent-papers-2020-and-older" class="nav-link" data-scroll-target="#less-recent-papers-2020-and-older">Less Recent Papers (2020 and older)</a></li>
+  <li><a href="#book-chapters" id="toc-book-chapters" class="nav-link" data-scroll-target="#book-chapters">Book Chapters</a></li>
+  <li><a href="#preprints" id="toc-preprints" class="nav-link" data-scroll-target="#preprints">Preprints</a></li>
+  <li><a href="#theses" id="toc-theses" class="nav-link" data-scroll-target="#theses">Theses</a></li>
+  <li><a href="#notebooks" id="toc-notebooks" class="nav-link" data-scroll-target="#notebooks">Notebooks</a></li>
+  <li><a href="#recent-presentations" id="toc-recent-presentations" class="nav-link" data-scroll-target="#recent-presentations">Recent Presentations</a></li>
   </ul>
 </nav>
-    </div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(21)</span></div><div class="category" data-category="Caligus">Caligus <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Chionoecetes bairdi">Chionoecetes bairdi <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Crassostrea">Crassostrea <span class="quarto-category-count">(4)</span></div><div class="category" data-category="Hematodinium">Hematodinium <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Open Data Badge">Open Data Badge <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Ostrea">Ostrea <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Pacific oyster">Pacific oyster <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Panopea">Panopea <span class="quarto-category-count">(3)</span></div><div class="category" data-category="RNA-sea">RNA-sea <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RNA-seq">RNA-seq <span class="quarto-category-count">(3)</span></div><div class="category" data-category="SNP">SNP <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Tag-seq">Tag-seq <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TagSeq">TagSeq <span class="quarto-category-count">(1)</span></div><div class="category" data-category="acidificaiton">acidificaiton <span class="quarto-category-count">(1)</span></div><div class="category" data-category="acidification">acidification <span class="quarto-category-count">(3)</span></div><div class="category" data-category="biodiversity">biodiversity <span class="quarto-category-count">(1)</span></div><div class="category" data-category="bitter crab disease">bitter crab disease <span class="quarto-category-count">(1)</span></div><div class="category" data-category="carryover">carryover <span class="quarto-category-count">(1)</span></div><div class="category" data-category="climate">climate <span class="quarto-category-count">(1)</span></div><div class="category" data-category="coral">coral <span class="quarto-category-count">(2)</span></div><div class="category" data-category="epigenetic">epigenetic <span class="quarto-category-count">(6)</span></div><div class="category" data-category="epigenetics">epigenetics <span class="quarto-category-count">(2)</span></div><div class="category" data-category="genome">genome <span class="quarto-category-count">(3)</span></div><div class="category" data-category="geoduck">geoduck <span class="quarto-category-count">(4)</span></div><div class="category" data-category="larvae">larvae <span class="quarto-category-count">(1)</span></div><div class="category" data-category="metagenomics">metagenomics <span class="quarto-category-count">(1)</span></div><div class="category" data-category="metaproteomics">metaproteomics <span class="quarto-category-count">(1)</span></div><div class="category" data-category="methylation">methylation <span class="quarto-category-count">(6)</span></div><div class="category" data-category="microbiome">microbiome <span class="quarto-category-count">(1)</span></div><div class="category" data-category="mussel">mussel <span class="quarto-category-count">(1)</span></div><div class="category" data-category="nanopore">nanopore <span class="quarto-category-count">(1)</span></div><div class="category" data-category="oyster">oyster <span class="quarto-category-count">(10)</span></div><div class="category" data-category="proteomics">proteomics <span class="quarto-category-count">(2)</span></div><div class="category" data-category="reproduction">reproduction <span class="quarto-category-count">(1)</span></div><div class="category" data-category="symbiosis">symbiosis <span class="quarto-category-count">(1)</span></div><div class="category" data-category="temperature">temperature <span class="quarto-category-count">(6)</span></div><div class="category" data-category="transcriptomic">transcriptomic <span class="quarto-category-count">(1)</span></div><div class="category" data-category="triploid">triploid <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
-<main class="content quarto-banner-title-block" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
 
 
 
+<section id="publications" class="level1">
+<h1>Publications</h1>
+<p>Below you will find links to research papers. Recent papers can be searched by sorting and/or using filter function. Filter function works on author and title. Recent papers can also be identified by categories. See the table of contents at the right to jump to book chapters, preprints, theses, notebooks, and recent presentations. Search the entire website using the search icon in top right menu.</p>
+</section>
+<section id="recent-papers" class="level1">
+<h1>Recent Papers</h1>
+<p><em>see also</em>: <a href="https://scholar.google.com/citations?hl=en&amp;user=aAoYWVUAAAAJ&amp;view_op=list_works&amp;sortby=pubdate">Google Scholar</a></p>
+<div id="listing-articles" class="quarto-listing quarto-listing-container-custom">
+<div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+     <select id="listing-articles-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-articles'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+       <option value="" disabled="" selected="" hidden="">Order By</option>
+       <option value="index" data-direction="asc">Default</option>
+         <option value="listing-title" data-direction="asc">
+          Title
+        </option>
+         <option value="listing-author" data-direction="asc">
+          Author
+        </option>
+         <option value="listing-publication" data-direction="asc">
+          Publication
+        </option>
+         <option value="listing-year" data-direction="asc">
+          Year
+        </option>
+     </select>
+  </div>
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
+</div>
 
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<section id="peer-reviewed-publications" class="level2">
-<h2 class="anchored" data-anchor-id="peer-reviewed-publications">Peer-Reviewed Publications</h2>
-<p>see also <a href="#preprint"><em>preprints</em></a> and <a href="https://scholar.google.com/citations?sortby=pubdate&amp;hl=en&amp;user=aAoYWVUAAAAJ&amp;view_op=list_works"><em>Google Scholar</em></a></p>
-<p>Page in development: <a href="./publications02.html">publications02.qmd</a></p>
-<p>Katherine Silliman, Laura H Spencer, Samuel J White, Steven B Roberts (<strong>2023</strong>) <a href="https://doi.org/10.1093/gbe/evad013">Epigenetic and genetic population structure is coupled in a marine invertebrate</a> Genome Biology and Evolution, 2023;, evad013 doi:10.1093/gbe/evad013 <span class="badge rounded-pill bg-primary">Primary</span></p>
-<p>Dang, X., Lim, Y.-K., Li, Y., Roberts, S. B., Li, L., &amp; Thiyagarajan, V. (<strong>2022</strong>). <a href="https://doi.org/10.1111/mec.16751">Epigenetic-associated phenotypic plasticity of the ocean acidification-acclimated edible oyster in the mariculture environment</a> Molecular Ecology, 00, 1– 16. doi:10.1111/mec.16751</p>
-<p>Crandall G, Elliott Thompson R, Eudeline B, Vadopalas B, Timmins-Schiffman E, Roberts S. (<strong>2022</strong>) <a href="https://doi.org/10.7717/peerj.14158">Proteomic response of early juvenile Pacific oysters (<em>Crassostrea gigas</em>) to temperature</a> PeerJ 10:e14158 doi:10.7717/peerj.14158</p>
-<p>Hollie M. Putnam, Shelly A. Trigg, Samuel J. White, Laura H. Spencer, Brent Vadopalas, Aparna Natarajan, Jonathan Hetzel, Erich Jaeger, Jonathan Soohoo, Cristian Gallardo-Escárate, Frederick W. Goetz, Steven B. Roberts (<strong>2022</strong>) Dynamic DNA methylation contributes to carryover effects and beneficial acclimatization in geoduck clams. bioRxiv https://doi.org/10.1101/2022.06.24.497506</p>
-<p>Yaamini Venkataraman, Samuel J White and Steven Roberts (<strong>2022</strong>) <a href="https://doi.org/10.1186/s12864-022-08781-5">Differential DNA methylation in Pacific oyster reproductive tissue in response to ocean acidification</a>. BMC Genomics 23, 556 doi:10.1186/s12864-022-08781-5</p>
-<p>Samuel J. Gurr, Shelly A. Trigg, Brent Vadopalas, Steven B. Roberts, Hollie M. Putnam (<strong>2022</strong>) <a href="https://doi.org/10.1111/mec.16644">Acclimatory gene expression of primed clams enhances robustness to elevated pCO2</a> Molecular Ecology. doi:10.1111/mec.16644</p>
-<p>Grace Crandall, Pamela C. Jensen, Samuel J. White, Steven Roberts (<strong>2022</strong>) <a href="https://doi.org/10.1007/s10126-022-10100-8">Characterization of the Gene Repertoire and Environmentally Driven Expression Patterns in Tanner Crab (<em>Chionoecetes bairdi</em>)</a> Marine Biotechnology. doi:110.1007/s10126-022-10100-8</p>
-<p>Shelly A. Trigg, Yaamini R. Venkataraman, Mackenzie R. Gavery, Steven B. Roberts, Debashish Bhattacharya, Alan Downey-Wall, Jose M. Eirin-Lopez, Kevin M. Johnson, Katie E. Lotterhos, Jonathan B. Puritz and Hollie M. Putnam (<strong>2021</strong>) <a href="https://doi.org/10.1111/1755-0998.13542">Invertebrate methylomes provide insight into mechanisms of environmental tolerance and reveal methodological biases</a> Molecular Ecology Resources. doi:10.1111/1755-0998.13542 <a href="https://d.pr/f/LqAVdC"><em>pdf</em></a></p>
-<p>Laura H. Spencer, Erin Horkan, Ryan Crim, Steven B. Roberts (<strong>2021</strong>) <a href="https://doi.org/10.1016/j.jembe.2021.151604">Latent effects of winter warming on Olympia oyster reproduction and larval viability</a> Journal of Experimental Marine Biology and Ecology. doi:10.1016/j.jembe.2021.151604</p>
-<p>James L Dimond, Nhung Nguyen, Steven B Roberts (<strong>2021</strong>) <a href="https://doi.org/10.1093/g3journal/jkab148">DNA methylation profiling of a cnidarian-algal symbiosis using nanopore sequencing</a> G3 Genes|Genomes|Genetics, Volume 11, Issue 7, July 2021, doi:10.1093/g3journal/jkab148</p>
-<p>Samuel J. Gurr, Shelly A. Trigg, Brent Vadopalas, Steven B. Roberts, Hollie M. Putnam (<strong>2021</strong>) <a href="https://doi.org/10.1242/jeb.233932">Repeat exposure to hypercapnic seawater modifies growth and oxidative status in a tolerant burrowing clam</a> J Exp Biol 1 July 2021; 224 (13) doi:10.1242/jeb.233932</p>
-<p>Arredondo-Espinoza Roberto, Ibarra Ana M., Roberts B. Steven, Sicard-Gonzalez Maria Teresa, Escobedo-Fregoso Cristina (<strong>2021</strong>) <a href="https://doi.org/10.1016/j.aquaculture.2021.736923">Differentially methylated gene regions between resistant and susceptible heat-phenotypes of the Pacific oyster <em>Crassostrea gigas</em></a> Aquaculture Vol 543. doi:10.1016/j.aquaculture.2021.736923</p>
-<p>Chandra Rajan, K., Yuan, M., Yu, Z., Roberts, S.B. and Thiyagarajan, V. (<strong>2021</strong>) <a href="https://doi.org/10.1111/gcb.15675">Oyster biomineralisation under ocean acidification: from genes to shell</a> Global Change Biology. doi:10.1111/gcb.15675</p>
-<p>Emma Timmins-Schiffman, Samuel J. White, Rhonda Elliott Thompson, Brent Vadopalas, Benoit Eudeline, Brook L. Nunn &amp; Steven B. Roberts. (<strong>2021</strong>) <a href="https://doi.org/10.1186/s40793-021-00376-z">Coupled microbiome analyses highlights relative functional roles of bacteria in a bivalve hatchery</a> Environmental Microbiome 16, 7 doi:10.1186/s40793-021-00376-z</p>
-<p>Cristian Gallardo-Escárate, Valentina Valenzuela-Muñoz, Gustavo Nuñez-Acuña, Diego Valenzuela-Miranda, Ana Teresa Gonçalves, Hugo Escobar-Sepulveda, Ivan Liachko, Bradley Nelson, Steven Roberts &amp; Wesley Warren. (<strong>2021</strong>) <a href="https://doi.org/10.1038/s41597-021-00842-w">Chromosome-scale genome assembly of the sea louse Caligus rogercresseyi by SMRT sequencing and Hi-C analysis</a> Sci Data 8, 60 doi:10.1038/s41597-021-00842-w</p>
+<ul class="pub-list list">
+  <li data-index="0" data-categories="climate,biodiversity" data-listing-file-modified-sort="1694139711429" data-listing-reading-time-sort="2">
+    <span class="listing-title lead">Characterizing biological responses to climate variability and extremes to improve biodiversity projections</span><br>
+    <span class="listing-author">Lauren B Buckley, Emily Carrington, Michael E Dillon, Carlos García-Robledo, Steven B Roberts, Jill L Wegrzyn, Mark C Urban</span><br>
+    <span class="listing-github fst-italic "></span>
+    <span class="listing-year">(2023)</span><br>
+    <a href="./publications/articles/buckley2023.html" class="btn btn-primary">
+      Details
+    </a>
+    <a href="https://doi.org/10.1371/journal.pclm.0000226" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
+      DOI
+    </a>
+    <a href="https://journals.plos.org/climate/article/file?id=10.1371/journal.pclm.0000226&amp;type=printable" class="btn btn-outline-success" target="_blank" rel="noopener noreferrer">
+      <i class="bi bi-file-earmark-text"></i> eprint
+    </a>
+  </li>
+  <li data-index="1" data-categories="mussel,genome" data-listing-file-modified-sort="1694139842451" data-listing-reading-time-sort="2">
+    <span class="listing-title lead">Chromosome-Level Genome Assembly of the Blue Mussel Mytilus chilensis Reveals Molecular Signatures Facing the Marine Environment</span><br>
+    <span class="listing-author">Cristian Gallardo-Escárate, Valentina Valenzuela-Muñoz, Gustavo Nuñez-Acuña, Diego Valenzuela-Miranda, Fabian J Tapia, Marco Yévenes, Gonzalo Gajardo, Jorge E Toro, Pablo A Oyarzún, Gloria Arriagada, Beatriz Novoa, Antonio Figueras, Steven Roberts, Marco Gerdol</span><br>
+    <span class="listing-github fst-italic "></span>
+    <span class="listing-year">(2023)</span><br>
+    <a href="./publications/articles/gallardo2023.html" class="btn btn-primary">
+      Details
+    </a>
+    <a href="https://doi.org/10.3390/genes14040876" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
+      DOI
+    </a>
+    <a href="https://www.mdpi.com/2073-4425/14/4/876/pdf?version=1681087003" class="btn btn-outline-success" target="_blank" rel="noopener noreferrer">
+      <i class="bi bi-file-earmark-text"></i> eprint
+    </a>
+  </li>
+  <li data-index="2" data-categories="oyster,methylation,SNP,epigenetic,Ostrea" data-listing-file-modified-sort="1694140050873" data-listing-reading-time-sort="2">
+    <span class="listing-title lead">Epigenetic and genetic population structure is coupled in a marine invertebrate</span><br>
+    <span class="listing-author">Katherine Silliman, Laura H Spencer, Samuel J White, Steven B Roberts</span><br>
+    <span class="listing-github fst-italic "></span>
+    <span class="listing-year">(2023)</span><br>
+    <a href="./publications/articles/silliman2023.html" class="btn btn-primary">
+      Details
+    </a>
+    <a href="https://doi.org/10.1093%2Fgbe%2Fevad013" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
+      DOI
+    </a>
+    <a href="https://doi.org/10.1101/2022.03.23.485415" class="btn btn-light" target="_blank" rel="noopener noreferrer">
+      <i class="bi bi-file-earmark-text"></i> Preprint
+    </a>
+    <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10468963/pdf/evad013.pdf" class="btn btn-outline-success" target="_blank" rel="noopener noreferrer">
+      <i class="bi bi-file-earmark-text"></i> eprint
+    </a>
+    <a href="https://doi.org/10.5281/zenodo.7083311" class="btn btn-light" target="_blank" rel="noopener noreferrer">
+      <i class="bi bi-file-earmark-zip"></i> Materials
+    </a>
+  </li>
+  <li data-index="3" data-categories="oyster,Tag-seq,Ostrea" data-listing-file-modified-sort="1694629966924" data-listing-reading-time-sort="2">
+    <span class="listing-title lead">Population-specific effects of ocean acidification in the Olympia oyster</span><br>
+    <span class="listing-author">Laura H Spencer, Steven B Roberts, Katherine Silliman, </span><br>
+    <span class="listing-github fst-italic "></span>
+    <span class="listing-year">(2023)</span><br>
+    <a href="./publications/articles/spencer2023.html" class="btn btn-primary">
+      Details
+    </a>
+    <a href="https://www.biorxiv.org/content/10.1101/2023.09.08.556443v1" class="btn btn-light" target="_blank" rel="noopener noreferrer">
+      <i class="bi bi-file-earmark-text"></i> Preprint
+    </a>
+    <a href="https://www.biorxiv.org/content/10.1101/2023.09.08.556443v1.full.pdf" class="btn btn-outline-success" target="_blank" rel="noopener noreferrer">
+      <i class="bi bi-file-earmark-text"></i> eprint
+    </a>
+  </li>
+  <li data-index="4" data-categories="oyster,RNA-seq,temperature" data-listing-file-modified-sort="1694135198520" data-listing-reading-time-sort="2">
+    <span class="listing-title lead">Transcriptome profile in heat resilient Pacific oyster Crassostrea gigas families under thermal challenge</span><br>
+    <span class="listing-author">Roberto Arredondo-Espinoza, Ana M Ibarra, Steven B Roberts, Maria Teresa Sicard-González, Cristina Escobedo-Fregoso</span><br>
+    <span class="listing-github fst-italic "></span>
+    <span class="listing-year">(2023)</span><br>
+    <a href="./publications/articles/arredondo-espinoza2023.html" class="btn btn-primary">
+      Details
+    </a>
+    <a href="https://doi.org/10.1371/journal.pclm.0000226" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
+      DOI
+    </a>
+  </li>
+  <li data-index="5" data-categories="oyster,triploid,Pacific oyster,Crassostrea" data-listing-file-modified-sort="1694740432131" data-listing-reading-time-sort="2">
+    <span class="listing-title lead">Triploid Pacific oysters exhibit stress response dysregulation and elevated mortality following heatwaves</span><br>
+    <span class="listing-author">Matthew N. George, Olivia Cattau, Mollie Middleton, Delaney Lawson, Brent Vadopalas, Mackenzie Gavery, Steven Roberts</span><br>
+    <span class="listing-github fst-italic "></span>
+    <span class="listing-year">(2023)</span><br>
+    <a href="./publications/articles/george2023.html" class="btn btn-primary">
+      Details
+    </a>
+    <a href="https://doi.org/10.1111/gcb.16880" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
+      DOI
+    </a>
+    <a href="https://www.biorxiv.org/content/10.1101/2023.03.02.530828v1" class="btn btn-light" target="_blank" rel="noopener noreferrer">
+      <i class="bi bi-file-earmark-text"></i> Preprint
+    </a>
+    <a href="http://gannet.fish.washington.edu/seashell/snaps/Global_Change_Biology_-_2023_-_George_-_Triploid_Pacific_oysters_exhibit_stress_response_dysregulation_and_elevated.pdf" class="btn btn-outline-success" target="_blank" rel="noopener noreferrer">
+      <i class="bi bi-file-earmark-text"></i> eprint
+    </a>
+  </li>
+  <li data-index="6" data-categories="Open Data Badge,geoduck,Panopea,TagSeq,RNA-sea" data-listing-file-modified-sort="1688082576784" data-listing-reading-time-sort="2">
+    <span class="listing-title lead">Acclimatory gene expression of primed clams enhances robustness to elevated pCO2</span><br>
+    <span class="listing-author">Samuel J. Gurr, Shelly A. Trigg, Brent Vadopalas, Steven B. Roberts, Hollie M. Putnam</span><br>
+    <span class="listing-github fst-italic "></span>
+    <span class="listing-year">(2022)</span><br>
+    <a href="./publications/articles/gurr2022.html" class="btn btn-primary">
+      Details
+    </a>
+    <a href="https://dx.doi.org/10.1111/mec.16644" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
+      DOI
+    </a>
+    <a href="https://doi.org/10.5281/zenodo.6908630" class="btn btn-light" target="_blank" rel="noopener noreferrer">
+      <i class="bi bi-file-earmark-zip"></i> Materials
+    </a>
+  </li>
+  <li data-index="7" data-categories="Chionoecetes bairdi,Hematodinium,temperature,RNA-seq,bitter crab disease,transcriptomic" data-listing-file-modified-sort="1694136940121" data-listing-reading-time-sort="2">
+    <span class="listing-title lead">Characterization of the Gene Repertoire and Environmentally Driven Expression Patterns in Tanner Crab (Chionoecetes bairdi)</span><br>
+    <span class="listing-author">Grace Crandall, Pamela C. Jensen, Samuel J. White, Steven Roberts </span><br>
+    <span class="listing-github fst-italic "></span>
+    <span class="listing-year">(2022)</span><br>
+    <a href="./publications/articles/crandall2022.html" class="btn btn-primary">
+      Details
+    </a>
+    <a href="https://dx.doi.org/10.1007/s10126-022-10100-8" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
+      DOI
+    </a>
+    <a href="https://doi.org/10.5281/zenodo.4563060" class="btn btn-light" target="_blank" rel="noopener noreferrer">
+      <i class="bi bi-file-earmark-zip"></i> Materials
+    </a>
+  </li>
+  <li data-index="8" data-categories="oyster,methylation,epigenetic,acidification,Pacific oyster,Crassostrea" data-listing-file-modified-sort="1687560150682" data-listing-reading-time-sort="2">
+    <span class="listing-title lead">Differential DNA methylation in Pacific oyster reproductive tissue in response to ocean acidification</span><br>
+    <span class="listing-author">Yaamini Venkataraman, Samuel J White and Steven Roberts</span><br>
+    <span class="listing-github fst-italic "></span>
+    <span class="listing-year">(2022)</span><br>
+    <a href="./publications/articles/venkataraman2022.html" class="btn btn-primary">
+      Details
+    </a>
+    <a href="https://dx.doi.org/10.1186/s12864-022-08781-5" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
+      DOI
+    </a>
+    <a href="https://www.biorxiv.org/content/10.1101/2022.03.07.483338v1" class="btn btn-light" target="_blank" rel="noopener noreferrer">
+      <i class="bi bi-file-earmark-text"></i> Preprint
+    </a>
+    <a href="https://bmcgenomics.biomedcentral.com/counter/pdf/10.1186/s12864-022-08781-5.pdf" class="btn btn-outline-success" target="_blank" rel="noopener noreferrer">
+      <i class="bi bi-file-earmark-text"></i> eprint
+    </a>
+    <a href="http://10.0.68.197/OSF.IO/YGCTB" class="btn btn-light" target="_blank" rel="noopener noreferrer">
+      <i class="bi bi-file-earmark-zip"></i> Materials
+    </a>
+  </li>
+  <li data-index="9" data-categories="geoduck,methylation,acidification,Panopea,genome,epigenetic" data-listing-file-modified-sort="1687559764604" data-listing-reading-time-sort="2">
+    <span class="listing-title lead">Dynamic DNA methylation contributes to carryover effects and beneficial acclimatization in geoduck clams</span><br>
+    <span class="listing-author">Hollie M. Putnam, Shelly A. Trigg, Samuel J. White, Laura H. Spencer, Brent Vadopalas, Aparna Natarajan, Jonathan Hetzel, Erich Jaeger, Jonathan Soohoo, Cristian Gallardo-Escárate, Frederick W. Goetz, Steven B. Roberts</span><br>
+    <span class="listing-github fst-italic "></span>
+    <span class="listing-year">(2022)</span><br>
+    <a href="./publications/articles/putnam2022.html" class="btn btn-primary">
+      Details
+    </a>
+    <a href="https://doi.org/10.1101/2022.06.24.497506" class="btn btn-light" target="_blank" rel="noopener noreferrer">
+      <i class="bi bi-file-earmark-text"></i> Preprint
+    </a>
+    <a href="https://osf.io/yem8n/" class="btn btn-light" target="_blank" rel="noopener noreferrer">
+      <i class="bi bi-file-earmark-zip"></i> Materials
+    </a>
+  </li>
+  <li data-index="10" data-categories="oyster,methylation,acidification,epigenetic,Crassostrea" data-listing-file-modified-sort="1687557809601" data-listing-reading-time-sort="2">
+    <span class="listing-title lead">Epigenetic-associated phenotypic plasticity of the ocean acidification-acclimated edible oyster in the mariculture environment</span><br>
+    <span class="listing-author">Dang, X., Lim, Y.-K., Li, Y., Roberts, S. B., Li, L., &amp; Thiyagarajan, V.</span><br>
+    <span class="listing-github fst-italic "></span>
+    <span class="listing-year">(2022)</span><br>
+    <a href="./publications/articles/dang2022.html" class="btn btn-primary">
+      Details
+    </a>
+    <a href="https://dx.doi.org/10.1111/mec.16751" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
+      DOI
+    </a>
+    <a href="https://onlinelibrary.wiley.com/doi/pdf/10.1111/mec.16751" class="btn btn-outline-success" target="_blank" rel="noopener noreferrer">
+      <i class="bi bi-file-earmark-text"></i> eprint
+    </a>
+  </li>
+  <li data-index="11" data-categories="oyster,proteomics,temperature" data-listing-file-modified-sort="1694137110851" data-listing-reading-time-sort="2">
+    <span class="listing-title lead">Proteomic response of early juvenile Pacific oysters (Crassostrea gigas) to temperature</span><br>
+    <span class="listing-author">Crandall G, Elliott Thompson R, Eudeline B, Vadopalas B, Timmins-Schiffman E, Roberts S.</span><br>
+    <span class="listing-github fst-italic "></span>
+    <span class="listing-year">(2022)</span><br>
+    <a href="./publications/articles/crandall2022b.html" class="btn btn-primary">
+      Details
+    </a>
+    <a href="https://doi.org/10.7717/peerj.14158" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
+      DOI
+    </a>
+    <a href="https://doi.org/10.5281/zenodo.5708415" class="btn btn-light" target="_blank" rel="noopener noreferrer">
+      <i class="bi bi-file-earmark-zip"></i> Materials
+    </a>
+  </li>
+  <li data-index="12" data-categories="geoduck,Panopea" data-listing-file-modified-sort="1694139356723" data-listing-reading-time-sort="2">
+    <span class="listing-title lead">Repeat exposure to hypercapnic seawater modifies growth and oxidative status in a tolerant burrowing clam</span><br>
+    <span class="listing-author">Samuel J. Gurr, Shelly A. Trigg, Brent Vadopalas, Steven B. Roberts, Hollie M. Putnam</span><br>
+    <span class="listing-github fst-italic "></span>
+    <span class="listing-year">(2022)</span><br>
+    <a href="./publications/articles/gurr2021.html" class="btn btn-primary">
+      Details
+    </a>
+    <a href="https://doi.org/10.1242/jeb.233932" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
+      DOI
+    </a>
+    <a href="https://journals.biologists.com/jeb/article-pdf/224/13/jeb233932/2421297/jeb233932.pdf" class="btn btn-outline-success" target="_blank" rel="noopener noreferrer">
+      <i class="bi bi-file-earmark-text"></i> eprint
+    </a>
+    <a href="http://doi.org/10.5281/zenodo.3903019" class="btn btn-light" target="_blank" rel="noopener noreferrer">
+      <i class="bi bi-file-earmark-zip"></i> Materials
+    </a>
+  </li>
+  <li data-index="13" data-categories="Caligus,genome" data-listing-file-modified-sort="1694137435051" data-listing-reading-time-sort="3">
+    <span class="listing-title lead">Chromosome-scale genome assembly of the sea louse Caligus rogercresseyi by SMRT sequencing and Hi-C analysis</span><br>
+    <span class="listing-author">Cristian Gallardo-Escárate, Valentina Valenzuela-Muñoz, Gustavo Nuñez-Acuña, Diego Valenzuela-Miranda, Ana Teresa Gonçalves, Hugo Escobar-Sepulveda, Ivan Liachko, Bradley Nelson, Steven Roberts &amp; Wesley Warren</span><br>
+    <span class="listing-github fst-italic "></span>
+    <span class="listing-year">(2021)</span><br>
+    <a href="./publications/articles/gallardo2021.html" class="btn btn-primary">
+      Details
+    </a>
+    <a href="https://doi.org/10.1038/s41597-021-00842-w" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
+      DOI
+    </a>
+    <a href="https://figshare.com/articles/dataset/Additional_annotation_files_GenSAS/12847493" class="btn btn-light" target="_blank" rel="noopener noreferrer">
+      <i class="bi bi-file-earmark-zip"></i> Materials
+    </a>
+  </li>
+  <li data-index="14" data-categories="geoduck,microbiome,metagenomics,metaproteomics" data-listing-file-modified-sort="1694137969307" data-listing-reading-time-sort="2">
+    <span class="listing-title lead">Coupled microbiome analyses highlights relative functional roles of bacteria in a bivalve hatchery</span><br>
+    <span class="listing-author">Emma Timmins-Schiffman, Samuel J. White, Rhonda Elliott Thompson, Brent Vadopalas, Benoit Eudeline, Brook L. Nunn &amp; Steven B. Roberts</span><br>
+    <span class="listing-github fst-italic "></span>
+    <span class="listing-year">(2021)</span><br>
+    <a href="./publications/articles/timmins-schiffman2021.html" class="btn btn-primary">
+      Details
+    </a>
+    <a href="https://doi.org/10.1186/s40793-021-00376-z" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
+      DOI
+    </a>
+    <a href="https://environmentalmicrobiome.biomedcentral.com/counter/pdf/10.1186/s40793-021-00376-z.pdf" class="btn btn-outline-success" target="_blank" rel="noopener noreferrer">
+      <i class="bi bi-file-earmark-text"></i> eprint
+    </a>
+  </li>
+  <li data-index="15" data-categories="coral,methylation,nanopore,symbiosis,epigenetic" data-listing-file-modified-sort="1694139527558" data-listing-reading-time-sort="2">
+    <span class="listing-title lead">DNA methylation profiling of a cnidarian-algal symbiosis using nanopore sequencing</span><br>
+    <span class="listing-author">James L Dimond, Nhung Nguyen, Steven B Roberts</span><br>
+    <span class="listing-github fst-italic "></span>
+    <span class="listing-year">(2021)</span><br>
+    <a href="./publications/articles/dimond2021.html" class="btn btn-primary">
+      Details
+    </a>
+    <a href="https://dx.doi.org/10.1093/g3journal/jkab148" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
+      DOI
+    </a>
+    <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8496274/pdf/jkab148.pdf" class="btn btn-outline-success" target="_blank" rel="noopener noreferrer">
+      <i class="bi bi-file-earmark-text"></i> eprint
+    </a>
+    <a href="https://doi.org/10.5281/zenodo.4677448" class="btn btn-light" target="_blank" rel="noopener noreferrer">
+      <i class="bi bi-file-earmark-zip"></i> Materials
+    </a>
+  </li>
+  <li data-index="16" data-categories="oyster,epigenetics,temperature" data-listing-file-modified-sort="1694139085474" data-listing-reading-time-sort="2">
+    <span class="listing-title lead">Differentially methylated gene regions between resistant and susceptible heat-phenotypes of the Pacific oyster Crassostrea gigas</span><br>
+    <span class="listing-author">Arredondo-Espinoza Roberto, Ibarra Ana M., Roberts B. Steven, Sicard-Gonzalez Maria Teresa, Escobedo-Fregoso Cristina</span><br>
+    <span class="listing-github fst-italic "></span>
+    <span class="listing-year">(2021)</span><br>
+    <a href="./publications/articles/arredondo-espinoza2021.html" class="btn btn-primary">
+      Details
+    </a>
+    <a href="https://doi.org/10.1016/j.aquaculture.2021.736923" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
+      DOI
+    </a>
+  </li>
+  <li data-index="17" data-categories="Open Data Badge,coral,methylation,epigenetic" data-listing-file-modified-sort="1688083560672" data-listing-reading-time-sort="2">
+    <span class="listing-title lead">Invertebrate methylomes provide insight into mechanisms of environmental tolerance and reveal methodological biases</span><br>
+    <span class="listing-author">Shelly A. Trigg, Yaamini R. Venkataraman, Mackenzie R. Gavery, Steven B. Roberts, Debashish Bhattacharya, Alan Downey-Wall, Jose M. Eirin-Lopez, Kevin M. Johnson, Katie E. Lotterhos, Jonathan B. Puritz and Hollie M. Putnam</span><br>
+    <span class="listing-github fst-italic "></span>
+    <span class="listing-year">(2021)</span><br>
+    <a href="./publications/articles/trigg2021.html" class="btn btn-primary">
+      Details
+    </a>
+    <a href="https://dx.doi.org/10.1111/1755-0998.13542" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
+      DOI
+    </a>
+    <a href="https://www.biorxiv.org/content/10.1101/2021.03.29.437539v2" class="btn btn-light" target="_blank" rel="noopener noreferrer">
+      <i class="bi bi-file-earmark-text"></i> Preprint
+    </a>
+    <a href="https://d.pr/f/LqAVdC" class="btn btn-outline-success" target="_blank" rel="noopener noreferrer">
+      <i class="bi bi-file-earmark-text"></i> eprint
+    </a>
+    <a href="http://doi.org/10.17605/OSF.IO/X5WAZ" class="btn btn-light" target="_blank" rel="noopener noreferrer">
+      <i class="bi bi-file-earmark-zip"></i> Materials
+    </a>
+  </li>
+  <li data-index="18" data-categories="Ostrea,reproduction,larvae,temperature,carryover" data-listing-file-modified-sort="1694139398668" data-listing-reading-time-sort="3">
+    <span class="listing-title lead">Latent effects of winter warming on Olympia oyster reproduction and larval viability</span><br>
+    <span class="listing-author">Laura H. Spencer, Erin Horkan, Ryan Crim, Steven B. Roberts</span><br>
+    <span class="listing-github fst-italic "></span>
+    <span class="listing-year">(2021)</span><br>
+    <a href="./publications/articles/spencer2021.html" class="btn btn-primary">
+      Details
+    </a>
+    <a href="https://dx.doi.org/10.1016/j.jembe.2021.151604" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
+      DOI
+    </a>
+    <a href="https://doi.org/10.6084/m9.figshare.14066498.v3" class="btn btn-light" target="_blank" rel="noopener noreferrer">
+      <i class="bi bi-file-earmark-zip"></i> Materials
+    </a>
+  </li>
+  <li data-index="19" data-categories="oyster,acidificaiton,epigenetics,RNA-seq" data-listing-file-modified-sort="1694138865825" data-listing-reading-time-sort="2">
+    <span class="listing-title lead">Oyster biomineralisation under ocean acidification: from genes to shell</span><br>
+    <span class="listing-author">Chandra Rajan, K., Yuan, M., Yu, Z., Roberts, S.B. and Thiyagarajan, V. </span><br>
+    <span class="listing-github fst-italic "></span>
+    <span class="listing-year">(2021)</span><br>
+    <a href="./publications/articles/rajan2021.html" class="btn btn-primary">
+      Details
+    </a>
+    <a href="https://doi.org/10.1111/gcb.15675" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
+      DOI
+    </a>
+  </li>
+</ul>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
+</section>
+<section id="less-recent-papers-2020-and-older" class="level1">
+<h1>Less Recent Papers (2020 and older)</h1>
 <p>Shelly A. Trigg, Kaitlyn R. Mitchell, Rhonda Elliott Thompson, Benoit Eudeline, Brent Vadopalas, Emma B. Timmins-Schiffman &amp; Steven B. Roberts. (<strong>2020</strong>) <a href="http://doi.org/10.1186/s12864-020-07127-3">Temporal proteomic profiling reveals insight into critical developmental processes and temperature-influenced physiological response differences in a bivalve mollusc</a> BMC Genomics 21, 723 doi:10.1186/s12864-020-07127-3</p>
 <p><a href="http://doi.org/10.1186/s12864-020-07127-3"><img src="http://gannet.fish.washington.edu/seashell/snaps/Temporal_proteomic_profiling_reveals_insight_into_critical_developmental_processes_and_temperature-influenced_physiological_res_2020-11-04_13-31-48.png" title="oyster" alt="graph" class="wp-image-2505 alignleft" width="220" height="192"></a></p>
 <p>Yong-Kian Lim, Khan Cheung, Xin Dang, Steven B. Roberts, Xiaotong Wang, Vengatesen Thiyagarajan (<strong>2020</strong>) <a href="http://www.sciencedirect.com/science/article/pii/S0141113620309818">DNA methylation changes in response to ocean acidification at the time of larval metamorphosis in the edible oyster, <em>Crassostrea hongkongensis</em></a> Marine Environmental Research, Volume 163 doi:10.1016/j.marenvres.2020.105214</p>
@@ -369,8 +760,6 @@ ul.task-list li input[type="checkbox"] {
 <p>Metzger DC, Pratt P and Roberts SB. (<strong>2012</strong>) <a href="http://dx.doi.org/10.2983/035.031.0305">Characterizing the effects of heavy metal and <em>Vibrio</em> exposure on hsp70 expression in <em>Crassostrea gigas</em> gill tissue</a> Journal of Shellfish Research 31(3):627-630. doi:10.2983/035.031.0305 <a href="http://faculty.washington.edu/sr320/wordpress/wp-content/uploads/2012/03/Meztger_JSR.pdf">pdf</a></p>
 <p>Roberts SB, Hauser L, Seeb LW and Seeb JE (<strong>2012</strong>) <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0030908">Development of genomic resources for Pacific herring through targeted transcriptome pyrosequencing</a> PLoS ONE 7(2): e30908. doi:10.1371/journal.pone.0030908</p>
 <p>Roberts SB and Gavery MR (<strong>2012</strong>) <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3249382/?tool=pubmed">Is there a relationship between DNA methylation and phenotypic plasticity in invertebrates?</a> Frontiers in Physiology 2:116. doi:10.3389/fphys.2011.00116</p>
-<p><a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3249382/?tool=pubmed"><img src="http://c431376.r76.cf2.rackcdn.com/19155/fphys-02-00116-HTML/image_m/fphys-02-00116-g002.jpg" title="merv" class="aligncenter" width="300" height="154"></a></p>
-<p></p>
 <p>Gavery MR and Roberts SB (<strong>2012</strong>) <a href="http://www.sciencedirect.com/science/article/pii/S1744117X11001018">Characterizing short read sequencing for gene discovery and RNA-Seq analysis in Crassostrea gigas</a> Comparative Biochemistry and Physiology Part D: Genomics and Proteomics 7:2 94-99. doi:10.1016/j.cbd.2011.12.003</p>
 <p>Morera D, Roher N, Ribas L, Balasch JC, Doñate C, Callol A, Boltaña A, Roberts SB, Goetz G, Goetz FW and Mackenzie SA. (<strong>2011</strong>) <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0026998">RNA-Seq reveals an integrated immune response in nucleated erythrocytes</a> PLoS ONE 6(10): e26998. doi:10.1371/journal.pone.0026998</p>
 <p>Roberts SB, Sunila I, and Wikfors G. (<strong>2011</strong>) <a href="http://www.springerlink.com/content/u975017n6763324n/">Immune response and mechanical stress susceptibility in diseased oysters, <em>Crassostrea virginica</em></a> Journal of Comparative Physiology B 182:1 41-48. doi:10.1007/s00360-011-0605-z</p>
@@ -378,8 +767,6 @@ ul.task-list li input[type="checkbox"] {
 <p>Seeb JE, Pascal CE, Graue ED, Seeb LW, Templin WD, Harkins T and Roberts SB. (<strong>2010</strong>) <a href="http://onlinelibrary.wiley.com/doi/10.1111/j.1755-0998.2010.02936.x/abstract">Transcriptome sequencing and high-resolution melt analysis advance single nucleotidepolymorphism discovery in duplicated salmonids</a> Molecular Ecology Resources. doi: 10.1111/j.1755-0998.2010.02936.x</p>
 <p>Gavery MR and Roberts SB. (<strong>2010</strong>) <a href="http://www.biomedcentral.com/1471-2164/11/483">DNA methylation patterns provide insight into epigenetic regulation in the Pacific oyster (<em>Crassostrea gigas</em>)</a> BMC Genomics 11:483. doi:10.1186/1471-2164-11-483</p>
 <p>Mathger L, Roberts SB, and Hanlon R. (<strong>2010</strong>) <a href="http://rsbl.royalsocietypublishing.org/content/6/5/600.long">Evidence for distributed light sensing in the skin of cuttlefish, <em>Sepia officinalis</em></a> Biology Letters. doi: 10.1098/rsbl.2010.0223</p>
-<p><img src="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2936158/bin/rsbl20100223-g1.jpg" title="sepia" class="alignright" width="266" height="211"></p>
-<p></p>
 <p>Goetz FW, Rosauer D, Sitar S, Goetz G, Simchick C, Roberts SB, Johnson R, Murphy C, Bronte C, and Mackenzie S. (<strong>2010</strong>) <a href="http://onlinelibrary.wiley.com/doi/10.1111/j.1365-294X.2009.04481.x/abstract">A genetic basis for the phenotypic differentiation between siscowet and lean lake trout (<em>Salvelinus namaycush</em>)</a> Molecular Ecology 19 176–196.</p>
 <p>Defaveri J*, Smolowitz R, and Roberts S (<strong>2009</strong>) <a href="http://www.bioone.org/doi/abs/10.2983/035.028.0306">Development and validation of a real-time quantitative PCR assay for the detection and quantification of <em>Perkinsus marinus</em> in the Eastern oyster, <em>Crassostrea virginica</em></a> Journal of Shellfish Research Vol. 28 No.&nbsp;3 459-464.</p>
 <p>Roberts SB, Goetz G, White S, and Goetz F (<strong>2009</strong>) <a href="http://www.springerlink.com/content/435447rxg52h7152/">Analysis of genes isolated from plated hemocytes of the Pacific Oyster, <em>Crassostrea gigas</em></a> Marine Biotechnology 11:24-44. doi: 10.1007/s10126-008-9117-6</p>
@@ -414,11 +801,15 @@ ul.task-list li input[type="checkbox"] {
 <p>Langenau DM, Goetz FW, Roberts SB. (<strong>1999</strong>) <a href="http://jme.endocrinology-journals.org/content/23/2/137.long">The upregulation of messenger ribonucleic acids during 17a, 20b-dihydroxy-4-pregnen-3-one-induced ovulation in the perch ovary</a> Journal of Molecular Endocrinology 23(2):137-52.</p>
 <p>Roberts SB, Jackson LF, King WK, Taylor RG, Grier HJ, Sullivan CV. (<strong>1999</strong>) <a href="'http://www.tandfonline.com/doi/abs/10.1577/1548-8659(1999)128<0436%3AARCOTC>2.0.CO%3B2#preview'">Annual reproductive cycle of the common snook: Endocrine correlates of maturation</a> Transactions of the American Fisheries Society 128:426-445.</p>
 <hr>
-<p><a id="book"> ## Book Chapters</a></p>
+</section>
+<section id="book-chapters" class="level1">
+<h1>Book Chapters</h1>
 <p>Moreira Sanmartín R, Roberts SB, Figueras A. (2016) <a href="http://www.sciencedirect.com/science/book/9780128014189">Molluscs. pages 223-245, in Genomics in Aquaculture</a>. Editors: Simon A. MacKenzie and Sissel Jentoft. ISBN: 978-0-12-801418-9</p>
 <p>Gavery, M., &amp; Roberts, S. (2018). <a href="http://dx.doi.org/10.1016/B978-0-12-809633-8.20621-3">Genetics &amp; Epigenetics in Life History and Reproduction: Oysters</a>. In M. K. Skinner (Ed.), Encyclopedia of Reproduction. vol.&nbsp;6, pp.&nbsp;736–742. Academic Press: Elsevier. doi: 10.1016/B978-0-12-809633-8.20621-3 <a href="http://eagle.fish.washington.edu/whale/pub/C20621.pdf">pdf</a></p>
 <hr>
-<p><a id="preprint"> ## PrePrints</a></p>
+</section>
+<section id="preprints" class="level1">
+<h1>Preprints</h1>
 <p>Shelly A Trigg, Kaitlyn R Mitchell, Rhonda Elliott Thompson, Benoit Eudeline, Brent Vadopalas, Emma B Timmins-Schiffman, Steven B Roberts (2020). Temporal proteomic profiling reveals insight into critical devleopmental processes and temperature-influenced physiological response differences in a bivalve mollusc. <strong>bioRxiv</strong>. https://doi.org/10.1101/2020.06.05.137059</p>
 <p>Emma B. Timmins-Schiffman, Grace A. Crandall, Brent Vadopalas, Michael E. Riffle, Brook L. Nunn, Steven B. Roberts (2016) Integrating proteomics and selected reaction monitoring to develop a non-invasive assay for geoduck reproductive maturation. <strong>bioRxiv</strong> doi: <a href="https://doi.org/10.1101/094615" class="uri">https://doi.org/10.1101/094615</a></p>
 <p>Heare JE, White SJ, Roberts SB. (2015) Differential response to stress in <em>Ostrea lurida</em> (Carpenter 1864) as measured by gene expression. PeerJ PrePrints 3:e1595v1 <a href="https://doi.org/10.7287/peerj.preprints.1595v1" class="uri">https://doi.org/10.7287/peerj.preprints.1595v1</a></p>
@@ -448,7 +839,9 @@ ul.task-list li input[type="checkbox"] {
 <p>Thompson R and Roberts SB (<strong>preprint</strong>) Influence of carbon dioxide-induced acidification and mechanical stress on gene expression and microbial community composition in oysters. Status: <a href="https://docs.google.com/document/d/1jYvaWR4RsSonl95ElqNX29epsO69LE4af5Rgd4xC8EI/edit">Available for Comment</a></p>
 <p></p>
 <hr>
-<p><a id="theses"> ## Theses</a></p>
+</section>
+<section id="theses" class="level1">
+<h1>Theses</h1>
 <p>Patterns, dynamics, and potential roles of DNA methylation in reef corals and their allies. James Dimond. 2019 <a href="http://hdl.handle.net/1773/44815" class="uri">http://hdl.handle.net/1773/44815</a></p>
 <p>Response of Olympia oysters (<em>Ostrea lurida</em>) to changing environmental conditions. Jake Heare. 2015 <a href="http://hdl.handle.net/1773/35206" class="uri">http://hdl.handle.net/1773/35206</a></p>
 <p>Genomic signatures of natural selection and population structure in West Coast and Alaskan sablefish (<em>Anoplopoma fimbria</em>). Andrew Jasonowicz. 2014 <a href="http://hdl.handle.net/1773/33907" class="uri">http://hdl.handle.net/1773/33907</a></p>
@@ -459,11 +852,185 @@ ul.task-list li input[type="checkbox"] {
 <p>Genetic and phenotypic diversity in sockeye salmon, <em>Oncorhynchus nerka</em>. Caroline Storer. 2012. figshare. <a href="http://dx.doi.org/10.6084/m9.figshare.661720"> http://dx.doi.org/10.6084/m9.figshare.661720</a></p>
 <p>Characterizing the effects of ocean acidification in larval and juvenile Manila clam, <em>Ruditapes philippinarum</em>, using a transcriptomic approach. David Metzger. 2012 <a href="http://fish.washington.edu/research/publications/ms_phd/Metzger_D_MS_Sp12.pdf"> download</a></p>
 <hr>
+</section>
+<section id="notebooks" class="level1">
+<h1>Notebooks</h1>
+<table class="table">
+<thead>
+<tr class="header">
+<th>Person</th>
+<th>Notebook</th>
+<th>Commitment</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Steven Roberts</td>
+<td><a href="https://sr320.github.io/">sr320.github.io</a></td>
+<td><img src="https://img.shields.io/github/last-commit/sr320/sr320.github.io" class="img-fluid" alt="GitHub last commit"></td>
+</tr>
+<tr class="even">
+<td>Sam White</td>
+<td><a href="https://robertslab.github.io/sams-notebook/">robertslab.github.io</a></td>
+<td><img src="https://img.shields.io/github/last-commit/RobertsLab/sams-notebook.png" class="img-fluid" alt="GitHub last commit"></td>
+</tr>
+<tr class="odd">
+<td>Matt George</td>
+<td><a href="https://mattgeorgephd.github.io/notebook/">mattgeorgephd.github.io</a></td>
+<td><img src="https://img.shields.io/github/last-commit/mattgeorgephd/mattgeorgephd.github.io" class="img-fluid" alt="GitHub last commit"></td>
+</tr>
+<tr class="even">
+<td>Aidan Coyle</td>
+<td><a href="https://afcoyle.github.io">afcoyle.github.io</a></td>
+<td><img src="https://img.shields.io/github/last-commit/afcoyle/afcoyle.github.io" class="img-fluid" alt="GitHub last commit"></td>
+</tr>
+<tr class="odd">
+<td>Olivia Cattau</td>
+<td><a href="https://ocattau.github.io">ocattau.github.io</a></td>
+<td><img src="https://img.shields.io/github/last-commit/ocattau/ocattau.github.io" class="img-fluid" alt="GitHub last commit"></td>
+</tr>
+<tr class="even">
+<td>Delaney Lawson</td>
+<td><a href="https://drlawson.github.io">drlawson.github.io</a></td>
+<td><img src="https://img.shields.io/github/last-commit/drlawson/drlawson.github.io" class="img-fluid" alt="GitHub last commit"></td>
+</tr>
+<tr class="odd">
+<td>Ariana Huffmyer</td>
+<td><a href="https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/">ahuffmyer.github.io</a></td>
+<td><img src="https://img.shields.io/github/last-commit/AHuffmyer/ASH_Putnam_Lab_Notebook.png" class="img-fluid" alt="GitHub last commit"></td>
+</tr>
+<tr class="even">
+<td>Larken Root</td>
+<td><a href="https://github.com/larkenr/larkenr.github.io">larkenr.github.io</a></td>
+<td><img src="https://img.shields.io/github/last-commit/larkenr/larkenr.github.io" class="img-fluid" alt="GitHub last commit"></td>
+</tr>
+<tr class="odd">
+<td>Laura Spencer</td>
+<td><a href="https://laurahspencer.github.io/LabNotebook/">laurahspencer.github.io</a></td>
+<td><a href="https://github.com/laurahspencer"><img src="https://img.shields.io/github/followers/laurahspencer.svg?style=social&amp;label=Follow&amp;maxAge=2592000" class="img-fluid" alt="GitHub followers"></a></td>
+</tr>
+<tr class="even">
+<td>Yaamini Venkataraman</td>
+<td><a href="https://yaaminiv.github.io/">yaaminiv.github.io</a></td>
+<td><a href="https://github.com/yaaminiv"><img src="https://img.shields.io/github/followers/yaaminiv.svg?style=social&amp;label=Follow&amp;maxAge=2592000" class="img-fluid" alt="GitHub followers"></a></td>
+</tr>
+<tr class="odd">
+<td>Grace Crandall</td>
+<td><a href="https://grace-ac.github.io/">grace-ac.github.io</a></td>
+<td><a href="https://github.com/grace-ac"><img src="https://img.shields.io/github/followers/grace-ac.svg?style=social&amp;label=Follow&amp;maxAge=2592000" class="img-fluid" alt="GitHub followers"></a></td>
+</tr>
+<tr class="even">
+<td>Shelly Trigg</td>
+<td><a href="https://shellytrigg.github.io/notebook/">shellytrigg.github.io/notebook</a></td>
+<td><a href="https://github.com/shellytrigg"><img src="https://img.shields.io/github/followers/shellytrigg.svg?style=social&amp;label=Follow&amp;maxAge=2592000" class="img-fluid" alt="GitHub followers"></a></td>
+</tr>
+<tr class="odd">
+<td>Celeste Valdivia</td>
+<td><a href="https://valeste.github.io/">valeste.github.io</a></td>
+<td><img src="https://img.shields.io/github/last-commit/valeste/valeste.github.io" class="img-fluid" alt="GitHub last commit"></td>
+</tr>
+</tbody>
+</table>
+<hr>
+</section>
+<section id="recent-presentations" class="level1">
+<h1>Recent Presentations</h1>
+<section id="section" class="level4">
+<h4 class="anchored" data-anchor-id="section">2023</h4>
+<ul>
+<li><p><a href="">Triploid Pacific oysters experience enhanced mortality following marine heatwaves</a> Presentation. National Shellfish Association Annual Meeting, Baltimore, MD, March 30, 2023.</p></li>
+<li><p><a href="">Ploidy mediates the stress response of Pacific oysters following marine heatwave exposure</a> Presentation. Plant and Animal Genome Conference, San Diego, CA, January 14, 2023.</p></li>
+<li><p><a href="">Triploid Pacific oysters exhibit stress response dysregulation and elevated mortality following marine heatwaves</a> Presentation. NOAA Fisheries Northwest Fisheries Science Center Physiology Group Meeting, Seattle, WA, January 11, 2023.</p></li>
+</ul>
+</section>
+<section id="section-1" class="level4">
+<h4 class="anchored" data-anchor-id="section-1">2022</h4>
+<ul>
+<li><p><a href="https://github.com/larkenr/larkenr.github.io/blob/master/NOAA%20physiology%20meeting.pdf">Mechanisms of tilapia salinity tolerance at the limits of osmoregulation</a> Presentation. NOAA physiology program monthly meeting, Virtual, March 3, 2022.</p></li>
+<li><p><a href="https://github.com/ChrisMantegna/Yellow-Island/blob/69d21b1f1d52ba1bb2604e1ba387e0764242c50a/Yellow%20Island%20NWSC%20Presentation.pdf">Yellow Island Intertidal Ecological Monitoring</a> Presentation. NWStraits Commission meeting, Virtual, August 12, 2022.</p></li>
+<li><p><a href="https://github.com/larkenr/Clam-OA-project/blob/main/PCSGA%20sept%2022.pdf">Comparative Response of Littleneck and Manila Clams from the Puget Sound to Ocean Acidification Conditions: Year 1</a> Presentation. Pacific Coast Shellfish Growers Association (PCSGA) annual meeting, Wenatchee, September 20, 2022.</p></li>
+<li><p><a href="https://github.com/larkenr/larkenr.github.io/blob/master/UPS%20science%20seminar.pdf">Using aquaculture to turn the tide on aquatic ecosystem collapse</a> Presentation. University of Puget Sound Weekly Science Seminar, Thompson Hall, September 29, 2022.</p></li>
+<li><p><a href="https://github.com/AHuffmyer/presentations/blob/master/2022/Benthics_Huffmyer_2022.pdf">Physiological and multi-omic signatures of shifts in symbiotic nutritional exchange in reef-building coral early life history</a> Presentation. Benthic Ecology Meeting. Portsmouth, New Hampshire. March 2022.</p></li>
+<li><p><a href="https://github.com/AHuffmyer/presentations/blob/master/2022/OldDominion_Seminar_Huffmyer_2022.pdf">Understanding shifts in symbiotic and physiological state in reef- building corals across developmental and environmental gradients</a> Virtual seminar. Old Dominion University. December 2022.</p></li>
+<li><p><a href="https://github.com/AHuffmyer/presentations/blob/master/2022/UW_eScience_Seminar_Huffmyer_2022.pdf">Multi-omic approaches to understand reef coral development and symbiosis</a> Virtual seminar. University of Washington eScience Institute Postdoctoral Seminar Series. November 2022.</p></li>
+<li><p><a href="https://github.com/mattgeorgephd/NOPP-gigas-ploidy-temp/blob/2ce2524f71c3b7a3344ce185f5c81e4f1cee6349/presentations/Aqua_2022.pdf">The contribution of summer heatwaves to ‘triploid mortality’ events observed during commercial pacific oyster production in Washington State</a> Presentation. The Society of Integrative and Comparative Biology, Virtual, January 4, 2022.</p></li>
+</ul>
+</section>
+<section id="section-2" class="level4">
+<h4 class="anchored" data-anchor-id="section-2">2021</h4>
+<ul>
+<li><p><a href="https://github.com/shellytrigg/talk-Coast2Coast2021">Diversity in animal response to environmental change</a> Presentation. Academic Data Science Alliance (ADSA) 2021 Data Science Coast to Coast Seminar Series, Virtual May 19, 2021 3pm.</p></li>
+<li><p><a href="https://github.com/shellytrigg/talk-SICB2020">Exploring the tolerance of Pacific geoduck to low pH through comparative physiology, genomics, and DNA methylation</a> Presentation. The Society for Integrative and Comparative Biology (SICB) 2021 Annual Meeting, Virtual January - February 2021</p></li>
+<li><p><a href="https://github.com/sr320/talk-sicb-2021">A perspective on DNA methylation in bivalves</a> Presentation. The Society for Integrative and Comparative Biology (SICB) 2021 Annual Meeting, Virtual January - February 2021</p></li>
+<li><p><a href="https://github.com/AHuffmyer/presentations/blob/master/2021/MCR_AIM_Huffmyer_2021.pdf">How do dynamic conditions shape coral symbiosis and metabolism and drive energetic-epigenetic linkages?</a> Presentation. 2021 Moorea Coral Reef Long Term Ecological Research All Invesitgator Meeting. November 2021.</p></li>
+</ul>
+</section>
+<section id="section-3" class="level4">
+<h4 class="anchored" data-anchor-id="section-3">2020</h4>
+<ul>
+<li><p><a href="https://d.pr/IC8n80">Harnessing the power of single-cell RNA sequencing to control reproductive development in bivalves</a> 74th Annual Pacific Coast Shellfish Growers Association Conference, Virtual October 2020</p></li>
+<li><p><a href="https://doi.org/10.6084/m9.figshare.13224911.v3">Carryover effects of winter warming in the Olympia oyster</a>. Presentation. 74th Annual Pacific Coast Shellfish Growers Association Conference, Virtual October 2020</p></li>
+<li><p><a href="https://doi.org/10.6084/m9.figshare.13198262">Oysters, Ocean Acidification, and -Omics</a> Presentation, Friday Harbor Laboratories Summer Seminar Series, June 2020</p></li>
+<li><p><a href="https://doi.org/10.6084/m9.figshare.11868231.v1">Influence of ocean acidification on eastern (<em>Crassostrea virginica</em>) and Pacific oyster (<em>Crassostrea gigas</em>) DNA methylation</a> Poster, Ocean Sciences Meeting 2020, San Diego, CA February 2020</p></li>
+<li><p><a href="https://doi.org/10.6084/m9.figshare.11857854.v1">DNA methylation associations with growth rate in Olympia oyster populations</a> presentation, Aquaculture America 2020, Honolulu, HI, February 2020</p></li>
+<li><p><a href="https://github.com/shellytrigg/talk-pag2020">Influence of ocean acidification on DNA methylation patterns in geoduck</a> Presentation, The Plant and Animal Genome XXVII Conference (PAG), San Diego, CA, January 2020</p></li>
+</ul>
+
 
 
 </section>
+</section>
 
-</main> <!-- /main -->
+<div class="quarto-listing quarto-listing-container-custom" id="listing-notebooks">
+<div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+     <select id="listing-notebooks-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-notebooks'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+       <option value="" disabled="" selected="" hidden="">Order By</option>
+       <option value="index" data-direction="asc">Default</option>
+         <option value="listing-title" data-direction="asc">
+          Title
+        </option>
+         <option value="listing-author" data-direction="asc">
+          Author
+        </option>
+         <option value="listing-publication" data-direction="asc">
+          Publication
+        </option>
+         <option value="listing-year" data-direction="asc">
+          year
+        </option>
+     </select>
+  </div>
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
+</div>
+<ul class="pub-list list">
+  <li data-index="0" data-categories="oyster,proteomics,temperature,Pacific oyster,Crassostrea" data-listing-file-modified-sort="1687559655026" data-listing-reading-time-sort="2">
+    <span class="listing-title lead">Proteomic response of early juvenile Pacific oysters (Crassostrea gigas) to temperature</span><br>
+    <span class="listing-author">Crandall G, Elliott Thompson R, Eudeline B, Vadopalas B, Timmins-Schiffman E, Roberts S.</span><br>
+    <span class="listing-github fst-italic "></span>
+    <span class="listing-year">(2022)</span><br>
+    <a href="./publications/notebooks/crandall2022.html" class="btn btn-primary">
+      Details
+    </a>
+    <a href="https://dx.doi.org/10.7717/peerj.14158" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
+      DOI
+    </a>
+    <a href="https://peerj.com/articles/14158.pdf" class="btn btn-outline-success" target="_blank" rel="noopener noreferrer">
+      <i class="bi bi-file-earmark-text"></i> eprint
+    </a>
+    <a href="https://doi.org/10.5281/zenodo.5708415" class="btn btn-light" target="_blank" rel="noopener noreferrer">
+      <i class="bi bi-file-earmark-zip"></i> Materials
+    </a>
+  </li>
+</ul>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
