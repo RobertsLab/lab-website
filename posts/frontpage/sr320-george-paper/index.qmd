@@ -25,7 +25,7 @@ format:
 
 ## Introduction
 
-The issue of climate change and its cascading effects on marine ecosystems is a growing concern for researchers, conservationists, and policymakers alike. One of the intriguing avenues of research in marine science involves the impact of polyploidy, a genetic variation where organisms have extra sets of chromosomes, on stress tolerance in marine species. A recent study led by Matthew N. George and Brent Vadopalas from the School of Aquatic & Fishery Sciences at the University of Washington, along with affiliations from the Environmental and Fisheries Sciences Division at the Northwest Fisheries Science Center, sheds new light on the vulnerability of triploid Pacific oysters to climate stressors.
+The issue of climate change and its cascading effects on marine ecosystems is a growing concern for researchers, conservationists, and policymakers alike. One of the intriguing avenues of research in marine science involves the impact of polyploidy, a genetic variation where organisms have extra sets of chromosomes, on stress tolerance in marine species. A recent study led by Matthew N. George from the School of Aquatic & Fishery Sciences at the University of Washington, along with affiliations from the Environmental and Fisheries Sciences Division at the Northwest Fisheries Science Center, sheds new light on the vulnerability of triploid Pacific oysters to climate stressors.
 
 ## Summary of the Paper
 
