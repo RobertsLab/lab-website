@@ -15,18 +15,6 @@ listing:
     field-display-names: 
       publication: "Publication"
       year: "Year"
-  - id: notebooks
-    contents: "publications/notebooks/**.qmd"
-    template: ./ejs/article.ejs
-    categories: false
-    sort:
-      - "year desc"
-      - "title"
-    sort-ui: [title,author,publication,year]
-    filter-ui: [title,author,publication,year]
-    page-size: 10
-    field-display-names: 
-      publication: "Publication"
 ---
 
 # Publications
@@ -35,7 +23,7 @@ Below you will find links to research papers. Recent papers can be searched by s
 
 # Recent Papers
 
-_see also_: [Google Scholar](https://scholar.google.com/citations?hl=en&user=aAoYWVUAAAAJ&view_op=list_works&sortby=pubdate)
+*see also*: [Google Scholar](https://scholar.google.com/citations?hl=en&user=aAoYWVUAAAAJ&view_op=list_works&sortby=pubdate)
 
 ::: {#articles}
 :::
@@ -347,9 +335,8 @@ Characterizing the effects of ocean acidification in larval and juvenile Manila 
 
 # Notebooks
 
-
 | Person               | Notebook                                                                    | Commitment                                                                                                                                                  |
-|---------------|------------------|---------------------------------------|
+|-----------------|-----------------|-------------------------------------|
 | Steven Roberts       | [sr320.github.io](https://sr320.github.io/)                                 | ![GitHub last commit](https://img.shields.io/github/last-commit/sr320/sr320.github.io)                                                                      |
 | Sam White            | [robertslab.github.io](https://robertslab.github.io/sams-notebook/)         | ![GitHub last commit](https://img.shields.io/github/last-commit/RobertsLab/sams-notebook)                                                                   |
 | Matt George          | [mattgeorgephd.github.io](https://mattgeorgephd.github.io/notebook/)        | ![GitHub last commit](https://img.shields.io/github/last-commit/mattgeorgephd/mattgeorgephd.github.io)                                                      |
@@ -417,4 +404,3 @@ Characterizing the effects of ocean acidification in larval and juvenile Manila 
 -   [DNA methylation associations with growth rate in Olympia oyster populations](https://doi.org/10.6084/m9.figshare.11857854.v1) presentation, Aquaculture America 2020, Honolulu, HI, February 2020
 
 -   [Influence of ocean acidification on DNA methylation patterns in geoduck](https://github.com/shellytrigg/talk-pag2020) Presentation, The Plant and Animal Genome XXVII Conference (PAG), San Diego, CA, January 2020
-
