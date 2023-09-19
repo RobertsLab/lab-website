@@ -177,7 +177,7 @@ Mathger L, Roberts SB, and Hanlon R. (**2010**) [Evidence for distributed light 
 
 Goetz FW, Rosauer D, Sitar S, Goetz G, Simchick C, Roberts SB, Johnson R, Murphy C, Bronte C, and Mackenzie S. (**2010**) [A genetic basis for the phenotypic differentiation between siscowet and lean lake trout (*Salvelinus namaycush*)](http://onlinelibrary.wiley.com/doi/10.1111/j.1365-294X.2009.04481.x/abstract) Molecular Ecology 19 176--196.
 
-Defaveri J\*, Smolowitz R, and Roberts S (**2009**) [Development and validation of a real-time quantitative PCR assay for the detection and quantification of *Perkinsus marinus* in the Eastern oyster, *Crassostrea virginica*](http://www.bioone.org/doi/abs/10.2983/035.028.0306) Journal of Shellfish Research Vol. 28 No. 3 459-464.
+Defaveri J\*, Smolowitz R, and Roberts S (**2009**) [Development and validation of a real-time quantitative PCR assay for the detection and quantification of *Perkinsus marinus* in the Eastern oyster, *Crassostrea virginica*](http://www.bioone.org/doi/abs/10.2983/035.028.0306) Journal of Shellfish Research Vol. 28 No. 3 459-464. [eprint](http://gannet.fish.washington.edu/seashell/snaps/faveri2009.pdf)
 
 Roberts SB, Goetz G, White S, and Goetz F (**2009**) [Analysis of genes isolated from plated hemocytes of the Pacific Oyster, *Crassostrea gigas*](http://www.springerlink.com/content/435447rxg52h7152/) Marine Biotechnology 11:24-44. doi: 10.1007/s10126-008-9117-6
 
