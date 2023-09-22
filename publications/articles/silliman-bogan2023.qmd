@@ -1,0 +1,23 @@
+---
+title: "A dynamic web resource for robust and reproducible genomics in non-model species: marineomics.io"
+type: "article"
+author: ""
+year: "2023"
+publication: "Methods in Ecology and Evolution "
+preprint: ""
+doi: "https://doi.org/10.1111/2041-210X.14219"
+materials: ""
+eprint: ""
+toc: FALSE
+categories:
+  - methods
+  - genomics
+---
+
+## Citation
+
+\>
+
+## Abstract
+
+## Data Availability
