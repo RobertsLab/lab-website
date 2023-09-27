@@ -4,6 +4,9 @@ project:
 
 
 website:
+  repo-url: https://github.com/Robertslab/lab-website
+  repo-actions: [edit, issue]
+  favicon: /img/logo.png
   title: "robertslab.info"
   navbar:
     background: primary
@@ -65,7 +68,6 @@ website:
           - dei.qmd
           - outreach.qmd
           - posts.qmd
-          - culture.qmd
 
        
 
