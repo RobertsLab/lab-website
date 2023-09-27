@@ -40,6 +40,8 @@ website:
             url: https://github.com/RobertsLab/lab-website
       - icon: calendar-week
         file: calendar.qmd
+      - icon: envelope-paper
+        file: contact.qmd
     
 
 
@@ -64,7 +66,7 @@ website:
           - outreach.qmd
           - posts.qmd
           - culture.qmd
-          - contact.qmd
+
        
 
 
