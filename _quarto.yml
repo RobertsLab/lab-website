@@ -39,7 +39,7 @@ website:
           - text: Edit this site
             url: https://github.com/RobertsLab/lab-website
       - icon: calendar-week
-        href: https://calendar.google.com/calendar/embed?src=mrc305@gmail.com&ctz=America/Vancouver
+        file: calendar.qmd
     
 
 
@@ -65,6 +65,7 @@ website:
           - posts.qmd
           - culture.qmd
           - contact.qmd
+          - calendar.qmd
        
 
 
