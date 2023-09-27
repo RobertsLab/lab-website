@@ -41,7 +41,7 @@ I grew up in the beautiful, landlocked city of Colorado Springs, CO, but I have 
 -   [Lab notebook](https://chrismantegna.github.io/)
 -   Email: mantegna\@uw.edu
 
-![Chris Mantegna](https://avatars.githubusercontent.com/u/81385272?s=400&u=db9e68ce341c74ff870634cc398654e82d7aea73&v=4){width="140px" height="150px"}
+![](https://avatars.githubusercontent.com/u/81385272?s=400&u=db9e68ce341c74ff870634cc398654e82d7aea73&v=4){width="140" height="150" align="left" border="10" style="border-color: white"}
 
 Chasing my love of Orcas, coffee, and grunge to the Pacific Northwest has yielded this Baltimore, MD transplant an opportunity to become a double University of Washington alumna. I graduated with my B.S. in Marine Biology in 2021 and am continuing my academic pursuits as a SAFS and NSF Graduate Fellow. I am currently using -omics techniques to evaluate the relationship between environmental influences, ecotoxins, and organism physiology in the Pacific Northwest using bivalves as the target organisms. Moving through my graduate work I'd like to expand into warmer waters and study those relationships with Syngnathids as the target organisms. When not working in the lab I happily pepper my daughter with dad jokes, build community as a member of [BWEEMS](https://www.bweems.org/) and [BIMS](https://www.blackinmarinescience.org/), and spend my free time moonlighting as a wannabe Chihuly in beginners glass blowing classes.
 
@@ -50,7 +50,7 @@ Chasing my love of Orcas, coffee, and grunge to the Pacific Northwest has yielde
 -   [Lab notebook](https://valeste.github.io/tough-tunicates/)
 -   Email: cvaldi\@uw.edu
 
-![Celeste Valdivia](https://avatars.githubusercontent.com/u/114775924?s=400&u=ac323874acba109b05b1e5def35f43bd00a65fde&v=4){width="140px" height="150px"}
+![](https://avatars.githubusercontent.com/u/114775924?s=400&u=ac323874acba109b05b1e5def35f43bd00a65fde&v=4){width="140px" height="150px" align="left"}
 
 Although growing up in San Diego, CA meant that I spent many days of my youth out in the ocean, my scientific interest in the aquatic environment and it's species wasn't fully realized until I began a position in 2018 as an undergraduate research assistant in an aquatic ecotoxicology lab the University of California, Davis. During that time, I completed my undergraduate capstone project analyzing the effects of bifenthrin exposure on the behavior of the federally endangered Delta Smelt. After graduating with a bachelor of science in Animal Biology in 2020, I continued my research work in that same lab for an additional two years and further explored the developmental, behavioral, and reproductive impacts several commonly employed urban and agricultural pyrethroids had on native Californian estuarine fish species. In 2022, I dually joined the [Gardell Lab](https://gardell.ds.lib.uw.edu/) at the University of Washington, Tacoma and the Roberts Lab housed in the [School of Aquatic and Fishery Sciences](https://fish.uw.edu/) (SAFS) at the University of Washington, Seattle. As a graduate student at SAFS, I am now focused on identifying the constraints on *in vitro* cellular immortality in the marine model invertebrate, *Botryllus schlosseri*. This exploratory process will primarily involve the implementation of procedures for systematic primary cell culture optimization, stress-induced mutagenesis, and bioinformatic network analysis. In my free time I enjoy cooking, tending to my mini indoor garden, and playing guitar. Feel free to get in touch with me through email if you have any questions!
 
@@ -113,13 +113,13 @@ Outside of lab-related work, I dig playing video games and listening to Phish (a
 
 # Undergraduate Students
 
-## Noah Krebs
+### Noah Krebs
 
-## [Henry Berg](https://henryberg03.github.io/notebook/)
+### [Henry Berg](https://henryberg03.github.io/notebook/)
 
-## [Eric Essington](https://Eric-Ess.github.io/notebook/)
+### [Eric Essington](https://Eric-Ess.github.io/notebook/)
 
-## Dorothy Lartey
+### Dorothy Lartey
 
 # Alumni
 
