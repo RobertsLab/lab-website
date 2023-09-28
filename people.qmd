@@ -3,9 +3,6 @@ title: "Lab Members"
 title-block-banner: true
 toc: true
 
-website:
-  repo-url: https://github.com/quarto-dev/quarto-demo
-  repo-actions: [edit, issue]
 ---
 
 # Principal Investigator
