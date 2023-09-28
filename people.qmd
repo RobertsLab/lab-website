@@ -39,7 +39,7 @@ I grew up in the beautiful, landlocked city of Colorado Springs, CO, but I have 
 
 ## Chris Mantegna
 
--   [Lab notebook](https://chrismantegna.github.io/)
+-   [Lab notebook](https://chrismantegna.github.io/cmlabsite/)
 -   Email: mantegna\@uw.edu
 
 ![](https://avatars.githubusercontent.com/u/81385272?s=400&u=db9e68ce341c74ff870634cc398654e82d7aea73&v=4){width="140" height="150" align="left" border="10" style="border-color: white"}
