@@ -55,6 +55,15 @@ Chasing my love of Orcas, coffee, and grunge to the Pacific Northwest has yielde
 
 Although growing up in San Diego, CA meant that I spent many days of my youth out in the ocean, my scientific interest in the aquatic environment and it's species wasn't fully realized until I began a position in 2018 as an undergraduate research assistant in an aquatic ecotoxicology lab the University of California, Davis. During that time, I completed my undergraduate capstone project analyzing the effects of bifenthrin exposure on the behavior of the federally endangered Delta Smelt. After graduating with a bachelor of science in Animal Biology in 2020, I continued my research work in that same lab for an additional two years and further explored the developmental, behavioral, and reproductive impacts several commonly employed urban and agricultural pyrethroids had on native Californian estuarine fish species. In 2022, I dually joined the [Gardell Lab](https://gardell.ds.lib.uw.edu/) at the University of Washington, Tacoma and the Roberts Lab housed in the [School of Aquatic and Fishery Sciences](https://fish.uw.edu/) (SAFS) at the University of Washington, Seattle. As a graduate student at SAFS, I am now focused on identifying the constraints on *in vitro* cellular immortality in the marine model invertebrate, *Botryllus schlosseri*. This exploratory process will primarily involve the implementation of procedures for systematic primary cell culture optimization, stress-induced mutagenesis, and bioinformatic network analysis. In my free time I enjoy cooking, tending to my mini indoor garden, and playing guitar. Feel free to get in touch with me through email if you have any questions!
 
+## Grace Crandall 
+
+- [Lab Notebook](https://grace-ac.github.io/notebook/)
+- Email: graceac9\@uw.edu
+
+
+
+I'm a returning student to the Roberts Lab, having previously received my BSc (2016) and MSc (2020) in this lab. I'm coming back to use -omics techniques to understand host response to pathogens. More specifically, I'll be continuing work that I've been part of since summer 2021 using transcripotmics to investigate the immune response of _Pycnopodia helianthoides_ to sea star wasting disease. I will also be doing some research on eelgrass microbiomes in relation to eelgrass wasting disease and pathogens that cause illness in humans and animals. I've been working for Drew Harvell on the sea star project for the past three years and I am very excited to get to continue the work in a PhD program and to be back in the Roberts Lab!!! In my free time I like to go on walks, listen to music, go to concerts/out dancing, foster dogs, and am slowly teaching myself how to play guitar! If you're curious and want to know more about sea stars, eelgrass, wasting diseases, or anything else, feel free to reach out through email! 
+
 # Postdoctoral Research Associates
 
 ## Ariana S. Huffmyer, PhD
