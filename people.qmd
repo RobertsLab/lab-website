@@ -9,7 +9,7 @@ toc: true
 
 ## Steven Roberts
 
-![](/img/Roberts06.jpg){width="144" height="142" align="left" border="10" style="border-color: white"}
+![](img/Roberts06.jpg){width="144" height="142" align="left" border="10" style="border-color: white"}
 
 [ORCID](https://orcid.org/0000-0001-8302-1138)
 
