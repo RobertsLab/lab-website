@@ -1,5 +1,27 @@
 ---
-title: "DEI"
+title: "Diversity, Equity, and Inclusion"
 title-block-banner: true
 toc: true
 ---
+
+We assert that the diversity of our community, inclusive of various ethnicity, genders, sexual orientations, and social backgrounds, is key the impact of our research. We recognize that diverse perspectives lead to novel solutions and that inclusion cultivates an environment where members are valued, supported, and encouraged to succeed.
+
+Specifically we strive to\
+- Recognize our differences as strengths\
+- Promote continuing education in diversity, equity, and inclusion.\
+- Provide educational and emotional support for each other\
+- Provide resources for personal and professional growth
+
+**Actionable Steps**
+
+In our effort to continue growing and learning we
+
+-   Have regular [DEI lab discussions](https://robertslab.github.io/resources/DEI-Resources/#bimonthly-diversity-equity-and-inclusion-meetings). Currently we are reading and discussing: Race After Technology: Abolitionist Tools for the New Jim Code. Other focuses [have been reading articles, watching videos](https://docs.google.com/spreadsheets/d/1LCIiAqWMaJ0tPZIevUXqWyZR2SN4p9qGLgQIvWBaWgo/edit#gid=0), and we have completed the following books: Invisible Women, The Disorded Cosmas, and Fresh Banana Leaves.
+
+-   Incorporate our values into projects. Examples include projects aimed at [bringing marine sciences to a local high school](https://faculty.washington.edu/sr320/research/wsg-clam.html) and another one we [partner with Sea Potential and Black in Marine Science](https://faculty.washington.edu/sr320/research/art.html) to engage underrepresented students through an Art + Science collaborative education practice.
+
+Several current and former students are integrating these values in their core activities. For instance [Chris Mantegna mentors students in pursuit of enhancing diversity within the marine sciences.](https://fish.uw.edu/2023/09/marine-science-mentoring-over-the-summer-at-fhl/) 
+
+**Invitation to Partnership**
+
+We invite those including current and prospective collaborators, and the wider scientific community, to join us in actively cultivating an environment where every individual is provided the opportunity to be successful.
