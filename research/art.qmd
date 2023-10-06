@@ -7,7 +7,7 @@ website: ""
 theme: "reproductive biology and ecology"
 agency: "UW EarthLab"
 year: "2023"
-github: "https://drive.google.com/drive/u/1/folders/14fQbiccvyMRWt22n5PoMi2fpa3txRVQX"
+github: "https://drive.google.com/drive/folders/1Dm3TkpkmGD1gAgHRZk8I-VQjqpNMEWWo"
 toc: FALSE
 categories:
   - education
