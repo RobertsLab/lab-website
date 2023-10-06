@@ -76,9 +76,7 @@ Growing up in land-locked Fort Worth, Texas, I rarely interacted with marine eco
 ## Ariana S. Huffmyer, PhD
 
 -   [Lab notebook](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/)
--   [CV](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/about/)
--   Twitter: @Dr_Cnidariana
--   [ORCID iD](https://orcid.org/0000-0002-9170-0971)
+-   [LinkTree](https://linktr.ee/ashuffmyer)
 -   Email: ashuffmyer\@uri.edu
 -   National Science Foundation Ocean Sciences Postdoctoral Fellow
 -   UW eScience Data Science Postdoctoral Fellow
@@ -87,11 +85,11 @@ Growing up in land-locked Fort Worth, Texas, I rarely interacted with marine eco
 
 I am a postdoctoral researcher working with [Dr. Hollie Putnam at the University of Rhode Island](http://putnamlab.com/) and Dr. Steven Roberts at the University of Washington studying the effects of climate change on marine invertebrate early life history, with a particular interest in the formation of coral-algal symbiosis during coral development.
 
-My current research interests are in understanding how climate change affects coral performance and survival using multi-omic approaches. Increased frequency and severtity of marine heat waves is causing coral bleaching - the breakdown of the nutritional symbiosis between tropical corals and their algal endosymbionts. My research inveistigates the formation of symbiosis between corals and their algal symbionts during early development in coral species in Hawaii, USA and Moorea, French Polynesia by utilizing energetic, metabolomic, and transcriptomic approaches.
+My current research interests are in understanding how climate change affects coral performance and survival using multi-omic approaches. Increased frequency and severity of marine heat waves are causing coral bleaching - the breakdown of the nutritional symbiosis between tropical corals and their algal endosymbionts. My research investigates the formation of symbiosis between corals and their algal symbionts during early development in coral species in Hawaii, USA, and Moorea, French Polynesia by utilizing physiological, metabolomic, and transcriptomic approaches.
 
 I am working with the [E5 Coral team](https://e5coral.org/) to examine coral physiological, metabolic, and epigenetic responses across nutrient gradients in Moorea. I use [online notebooks](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/) and [GitHub](https://github.com/AHuffmyer) to publicly share my data and analyses.
 
-I completed my Ph.D. in marine biology at the Hawaii Institute of Marine Biology in the [Coral Resilience Lab - The Legacy of Ruth Gates](https://www.coralresiliencelab.com/) and [Lemus Labs](https://judylemus.com/) where I studied how early life stages of corals respond to climate change driven thermal stress. My work investigated the influence of [nutrition and thermal conditioning,](https://royalsocietypublishing.org/doi/10.1098/rsos.210644) and [intraspecific interactions](https://link.springer.com/article/10.1007/s00338-021-02074-1) on thermal tolerance of coral recruits and how we can leverage this knowledge to [enhance coral propagation](https://www.int-res.com/abstracts/meps/v657/p123-133). My collaborators and I used approaches ranging from [field observations](https://www.frontiersin.org/articles/10.3389/fevo.2020.00178/full#:~:text=10.3389%2Ffevo.2020.00178-,Coral%20Bleaching%20Susceptibility%20Is%20Predictive%20of%20Subsequent,but%20Not%20Between%20Coral%20Species&text=Marine%20heat%20waves%20instigated%20by,lead%20to%20widespread%20coral%20mortality.) to [confocal microscopy](https://journals.biologists.com/jeb/article/223/6/jeb220335/223715/Evaluation-of-laser-scanning-confocal-microscopy) and [energetics and phsyiology](https://www.pnas.org/content/118/22/e2025435118). Seeing a need for scientists to also be translators and educators, I conducted research in science education to understand how participation in research influences science identity development.
+I completed my Ph.D. in marine biology and science education at the Hawaii Institute of Marine Biology in the [Coral Resilience Lab - The Legacy of Ruth Gates](https://www.coralresiliencelab.com/) and [Lemus Labs](https://judylemus.com/) where I studied how early life stages of corals respond to climate change driven thermal stress. 
 
 Outside the lab, I enjoy hiking, mountain biking, fly fishing, and exploring with my two dogs the Pacific Northwest.
 
