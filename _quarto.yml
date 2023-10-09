@@ -52,25 +52,35 @@ website:
   sidebar:
     style: "docked"
     search: true
-    footer: "_some pages listed above are still in active development_"
+    #footer: "_some pages listed above are still in active development_"
     contents:
-      - section: Research
-        contents:
-          - text: "Projects"
-            file: research.qmd
-          - text: "Publications"
-            file: publications.qmd
-      - section: People
-        contents:
-          - people.qmd
-          - collaborators.qmd
-      - section: "Lab Culture"
-        contents:
-          - dei.qmd
-          - outreach.qmd
-          - posts.qmd
-
-       
+    - text: "Projects"
+      file: research.qmd
+    - text: "Publications"
+      file: publications.qmd
+    - people.qmd
+    - dei.qmd
+    - posts.qmd
+    
+    
+    
+    
+    # contents:
+    # - section: Research
+    #    contents:
+    #       - text: "Projects"
+    #         file: research.qmd
+    #       - text: "Publications"
+    #         file: publications.qmd
+    #   - section: People
+    #     contents:
+    #       - people.qmd
+    #       - collaborators.qmd
+    #   - section: "Lab Culture"
+    #     contents:
+    #       - dei.qmd
+    #       - outreach.qmd
+    #       - posts.qmd
 
 
     
