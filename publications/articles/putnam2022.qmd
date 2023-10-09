@@ -19,9 +19,7 @@ categories:
 
 ## Citation
 
-> Dynamic DNA methylation contributes to carryover effects and beneficial acclimatization in geoduck clams
-Hollie M. Putnam, Shelly A. Trigg, Samuel J. White, Laura H. Spencer, Brent Vadopalas, Aparna Natarajan, Jonathan Hetzel, Erich Jaeger, Jonathan Soohoo, Cristian Gallardo-Escárate, Frederick W. Goetz, Steven B. Roberts
-bioRxiv 2022.06.24.497506; doi: https://doi.org/10.1101/2022.06.24.497506
+> Dynamic DNA methylation contributes to carryover effects and beneficial acclimatization in geoduck clams Hollie M. Putnam, Shelly A. Trigg, Samuel J. White, Laura H. Spencer, Brent Vadopalas, Aparna Natarajan, Jonathan Hetzel, Erich Jaeger, Jonathan Soohoo, Cristian Gallardo-Escárate, Frederick W. Goetz, Steven B. Roberts bioRxiv 2022.06.24.497506; doi: https://doi.org/10.1101/2022.06.24.497506
 
 ## Abstract
 

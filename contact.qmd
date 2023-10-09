@@ -13,9 +13,9 @@ If you have a query related to wet lab work or data analysis - please submit a [
 <hr />
 
 <strong>Physical Address:</strong> (for walking, etc) University of Washington <a href="http://uw.edu/maps/?FTR">\
-1140 NE Boat Street \
+1140 NE Boat Street\
 Fisheries Research and Teaching Building</a>\
-Room \# 232 \
+Room \# 232\
 Seattle, WA 98105
 
 [Google Map Link](https://goo.gl/maps/GDtRRsUCMGfuYQ3Q9)
@@ -24,16 +24,16 @@ Seattle, WA 98105
 
 </iframe>
 
-<strong>Shipping Address:</strong> \
-University of Washington \
-School of Aquatic and Fishery Sciences \
-1122 Boat Street \
+<strong>Shipping Address:</strong>\
+University of Washington\
+School of Aquatic and Fishery Sciences\
+1122 Boat Street\
 Seattle, WA 98105-5020
 
-<strong>Campus Mail Address:</strong> \
-University of Washington \
-School of Aquatic and Fishery Sciences \
-Box 355020 \
+<strong>Campus Mail Address:</strong>\
+University of Washington\
+School of Aquatic and Fishery Sciences\
+Box 355020\
 Seattle, WA 98195
 
 <hr />

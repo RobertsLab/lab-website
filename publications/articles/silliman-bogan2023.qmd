@@ -1,7 +1,7 @@
 ---
 title: "A dynamic web resource for robust and reproducible genomics in non-model species: marineomics.io"
 type: "article"
-author: ""
+author: "Bogan, S. N., Johns, J., Griffiths, J. S., Davenport, D., Smith, S. J., Schaal, S. M., Downey-Wall, A., Lou, R. N., Lotterhos, K., Guidry, M. E., Rivera, H. E., McGirr, J. A., Puritz, J. B., Roberts, S. B., & Silliman, K."
 year: "2023"
 publication: "Methods in Ecology and Evolution "
 preprint: ""
