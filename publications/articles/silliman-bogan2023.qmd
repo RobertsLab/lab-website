@@ -6,8 +6,8 @@ year: "2023"
 publication: "Methods in Ecology and Evolution "
 preprint: ""
 doi: "https://doi.org/10.1111/2041-210X.14219"
-materials: ""
-eprint: ""
+materials: "https://doi. org/10.5281/zenodo.8289843"
+eprint: "http://gannet.fish.washington.edu/seashell/snaps/17823668.pdf"
 toc: FALSE
 categories:
   - methods
@@ -16,8 +16,15 @@ categories:
 
 ## Citation
 
-\>
+> Bogan, S. N., Johns, J., Griffiths, J. S., Davenport, D., Smith, S. J., Schaal, S. M., Downey-Wall, A., Lou, R. N., Lotterhos, K., Guidry, M. E., Rivera, H. E., McGirr, J. A., Puritz, J. B., Roberts, S. B., & Silliman, K. (2023). A dynamic web resource for robust and reproducible genomics in nonmodel species: marineomics.io. Methods in Ecology and Evolution, 00, 1–8. https://doi.org/10.1111/2041-210X.14219
 
 ## Abstract
 
+1. Genomic methods are becoming increasingly valuable and established in eco- logical research, particularly in nonmodel species. Supporting their progress and adoption requires investment in resources that promote (i) reproducibility of genomic analyses, (ii) accessibility of learning tools and (iii) keeping pace with rapidly developing methods and principles.
+2. We introduce marineomics.io, an open-source, living document to disseminate tutorials, reproducibility tools and best principles for ecological genomic research in marine and nonmodel systems.
+3. The website's existing content spans population and functional genomics, includ- ing current recommendations for whole-genome sequencing, RAD-seq, Pool-seq and RNA-seq. With the goal to facilitate the development of new, similar re- sources, we describe our process for aggregating and synthesizing methodologi- cal principles from the ecological genomics community to inform website content. We also detail steps for authorship and submission of new website content, as well as protocols for providing feedback and topic requests from the community.
+4. These web resources were constructed with guidance for doing rigorous, repro- ducible science. Collaboration and contributions to the website are encouraged from scientists of all skill sets and levels of expertise.
+
 ## Data Availability
+
+The website can be found at http://marineomics.github.io/ and the source repository for contributors is located at https://github.com/ MarineOmics/marineomics.github.io. A snapshot of the site's source code at the time of submission is available via Zenodo: https://doi. org/10.5281/zenodo.8289843 (Roberts et al., 2023).
