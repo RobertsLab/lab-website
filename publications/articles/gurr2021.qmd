@@ -1,7 +1,7 @@
 ---
 title: "Repeat exposure to hypercapnic seawater modifies growth and oxidative status in a tolerant burrowing clam"
 type: "article"
-author: "Samuel J. Gurr, Shelly A. Trigg, Brent Vadopalas, Steven B. Roberts, Hollie M. Putnam"
+author: "Samuel J. Gurr, Shelly A. Wanamaker , Brent Vadopalas, Steven B. Roberts, Hollie M. Putnam"
 year: "2022"
 publication: "Journal of Experimental Biology"
 preprint: ""

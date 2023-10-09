@@ -1,7 +1,7 @@
 ---
 title: "Invertebrate methylomes provide insight into mechanisms of environmental tolerance and reveal methodological biases"
 type: "article"
-author: "Shelly A. Trigg, Yaamini R. Venkataraman, Mackenzie R. Gavery, Steven B. Roberts, Debashish Bhattacharya, Alan Downey-Wall, Jose M. Eirin-Lopez, Kevin M. Johnson, Katie E. Lotterhos, Jonathan B. Puritz and Hollie M. Putnam"
+author: "Shelly A. Wanamaker , Yaamini R. Venkataraman, Mackenzie R. Gavery, Steven B. Roberts, Debashish Bhattacharya, Alan Downey-Wall, Jose M. Eirin-Lopez, Kevin M. Johnson, Katie E. Lotterhos, Jonathan B. Puritz and Hollie M. Putnam"
 year: "2021"
 publication: "Molecular Ecology Resources"
 preprint: "https://www.biorxiv.org/content/10.1101/2021.03.29.437539v2"
@@ -18,7 +18,7 @@ categories:
 
 ## Citation
 
-> Trigg, S. A., Venkataraman, Y. R., Gavery, M. R., Roberts, S. B., Bhattacharya, D., Downey-Wall, A., Eirin-Lopez, J. M., Johnson, K. M., Lotterhos, K. E., Puritz, J. B., & Putnam, H. M. (2022). Invertebrate methylomes provide insight into mechanisms of environmental tolerance and reveal methodological biases. Molecular Ecology Resources, 22, 1247-- 1261. https://doi.org/10.1111/1755-0998.13542
+> Wanamaker , S. A., Venkataraman, Y. R., Gavery, M. R., Roberts, S. B., Bhattacharya, D., Downey-Wall, A., Eirin-Lopez, J. M., Johnson, K. M., Lotterhos, K. E., Puritz, J. B., & Putnam, H. M. (2022). Invertebrate methylomes provide insight into mechanisms of environmental tolerance and reveal methodological biases. Molecular Ecology Resources, 22, 1247-- 1261. https://doi.org/10.1111/1755-0998.13542
 
 ## Abstract
 

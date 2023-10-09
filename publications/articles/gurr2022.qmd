@@ -1,7 +1,7 @@
 ---
 title: "Acclimatory gene expression of primed clams enhances robustness to elevated pCO2"
 type: "article"
-author: "Samuel J. Gurr, Shelly A. Trigg, Brent Vadopalas, Steven B. Roberts, Hollie M. Putnam"
+author: "Samuel J. Gurr, Shelly A. Wanamaker , Brent Vadopalas, Steven B. Roberts, Hollie M. Putnam"
 year: "2022"
 publication: "Molecular Ecology"
 preprint: ""
@@ -19,7 +19,7 @@ categories:
 
 ## Citation
 
-> Gurr, S. J., Trigg, S. A., Vadopalas, B., Roberts, S. B., & Putnam, H. M. (2022). Acclimatory gene expression of primed clams enhances robustness to elevated pCO2. Molecular Ecology, 31, 5005-- 5023. https://doi.org/10.1111/mec.16644
+> Gurr, S. J., Wanamaker , S. A., Vadopalas, B., Roberts, S. B., & Putnam, H. M. (2022). Acclimatory gene expression of primed clams enhances robustness to elevated pCO2. Molecular Ecology, 31, 5005-- 5023. https://doi.org/10.1111/mec.16644
 
 ## Abstract
 

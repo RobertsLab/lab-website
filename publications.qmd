@@ -30,7 +30,7 @@ Below you will find links to research papers. Recent papers can be searched by s
 
 # Less Recent Papers (2020 and older)
 
-Shelly A. Trigg, Kaitlyn R. Mitchell, Rhonda Elliott Thompson, Benoit Eudeline, Brent Vadopalas, Emma B. Timmins-Schiffman & Steven B. Roberts. (**2020**) [Temporal proteomic profiling reveals insight into critical developmental processes and temperature-influenced physiological response differences in a bivalve mollusc](http://doi.org/10.1186/s12864-020-07127-3) BMC Genomics 21, 723 doi:10.1186/s12864-020-07127-3
+Shelly A. Wanamaker , Kaitlyn R. Mitchell, Rhonda Elliott Thompson, Benoit Eudeline, Brent Vadopalas, Emma B. Timmins-Schiffman & Steven B. Roberts. (**2020**) [Temporal proteomic profiling reveals insight into critical developmental processes and temperature-influenced physiological response differences in a bivalve mollusc](http://doi.org/10.1186/s12864-020-07127-3) BMC Genomics 21, 723 doi:10.1186/s12864-020-07127-3
 
 <a href="http://doi.org/10.1186/s12864-020-07127-3"><img src="http://gannet.fish.washington.edu/seashell/snaps/Temporal_proteomic_profiling_reveals_insight_into_critical_developmental_processes_and_temperature-influenced_physiological_res_2020-11-04_13-31-48.png" title="oyster" alt="graph" class="wp-image-2505 alignleft" width="220" height="192"/></a>
 
@@ -249,7 +249,7 @@ Gavery, M., & Roberts, S. (2018). [Genetics & Epigenetics in Life History and Re
 
 # Preprints
 
-Shelly A Trigg, Kaitlyn R Mitchell, Rhonda Elliott Thompson, Benoit Eudeline, Brent Vadopalas, Emma B Timmins-Schiffman, Steven B Roberts (2020). Temporal proteomic profiling reveals insight into critical devleopmental processes and temperature-influenced physiological response differences in a bivalve mollusc. **bioRxiv**. https://doi.org/10.1101/2020.06.05.137059
+Shelly A Wanamaker , Kaitlyn R Mitchell, Rhonda Elliott Thompson, Benoit Eudeline, Brent Vadopalas, Emma B Timmins-Schiffman, Steven B Roberts (2020). Temporal proteomic profiling reveals insight into critical devleopmental processes and temperature-influenced physiological response differences in a bivalve mollusc. **bioRxiv**. https://doi.org/10.1101/2020.06.05.137059
 
 Emma B. Timmins-Schiffman, Grace A. Crandall, Brent Vadopalas, Michael E. Riffle, Brook L. Nunn, Steven B. Roberts (2016) Integrating proteomics and selected reaction monitoring to develop a non-invasive assay for geoduck reproductive maturation. **bioRxiv** doi: <https://doi.org/10.1101/094615>
 
@@ -344,7 +344,7 @@ Characterizing the effects of ocean acidification in larval and juvenile Manila 
 | Laura Spencer        | [laurahspencer.github.io](https://laurahspencer.github.io/LabNotebook/)     | [![GitHub followers](https://img.shields.io/github/followers/laurahspencer.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/laurahspencer) |
 | Yaamini Venkataraman | [yaaminiv.github.io](https://yaaminiv.github.io/)                           | [![GitHub followers](https://img.shields.io/github/followers/yaaminiv.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/yaaminiv)           |
 | Grace Crandall       | [grace-ac.github.io](https://grace-ac.github.io/)                           | [![GitHub followers](https://img.shields.io/github/followers/grace-ac.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/grace-ac)           |
-| Shelly Trigg         | [shellytrigg.github.io/notebook](https://shellytrigg.github.io/notebook/)   | [![GitHub followers](https://img.shields.io/github/followers/shellytrigg.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/shellytrigg)     |
+| Shelly Wanamaker          | [shellytrigg.github.io/notebook](https://shellytrigg.github.io/notebook/)   | [![GitHub followers](https://img.shields.io/github/followers/shellytrigg.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/shellytrigg)     |
 | Celeste Valdivia     | [valeste.github.io](https://valeste.github.io/)                             | ![GitHub last commit](https://img.shields.io/github/last-commit/valeste/valeste.github.io)                                                                  |
 
 ------------------------------------------------------------------------
