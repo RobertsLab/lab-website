@@ -17,6 +17,14 @@ categories:
 
 ## Collaborators
 
+Louise Copeman (co-PI)
+
+Ben Laurel (co-PI)
+
+Krista Nichols (co-PI)
+
+Ingrid Spies (co-PI)
+
 ## Summary
 
 Recent heat wave stress in the Gulf of Alaska has resulted in significant declines of Pacific cod, Gadus macrocephalus, in that region. In particular, overwintering success of juveniles is hypothesized to represent a critical bottleneck with food availability the previous summer affecting juvenile lipid reserves and thus, their ability to survive winter. The physiological and transcriptional responses of Pacific cod and whether selective mortality is present under thermal stress are unknown. The proposed project will address these questions critical to their survival under climate change by identifying regions of the genome and epigenome that respond to thermal stress and starvation. Juvenile Pacific cod will be reared in three temperatures under feeding and non-feeding conditions, then an integrated genomic approach will identify genes, gene variants, and epigenetic markers that respond to thermal stress and confer resilience. To complement the genomic approaches and further investigate temperature influences on energy resources, we will perform lipid analyses. This work will inform predictions of genetic selection and molecular response of Pacific cod in the Gulf of Alaska under climate change.
