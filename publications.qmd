@@ -1,5 +1,6 @@
 ---
-pagetitle: "Publications | Roberts Lab"
+#pagetitle: "Publications | Roberts Lab"
+
 
 listing:
   - id: articles
@@ -332,11 +333,11 @@ Characterizing the effects of ocean acidification in larval and juvenile Manila 
 # Notebooks
 
 | Person               | Notebook                                                                    | Commitment                                                                                                                                                  |
-|------------------|------------------|------------------------------------|
+|-------------------|-------------------|------------------------------------|
 | Steven Roberts       | [sr320.github.io](https://sr320.github.io/)                                 | ![GitHub last commit](https://img.shields.io/github/last-commit/sr320/sr320.github.io)                                                                      |
 | Sam White            | [robertslab.github.io](https://robertslab.github.io/sams-notebook/)         | ![GitHub last commit](https://img.shields.io/github/last-commit/RobertsLab/sams-notebook)                                                                   |
 | Matt George          | [mattgeorgephd.github.io](https://mattgeorgephd.github.io/notebook/)        | ![GitHub last commit](https://img.shields.io/github/last-commit/mattgeorgephd/mattgeorgephd.github.io)                                                      |
-| Aspen Coyle          | [aspencoyle.github.io](https://aspencoyle.github.io)                              | ![GitHub last commit](https://img.shields.io/github/last-commit/aspencoyle/aspencoyle.github.io)                                                                  |
+| Aspen Coyle          | [aspencoyle.github.io](https://aspencoyle.github.io)                        | ![GitHub last commit](https://img.shields.io/github/last-commit/aspencoyle/aspencoyle.github.io)                                                            |
 | Olivia Cattau        | [ocattau.github.io](https://ocattau.github.io)                              | ![GitHub last commit](https://img.shields.io/github/last-commit/ocattau/ocattau.github.io)                                                                  |
 | Delaney Lawson       | [drlawson.github.io](https://drlawson.github.io)                            | ![GitHub last commit](https://img.shields.io/github/last-commit/drlawson/drlawson.github.io)                                                                |
 | Ariana Huffmyer      | [ahuffmyer.github.io](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/) | ![GitHub last commit](https://img.shields.io/github/last-commit/AHuffmyer/ASH_Putnam_Lab_Notebook)                                                          |
@@ -344,7 +345,7 @@ Characterizing the effects of ocean acidification in larval and juvenile Manila 
 | Laura Spencer        | [laurahspencer.github.io](https://laurahspencer.github.io/LabNotebook/)     | [![GitHub followers](https://img.shields.io/github/followers/laurahspencer.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/laurahspencer) |
 | Yaamini Venkataraman | [yaaminiv.github.io](https://yaaminiv.github.io/)                           | [![GitHub followers](https://img.shields.io/github/followers/yaaminiv.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/yaaminiv)           |
 | Grace Crandall       | [grace-ac.github.io](https://grace-ac.github.io/)                           | [![GitHub followers](https://img.shields.io/github/followers/grace-ac.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/grace-ac)           |
-| Shelly Wanamaker          | [shellytrigg.github.io/notebook](https://shellytrigg.github.io/notebook/)   | [![GitHub followers](https://img.shields.io/github/followers/shellytrigg.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/shellytrigg)     |
+| Shelly Wanamaker     | [shellytrigg.github.io/notebook](https://shellytrigg.github.io/notebook/)   | [![GitHub followers](https://img.shields.io/github/followers/shellytrigg.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/shellytrigg)     |
 | Celeste Valdivia     | [valeste.github.io](https://valeste.github.io/)                             | ![GitHub last commit](https://img.shields.io/github/last-commit/valeste/valeste.github.io)                                                                  |
 
 ------------------------------------------------------------------------
@@ -353,17 +354,15 @@ Characterizing the effects of ocean acidification in larval and juvenile Manila 
 
 #### 2023
 
--   [Development of an Alternative Sterility Method for Shellfish Aquaculture: Identification of Candidate Genes Involved in Germ Cell Specification]() Mackenzie Gavery (NOAA Fisheries - NW Fisheries Science Center), Lauren Saunders, Lauren Vandepas, Brent Vadopalas, Adam Luckenbach, Cole Trapnell, Steven Roberts. Pacific Coast Shellfish Growers Association (PCSGA) and the National Shellfisheries Association  Pacific Coast Section (NSA-PCS) Meeting. Seaside Civic & Convention Center, Seaside, OR. September 19-21, 2023
+-   [Development of an Alternative Sterility Method for Shellfish Aquaculture: Identification of Candidate Genes Involved in Germ Cell Specification]() Mackenzie Gavery (NOAA Fisheries - NW Fisheries Science Center), Lauren Saunders, Lauren Vandepas, Brent Vadopalas, Adam Luckenbach, Cole Trapnell, Steven Roberts. Pacific Coast Shellfish Growers Association (PCSGA) and the National Shellfisheries Association Pacific Coast Section (NSA-PCS) Meeting. Seaside Civic & Convention Center, Seaside, OR. September 19-21, 2023
 
--   [Environmental Priming for Ocean Acidification: Potential hatchery practices to build resilience for clam aquaculture in the Puget Sound]() Larken Root (Univeristy of Washington/NOAA), Mackenzie Gavery, Ryan Crim. Pacific Coast Shellfish Growers Association (PCSGA) and the National Shellfisheries Association  Pacific Coast Section (NSA-PCS) Meeting. Seaside Civic & Convention Center, Seaside, OR. September 19-21, 2023
+-   [Environmental Priming for Ocean Acidification: Potential hatchery practices to build resilience for clam aquaculture in the Puget Sound]() Larken Root (Univeristy of Washington/NOAA), Mackenzie Gavery, Ryan Crim. Pacific Coast Shellfish Growers Association (PCSGA) and the National Shellfisheries Association Pacific Coast Section (NSA-PCS) Meeting. Seaside Civic & Convention Center, Seaside, OR. September 19-21, 2023
 
--   [Triploid Pacific oysters exhibit stress response dysregulation and elevated mortality following heatwaves]()
-Matthew George (University of Washington), Olivia Cattau, Mollie A. Middleton, Delaney Lawson, Brent Vadopalas, Mackenzie Gavery, Steven Roberts. Pacific Coast Shellfish Growers Association (PCSGA) and the National Shellfisheries Association  Pacific Coast Section (NSA-PCS) Meeting. Seaside Civic & Convention Center, Seaside, OR. September 19-21, 2023
+-   [Triploid Pacific oysters exhibit stress response dysregulation and elevated mortality following heatwaves]() Matthew George (University of Washington), Olivia Cattau, Mollie A. Middleton, Delaney Lawson, Brent Vadopalas, Mackenzie Gavery, Steven Roberts. Pacific Coast Shellfish Growers Association (PCSGA) and the National Shellfisheries Association Pacific Coast Section (NSA-PCS) Meeting. Seaside Civic & Convention Center, Seaside, OR. September 19-21, 2023
 
 -   [Triploid Pacific oysters experience enhanced mortality following marine heatwaves]() Presentation. National Shellfish Association Annual Meeting, Baltimore, MD, March 30, 2023.
 
 -   [DNA Methylaiton in Bivalves](https://github.com/sr320/talk-EpiAqua-2023) Keynote at Epigenomics in Aquaculture - January 25 2023, University of Concepcion, Chile
-
 
 -   [Ploidy mediates the stress response of Pacific oysters following marine heatwave exposure]() Presentation. Plant and Animal Genome Conference, San Diego, CA, January 14, 2023.
 
