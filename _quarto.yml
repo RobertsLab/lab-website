@@ -34,6 +34,18 @@ website:
             url:  https://robertslab.github.io/sams-notebook/
           - text: steven
             url:  https://sr320.github.io
+          - text: aspen
+            url:  https://aspencoyle.github.io/notebook/
+          - text: chris
+            url:  https://chrismantegna.github.io/cmlabsite/notebook.html
+          - text: zach
+            url:  https://zbengt.github.io/notebook/
+          - text: celeste
+            url:  https://valeste.github.io/tough-tunicates/
+          - text: grace
+            url:  https://grace-ac.github.io/notebook/
+          - text: kathleen
+            url:  https://shedurkin.github.io/Roberts-LabNotebook/
       - icon: github
         menu:
           - text: Submit an Issue
