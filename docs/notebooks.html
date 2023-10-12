@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>robertslab.info - Roberts Lab</title>
+<title>robertslab.info - Lab Notebooks</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -31,8 +31,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
 <link href=".//img/logo.png" rel="icon" type="image/png">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -63,38 +61,7 @@ ul.task-list li input[type="checkbox"] {
     "search-submit-button-title": "Submit"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -176,7 +143,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Roberts Lab</li></ol></nav>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Lab Notebooks</li></ol></nav>
       <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
       </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -189,8 +156,7 @@ ul.task-list li input[type="checkbox"] {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
-      <h1 class="title">Roberts Lab</h1>
-            <p class="subtitle lead">School of Aquatic and Fishery Sciences - University of Washington</p>
+      <h1 class="title">Lab Notebooks</h1>
                       </div>
   </div>
     
@@ -257,120 +223,76 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<p>Research in our lab focuses on characterizing physiological responses of marine organisms to environmental change. Using integrative approaches we strive to examine impacts and adaptive potential from the nucleotide to organismal level. A core component of this includes investigating the functional relationship of genetics, epigenetics, and physiology.</p>
-<p>Our lab strives to make all research products readily available. This includes publishing of online <a href="https://faculty.washington.edu/sr320/publications.html#notebooks">lab notebooks</a> presentations, data, and more.</p>
-<p>Below is a snapshot of some of current activity. Use the menu to learn more about the people, research, and lab culture. If you explore this site and want more, you can checkout our <a href="https://robertslab.github.io/resources/">handbook</a> or <a href="https://robertslab.github.io/tusk/">tusk</a>.</p>
+<table class="table">
+<thead>
+<tr class="header">
+<th>Person</th>
+<th>Notebook</th>
+<th>Commitment</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Steven Roberts</td>
+<td><a href="https://sr320.github.io/">sr320.github.io</a></td>
+<td><img src="https://img.shields.io/github/last-commit/sr320/sr320.github.io" class="img-fluid" alt="GitHub last commit"></td>
+</tr>
+<tr class="even">
+<td>Sam White</td>
+<td><a href="https://robertslab.github.io/sams-notebook/">robertslab.github.io</a></td>
+<td><img src="https://img.shields.io/github/last-commit/RobertsLab/sams-notebook.png" class="img-fluid" alt="GitHub last commit"></td>
+</tr>
+<tr class="odd">
+<td>Matt George</td>
+<td><a href="https://mattgeorgephd.github.io/notebook/">mattgeorgephd.github.io</a></td>
+<td><img src="https://img.shields.io/github/last-commit/mattgeorgephd/mattgeorgephd.github.io" class="img-fluid" alt="GitHub last commit"></td>
+</tr>
+<tr class="even">
+<td>Aspen Coyle</td>
+<td><a href="https://aspencoyle.github.io">aspencoyle.github.io</a></td>
+<td><img src="https://img.shields.io/github/last-commit/afcoyle/afcoyle.github.io" class="img-fluid" alt="GitHub last commit"></td>
+</tr>
+<tr class="odd">
+<td>Ariana Huffmyer</td>
+<td><a href="https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/">ahuffmyer.github.io</a></td>
+<td><img src="https://img.shields.io/github/last-commit/AHuffmyer/ASH_Putnam_Lab_Notebook.png" class="img-fluid" alt="GitHub last commit"></td>
+</tr>
+<tr class="even">
+<td>Chris Mantegna</td>
+<td><a href="https://chrismantegna.github.io/cmlabsite/">chrismantegna.github.io/cmlabsite</a></td>
+<td><img src="https://img.shields.io/github/last-commit/ChrisMantegna.github.io/cmlabsite.png" class="img-fluid" alt="Github last commit"></td>
+</tr>
+<tr class="odd">
+<td>Zach Bengtsson</td>
+<td><a href="https://zbengt.github.io/notebook/">zbengt.github.io</a></td>
+<td><img src="https://img.shields.io/github/last-commit/zbengt/zbengt.github.io" class="img-fluid" alt="Github last commit"></td>
+</tr>
+<tr class="even">
+<td>Celeste Valdivia</td>
+<td><a href="https://valeste.github.io/tough-tunicates/">valeste.github.io</a></td>
+<td><img src="https://img.shields.io/github/last-commit/valeste/tough-tunicates.png" class="img-fluid" alt="GitHub last commit"></td>
+</tr>
+<tr class="odd">
+<td>Larken Root</td>
+<td><a href="https://larkenr.github.io">larkenr.github.io</a></td>
+<td><img src="https://img.shields.io/github/last-commit/larkenr/larkenr.github.io" class="img-fluid" alt="Github last commit"></td>
+</tr>
+<tr class="even">
+<td>Grace Crandall</td>
+<td><a href="https://grace-ac.github.io/">grace-ac.github.io</a></td>
+<td><img src="https://img.shields.io/github/last-commit/grace-a/grace-ac.github.io" class="img-fluid" alt="GitHub last commit"></td>
+</tr>
+<tr class="odd">
+<td>Kathleen Durkin</td>
+<td><a href="https://shedurkin.github.io/Roberts-LabNotebook/">shedurkin.github.io</a></td>
+<td><img src="https://img.shields.io/github/last-commit/shedurkin/Roberts-LabNotebook.png" class="img-fluid" alt="GitHub last commit"></td>
+</tr>
+</tbody>
+</table>
 
 
 
-
-<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="paper,genomics,methods,website" data-listing-date-sort="1696834800000" data-listing-file-modified-sort="1696856090084" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3">
-<a href="./posts/frontpage/sr320-marineomics/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_17823668.pdf_2023-10-09_05-50-37.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-MarineOmics.io
-</h5>
-<div class="card-text listing-description">
-Steering the Future of Genomic Research in Aquatic Nonmodel Species
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-
-</div>
-<div class="listing-date">
-Oct 9, 2023
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="1" data-categories="fhl,mentoring,spotlight" data-listing-date-sort="1695020400000" data-listing-file-modified-sort="1695133263134" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
-<a href="./posts/frontpage/sr320-fhl/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="https://fish.uw.edu/wp-content/uploads/sites/29/2023/09/IMG_2415.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Marine science mentoring over the summer at FHL
-</h5>
-<div class="card-text listing-description">
-Feature on UW SAFS Website
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-
-</div>
-<div class="listing-date">
-Sep 18, 2023
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="2" data-categories="triploid,aquaculture,oyster,stress" data-listing-date-sort="1694761200000" data-listing-file-modified-sort="1694747851342" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3">
-<a href="./posts/frontpage/sr320-george-paper/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Global_Change_Biology_-_2023_-_George_-_Triploid_Pacific_oysters_exhibit_stress_response_dysregulation_and_elevated.pdf_2023-09-14_18-15-06.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-The Double-Edged Sword of Triploidy in Pacific Oysters
-</h5>
-<div class="card-text listing-description">
-New Research Highlights Increased Vulnerability to Climate Stressors
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Steven Roberts
-</div>
-<div class="listing-date">
-Sep 15, 2023
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="3" data-categories="paper,acidication,oyster,ostrea,tag-seq" data-listing-date-sort="1694761200000" data-listing-file-modified-sort="1694739339513" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3">
-<a href="./posts/frontpage/sr320-spencer-paper/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="https://gannet.fish.washington.edu/seashell/snaps/httpswww.biorxiv.orgcontent10.11012023.09.08.556443v1.full.pdf_2023-09-14_12-56-48.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Uncovering Population-specific Resilience to Ocean Acidification in the Olympia Oyster
-</h5>
-<div class="card-text listing-description">
-A Deep Dive into Our Latest Publication
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Steven Roberts
-</div>
-<div class="listing-date">
-Sep 15, 2023
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -723,4 +645,4 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 
 
 
-<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/Robertslab/lab-website/edit/main/index.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/Robertslab/lab-website/issues/new" class="toc-action">Report an issue</a></p></div></div></div></div></footer></body></html>
+<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/Robertslab/lab-website/edit/main/notebooks.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/Robertslab/lab-website/issues/new" class="toc-action">Report an issue</a></p></div></div></div></div></footer></body></html>

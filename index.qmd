@@ -12,9 +12,8 @@ listing:
   categories: false # allows you to sort posts by assigned categories 
 ---
 
-
 Research in our lab focuses on characterizing physiological responses of marine organisms to environmental change. Using integrative approaches we strive to examine impacts and adaptive potential from the nucleotide to organismal level. A core component of this includes investigating the functional relationship of genetics, epigenetics, and physiology.
 
-Our lab strives to make all research products readily available. This includes publishing of online lab notebooks, presentations, data, and more.
+Our lab strives to make all research products readily available. This includes publishing of online [lab notebooks](https://faculty.washington.edu/sr320/publications.html#notebooks) presentations, data, and more.
 
 Below is a snapshot of some of current activity. Use the menu to learn more about the people, research, and lab culture. If you explore this site and want more, you can checkout our [handbook](https://robertslab.github.io/resources/) or [tusk](https://robertslab.github.io/tusk/).
