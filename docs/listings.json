@@ -9,21 +9,6 @@
     ]
   },
   {
-    "listing": "/posts.html",
-    "items": [
-      "/posts/frontpage/sr320-marineomics/index.html",
-      "/posts/frontpage/sr320-fhl/index.html",
-      "/posts/frontpage/sr320-spencer-paper/index.html",
-      "/posts/frontpage/sr320-george-paper/index.html",
-      "/posts/2023-08-22-qPCR-Analysis---C.gigas-Matt-George-Poly:IC-Diploids/index.html",
-      "/posts/2023-08-21-Transcript-Identification-and-Alignments---C.virginica-RNAseq-with-NCBI-Genome-GCF_002022765.2-Using-Hisat2-and-Stringtie-on-Mox-Again/index.html",
-      "/posts/2023-08-17-qPCR---C.gigas-PolyIC-Diploid-MgCl2/index.html",
-      "/posts/2023-08-16-Reverse-Transcription---C.gigas-PolyIC-Diploid-MgCl2/index.html",
-      "/posts/2023-08-16-RNA-Quantification---C.gigas-PolyIC-Diploid-MgCl2/index.html",
-      "/posts/cool-paper/index.html"
-    ]
-  },
-  {
     "listing": "/publications.html",
     "items": [
       "/publications/articles/silliman-bogan2023.html",
@@ -47,6 +32,41 @@
       "/publications/articles/trigg2021.html",
       "/publications/articles/spencer2021.html",
       "/publications/articles/rajan2021.html"
+    ]
+  },
+  {
+    "listing": "/posts.html",
+    "items": [
+      "/posts/frontpage/sr320-marineomics/index.html",
+      "/posts/frontpage/sr320-fhl/index.html",
+      "/posts/frontpage/sr320-spencer-paper/index.html",
+      "/posts/frontpage/sr320-george-paper/index.html",
+      "/posts/2023-08-22-qPCR-Analysis---C.gigas-Matt-George-Poly:IC-Diploids/index.html",
+      "/posts/2023-08-21-Transcript-Identification-and-Alignments---C.virginica-RNAseq-with-NCBI-Genome-GCF_002022765.2-Using-Hisat2-and-Stringtie-on-Mox-Again/index.html",
+      "/posts/2023-08-17-qPCR---C.gigas-PolyIC-Diploid-MgCl2/index.html",
+      "/posts/2023-08-16-Reverse-Transcription---C.gigas-PolyIC-Diploid-MgCl2/index.html",
+      "/posts/2023-08-16-RNA-Quantification---C.gigas-PolyIC-Diploid-MgCl2/index.html",
+      "/posts/cool-paper/index.html"
+    ]
+  },
+  {
+    "listing": "/research.html",
+    "items": [
+      "/research/art.html",
+      "/research/cod.html",
+      "/research/crabcod.html",
+      "/research/e5.html",
+      "/research/nrsp8.html",
+      "/research/psmfc.html",
+      "/research/safs.html",
+      "/research/usda.html",
+      "/research/vernon.html",
+      "/research/wsg-clam.html",
+      "/research/wsg-ec.html",
+      "/research/ceabigr.html",
+      "/research/ffar.html",
+      "/research/nprb.html",
+      "/research/wsg-sc.html"
     ]
   }
 ]
