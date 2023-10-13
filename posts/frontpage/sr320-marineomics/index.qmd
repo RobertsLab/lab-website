@@ -9,7 +9,7 @@ description: "Steering the Future of Genomic Research in Aquatic Nonmodel Specie
 #     affiliation-url: https://robertslab.info
 date: 10-09-2023
 categories: [paper, genomics, methods, website] # self-defined categories
-image: "img/marineomics.png"" # finding a good image
+image: http://gannet.fish.washington.edu/seashell/snaps/Monosnap_17823668.pdf_2023-10-09_05-50-37.png # finding a good image
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 
 format:
