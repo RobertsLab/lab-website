@@ -22,5 +22,31 @@
       "/posts/2023-08-16-RNA-Quantification---C.gigas-PolyIC-Diploid-MgCl2/index.html",
       "/posts/cool-paper/index.html"
     ]
+  },
+  {
+    "listing": "/publications.html",
+    "items": [
+      "/publications/articles/silliman-bogan2023.html",
+      "/publications/articles/buckley2023.html",
+      "/publications/articles/gallardo2023.html",
+      "/publications/articles/silliman2023.html",
+      "/publications/articles/spencer2023.html",
+      "/publications/articles/arredondo-espinoza2023.html",
+      "/publications/articles/george2023.html",
+      "/publications/articles/gurr2022.html",
+      "/publications/articles/crandall2022.html",
+      "/publications/articles/venkataraman2022.html",
+      "/publications/articles/putnam2022.html",
+      "/publications/articles/dang2022.html",
+      "/publications/articles/crandall2022b.html",
+      "/publications/articles/gurr2021.html",
+      "/publications/articles/gallardo2021.html",
+      "/publications/articles/timmins-schiffman2021.html",
+      "/publications/articles/dimond2021.html",
+      "/publications/articles/arredondo-espinoza2021.html",
+      "/publications/articles/trigg2021.html",
+      "/publications/articles/spencer2021.html",
+      "/publications/articles/rajan2021.html"
+    ]
   }
 ]
