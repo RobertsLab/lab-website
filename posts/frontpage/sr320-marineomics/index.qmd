@@ -9,7 +9,7 @@ description: "Steering the Future of Genomic Research in Aquatic Nonmodel Specie
 #     affiliation-url: https://robertslab.info
 date: 10-09-2023
 categories: [paper, genomics, methods, website] # self-defined categories
-image: http://gannet.fish.washington.edu/seashell/snaps/Monosnap_17823668.pdf_2023-10-09_05-50-37.png # finding a good image
+image: "img/marineomics.png"" # finding a good image
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 
 format:
@@ -23,15 +23,14 @@ format:
 
 In an era where ecological genomics is garnering increased recognition, particularly within nonmodel species, the necessity for robust, reproducible, and accessible resources has never been more apparent. A [recent publication](https://doi.org/10.1111/2041-210X.14219) led by a consortium of researchers introduces [MarineOmics.io](MarineOmics.io), a dynamic web resource tailored to meet the burgeoning needs of this scientific domain. This open-source platform aims to foster a collaborative environment for researchers at various stages of their career, promoting reproducibility, accessibility, and adaptability in genomic analyses.
 
-MarineOmics.io emerges as a living document, meticulously curated to disseminate vital tutorials, reproducibility tools, and best principles pivotal for genomic research in marine and other nonmodel ecosystems. This endeavor is a testament to the collaborative spirit of the ecological genomics community, as the platform encapsulates current methodologies and recommendations across a myriad of genomic studies including whole-genome sequencing, RAD-seq, Pool-seq, and RNA-seq. 
+MarineOmics.io emerges as a living document, meticulously curated to disseminate vital tutorials, reproducibility tools, and best principles pivotal for genomic research in marine and other nonmodel ecosystems. This endeavor is a testament to the collaborative spirit of the ecological genomics community, as the platform encapsulates current methodologies and recommendations across a myriad of genomic studies including whole-genome sequencing, RAD-seq, Pool-seq, and RNA-seq.
 
-![F I G U R E 1  Screenshot of one web page concerning a RAD-seq pipeline serving as an example of tutorial structure.](http://gannet.fish.washington.edu/seashell/snaps/Monosnap_17823668.pdf_2023-10-09_05-52-35.png)
+![F I G U R E 1 Screenshot of one web page concerning a RAD-seq pipeline serving as an example of tutorial structure.](http://gannet.fish.washington.edu/seashell/snaps/Monosnap_17823668.pdf_2023-10-09_05-52-35.png)
 
 What sets MarineOmics.io apart is its dynamic nature. Not only does it provide a repository of existing knowledge, but it also outlines a structured process for the aggregation and synthesis of methodological principles derived from the community. The platform invites submissions of new content, feedback, and topic requests from the community, thereby ensuring its content remains updated, relevant, and in tune with the rapidly evolving field of genomics.
 
-The meticulous planning invested in MarineOmics.io is reflective in its guidelines for authorship, submission of new content, and protocols for community feedback. These guidelines are drafted with a vision to uphold the rigor and reproducibility in scientific inquiries, encouraging contributions from scientists spanning various skill sets and expertise levels. This collaborative ethos is further underscored by the availability of the site’s source code for contributors on GitHub, and a snapshot of the source code as of the time of submission, hosted on Zenodo.
+The meticulous planning invested in MarineOmics.io is reflective in its guidelines for authorship, submission of new content, and protocols for community feedback. These guidelines are drafted with a vision to uphold the rigor and reproducibility in scientific inquiries, encouraging contributions from scientists spanning various skill sets and expertise levels. This collaborative ethos is further underscored by the availability of the site's source code for contributors on GitHub, and a snapshot of the source code as of the time of submission, hosted on Zenodo.
 
 The data and resources available through MarineOmics.io are not merely a contribution but a cornerstone for advancing ecological genomic research in nonmodel marine systems. By providing a structured, collaborative platform, MarineOmics.io is poised to catalyze a new wave of discoveries, fostering a community of researchers equipped to navigate the challenges and opportunities that lay ahead in the genomic era.
 
-Citation:
-Bogan, S. N., Johns, J., Griffiths, J. S., Davenport, D., Smith, S. J., Schaal, S. M., Downey-Wall, A., Lou, R. N., Lotterhos, K., Guidry, M. E., Rivera, H. E., McGirr, J. A., Puritz, J. B., Roberts, S. B., & Silliman, K. (2023). A dynamic web resource for robust and reproducible genomics in nonmodel species: marineomics.io. Methods in Ecology and Evolution, 00, 1–8. https://doi.org/10.1111/2041-210X.14219
+Citation: Bogan, S. N., Johns, J., Griffiths, J. S., Davenport, D., Smith, S. J., Schaal, S. M., Downey-Wall, A., Lou, R. N., Lotterhos, K., Guidry, M. E., Rivera, H. E., McGirr, J. A., Puritz, J. B., Roberts, S. B., & Silliman, K. (2023). A dynamic web resource for robust and reproducible genomics in nonmodel species: marineomics.io. Methods in Ecology and Evolution, 00, 1--8. https://doi.org/10.1111/2041-210X.14219
