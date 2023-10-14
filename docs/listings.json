@@ -1,5 +1,25 @@
 [
   {
+    "listing": "/research.html",
+    "items": [
+      "/research/art.html",
+      "/research/cod.html",
+      "/research/crabcod.html",
+      "/research/e5.html",
+      "/research/nrsp8.html",
+      "/research/psmfc.html",
+      "/research/safs.html",
+      "/research/usda.html",
+      "/research/vernon.html",
+      "/research/wsg-clam.html",
+      "/research/wsg-ec.html",
+      "/research/ceabigr.html",
+      "/research/ffar.html",
+      "/research/nprb.html",
+      "/research/wsg-sc.html"
+    ]
+  },
+  {
     "listing": "/index.html",
     "items": [
       "/posts/frontpage/sr320-marineomics/index.html",
@@ -47,26 +67,6 @@
       "/posts/2023-08-16-Reverse-Transcription---C.gigas-PolyIC-Diploid-MgCl2/index.html",
       "/posts/2023-08-16-RNA-Quantification---C.gigas-PolyIC-Diploid-MgCl2/index.html",
       "/posts/cool-paper/index.html"
-    ]
-  },
-  {
-    "listing": "/research.html",
-    "items": [
-      "/research/art.html",
-      "/research/cod.html",
-      "/research/crabcod.html",
-      "/research/e5.html",
-      "/research/nrsp8.html",
-      "/research/psmfc.html",
-      "/research/safs.html",
-      "/research/usda.html",
-      "/research/vernon.html",
-      "/research/wsg-clam.html",
-      "/research/wsg-ec.html",
-      "/research/ceabigr.html",
-      "/research/ffar.html",
-      "/research/nprb.html",
-      "/research/wsg-sc.html"
     ]
   }
 ]
