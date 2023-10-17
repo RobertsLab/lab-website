@@ -52,6 +52,9 @@ website:
             url:  https://larkenr.github.io
           - text: noah
             url:  https://genefish.wordpress.com/author/jtatum0celts/
+          - text: megan
+            url:  https://meganewing.github.io/mewing-notebook/
+            
       - icon: github
         menu:
           - text: Submit an Issue
