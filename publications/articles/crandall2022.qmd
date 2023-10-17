@@ -7,7 +7,7 @@ publication: "Marine Biotechnology"
 preprint: ""
 doi: "https://dx.doi.org/10.1007/s10126-022-10100-8"
 materials: "https://doi.org/10.5281/zenodo.4563060"
-eprint: ""
+eprint: "http://gannet.fish.washington.edu/seashell/snaps/s10126-022-10100-8.pdf"
 toc: FALSE
 categories:
   - Chionoecetes bairdi
