@@ -14,6 +14,6 @@ toc: true
 | Chris Mantegna   | [chrismantegna.github.io](https://chrismantegna.github.io/cmlabsite/) | ![Github last commit](https://img.shields.io/github/last-commit/ChrisMantegna.github.io/cmlabsite)     |
 | Zach Bengtsson   | [zbengt.github.io](https://zbengt.github.io/notebook/)                          | ![Github last commit](https://img.shields.io/github/last-commit/zbengt/zbengt.github.io)               |
 | Celeste Valdivia | [valeste.github.io](https://valeste.github.io/tough-tunicates/)                 | ![GitHub last commit](https://img.shields.io/github/last-commit/valeste/tough-tunicates)               |
-| Larken Root      | [larkenr.github.io](https://larkenr.github.io)                                  | ![Github last commit](https://img.shields.io/github/last-commit/larkenr/larkenr.github.io)             |
+| Larken Root      | [larkenr.github.io](https://larkenr.github.io/labnotebook/)                     | ![Github last commit](https://img.shields.io/github/last-commit/larkenr/larkenr.github.io/labnotebook/)             |
 | Grace Crandall   | [grace-ac.github.io](https://grace-ac.github.io/)                               | ![GitHub last commit](https://img.shields.io/github/last-commit/grace-a/grace-ac.github.io)            |
 | Kathleen Durkin  | [shedurkin.github.io](https://shedurkin.github.io/Roberts-LabNotebook/)         | ![GitHub last commit](https://img.shields.io/github/last-commit/shedurkin/Roberts-LabNotebook)         |
