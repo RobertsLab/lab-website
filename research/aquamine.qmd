@@ -6,7 +6,7 @@ type: "grant"
 website: "http://aquamine.org/"
 theme: "aquaculture resource development"
 agency: "USDA"
-year: "2022"
+year: "2021"
 github: ""
 toc: FALSE
 categories:
@@ -16,7 +16,7 @@ categories:
 
 ## Collaborators
 
-Christine G. Elsik, University of Missouri
+PI: Christine G. Elsik, University of Missouri
 
 ## Summary
 
