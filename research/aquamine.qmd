@@ -1,0 +1,25 @@
+---
+title: "FACT: AquaMine - A High Performance Genomic Data Mining System for Species of Importance to US Aquaculture"
+code: ""
+status: "active"
+type: "grant"
+website: "http://aquamine.org/"
+theme: "aquaculture resource development"
+agency: "USDA"
+year: "2022"
+github: ""
+toc: FALSE
+categories:
+  - genomics
+  - aquaculture
+---
+
+## Collaborators
+
+Christine G. Elsik, University of Missouri
+
+## Summary
+
+[AquaMine](http://aquamine.org/) is a data mining system that integrates genome assemblies and gene annotation data for aquatic eumetazoan species of importance to US aquaculture and fisheries, with the goal of enabling researchers to create customized annotation datasets integrated with their own data. AquaMine was developed using the InterMine genomic data mining platform, which includes a web application with several search tools, including a simple key word search, predefined template queries, a QueryBuilder Tool for creating custom queries, a Regions Search Tool for coordinate-based queries, and a List Tool for uploading and searching with lists of identifiers. AquaMinev1.2 contains genomes of 37 aquatic species, including Arctic char, Atlantic salmon, California yellowtail, channel catfish, coho salmon, eastern oyster, giant tiger prawn, Nile tilapia, Pacific oyster, Pacific white shrimp, rainbow trout, striped sea bass and yellow perch. Annotation data includes RefSeq genes and additional data sources that may be available for each species, including Ensembl, KEGG, UniProt, Gene Ontology (GO), PubMed, and OrthoDB. Genes of human, fruit fly, owl limpet and zebrafish are included so model organism information can be leveraged using orthology. A precomputed orthology dataset called AquaMine-Ortho encompasses all species, including those not found in OrthoDB or Ensembl. New in AquaMinev1.2 is a comprehensive GO annotation dataset, covering all species, that can be used with a built-in gene enrichment analysis tool. AquaMinev1.2 also includes new genomic variant data from the Ensembl Variation Archive and RNA-seq-based gene expression levels for some species. We are currently developing new JBrowse genome browsers with Apollo manual genome annotation tools for the aquaculture species and will present the rainbow trout genome browser. We seek beta-testers from the research community to provide feedback on the AquaMine data mining tools and genome browsers.
+
+## Data Availability
