@@ -54,6 +54,8 @@ website:
             url:  https://genefish.wordpress.com/author/jtatum0celts/
           - text: megan
             url:  https://meganewing.github.io/mewing-notebook/
+          - text: eric
+            url:  https://eric-ess.github.io/notebook/
             
       - icon: github
         menu:
