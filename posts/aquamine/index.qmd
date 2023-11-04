@@ -1,0 +1,66 @@
+---
+title: "AquaMine"
+description: "A Treasure Trove for Aquatic Genomics Research"
+#author:
+ # - name: Steven Roberts
+#    affiliation: Professor, UW - School of Aquatic and Fishery Sciences
+ #   affiliation-url: https://robertslab.info
+date: 10-23-2023
+categories: [genomics] # self-defined categories
+image: http://gannet.fish.washington.edu/seashell/snaps/Monosnap_ChatGPT_2023-11-04_15-16-26.png # finding a good image
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+
+format:
+  html:
+    code-fold: true
+    code-tools: true
+    code-copy: true
+    highlight-style: github
+    code-overflow: wrap
+---
+
+# **AquaMine: A Treasure Trove for Aquatic Genomics Research**
+
+Aquatic species are not just fascinating creatures of the deep; they are vital to the balance of our ecosystems and the prosperity of our aquaculture industries. As the demand for sustainable aquaculture and fisheries practices increases, so does the necessity for advanced research and development. Enter [AquaMine](https://aquamine.elsiklab.missouri.edu)---a cutting-edge data mining system poised to revolutionize aquatic eumetazoan research by integrating genome assemblies and gene annotation data. This powerful tool is designed to empower researchers, enabling the creation of customized datasets that can be integrated with their own data. Here's a closer look at AquaMine and its plethora of features.
+
+## **A Platform with Immense Potential**
+
+Built on the robust InterMine genomic data mining platform, AquaMine is a testament to the power of bioinformatics in modern research. The web application component of AquaMine boasts an impressive array of search tools tailored to the needs of researchers:
+
+-   A simple key word search for straightforward inquiries
+
+-   Predefined template queries to streamline the research process
+
+-   A QueryBuilder Tool that offers flexibility for crafting custom queries
+
+-   A Regions Search Tool for those who require coordinate-based queries
+
+-   A List Tool that allows for uploading and searching with lists of identifiers
+
+These features not only enhance the user experience but also optimize the research workflow, leading to more efficient and effective studies.
+
+## **AquaMine v1.2: What's New?**
+
+The latest iteration, AquaMine v1.2, houses the genomic gold of 37 aquatic species that are of paramount importance to the US aquaculture and fisheries. This includes, but is not limited to, species such as the Arctic char, Atlantic salmon, channel catfish, and the Pacific white shrimp. AquaMine doesn't stop there; it ensures that the annotation data for these species is comprehensive, including resources from RefSeq genes, Ensembl, KEGG, UniProt, Gene Ontology (GO), PubMed, and OrthoDB.
+
+Moreover, the inclusion of genes from human, fruit fly, owl limpet, and zebrafish allows researchers to leverage model organism information through orthology, offering a broader perspective and facilitating comparative studies.
+
+## **Enhancing Genetic Insight with AquaMine-Ortho and GO Annotations**
+
+AquaMine-Ortho, a precomputed orthology dataset within AquaMine v1.2, spans all included species and fills gaps not covered by databases like OrthoDB or Ensembl. The addition of a comprehensive GO annotation dataset for all species is another feather in AquaMine's cap, providing a rich resource for gene enrichment analysis.
+
+## **Beyond Genomes: Variants and Expression Levels**
+
+Staying true to its vision of comprehensive data provision, AquaMine v1.2 also introduces new genomic variant data from the Ensembl Variation Archive and extends its resources to include RNA-seq-based gene expression levels for selected species, offering a deeper understanding of genetic function and regulation.
+
+## **The Future is Interactive: JBrowse Genome Browsers**
+
+AquaMine's development team is tirelessly working to further enhance user interaction with genomic data. The introduction of new JBrowse genome browsers equipped with Apollo manual genome annotation tools for aquaculture species is on the horizon. This feature promises to offer an even more hands-on approach to genomic data navigation and analysis.
+
+## **A Call to Action for Researchers**
+
+The ongoing development of AquaMine underscores a collaborative spirit, as the team calls upon researchers to participate as beta-testers. This invitation to provide feedback is not merely a request for quality assurance but a rallying cry for the scientific community to shape a tool that reflects their needs and aspirations.
+
+## **Conclusion**
+
+AquaMine v1.2 is more than a mere database---it's a beacon for aquaculture and fisheries research, guiding the way towards a more informed and sustainable management of aquatic resources. With its comprehensive datasets, versatile tools, and forward-thinking enhancements, AquaMine is set to become an indispensable ally for researchers and industry professionals alike. Dive into AquaMine, and surface with the insights needed to keep our waters teeming with life for generations to come.

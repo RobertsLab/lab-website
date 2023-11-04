@@ -1299,7 +1299,7 @@
     "href": "posts.html",
     "title": "News and Updates",
     "section": "",
-    "text": "Insights from Pacific Oysters in a Heating Ocean\n\n\nA Commentary on our Recent Article\n\n\n\n\n\n\nNov 4, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMarineOmics.io\n\n\nSteering the Future of Genomic Research in Aquatic Nonmodel Species\n\n\n\n\n\n\nOct 9, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUnveiling the Blueprints of the Sea\n\n\nThe Genome of Mytilus chilensis\n\n\n\n\n\n\nOct 4, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMarine science mentoring over the summer at FHL\n\n\nFeature on UW SAFS Website\n\n\n\n\n\n\nSep 18, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUncovering Population-specific Resilience to Ocean Acidification in the Olympia Oyster\n\n\nA Deep Dive into Our Latest Publication\n\n\n\nSteven Roberts\n\n\nSep 15, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe Double-Edged Sword of Triploidy in Pacific Oysters\n\n\nNew Research Highlights Increased Vulnerability to Climate Stressors\n\n\n\nSteven Roberts\n\n\nSep 15, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGenetics: Does it really matter?\n\n\n\n\n\n\nSteven Roberts\n\n\nFeb 18, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Insights from Pacific Oysters in a Heating Ocean\n\n\nA Commentary on our Recent Article\n\n\n\n\n\n\nNov 4, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAquaMine\n\n\nA Treasure Trove for Aquatic Genomics Research\n\n\n\n\n\n\nOct 23, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMarineOmics.io\n\n\nSteering the Future of Genomic Research in Aquatic Nonmodel Species\n\n\n\n\n\n\nOct 9, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUnveiling the Blueprints of the Sea\n\n\nThe Genome of Mytilus chilensis\n\n\n\n\n\n\nOct 4, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMarine science mentoring over the summer at FHL\n\n\nFeature on UW SAFS Website\n\n\n\n\n\n\nSep 18, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUncovering Population-specific Resilience to Ocean Acidification in the Olympia Oyster\n\n\nA Deep Dive into Our Latest Publication\n\n\n\nSteven Roberts\n\n\nSep 15, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe Double-Edged Sword of Triploidy in Pacific Oysters\n\n\nNew Research Highlights Increased Vulnerability to Climate Stressors\n\n\n\nSteven Roberts\n\n\nSep 15, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGenetics: Does it really matter?\n\n\n\n\n\n\nSteven Roberts\n\n\nFeb 18, 2023\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "dei.html",
@@ -1412,5 +1412,61 @@
     "title": "Unveiling the Blueprints of the Sea",
     "section": "",
     "text": "The journey of understanding Mytilus chilensis at the genomic level is just beginning. This initial assembly is a scaffold for future discoveries, a reference for comparative genomics, and a baseline for monitoring the genetic health of populations. As scientists continue to unravel the mysteries locked in its DNA, we move closer to a future where the blue mussel can continue to thrive, both as a species and an industry.\nThe study in discussion is not just a scientific achievement; it’s a testament to the intricate dance of life adapted to the ebb and flow of the sea. As we delve into the genome of Mytilus chilensis, we’re reminded of the resilience of life and the ingenuity of those who seek to understand and preserve it. The blueprints of the sea are laid bare, and with them, a new chapter in sustainable aquaculture beckons.\nCITATION: Gallardo-Escárate, C.; Valenzuela-Muñoz, V.; Nuñez-Acuña, G.; Valenzuela-Miranda, D.; Tapia, F.J.; Yévenes, M.; Gajardo, G.; Toro, J.E.; Oyarzún, P.A.; Arriagada, G.; et al. Chromosome-Level Genome Assembly of the Blue Mussel Mytilus chilensis Reveals Molecular Signatures Facing the Marine Environment. Genes 2023, 14, 876. https://doi.org/10.3390/genes14040876"
+  },
+  {
+    "objectID": "posts/aquamine/index.html",
+    "href": "posts/aquamine/index.html",
+    "title": "AquaMine",
+    "section": "",
+    "text": "Aquatic species are not just fascinating creatures of the deep; they are vital to the balance of our ecosystems and the prosperity of our aquaculture industries. As the demand for sustainable aquaculture and fisheries practices increases, so does the necessity for advanced research and development. Enter AquaMine—a cutting-edge data mining system poised to revolutionize aquatic eumetazoan research by integrating genome assemblies and gene annotation data. This powerful tool is designed to empower researchers, enabling the creation of customized datasets that can be integrated with their own data. Here’s a closer look at AquaMine and its plethora of features.\n\n\nBuilt on the robust InterMine genomic data mining platform, AquaMine is a testament to the power of bioinformatics in modern research. The web application component of AquaMine boasts an impressive array of search tools tailored to the needs of researchers:\n\nA simple key word search for straightforward inquiries\nPredefined template queries to streamline the research process\nA QueryBuilder Tool that offers flexibility for crafting custom queries\nA Regions Search Tool for those who require coordinate-based queries\nA List Tool that allows for uploading and searching with lists of identifiers\n\nThese features not only enhance the user experience but also optimize the research workflow, leading to more efficient and effective studies.\n\n\n\nThe latest iteration, AquaMine v1.2, houses the genomic gold of 37 aquatic species that are of paramount importance to the US aquaculture and fisheries. This includes, but is not limited to, species such as the Arctic char, Atlantic salmon, channel catfish, and the Pacific white shrimp. AquaMine doesn’t stop there; it ensures that the annotation data for these species is comprehensive, including resources from RefSeq genes, Ensembl, KEGG, UniProt, Gene Ontology (GO), PubMed, and OrthoDB.\nMoreover, the inclusion of genes from human, fruit fly, owl limpet, and zebrafish allows researchers to leverage model organism information through orthology, offering a broader perspective and facilitating comparative studies.\n\n\n\nAquaMine-Ortho, a precomputed orthology dataset within AquaMine v1.2, spans all included species and fills gaps not covered by databases like OrthoDB or Ensembl. The addition of a comprehensive GO annotation dataset for all species is another feather in AquaMine’s cap, providing a rich resource for gene enrichment analysis.\n\n\n\nStaying true to its vision of comprehensive data provision, AquaMine v1.2 also introduces new genomic variant data from the Ensembl Variation Archive and extends its resources to include RNA-seq-based gene expression levels for selected species, offering a deeper understanding of genetic function and regulation.\n\n\n\nAquaMine’s development team is tirelessly working to further enhance user interaction with genomic data. The introduction of new JBrowse genome browsers equipped with Apollo manual genome annotation tools for aquaculture species is on the horizon. This feature promises to offer an even more hands-on approach to genomic data navigation and analysis.\n\n\n\nThe ongoing development of AquaMine underscores a collaborative spirit, as the team calls upon researchers to participate as beta-testers. This invitation to provide feedback is not merely a request for quality assurance but a rallying cry for the scientific community to shape a tool that reflects their needs and aspirations.\n\n\n\nAquaMine v1.2 is more than a mere database—it’s a beacon for aquaculture and fisheries research, guiding the way towards a more informed and sustainable management of aquatic resources. With its comprehensive datasets, versatile tools, and forward-thinking enhancements, AquaMine is set to become an indispensable ally for researchers and industry professionals alike. Dive into AquaMine, and surface with the insights needed to keep our waters teeming with life for generations to come."
+  },
+  {
+    "objectID": "posts/aquamine/index.html#a-platform-with-immense-potential",
+    "href": "posts/aquamine/index.html#a-platform-with-immense-potential",
+    "title": "AquaMine",
+    "section": "",
+    "text": "Built on the robust InterMine genomic data mining platform, AquaMine is a testament to the power of bioinformatics in modern research. The web application component of AquaMine boasts an impressive array of search tools tailored to the needs of researchers:\n\nA simple key word search for straightforward inquiries\nPredefined template queries to streamline the research process\nA QueryBuilder Tool that offers flexibility for crafting custom queries\nA Regions Search Tool for those who require coordinate-based queries\nA List Tool that allows for uploading and searching with lists of identifiers\n\nThese features not only enhance the user experience but also optimize the research workflow, leading to more efficient and effective studies."
+  },
+  {
+    "objectID": "posts/aquamine/index.html#aquamine-v1.2-whats-new",
+    "href": "posts/aquamine/index.html#aquamine-v1.2-whats-new",
+    "title": "AquaMine",
+    "section": "",
+    "text": "The latest iteration, AquaMine v1.2, houses the genomic gold of 37 aquatic species that are of paramount importance to the US aquaculture and fisheries. This includes, but is not limited to, species such as the Arctic char, Atlantic salmon, channel catfish, and the Pacific white shrimp. AquaMine doesn’t stop there; it ensures that the annotation data for these species is comprehensive, including resources from RefSeq genes, Ensembl, KEGG, UniProt, Gene Ontology (GO), PubMed, and OrthoDB.\nMoreover, the inclusion of genes from human, fruit fly, owl limpet, and zebrafish allows researchers to leverage model organism information through orthology, offering a broader perspective and facilitating comparative studies."
+  },
+  {
+    "objectID": "posts/aquamine/index.html#enhancing-genetic-insight-with-aquamine-ortho-and-go-annotations",
+    "href": "posts/aquamine/index.html#enhancing-genetic-insight-with-aquamine-ortho-and-go-annotations",
+    "title": "AquaMine",
+    "section": "",
+    "text": "AquaMine-Ortho, a precomputed orthology dataset within AquaMine v1.2, spans all included species and fills gaps not covered by databases like OrthoDB or Ensembl. The addition of a comprehensive GO annotation dataset for all species is another feather in AquaMine’s cap, providing a rich resource for gene enrichment analysis."
+  },
+  {
+    "objectID": "posts/aquamine/index.html#beyond-genomes-variants-and-expression-levels",
+    "href": "posts/aquamine/index.html#beyond-genomes-variants-and-expression-levels",
+    "title": "AquaMine",
+    "section": "",
+    "text": "Staying true to its vision of comprehensive data provision, AquaMine v1.2 also introduces new genomic variant data from the Ensembl Variation Archive and extends its resources to include RNA-seq-based gene expression levels for selected species, offering a deeper understanding of genetic function and regulation."
+  },
+  {
+    "objectID": "posts/aquamine/index.html#the-future-is-interactive-jbrowse-genome-browsers",
+    "href": "posts/aquamine/index.html#the-future-is-interactive-jbrowse-genome-browsers",
+    "title": "AquaMine",
+    "section": "",
+    "text": "AquaMine’s development team is tirelessly working to further enhance user interaction with genomic data. The introduction of new JBrowse genome browsers equipped with Apollo manual genome annotation tools for aquaculture species is on the horizon. This feature promises to offer an even more hands-on approach to genomic data navigation and analysis."
+  },
+  {
+    "objectID": "posts/aquamine/index.html#a-call-to-action-for-researchers",
+    "href": "posts/aquamine/index.html#a-call-to-action-for-researchers",
+    "title": "AquaMine",
+    "section": "",
+    "text": "The ongoing development of AquaMine underscores a collaborative spirit, as the team calls upon researchers to participate as beta-testers. This invitation to provide feedback is not merely a request for quality assurance but a rallying cry for the scientific community to shape a tool that reflects their needs and aspirations."
+  },
+  {
+    "objectID": "posts/aquamine/index.html#conclusion",
+    "href": "posts/aquamine/index.html#conclusion",
+    "title": "AquaMine",
+    "section": "",
+    "text": "AquaMine v1.2 is more than a mere database—it’s a beacon for aquaculture and fisheries research, guiding the way towards a more informed and sustainable management of aquatic resources. With its comprehensive datasets, versatile tools, and forward-thinking enhancements, AquaMine is set to become an indispensable ally for researchers and industry professionals alike. Dive into AquaMine, and surface with the insights needed to keep our waters teeming with life for generations to come."
   }
 ]
