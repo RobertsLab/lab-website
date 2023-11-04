@@ -7,7 +7,7 @@ description: "A Commentary on our Recent Article"
  #   affiliation-url: https://robertslab.info
 date: 11-04-2023
 categories: [triploid, aquaculture, oyster, stress] # self-defined categories
-image: http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Marine_heatwaves_impact_mortality_of_triploid_Pacific_oysters_2023-11-04_14-32-37.png # finding a good image
+image: http://gannet.fish.washington.edu/seashell/snaps/Monosnap_ChatGPT_2023-11-04_14-59-20.png # finding a good image
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 
 format:
