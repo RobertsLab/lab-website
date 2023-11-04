@@ -73,9 +73,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -304,7 +304,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    </div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(8)</span></div><div class="category" data-category="Chile">Chile <span class="quarto-category-count">(1)</span></div><div class="category" data-category="acidication">acidication <span class="quarto-category-count">(1)</span></div><div class="category" data-category="aquaculture">aquaculture <span class="quarto-category-count">(2)</span></div><div class="category" data-category="code">code <span class="quarto-category-count">(1)</span></div><div class="category" data-category="fhl">fhl <span class="quarto-category-count">(1)</span></div><div class="category" data-category="genome">genome <span class="quarto-category-count">(1)</span></div><div class="category" data-category="genomics">genomics <span class="quarto-category-count">(2)</span></div><div class="category" data-category="highlight">highlight <span class="quarto-category-count">(1)</span></div><div class="category" data-category="mentoring">mentoring <span class="quarto-category-count">(1)</span></div><div class="category" data-category="methods">methods <span class="quarto-category-count">(1)</span></div><div class="category" data-category="mussel">mussel <span class="quarto-category-count">(1)</span></div><div class="category" data-category="ostrea">ostrea <span class="quarto-category-count">(1)</span></div><div class="category" data-category="oyster">oyster <span class="quarto-category-count">(3)</span></div><div class="category" data-category="paper">paper <span class="quarto-category-count">(3)</span></div><div class="category" data-category="spotlight">spotlight <span class="quarto-category-count">(1)</span></div><div class="category" data-category="stress">stress <span class="quarto-category-count">(2)</span></div><div class="category" data-category="tag-seq">tag-seq <span class="quarto-category-count">(1)</span></div><div class="category" data-category="triploid">triploid <span class="quarto-category-count">(2)</span></div><div class="category" data-category="website">website <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content quarto-banner-title-block" id="quarto-document-content">
 
@@ -327,6 +327,20 @@ ul.task-list li input[type="checkbox"] {
 <h5 class="no-anchor card-title listing-title">
 Insights from Pacific Oysters in a Heating Ocean
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('triploid'); return false;">
+triploid
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('aquaculture'); return false;">
+aquaculture
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('oyster'); return false;">
+oyster
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('stress'); return false;">
+stress
+</div>
+</div>
 <div class="card-text listing-description">
 A Commentary on our Recent Article
 </div>
@@ -352,6 +366,11 @@ Nov 4, 2023
 <h5 class="no-anchor card-title listing-title">
 AquaMine
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('genomics'); return false;">
+genomics
+</div>
+</div>
 <div class="card-text listing-description">
 A Treasure Trove for Aquatic Genomics Research
 </div>
@@ -377,6 +396,20 @@ Oct 23, 2023
 <h5 class="no-anchor card-title listing-title">
 MarineOmics.io
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('paper'); return false;">
+paper
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('genomics'); return false;">
+genomics
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('methods'); return false;">
+methods
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('website'); return false;">
+website
+</div>
+</div>
 <div class="card-text listing-description">
 Steering the Future of Genomic Research in Aquatic Nonmodel Species
 </div>
@@ -402,6 +435,17 @@ Oct 9, 2023
 <h5 class="no-anchor card-title listing-title">
 Unveiling the Blueprints of the Sea
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('mussel'); return false;">
+mussel
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('genome'); return false;">
+genome
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Chile'); return false;">
+Chile
+</div>
+</div>
 <div class="card-text listing-description">
 The Genome of Mytilus chilensis
 </div>
@@ -427,6 +471,17 @@ Oct 4, 2023
 <h5 class="no-anchor card-title listing-title">
 Marine science mentoring over the summer at FHL
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('fhl'); return false;">
+fhl
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('mentoring'); return false;">
+mentoring
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('spotlight'); return false;">
+spotlight
+</div>
+</div>
 <div class="card-text listing-description">
 Feature on UW SAFS Website
 </div>
@@ -452,6 +507,23 @@ Sep 18, 2023
 <h5 class="no-anchor card-title listing-title">
 Uncovering Population-specific Resilience to Ocean Acidification in the Olympia Oyster
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('paper'); return false;">
+paper
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('acidication'); return false;">
+acidication
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('oyster'); return false;">
+oyster
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('ostrea'); return false;">
+ostrea
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('tag-seq'); return false;">
+tag-seq
+</div>
+</div>
 <div class="card-text listing-description">
 A Deep Dive into Our Latest Publication
 </div>
@@ -477,6 +549,20 @@ Sep 15, 2023
 <h5 class="no-anchor card-title listing-title">
 The Double-Edged Sword of Triploidy in Pacific Oysters
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('triploid'); return false;">
+triploid
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('aquaculture'); return false;">
+aquaculture
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('oyster'); return false;">
+oyster
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('stress'); return false;">
+stress
+</div>
+</div>
 <div class="card-text listing-description">
 New Research Highlights Increased Vulnerability to Climate Stressors
 </div>
@@ -502,6 +588,17 @@ Sep 15, 2023
 <h5 class="no-anchor card-title listing-title">
 Genetics: Does it really matter?
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('paper'); return false;">
+paper
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('highlight'); return false;">
+highlight
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('code'); return false;">
+code
+</div>
+</div>
 <div class="card-text listing-description">
 Here I will describe a recent…
 </div>
