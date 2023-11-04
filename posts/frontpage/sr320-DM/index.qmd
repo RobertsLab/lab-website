@@ -1,0 +1,46 @@
+---
+title: "Insights from Pacific Oysters in a Heating Ocean"
+description: "A Commentary on our Recent Article"
+#author:
+ # - name: Steven Roberts
+#    affiliation: Professor, UW - School of Aquatic and Fishery Sciences
+ #   affiliation-url: https://robertslab.info
+date: 11-04-2023
+categories: [triploid, aquaculture, oyster, stress] # self-defined categories
+image: http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Marine_heatwaves_impact_mortality_of_triploid_Pacific_oysters_2023-11-04_14-32-37.png # finding a good image
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+
+format:
+  html:
+    code-fold: true
+    code-tools: true
+    code-copy: true
+    highlight-style: github
+    code-overflow: wrap
+---
+
+
+In a recent [commentary by Donal T. Manahan](https://doi.org/10.1111/gcb.16980), the magnified effects of marine heatwaves on the mortality of triploid Pacific oysters have been thrust into the spotlight, underscoring the urgent need for deeper understanding of marine life's tolerance to heat stress. Manahan's piece, a commentary [our recent work led by Matt George](https://doi.org/10.1111/gcb.16880), delves into the realm where climate change meets marine biology and aquaculture.
+
+## The Rising Heat and Its Victims
+The context is alarming: with ocean temperatures breaking records and coastal heatwaves causing mass marine mortality, researchers like Manahan stress the importance of grasping how different organisms will survive in this changing environment. The Pacific Northwest, as noted by White et al. (2023), has witnessed temperatures soaring to nearly 50°C, resulting in the death of over a million bivalve mussels in a mere 100-meter stretch.
+
+## The Pacific Oyster at the Heart of Study
+Matt's study, referenced by Manahan, brings under scrutiny the Pacific oyster, Crassostrea gigas, an organism of commercial significance and genetic interest. Their work dissects the responses of diploid and triploid oysters to heatwaves, revealing that the mortality rate among triploid oysters was 2.5 times higher than their diploid counterparts.
+
+## A Triploid Dilemma
+Triploid oysters, engineered for their superior growth and yield, seem to face greater peril under thermal stress. Manahan points out that these oysters show signs of metabolic depression, reduced ATP production, and a slump in essential biological processes like glucose metabolism and immunity responses. This finding poses serious implications for aquaculture, as triploids are widely cultivated for food production.
+
+## The Challenge of Predicting Phenotypes
+Manahan underscores a crucial challenge in marine biology: the prediction of phenotypes from gene expression. The commentary reflects on how data from different biological levels may not always align, and he calls for a cautious interpretation of such analyses. Integrative approaches are  necessary for a comprehensive understanding of how organisms function and respond to environmental stress.
+
+## Energy Allocation and the Cost of Reproduction
+The commentary also touches upon the energetic cost of being a triploid organism. With triploids being functionally sterile, Manahan questions whether there's an unaccounted metabolic cost involved in maintaining redundant biosynthetic pathways.
+
+## A Path Forward
+Manahan highlights the value of multi-year, trans-generational breeding programs and commends the collaborative efforts exemplified by the team behind our study. Such partnerships across universities, governments, and industry are vital for sustained research and for breeding marine species that can withstand the pressures of climate change.
+
+In summary, Manahan's commentary not only sheds light on the specific challenges faced by triploid Pacific oysters under heat stress but also casts a wider net on the complexities of studying marine life's response to a warming world. The findings are a crucial piece of the puzzle in our pursuit of sustainable "Blue Food" production and the broader understanding of marine ecosystem resilience.
+
+Citation:
+Manahan, D. T. (2023). Marine heatwaves impact mortality of triploid Pacific oysters. Global Change Biology. <https://doi.org/10.1111/gcb.16980>
