@@ -7,7 +7,7 @@ description: "The Genome of Mytilus chilensis"
  #   affiliation-url: https://robertslab.info
 date: 10-04-2023
 categories: [mussel, genome, Chile] # self-defined categories
-image: http://gannet.fish.washington.edu/seashell/snaps/Monosnap_ChatGPT_2023-11-04_15-02-54.png # finding a good image
+image: http://gannet.fish.washington.edu/seashell/snaps/Monosnap_ChatGPT_2023-11-04_15-08-02.png # finding a good image
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 
 format:
