@@ -7,7 +7,7 @@ website: ""
 theme: "aquaculture resource development"
 agency: "Washington Sea Grant"
 year: "2021"
-github: ""
+github: "https://github.com/RobertsLab/project-clam-oa"
 toc: FALSE
 categories:
   - clam
