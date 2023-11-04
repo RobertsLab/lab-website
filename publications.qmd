@@ -352,6 +352,8 @@ Characterizing the effects of ocean acidification in larval and juvenile Manila 
 
 #### 2023
 
+-   [Genomic Applications in Sustainable Aquaculture](https://github.com/sr320/talk-DBEA-2023). Steven Roberts. 1er Congreso de Biología Experimental y Aplicada, CICESE, Ensenada, Mexico. October 2023
+
 -   [Development of an Alternative Sterility Method for Shellfish Aquaculture: Identification of Candidate Genes Involved in Germ Cell Specification]() Mackenzie Gavery (NOAA Fisheries - NW Fisheries Science Center), Lauren Saunders, Lauren Vandepas, Brent Vadopalas, Adam Luckenbach, Cole Trapnell, Steven Roberts. Pacific Coast Shellfish Growers Association (PCSGA) and the National Shellfisheries Association Pacific Coast Section (NSA-PCS) Meeting. Seaside Civic & Convention Center, Seaside, OR. September 19-21, 2023
 
 -   [Environmental Priming for Ocean Acidification: Potential hatchery practices to build resilience for clam aquaculture in the Puget Sound]() Larken Root (Univeristy of Washington/NOAA), Mackenzie Gavery, Ryan Crim. Pacific Coast Shellfish Growers Association (PCSGA) and the National Shellfisheries Association Pacific Coast Section (NSA-PCS) Meeting. Seaside Civic & Convention Center, Seaside, OR. September 19-21, 2023
