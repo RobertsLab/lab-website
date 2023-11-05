@@ -5,7 +5,7 @@ project:
 
 website:
   repo-url: https://github.com/Robertslab/lab-website
-  repo-actions: [edit, issue]
+  #repo-actions: [edit, issue]
   favicon: /img/logo.png
   title: "robertslab.info"
   navbar:
