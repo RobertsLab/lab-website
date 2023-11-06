@@ -24,3 +24,8 @@ Mackenzie Gavery
 Given the supreme importance of maintaining ecological security in expanding shellfish farming to meet the global demand for environmentally sustainable protein, our goal is to engage a novel mix of disciplines to create new knowledge leading to an optimal approach for conferring sterility in emerging shellfish species. We have assembled an interdisciplinary team including aquaculture specialists, molecular physiologists, and single cell genomicists to tackle the critical initial step in this approach: the identification of genes involved in germ cell fate at the earliest developmental stages in geoducks. We anticipate identifying several germ cell- specific genes that when disrupted effectively turn off germ cell differentiation, yielding sterile products that do not undergo gonadogenesis, exhibit superior performance, and cannot disrupt genetic structure of ecosystems. Identification of these genes will be the measure of success for the proposed work. These gene targets will be the focus of future stages of research that determines how to best disrupt reproductive function without impacting growth performance.
 
 ## Data Availability
+
+
+## Notes
+AWD-002979 Grant Revenue (RC1054) (Line 1)	  
+GR019591 BIVALVE REPRO CONTROL - 63-9405 - 2021
