@@ -25,3 +25,8 @@ Ingrid Spies
 Researchers at the Alaska Fisheries Science Center (AFSC) and the University of Washington are interested in the effects of ocean acidification (OA) on commercially and economically important crab and fish species. It appears that many species are negatively affected by exposure to pH levels predicted to occur throughout their ranges under climate change.  The effects of OA include physiological consequences including decreased growth, altered embryonic development, reduced exoskeleton strength, increased metabolic rate, altered immune system, altered behavior, and increased mortality.  Environmental changes may select for adapted individuals, resulting in populations that are less vulnerable to OA than the current population. Estimating the degree to which acclimation and adaptation will alter the experimental effects of OA and combined effects with other stressors is thus critical to accurately predicting how these stressors will affect future fisheries yields.  We are using next-generation sequencing techniques to identify the specific alterations in the molecular, metabolic, and physiological pathways of individuals exposed to OA. We are looking for a post-doctoral researcher to perform bioinformatics on RNA transcriptomic data of Pacific cod and crabs exposed to OA conditions in an experimental setting. In addition, the researcher will be responsible for writing up their methods and results and drafting peer-reviewed manuscripts.
 
 ## Data Availability
+
+## Notes
+AWD-004600 Grant Revenue (RC1054) (Line 143)	  
+GR014801 TASK II SEQ TECHNIQUES - 62-7490 - 2021
+
