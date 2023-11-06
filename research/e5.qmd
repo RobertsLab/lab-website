@@ -31,3 +31,7 @@ This project examines how nutrient metabolism in the mitochondria generates cofa
 ## Data Availability
 
 The online version contains supplementary material available at https://doi.org/10.5281/zenodo.4563060
+
+## Notes
+AWD-002762 Grant Revenue (RC1054) (Line 1)	   
+GR006094 NSF-ROL - 61-0552 - 2021
