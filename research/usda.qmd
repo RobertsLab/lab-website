@@ -28,3 +28,7 @@ As academic, industry, and tribal stakeholders, our collective goal is to ensure
 Objective 2. Assess carry-over benefits of broodstock husbandry practices on offspring performance. Transgenerational plasticity occurs when the environment experienced by parents influences the phenotype of their offspring (Fig. 4B). To assess the potential for transgenerational plasticity to produce positive carry-over effects that improve offspring resilience, we will expose oyster broodstock to a variety of environmental stressors at nonlethal levels prior to broodstock conditioning and spawning. The performance of offspring will then be assessed during the pre- and post-settlement larval stages and compared with performance after summer deployment at grow-out site
 
 ## Data Availability
+
+## Notes
+AWD-008583 Grant Revenue (RC1054) (Line 1)	   
+GR014587 CLIMATE RESILIENCE - 62-7174 - 2021
