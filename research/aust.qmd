@@ -1,0 +1,43 @@
+---
+title: "Oyster adaptation to climate change via transgenerational plasticity"
+code: ""
+status: "active"
+type: "grant"
+website: ""
+theme: "environmental epigenetics"
+agency: "AUSTRALIAN RESEARCH COUNCIL"
+year: "2021"
+github: ""
+toc: FALSE
+categories:
+  - genomics
+  - epigenetics
+  - 03-ARD
+  - 01-EE
+---
+
+## Collaborators
+
+Dr Laura Parker \
+Chief Investigator
+
+Dr Wayne O'Connor \
+Prof Pauline Ross \
+Prof Thiyagarajan Vengatesen
+
+## Summary
+
+Summary: Across the globe, oysters need to rapidly respond to climate change. Increased concentrations of atmospheric carbon dioxide (CO2) are warming and acidifying estuaries, especially along the south-eastern coast of Australia, at a rate an order of magnitude greater than that predicted for oceans (Collins et al. 2013; Scanes et al. 2020). For Indigenous Australians, oysters create an unbroken connection with the coast and sea that has persisted over time (National Oceans Office 2002) and are the focus of Aboriginal-led reef restoration projects. Assessing the capacity of oysters and other marine organisms to acclimate or adapt to global climate change stressors presents one of the most important research challenges of our time. Acclimation through the mechanism of transgenerational plasticity (TGP) is now at the leading edge of research providing hope that oysters and other marine organisms may persist into the future (Parker et al. 2012, 2015, 2017a, Gibbs et al. accepted a, b). This project takes the next critical step in research: to identify whether the TGP response of oysters differ across genotypes, the capacity of TGP responses to persist within and across generations, and the epigenetic mechanisms which underlie them. How well we understand this, will determine our ability to ensure marine food security into the future and to protect the cultural heritage of Indigenous Australians -- identified as a major concern for Indigenous people (National Oceans Office 2002). Globally, oysters form large aquaculture industries worth \$6.8 billion per annum (Food and Agriculture Organization 2014) and provide services vital to the ecosystem (Lemasson et al. 2017). \
+\
+AIM: Focussing on the ecologically, economically, and culturally important Sydney rock oyster, Saccostrea glomerata -- we will use an innovative combination of state-of-the-art climate change mesocosm exposure systems and internationally established epigenetic and genetic techniques, with an ultimate aim to protect and conserve oysters against climate change to the benefit of Australians. Specific aims: Using the unique resource of pair-mated family lines of the Sydney rock oyster, S. glomerata, we will: \
+1. Measure the variation in transgenerational plasticity responses to ocean warming and acidification within and among genotypes \
+2. Characterise the role of epigenetic inheritance (DNA methylation) in transgenerational plasticity responses \
+3. Assess the capacity of transgenerational plasticity responses to persist across life stages and generations
+
+## Data Availability
+
+## Notes
+
+AWD-006084 Grant Revenue (RC1054) (Line 1)        
+GR032859 UNSW-OYSTER - 68-7511 - 2021
+
