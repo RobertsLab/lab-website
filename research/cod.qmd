@@ -13,6 +13,8 @@ categories:
   - cod
   - Alaska
   - epigenetics
+  - 01-EE
+  - 02-RBE
 ---
 
 ## Collaborators
@@ -32,6 +34,6 @@ Recent heat wave stress in the Gulf of Alaska has resulted in significant declin
 ## Data Availability
 
 ## Notes
-AWD-008727 Grant Revenue (RC1054) (Line 1)	    
-GR031727 COD THERMAL STRESS - 66-9283 - 2021
 
+AWD-008727 Grant Revenue (RC1054) (Line 1)\
+GR031727 COD THERMAL STRESS - 66-9283 - 2021

@@ -1,7 +1,6 @@
 ---
 title: "A collaborative partnership to address mass
-mortalities in oyster aquaculture through improved field monitoring, husbandry practices, and
-workforce development"
+mortalities in oyster aquaculture through improved field monitoring, husbandry practices, and workforce development"
 code: ""
 status: "active"
 type: "grant"
@@ -15,6 +14,7 @@ categories:
   - oyster
   - aquaculture
   - disease
+  - 03-ARD
 ---
 
 ## Collaborators

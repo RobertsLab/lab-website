@@ -13,6 +13,8 @@ categories:
   - clam
   - scRNAseq
   - aquaculture
+  - 02-RBE
+  - 03-ARD
 ---
 
 ## Collaborators
@@ -25,7 +27,7 @@ Given the supreme importance of maintaining ecological security in expanding she
 
 ## Data Availability
 
-
 ## Notes
-AWD-002979 Grant Revenue (RC1054) (Line 1)	  
+
+AWD-002979 Grant Revenue (RC1054) (Line 1)\
 GR019591 BIVALVE REPRO CONTROL - 63-9405 - 2021

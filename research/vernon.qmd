@@ -13,6 +13,7 @@ categories:
   - oyster
   - acidification
   - aquaculture
+  - 03-ARD
 ---
 
 ## Collaborators
@@ -25,13 +26,14 @@ Environmental variability due to climate change and ocean acidification (OA) are
 
 ## Data Availability
 
-
-## Notes 
+## Notes
 
 ### core
-AWD-004600 Grant Revenue (RC1054) (Line 128)	   
+
+AWD-004600 Grant Revenue (RC1054) (Line 128)\
 GR012147 TASK II VERNON - 62-3837 - 2021
 
 ### omics
-AWD-004600 Grant Revenue (RC1054) (Line 3)	   
+
+AWD-004600 Grant Revenue (RC1054) (Line 3)\
 GR011321 TASK II OMICS TECH - 62-2795 - 2021

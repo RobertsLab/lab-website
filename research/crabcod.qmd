@@ -14,6 +14,7 @@ categories:
   - cod
   - Alaska
   - acidification
+  - 02-RBE
 ---
 
 ## Collaborators
@@ -27,9 +28,9 @@ Researchers at the Alaska Fisheries Science Center (AFSC) and the University of 
 ## Data Availability
 
 ## Notes
-AWD-004600 Grant Revenue (RC1054) (Line 143)	  
+
+AWD-004600 Grant Revenue (RC1054) (Line 143)\
 GR014801 TASK II SEQ TECHNIQUES - 62-7490 - 2021
 
-AWD-004600 Grant Revenue (RC1054) (Line 151)	   
+AWD-004600 Grant Revenue (RC1054) (Line 151)\
 GR015296 TASK II SEQ TECH PD - 62-8482 - 2021
-

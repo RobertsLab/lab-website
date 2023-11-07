@@ -15,6 +15,8 @@ categories:
   - carryover 
   - aquaculture
   - epigenetics
+  - 03-ARD
+  - 01-EE
 ---
 
 ## Collaborators
@@ -27,13 +29,10 @@ The proposed effort will identify how parental environmental conditions drive sh
 
 ## Data Availability
 
-
 ## Notes
-AWD-007435 Grant Revenue (RC1054) (Line 14)	    
+
+AWD-007435 Grant Revenue (RC1054) (Line 14)\
 GR013472 SG ROBERTS_R_SFA15 - 62-5534 - 2021
 
-AWD-001657 Grant Revenue (RC1054) (Line 51)	   
+AWD-001657 Grant Revenue (RC1054) (Line 51)\
 GR014879 SG ROBERTS_VADOPALAS - 62-7661 - 2021
-
-
-

@@ -13,6 +13,7 @@ categories:
   - oyster
   - carryover
   - aquaculture
+  - 03-ARD
 ---
 
 ## Collaborators
@@ -30,5 +31,6 @@ Objective 2. Assess carry-over benefits of broodstock husbandry practices on off
 ## Data Availability
 
 ## Notes
-AWD-008583 Grant Revenue (RC1054) (Line 1)	   
+
+AWD-008583 Grant Revenue (RC1054) (Line 1)\
 GR014587 CLIMATE RESILIENCE - 62-7174 - 2021
