@@ -15,6 +15,7 @@ categories:
   - Alaska
   - acidification
   - 02-RBE
+  - open
 ---
 
 ## Collaborators
@@ -29,8 +30,25 @@ Researchers at the Alaska Fisheries Science Center (AFSC) and the University of 
 
 ## Notes
 
+::: panel-tabset
+## Codes
+
 AWD-004600 Grant Revenue (RC1054) (Line 143)\
 GR014801 TASK II SEQ TECHNIQUES - 62-7490 - 2021
 
 AWD-004600 Grant Revenue (RC1054) (Line 151)\
 GR015296 TASK II SEQ TECH PD - 62-8482 - 2021
+
+## Proposal ID
+
+UW CICOES Task II Seq Techniques (62-7490) / Seq Tech PD (62-8482) NOAA - NA20OAR4320271
+
+## Dates
+
+7/1/2022 – 6/30/2025
+
+## Amount
+
+$328,323
+
+:::

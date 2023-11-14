@@ -13,6 +13,7 @@ categories:
   - coral
   - epigenetics
   - 01-EE
+  - open
 ---
 
 ## Collaborators
@@ -35,5 +36,21 @@ The online version contains supplementary material available at https://doi.org/
 
 ## Notes
 
+::: panel-tabset
+## Codes
+
 AWD-002762 Grant Revenue (RC1054) (Line 1)\
 GR006094 NSF-ROL - 61-0552 - 2021
+
+## Proposal ID
+
+NSF / EF-1921149
+
+## Dates
+
+09/2019-8/2024
+
+## Amount
+
+$871,336     
+:::

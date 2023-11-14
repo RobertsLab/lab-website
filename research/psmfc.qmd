@@ -15,6 +15,7 @@ categories:
   - aquaculture
   - 02-RBE
   - 03-ARD
+  - open
 ---
 
 ## Collaborators
@@ -29,5 +30,22 @@ Given the supreme importance of maintaining ecological security in expanding she
 
 ## Notes
 
+::: panel-tabset
+## Codes
+
 AWD-002979 Grant Revenue (RC1054) (Line 1)\
 GR019591 BIVALVE REPRO CONTROL - 63-9405 - 2021
+
+## Proposal ID
+
+Pacific States Marine Fisheries Commission / 20-04G-1 (63-9405)
+
+## Dates
+
+7/8/2019 – 4/30/2024 (NCE)
+
+## Amount
+
+$93,400
+
+:::

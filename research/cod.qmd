@@ -15,6 +15,7 @@ categories:
   - epigenetics
   - 01-EE
   - 02-RBE
+  - open
 ---
 
 ## Collaborators
@@ -35,5 +36,24 @@ Recent heat wave stress in the Gulf of Alaska has resulted in significant declin
 
 ## Notes
 
+::: panel-tabset
+## Codes
+
 AWD-008727 Grant Revenue (RC1054) (Line 1)\
 GR031727 COD THERMAL STRESS - 66-9283 - 2021
+
+## Proposal ID
+
+Pacific States Marine Fisheries Commission / 23-084G (66-9283)
+
+## Dates
+
+11/1/2022 – 7/31/2025
+
+## Amount
+
+$524,788
+
+:::
+
+
