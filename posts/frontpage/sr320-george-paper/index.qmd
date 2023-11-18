@@ -9,7 +9,7 @@ author:
     affiliation-url: https://robertslab.info
 date: 09-15-2023
 categories: [triploid, aquaculture, oyster, stress] # self-defined categories
-image: http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Global_Change_Biology_-_2023_-_George_-_Triploid_Pacific_oysters_exhibit_stress_response_dysregulation_and_elevated.pdf_2023-09-14_18-15-06.png # finding a good image
+image: http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Monosnap_Global_Change_Biology_-_2023_-_George_-_Triploid_Pacific_oysters_exhibit_stress_response_dysregulation_and_elevated.pd_2023-11-17_16-03-24.png # finding a good image
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 
 format:
@@ -21,7 +21,7 @@ format:
     code-overflow: wrap
 ---
 
-# The Double-Edged Sword of Triploidy in Pacific Oysters: New Research Highlights Increased Vulnerability to Climate Stressors 
+# The Double-Edged Sword of Triploidy in Pacific Oysters: New Research Highlights Increased Vulnerability to Climate Stressors
 
 ## Introduction
 
@@ -33,11 +33,11 @@ The study, titled "Triploid Pacific oysters exhibit stress response dysregulatio
 
 ### Key Findings
 
-1. **Higher Mortality Rates in Triploids**: The mortality rate in triploid oysters exposed to multiple stressors was 36.4% compared to 14.8% in diploid oysters.
-  
-2. **Metabolic and Physiological Limitations**: Triploid oysters showed signs of metabolic depression, a reduction in ctenidium Na+/K+ ATPase activity, and dysregulated expression of stress response genes.
-  
-3. **Functional Genomics Insights**: Gene sets enriched in biological processes like metabolism, stress tolerance, and immune function were disproportionately represented in triploids across stress treatments.
+1.  **Higher Mortality Rates in Triploids**: The mortality rate in triploid oysters exposed to multiple stressors was 36.4% compared to 14.8% in diploid oysters.
+
+2.  **Metabolic and Physiological Limitations**: Triploid oysters showed signs of metabolic depression, a reduction in ctenidium Na+/K+ ATPase activity, and dysregulated expression of stress response genes.
+
+3.  **Functional Genomics Insights**: Gene sets enriched in biological processes like metabolism, stress tolerance, and immune function were disproportionately represented in triploids across stress treatments.
 
 ### Implications for Marine Aquaculture and Food Security
 
@@ -50,7 +50,6 @@ The findings of this study present a clear need for further research to fully un
 ## Conclusion
 
 While triploidy offers some benefits for controlling reproduction in marine aquaculture, this genetic modification may inadvertently make these organisms more susceptible to the threats posed by climate change. As we continue to grapple with the realities of a changing climate, research like this serves as an invaluable resource for better understanding the complex interactions between genetic variation and environmental stressors, thereby informing both conservation strategies and aquaculture practices.
-
 
 #### Citation
 
