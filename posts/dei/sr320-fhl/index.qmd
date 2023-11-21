@@ -1,0 +1,40 @@
+---
+title: "Marine science mentoring over the summer at FHL"
+description: "Feature on UW SAFS Website"
+# author:
+#   - name: Steven Roberts
+#     url: https://sr320.github.io/
+#     orcid: 0000-0001-8302-1138
+#     affiliation: Professor, UW - School of Aquatic and Fishery Sciences
+#     affiliation-url: https://robertslab.info
+date: 09-18-2023
+categories: [fhl, mentoring, spotlight] # self-defined categories
+image: https://fish.uw.edu/wp-content/uploads/sites/29/2023/09/IMG_2415.jpg # finding a good image
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+
+format:
+  html:
+    code-fold: false
+    code-tools: false
+    code-copy: false
+    highlight-style: github
+    code-overflow: wrap
+---
+
+This is an excerpt from a feature on the SAFS website. Please read the full article [here](https://fish.uw.edu/2023/09/marine-science-mentoring-over-the-summer-at-fhl/).
+
+# Marine science mentoring over the summer at FHL
+
+Spending the summer at [Friday Harbor Labs](https://fhl.uw.edu/) (FHL), SAFS grad student [Chris Mantegna](https://faculty.washington.edu/sr320/people.html#chris-mantegna) mentored four students -- two as part of the NSF-funded [Research Experience for Undergrads-Blinks](https://fhl.uw.edu/research/summer-research-internships/) (REU) program and two as part of the [Doris Duke Conservation Scholars Program](http://uwconservationscholars.org/) (DDCSP). During the program, students get to collaborate on a research project with their scientist-mentor to build marine research skills.
+
+Specifically geared towards enhancing diversity within the marine sciences, the program welcomes students from underrepresented groups. This year, Chris' students came from institutions across the US, including Kentucky, Massachusetts, Vermont and North Carolina, to work with her on an intertidal monitoring survey on Yellow Island in the Salish Sea.
+
+![Ochre sea stars (Pisaster ocherous) found on the island at low tide.](https://fish.uw.edu/wp-content/uploads/sites/29/2023/09/IMG_2457.jpg)
+
+The REU-Blinks program based out of FHL takes advantage of the pristine environment, remarkable biodiversity, and the scientific and technical resources available at the marine science research facility. The DDCSP program aims to increase diversity in conservation work and allows students from all over the US a chance to participate in a two-year program where second year scholars participate in an onsite internship of their choosing.
+
+Yellow Island is a nature preserve that The Nature Conservancy purchased in 1980, that also doubles up as a marine reserve, with no boating or fishing allowed within 300 yards of the island. The island is being used by Chris and the research team as a proxy for health in the wider Salish Sea due to the lack of human disturbance.
+
+As part of a wider program sponsored by [Black In Marine Science](https://www.blackinmarinescience.org/)(BIMS) and The Nature Conservancy, Chris restarted a monitoring project to get a better idea of the biodiversity on the island, and this kicked off last year in 2022 with a pilot program nailing down methods for collecting data. This year, with her mentees, the team collected a full season of data, complemented with eDNA work.
+
+continue reading [here](https://fish.uw.edu/2023/09/marine-science-mentoring-over-the-summer-at-fhl/).

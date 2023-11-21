@@ -72,5 +72,12 @@
       "/posts/frontpage/sr320-george-paper/index.html",
       "/posts/cool-paper/index.html"
     ]
+  },
+  {
+    "listing": "/dei.html",
+    "items": [
+      "/posts/dei/sr320-LGBTQ/index.html",
+      "/posts/dei/sr320-fhl/index.html"
+    ]
   }
 ]

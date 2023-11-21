@@ -1,0 +1,62 @@
+---
+title: "Celebrating LGBTQ+ in STEM"
+description: "Feature article with Aspen"
+#author:
+#   - name: Grace Crandall
+#     url: https://grace-ac.github.io/notebook/
+#     orcid:
+#     affiliation: UW - School of Aquatic and Fishery Sciences
+#     affiliation-url: https://faculty.washington.edu/sr320/
+date: 11-18-2023
+categories: [LGBTQ+, diversity, inclusion, dei] # self-defined categories
+image: https://fish.uw.edu/wp-content/uploads/sites/29/2023/11/LGBTQ-in-STEM.jpg # finding a good image
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+
+format:
+  html:
+    code-fold: false
+    code-tools: false
+    code-copy: false
+    highlight-style: github
+    code-overflow: wrap
+---
+
+::: callout-note
+## Full Article
+
+The following is an excerpt from a post on the SAFS Website: <https://fish.uw.edu/2023/11/celebrating-lgbtq-in-stem>
+:::
+
+Celebrating and highlighting the work of LGBTQ+ people in science, technology, engineering, and math (STEM) has a special day on the calendar: November 18. Why this date? It is based on the 60^th^ anniversary of American Astronomer and gay activist Frank Kameny's fight against workplace discrimination, which he took to the U.S. Supreme Court.
+
+![](https://fish.uw.edu/wp-content/uploads/sites/29/2023/11/LGBTQ-in-STEM-528x276.jpg){alt=""}
+
+Science is a place of innovation, research, and progress, but many communities are still marginalized in these spaces. [Pride in STEM](https://prideinstem.org/lgbtstemday/) notes that 28% of LGBT+ people have considered leaving their jobs because of discrimination or workplace hostility.
+
+On [LGBTQ+ in STEM Day](https://prideinstem.org/lgbtstemday), we celebrate the contribution of LGBTQ+ scientists, while also recognizing that barriers are still faced and that efforts have to continue to break these down. We spoke with SAFS graduate student, Aspen Coyle, who shared her thoughts on her journey so far in academia, what inclusion means for her, and some of the barriers and highlights she's experienced. She also shares some advice for those concerned about a lack of representation in marine science.
+
+::: callout-important
+## More information
+
+*For more information on Diversity, Equity and Inclusion activities and support at SAFS, visit our [DEI page](https://fish.uw.edu/about/diversity-equity-and-inclusion/). For UW-wide resources, visit [The Q Center](https://sites.uw.edu/qcenter).*
+:::
+
+## **What led you to pursue studies in science?**
+
+![](https://fish.uw.edu/wp-content/uploads/sites/29/2023/10/Aspen_selfie-259x528.jpg){alt=""}
+
+I'm one of those people that's wanted to be a marine biologist ever since I was a little kid. I grew up in a fishing town in coastal Alaska, and my favorite thing in the world was scrambling along the intertidal, peering into tidepools and turning over rocks, trying to find the neatest critters. That base delight in hunting for cool creatures was augmented in undergrad with a deeper understanding of the ecological importance, and then after getting a job in another Alaskan fishing town, the economic importance.
+
+## **What are some of the positive experiences as LGBTQ+ in STEM that you've had?**
+
+From an outside perspective, I\'ve existed in several different modes as a queer person in STEM -- up until recently as a queer guy, and for the last six months or so as a transfemme. Before grad school, I was working for the Alaska Department of Fish and Game in a variety of fieldwork positions. Being queer in rural Alaska, especially around the fishing industry, is often met with confusion (and occasionally, mild hostility), but I never felt much of that from my coworkers.
+
+Here at SAFS, my lab is mostly other queer people, which has been wonderful. When I was living as a queer guy, it was really great to have a bunch of people around with this shared experience and perspective. And since queer cis people are usually around more trans people than straight cis people, it really wasn\'t that big of a deal when I started transitioning.
+
+## **What does inclusion look like for you?**
+
+::: callout-note
+## Full Article
+
+To *see the answer to this and other questions read the full article at* <https://fish.uw.edu/2023/11/celebrating-lgbtq-in-stem>
+:::
