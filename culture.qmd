@@ -1,5 +1,0 @@
----
-title: "Lab Culture"
-title-block-banner: true
-toc: true
----

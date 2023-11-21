@@ -1,5 +1,0 @@
----
-title: "Outreach and Education"
-title-block-banner: true
-toc: true
----
