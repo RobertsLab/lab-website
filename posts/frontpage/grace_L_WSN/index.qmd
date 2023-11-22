@@ -1,0 +1,31 @@
+---
+title: "Western Society of Naturalists"
+description: "Grace #2's meeting recap!"
+author:
+  - name: Grace Leuchtenberger
+    url: https://graceleuchtenberger.github.io/notebook/
+    orcid: 
+    affiliation: UW - Department of Biology
+    affiliation-url: https://faculty.washington.edu/sr320/
+date: 11-22-2023
+categories: [wsn, meeting, seastar] # self-defined categories
+image: https://github.com/graceleuchtenberger/graceleuchtenberger.github.io/tree/master/post_images/20231122/WSN.jpeg # finding a good image
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+
+format:
+  html:
+    code-fold: false
+    code-tools: false
+    code-copy: false
+    highlight-style: github
+    code-overflow: wrap
+---
+
+## Poster presentation
+
+I presented some data from a summer pilot project that didn't end up being significant, but sparked some good conversations! Flow rate is known to influence the amount of threads that mussels produce to stick onto rocky surfaces, so I was wondering if it influenced the actual composition of the threads as well! I kept mussels under three different flow rates and measured their attachment strength. Didn't find anything significant, but saw some trends. 
+
+![img](https://github.com/graceleuchtenberger/graceleuchtenberger.github.io/blob/master/post_images/20231122/WSN.jpeg)
+
+I haven't ever presented data in person at a conference before (relic of being a college covid baby), so this was really exciting for me to get feedback from other ecomechanics people and brainstorm future directions for my work, especially as I'm trying to propose my thesis this spring. 
+
