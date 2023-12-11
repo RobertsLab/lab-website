@@ -1,23 +1,5 @@
 [
   {
-    "listing": "/dei.html",
-    "items": [
-      "/posts/dei/sr320-LGBTQ/index.html",
-      "/posts/dei/sr320-fhl/index.html"
-    ]
-  },
-  {
-    "listing": "/index.html",
-    "items": [
-      "/posts/frontpage/sr320-LGBTQ/index.html",
-      "/posts/frontpage/grace-ac-WSN/index.html",
-      "/posts/frontpage/sr320-DM/index.html",
-      "/posts/frontpage/sr320-marineomics/index.html",
-      "/posts/frontpage/sr320-fhl/index.html",
-      "/posts/frontpage/sr320-george-paper/index.html"
-    ]
-  },
-  {
     "listing": "/research.html",
     "items": [
       "/research/aquamine.html",
@@ -37,6 +19,18 @@
       "/research/ffar.html",
       "/research/nprb.html",
       "/research/wsg-sc.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/frontpage/grace_L_WSN/index.html",
+      "/posts/frontpage/sr320-LGBTQ/index.html",
+      "/posts/frontpage/grace-ac-WSN/index.html",
+      "/posts/frontpage/sr320-DM/index.html",
+      "/posts/frontpage/sr320-marineomics/index.html",
+      "/posts/frontpage/sr320-fhl/index.html",
+      "/posts/frontpage/sr320-george-paper/index.html"
     ]
   },
   {
@@ -68,18 +62,21 @@
   {
     "listing": "/posts.html",
     "items": [
-      "/posts/dei/sr320-LGBTQ/index.html",
+      "/posts/frontpage/grace_L_WSN/index.html",
       "/posts/frontpage/sr320-LGBTQ/index.html",
       "/posts/frontpage/grace-ac-WSN/index.html",
       "/posts/frontpage/sr320-DM/index.html",
       "/posts/aquamine/index.html",
       "/posts/frontpage/sr320-marineomics/index.html",
       "/posts/mytilus-genome/index.html",
-      "/posts/dei/sr320-fhl/index.html",
       "/posts/frontpage/sr320-fhl/index.html",
       "/posts/sr320-spencer-paper/index.html",
       "/posts/frontpage/sr320-george-paper/index.html",
       "/posts/cool-paper/index.html"
     ]
+  },
+  {
+    "listing": "/dei.html",
+    "items": []
   }
 ]
