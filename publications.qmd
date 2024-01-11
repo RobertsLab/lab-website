@@ -354,9 +354,13 @@ Characterizing the effects of ocean acidification in larval and juvenile Manila 
 
 #### 2024
 
+-   [_Pycnopodia helianthoides_ immune response to Sea Star Wasting Disease(https://github.com/grace-ac/presentations/blob/main/2024/Crandall_SICB_2024.pdf). Grace Crandall. Society of Integrative and Comparative Biology. January 2024.
+
 -   [Thermal stress reduces photosynthate metabolism and disrupts nitrogen cycling in coral larvae](https://github.com/AHuffmyer/presentations/blob/master/2024/Huffmyer_SICB_2024.pdf). Ariana S. Huffmyer. Society of Integrative and Comparative Biology. January 2024. 
 
 #### 2023
+
+-   [_Pycnopodia helianthoides_ immune response to Sea Star Wasting Disease](https://github.com/grace-ac/presentations/blob/main/2023/Crandall_WSN_2023.pdf). Grace Crandall. Western Society of Naturalists, Monterey, California. November 2023.
 
 -   [Genomic Applications in Sustainable Aquaculture](https://github.com/sr320/talk-DBEA-2023). Steven Roberts. 1er Congreso de Biología Experimental y Aplicada, CICESE, Ensenada, Mexico. October 2023
 
