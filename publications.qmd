@@ -358,6 +358,8 @@ Characterizing the effects of ocean acidification in larval and juvenile Manila 
 
 -   [Thermal stress reduces photosynthate metabolism and disrupts nitrogen cycling in coral larvae](https://github.com/AHuffmyer/presentations/blob/master/2024/Huffmyer_SICB_2024.pdf). Ariana S. Huffmyer. Society of Integrative and Comparative Biology. January 2024. 
 
+- [Biodiversity Survey Methods: Using eDNA Metabarcoding to Complement Existing Methods](https://github.com/ChrisMantegna/YellowIsland2023/blob/main/Mantegna_eDNA_presentation.pdf). Chris Mantegna. Society of Integrative and Comparative Biology. January 2024.
+
 #### 2023
 
 -   [_Pycnopodia helianthoides_ immune response to Sea Star Wasting Disease](https://github.com/grace-ac/presentations/blob/main/2023/Crandall_WSN_2023.pdf). Grace Crandall. Western Society of Naturalists, Monterey, California. November 2023.
