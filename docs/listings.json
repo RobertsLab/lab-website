@@ -24,8 +24,8 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/frontpage/sr320-asi/index.html",
       "/posts/frontpage/megan-rna/index.html",
-      "/posts/frontpage/sr320-LGBTQ/index.html",
       "/posts/frontpage/sr320-DM/index.html",
       "/posts/frontpage/sr320-marineomics/index.html",
       "/posts/frontpage/sr320-fhl/index.html",
@@ -61,9 +61,10 @@
   {
     "listing": "/posts.html",
     "items": [
+      "/posts/frontpage/sr320-asi/index.html",
       "/posts/frontpage/megan-rna/index.html",
       "/posts/grace_L_WSN/index.html",
-      "/posts/frontpage/sr320-LGBTQ/index.html",
+      "/posts/sr320-LGBTQ/index.html",
       "/posts/grace-ac-WSN/index.html",
       "/posts/frontpage/sr320-DM/index.html",
       "/posts/aquamine/index.html",

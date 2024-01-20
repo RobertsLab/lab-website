@@ -1,0 +1,62 @@
+---
+title: "Exploring the Depths of Marine Epigenetics:"
+description: "A Dive into the University of Concepción's Recent Austral Summer Institute's Course"
+# author:
+#   - name: Steven Roberts
+#     url: https://sr320.github.io/
+#     orcid: 0000-0001-8302-1138
+#     affiliation: Professor, UW - School of Aquatic and Fishery Sciences
+#     affiliation-url: https://robertslab.info
+date: 01-19-2024
+categories: [course, genomics, methods, website] # self-defined categories
+image: /img/asi.png # finding a good image
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+
+format:
+  html:
+    code-fold: true
+    code-tools: true
+    code-copy: true
+    highlight-style: github
+    code-overflow: wrap
+---
+
+The University of Concepción recently offered an eye-opening course that dove deep into the realms of climate change, epigenetics, and marine biology. Titled "[Epigenetic Phenomena Connecting Climate Change and Coastal Marine Species](https://sr320.github.io/course-ASI-2024/)," this graduate-level course provided an intensive one-week journey into the fascinating interplay between our changing climate and the genetic mechanisms of marine invertebrates.
+
+### Unraveling the Mysteries of Marine Invertebrates
+
+The course, designed for students with a foundational understanding of genetics and climate science, began by establishing a strong base in epigenetics, climate change, and marine invertebrate physiology. The highlight was on the often-overlooked role of marine invertebrates in coastal ecosystems, emphasizing their ecological importance and responses to climate change at an epigenetic level.
+
+### Real-World Applications and Functional Genomics
+
+A significant focus of the course was the application of functional genomics. Students explored how climate change leads to alterations in epigenetic mechanisms of various coastal marine invertebrates through real-world examples. This approach helped in understanding the broader implications of these changes for marine ecosystems.
+
+### Comprehensive Course Objectives
+
+The course had three primary objectives:
+
+1.  **Understanding Climate Change and Epigenetics**: Gaining a comprehensive understanding of how climate change impacts marine invertebrates' physiological processes through an epigenetic lens.
+2.  **Proficiency in Functional Genomics**: Learning about genomic techniques and their applications in studying epigenetic changes in marine invertebrates due to climate stressors.
+3.  **Analyzing Scientific Research**: Developing skills to critically analyze and evaluate scientific literature in marine invertebrate epigenetics and climate change.
+
+### Course Content: A Rich Blend of Science and Research
+
+The course content was diverse and in-depth:
+
+-   **Basics of Epigenetics and Climate Change**: Introduced the intersection of these fields and the concept of environmental epigenetics.
+-   **Physiology of Marine Invertebrates**: Covered essential aspects like feeding, digestion, reproduction, and stress response.
+-   **Impact of Climate Change on Physiology**: Explored the specific impacts of climate factors on marine invertebrates.
+-   **Functional Genomics and Epigenetics**: Delved into genomic methodologies and applications.
+-   **Case Studies and Current Research**: Involved critical examination of recent research studies, emphasizing practical understanding.
+
+### Methodology: Interactive and Engaging
+
+The course used a mix of lectures, discussions, and interactive data analysis. It emphasized hands-on learning, particularly in the afternoons, where students engaged in data analysis using R and bash, providing a practical edge to the theoretical knowledge gained.
+
+### Scholarly Contributions: A Rich Bibliography
+
+The course drew from a rich bibliography, featuring works by renowned researchers like Grace Crandall, Steven B. Roberts, and Cristian Gallardo-Escárate. These publications covered various aspects, from the proteomic responses of Pacific Oysters to the genomic assembly of the Blue Mussel, offering students a comprehensive view of current research in the field.
+
+### Conclusion: A Step Forward in Marine Biology Education
+
+This course at the University of Concepción marked a significant step in educating the next generation of marine biologists, geneticists, and climate scientists. By bridging the gap between climate change and epigenetic phenomena in marine species, it not only enhanced understanding but also prepared students to contribute meaningfully to marine conservation efforts in the face of global climate challenges.
