@@ -1,6 +1,6 @@
 ---
-title: "Exploring the Depths of Marine Epigenetics:"
-description: "A Dive into the University of Concepción's Recent Austral Summer Institute's Course"
+title: "Exploring the Depths of Marine Epigenetics"
+description: "A Dive into Steven's Recent Austral Summer Institute Course at the University of Concepcion"
 # author:
 #   - name: Steven Roberts
 #     url: https://sr320.github.io/

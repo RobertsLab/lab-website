@@ -1,0 +1,36 @@
+---
+title: "Exploring the Impact of Marine Heatwaves on Pacific Cod"
+description: "Insights from CICOES Researchers"
+# author:
+#   - name: Steven Roberts
+#     url: https://sr320.github.io/
+#     orcid: 0000-0001-8302-1138
+#     affiliation: Professor, UW - School of Aquatic and Fishery Sciences
+#     affiliation-url: https://robertslab.info
+date: 01-17-2024
+categories: [cod, genomics, epigenetics, rna-seq] # self-defined categories
+image: /img/cod.png # finding a good image
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+
+format:
+  html:
+    code-fold: true
+    code-tools: true
+    code-copy: true
+    highlight-style: github
+    code-overflow: wrap
+---
+
+In recent years, the Northeastern Pacific has been hit by a series of unprecedented marine heatwaves, notably "The Blob" from 2014-2016 and another in 2019, causing significant ecological disruptions. A compelling article titled "Beyond the Blob: Pinpointing the Mechanisms of Pacific Cod Population Decline" by the CICOES staff, delves into the alarming decline of Pacific cod populations in the Gulf of Alaska, a critical concern given the species' ecological and economic significance.
+
+The Pacific cod, a vital component of Alaska's groundfish fishery, generating over \$100 million annually, faced a dramatic 71% reduction in population between 2015 and 2017 surveys. This decline coincides with the marine heatwaves, raising urgent questions about the survival of early life stages of Pacific cod in a rapidly changing climate.
+
+Researchers from CICOES, the University of Washington's School of Aquatic and Fishery Sciences, Oregon State University, and NOAA are collaborating to unravel how increased temperatures impact Pacific cod. Their focus is on the vulnerable early life stages -- developing eggs, larvae, and juveniles. Intriguingly, higher temperatures, while accelerating growth, also diminish liver size and alter key metabolic enzymes in young Pacific cod, hinting at deeper metabolic disruptions.
+
+One innovative approach used by these researchers is RNA-Seq, a next-generation sequencing technology. It allows for a comprehensive analysis of gene activity, shedding light on how warming affects Pacific cod at a molecular level. Initial findings suggest that high temperatures during larval rearing disrupt lipid metabolism processes, potentially reducing energy availability, a crucial resource during this stage.
+
+The ultimate goal of these studies is to identify the mechanisms driving the mortality of Pacific cod post marine heatwaves. If these mechanisms are more clearly understood, it could lead to the identification of populations or individuals with a better genetic and physiological predisposition to withstand warmer conditions.
+
+For anyone interested in marine biology, climate change impacts, or fisheries management, this article is a must-read. It not only provides a deep dive into the challenges faced by Pacific cod but also highlights the cutting-edge research being conducted to safeguard these vital marine populations. To explore this topic further and understand the intricacies of this crucial research, I highly recommend reading the full article in the CICOES Magazine 2023 issue. *Read the full article below* to gain a deeper understanding of the interplay between marine heatwaves and marine life.
+
+{{< pdf /img/CICOES.pdf width=600 height=400 >}}
