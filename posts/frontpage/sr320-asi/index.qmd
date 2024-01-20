@@ -1,5 +1,5 @@
 ---
-title: "Exploring the Depths of Marine Epigenetics"
+title: "Sharing the Good Word of Marine Epigenetics"
 description: "A Dive into Steven's Recent Austral Summer Institute Course at the University of Concepcion"
 # author:
 #   - name: Steven Roberts
