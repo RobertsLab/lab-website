@@ -360,6 +360,8 @@ Characterizing the effects of ocean acidification in larval and juvenile Manila 
 
 -   [Biodiversity Survey Methods: Using eDNA Metabarcoding to Complement Existing Methods](https://github.com/ChrisMantegna/YellowIsland2023/blob/main/Mantegna_eDNA_presentation.pdf). Chris Mantegna. Society of Integrative and Comparative Biology. January 2024.
 
+-   [Comparative analyses of long non-coding RNA activity in three coral species](https://github.com/zbengt/zbengt.github.io/blob/master/assets/SICB_Comparative%20analyses%20of%20%20long%20non-coding%20RNA%20activity%20in%20%20coral%20species.pdf). Zachary Bengtsson. Society of Integrative and Comparative Biology. January 2024.
+
 #### 2023
 
 -   [*Pycnopodia helianthoides* immune response to Sea Star Wasting Disease](https://github.com/grace-ac/presentations/blob/main/2023/Crandall_WSN_2023.pdf). Grace Crandall. Western Society of Naturalists, Monterey, California. November 2023.
