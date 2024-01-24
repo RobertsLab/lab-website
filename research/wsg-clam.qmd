@@ -30,6 +30,8 @@ The proposed effort will identify how parental environmental conditions drive sh
 
 ## Data Availability
 
+[_notes_](https://docs.google.com/document/d/1eJtVsJ7tXpFlP8RmqeQecYmWLiCoKhNxPHc7zgKFlbM/edit)
+
 ## Notes
 
 ::: panel-tabset
@@ -47,12 +49,9 @@ Washington Sea Grant / R_SFA-15 (62-5534) and Puget Sound Partnership (co-fundin
 
 ## Dates
 
-02/2022 – 1/2024  
+02/2022 -- 1/2024
 
 ## Amount
 
-$279,374 
-
+\$279,374
 :::
-
-
