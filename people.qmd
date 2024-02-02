@@ -102,20 +102,6 @@ I completed my Ph.D. in marine biology and science education at the Hawaii Insti
 
 Outside the lab, I enjoy hiking, mountain biking, fly fishing, and exploring with my two dogs the Pacific Northwest.
 
-## Larken Root
-
--   [Lab notebook](https://larkenr.github.io)
--   [CV](https://github.com/larkenr/larkenr.github.io/blob/master/cv/Curriculum%20vitae%20.pdf)
--   Email: larker\@uw.edu
-
-![](https://avatars.githubusercontent.com/u/60525206?s=400&u=59560ff1e74ecde55ae63ba22e7c83d642e239c2&v=4){width="130px" height="150px"}
-
-I am currently working as a [Cooperative Institute for Climate, Ocean, & Ecosystem Studies (CICOES)](https://cicoes.uw.edu/) Fellow in the Roberts Lab in collaboration with Mackenzie Gavery at the NOAA Northwest Fisheries Science Center and Ryan Crim at the Puget Sound Restoration Fund to assess the potential impacts of ocean acidification (OA) on native Pacific Littleneck Clams and naturalized Manila Clams. Specifically, we will determine the physiological impact of OA conditions on adult clams and determine how this impacts reproduction by assessing reproductive success as well as gene expression in gametes. Larvae collected from clams will also be used to determine transgenerational effects on the capacity of larvae to tolerate the same OA conditions by assessing growth performance and gene expression. Results from these experiments are intentionally aimed at expanding the portfolio of options for Puget Sound shellfish growers, and I will be involved in surveying growers to determine the applicability of the methods we develop on clam production. I am also active in a separate project to identify and then silence genes expressed in the development of germ line cells in shellfish embryos, with the ultimate goal of establishing a method for producing sterile shellfish for use in aquaculture.
-
-I have a background in comparative physiology having completed a dissertation comparing the molecular response of two species of tilapia to increased environmental salinity levels. This research including transcriptomic and proteomic analysis of the main tissues responsible for ion balance (gill and kidney). This work was also aimed at aiding aquaculture producers by allowing them to use partial seawater in tilapia ponds and reduce the use of freshwater, especially in areas which have scarce freshwater resources.
-
-When not doing research, I am an avid hiker, and I enjoy a number of hobbies including woodworking, playing musical instruments, baking, and playing with my dogs Nimbus and Pepita.
-
 ## Laura Spencer
 
 # Research Scientists
@@ -148,6 +134,8 @@ Outside of lab-related work, I dig playing video games and listening to Phish (a
 # Alumni
 
 ### *Postdoctoral Research Associates*
+
+Larken Root
 
 [Matt George](https://mattgeorgephd.github.io/)
 

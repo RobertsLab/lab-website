@@ -24,6 +24,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/frontpage/sr320-prep/index.html",
       "/posts/frontpage/sr320-asi/index.html",
       "/posts/frontpage/sr320-cod/index.html",
       "/posts/frontpage/megan-rna/index.html",
@@ -61,6 +62,7 @@
   {
     "listing": "/posts.html",
     "items": [
+      "/posts/frontpage/sr320-prep/index.html",
       "/posts/frontpage/sr320-asi/index.html",
       "/posts/frontpage/sr320-cod/index.html",
       "/posts/frontpage/megan-rna/index.html",
