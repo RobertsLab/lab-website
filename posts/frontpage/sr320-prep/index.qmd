@@ -25,11 +25,18 @@ format:
 
 {{< video http://gannet.fish.washington.edu/seashell/snaps/Exp_prep.mov >}}
 
-Some key points related to preparing for scientific research projects discussed in the meeting include:\
-- Thoroughly planning experiments in advance, including writing detailed protocols and considering potential issues\
-- Practicing data collection and analysis techniques on mock/test datasets before using real data\
-- Setting clear hypotheses, objectives, and sample sizes for experiments \
-- Organizing data collection sheets, sample IDs, and metadata standards early on\
-- Scheduling experiments, permitting, and coordinating with collaborators well in advance\
-- Creating checklists and spreadsheets to track project tasks and ensure all steps are completed\
-- Visualizing experimental designs and envisioning data analysis to plan for challenges
+Designing scientific experiments requires extensive planning to ensure projects run smoothly and yield meaningful results. Here are some important aspects to consider when preparing for research:
+
+**Clearly Define Your Hypothesis and Objectives**: Having a clear hypothesis drives your experimental design and analysis approach. Define what you aim to test upfront.
+
+**Prepare Detailed Protocols**: Write step-by-step protocols for all procedures well before starting. Practice techniques on mock datasets to work out kinks.
+
+**Plan Your Data Collection**: Design data sheets, name conventions, and metadata standards early. Consider sample sizes and ensure you collect the right data to answer your questions.
+
+**Schedule Carefully**: Block out experiment timelines, factoring permitting needs and collaborator availability. Leave buffer time for unexpected issues.
+
+**Create Organizational Systems**: Use checklists, spreadsheets, and visual aids to track tasks and ensure all preparation steps are completed thoroughly.
+
+**Anticipate Challenges**: Brainstorm potential pitfalls and have contingency plans. Run test analyses to flag problems before using real data.
+
+Proper preparation is key to running successful, high-quality experiments that yield meaningful scientific insights. Taking the time to carefully plan experimental design and logistics pays off in efficient, productive research.
