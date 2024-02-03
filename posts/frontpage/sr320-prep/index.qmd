@@ -24,3 +24,12 @@ format:
 [Ariana](https://faculty.washington.edu/sr320/people.html#ariana-s.-huffmyer-phd) lead a great tutorial on being prepared and planning for science. The narrative underscored the importance of thorough preparation and planning, including considering alternative uses for collected data, planning for potential pitfalls, and ensuring that experimental designs are robust against unforeseen challenges. This includes the practical aspects of laboratory work, field studies, and data analysis, emphasizing the value of learning from past experiences and being flexible in research approaches.
 
 {{< video http://gannet.fish.washington.edu/seashell/snaps/Exp_prep.mov >}}
+
+Some key points related to preparing for scientific research projects discussed in the meeting include:\
+- Thoroughly planning experiments in advance, including writing detailed protocols and considering potential issues\
+- Practicing data collection and analysis techniques on mock/test datasets before using real data\
+- Setting clear hypotheses, objectives, and sample sizes for experiments \
+- Organizing data collection sheets, sample IDs, and metadata standards early on\
+- Scheduling experiments, permitting, and coordinating with collaborators well in advance\
+- Creating checklists and spreadsheets to track project tasks and ensure all steps are completed\
+- Visualizing experimental designs and envisioning data analysis to plan for challenges
