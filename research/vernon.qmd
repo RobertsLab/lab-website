@@ -14,7 +14,7 @@ categories:
   - acidification
   - aquaculture
   - 03-ARD
-  - opem
+  - open
 ---
 
 ## Collaborators
@@ -44,11 +44,9 @@ UW CICOES Task II Vernon (62-3837) / NOAA - NA20OAR4320271
 
 ## Dates
 
-7/2022 – 6/2024 
+7/2022 -- 6/2024
 
 ## Amount
 
-$1,182,294
-
+\$1,182,294
 :::
-
