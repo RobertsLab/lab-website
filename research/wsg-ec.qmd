@@ -32,3 +32,25 @@ Objective 2. Develop a commercially viable hatchery husbandry protocol that impr
 Objective 3. Develop an enhanced workforce training curriculum for shellfish industry technicians. To address the industry's need for skilled technicians, students from Bellingham Technical College's (BTC) Fisheries and Aquaculture Sciences Program will be integrated into research objectives; this collaboration will be used to generate an enhanced workforce training curriculum that uses OsHV-1 and heat waves as case studies. Students will also gain exposure to training opportunities by serving as hatchery technicians, summer interns at shellfish farms, and student ambassadors during regular partner meetings.
 
 ## Data Availability
+
+
+## Notes
+
+::: panel-tabset
+## Codes
+
+TBD
+
+## Proposal ID
+
+[TBD](https://d.pr/f/dIGn9L)
+
+## Dates
+
+2/2024 -- 1/2026
+
+## Amount
+
+$280,000
+
+:::
