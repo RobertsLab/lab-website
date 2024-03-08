@@ -1,0 +1,47 @@
+---
+title: "Hardening in oysters drives increased growth"
+description: "It's a stage specific thing"
+# author:
+#   - name: Steven Roberts
+#     url: https://sr320.github.io/
+#     orcid: 0000-0001-8302-1138
+#     affiliation: Professor, UW - School of Aquatic and Fishery Sciences
+#     affiliation-url: https://robertslab.info
+date: 01-19-2024
+categories: [oyster, aquaculture] # self-defined categories
+image: /img/pw.png # finding a good image
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+
+format:
+  html:
+    code-fold: true
+    code-tools: true
+    code-copy: true
+    highlight-style: github
+    code-overflow: wrap
+---
+
+In the meticulously orchestrated world of marine science, a groundbreaking experiment has unfolded, casting the spotlight on an unlikely protagonist: the oyster. This narrative begins with the arrival of 235 adult oysters from Pacific Hybreed, their sizes ranging impressively from 40 to 100mm, and further complemented by a diverse younger contingent—120 juveniles, 120 seed, and approximately 120 spat, all courtesy of the USDA's 2023 spawn.
+
+The cast of this aquatic drama was not randomly assembled. It consisted of four distinct families, with each family comprising both diploid and triploid oysters. This genetic variance is crucial; diploids possess the standard two sets of chromosomes, typical for most organisms, while triploids boast an extra set, a condition that influences their growth, reproductive capabilities, and potentially their resilience to environmental challenges. This dichotomy set the stage for an experiment designed to probe the depths of oyster biology and adaptation.
+
+The experimental setup divided these oysters into two groups: one destined for a control tank, mirroring their natural aquatic environment at a serene 17ºC, and the other for a treatment tank, where conditions were significantly altered. The latter group was subjected to a deliberate increase in temperature, a gradual ascent of 2ºC per hour until the water reached a stress-inducing 26ºC, maintained for six hours daily over a seven-week span (began 10 2 2023, ended 11 21 2023). This rigorous thermal regimen aimed to simulate the increasingly erratic and harsh conditions wrought by climate change.
+
+![](http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Explanation_2024-03-08_15-17-47.png)
+
+
+Spatial arrangement within the tanks was meticulously planned. Adults resided in bags nestled at the tanks' bottoms, while their younger counterparts—the juveniles, seed, and spat—were housed in tubes, ensuring they remained unexposed to the water that had interacted with other groups. This segregation was crucial for isolating the effects of the experimental conditions on each group.
+
+Adding a layer of complexity, adults and juveniles were subjected to mechanical stress, an innovative use of a salad spinner for 15 minutes on selected dates (10/2/2023, 10/4/2023, 10/11/2023). This unusual methodology aimed to mimic the physical disturbances oysters might face in their natural habitats, from tumbling in currents to encounters with predators and debris.
+
+The culmination of this phase was marked by a meticulous sampling process on November 21, 2023. Selected groups of oysters were divided for detailed analysis, with some undergoing immediate tissue sampling for RNA and DNA analysis, while others faced an additional stress test—a 30-minute immersion in 32ºC water followed by a tumbling session in the salad spinner. This process was designed to simulate an acute stress event, allowing researchers to gauge the oysters' physiological responses to compounded stressors.
+
+Several months later, on February 28, 2024, the experiment was revisited with a focused approach. This time, the younger generation of oysters was spotlighted, undergoing tissue sampling without the prior mechanical stress, to isolate the effects of thermal stress. This phase aimed to deepen the understanding of how varying stages of oyster development respond to environmental pressures, a key consideration for both conservation and aquaculture.
+
+![](http://gannet.fish.washington.edu/seashell/snaps/growth.png)
+
+This experiment is not merely an investigation into the resilience of oysters to thermal and mechanical stress; it's a narrative about adaptation, survival, and the intricate dance of life beneath the waves. Through the lens of these oysters—spanning different life stages, genetic backgrounds, and subjected to carefully orchestrated stressors—scientists are peeling back the layers of marine resilience. The insights gained promise not only to advance our understanding of oyster biology but also to inform sustainable practices in aquaculture and conservation strategies in the face of a changing climate. In essence, this tale of oysters is a microcosm of the broader challenges and opportunities that lie in understanding and safeguarding our blue planet.
+
+
+See [Eric's Post](https://eric-ess.github.io/data-explanation/) for more details.
+
