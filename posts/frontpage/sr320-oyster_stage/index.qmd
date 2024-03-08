@@ -1,8 +1,8 @@
 ---
 title: "Hardening in oysters drives increased growth"
 description: "It's a stage specific thing"
-# author:
-#   - name: Steven Roberts
+ #author:
+#   - name: Eric Essington
 #     url: https://sr320.github.io/
 #     orcid: 0000-0001-8302-1138
 #     affiliation: Professor, UW - School of Aquatic and Fishery Sciences
@@ -21,7 +21,7 @@ format:
     code-overflow: wrap
 ---
 
-In the meticulously orchestrated world of marine science, a groundbreaking experiment has unfolded, casting the spotlight on an unlikely protagonist: the oyster. This narrative begins with the arrival of 235 adult oysters from Pacific Hybreed, their sizes ranging impressively from 40 to 100mm, and further complemented by a diverse younger contingent—120 juveniles, 120 seed, and approximately 120 spat, all courtesy of the USDA's 2023 spawn.
+In the meticulously orchestrated world of marine science, a groundbreaking experiment has unfolded in the hands of [Eric Essington](https://eric-ess.github.io), casting the spotlight on an unlikely protagonist: the oyster. This narrative begins with the arrival of 235 adult oysters from Pacific Hybreed, their sizes ranging impressively from 40 to 100mm, and further complemented by a diverse younger contingent—120 juveniles, 120 seed, and approximately 120 spat, all courtesy of the USDA's 2023 spawn.
 
 The experimental setup divided these oysters into two groups: one destined for a control tank, mirroring their natural aquatic environment at a serene 17ºC, and the other for a treatment tank, where conditions were significantly altered. The latter group was subjected to a deliberate increase in temperature, a gradual ascent of 2ºC per hour until the water reached a stress-inducing 26ºC, maintained for six hours daily over a seven-week span (began 10 2 2023, ended 11 21 2023). This thermal regimen aimed to simulate the increasingly erratic and harsh conditions wrought by climate change.
 
@@ -35,7 +35,7 @@ Several months later, on February 28, 2024, the experiment was revisited with a 
 
 ![](http://gannet.fish.washington.edu/seashell/snaps/growth.png)
 
-*Take-away to date* - stress hardening in spat in October and November resulted in increased growth compared to controls in February.
+**Take-away to date** - stress hardening in spat in October and November resulted in increased growth compared to controls in February.
 
 This experiment is not merely an investigation into the resilience of oysters to thermal and mechanical stress; it's a narrative about adaptation, survival, and the intricate dance of life beneath the waves. 
 
