@@ -24,14 +24,12 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/frontpage/sr320-oyster_stage/index.html",
       "/posts/frontpage/sr320-prep/index.html",
       "/posts/frontpage/sr320-asi/index.html",
-      "/posts/frontpage/sr320-oyster_stage/index.html",
       "/posts/frontpage/sr320-cod/index.html",
       "/posts/frontpage/megan-rna/index.html",
-      "/posts/frontpage/sr320-DM/index.html",
-      "/posts/frontpage/sr320-fhl/index.html",
-      "/posts/frontpage/sr320-george-paper/index.html"
+      "/posts/frontpage/sr320-DM/index.html"
     ]
   },
   {
@@ -63,8 +61,8 @@
   {
     "listing": "/posts.html",
     "items": [
-      "/posts/frontpage/sr320-prep/index.html",
       "/posts/frontpage/sr320-oyster_stage/index.html",
+      "/posts/frontpage/sr320-prep/index.html",
       "/posts/frontpage/sr320-asi/index.html",
       "/posts/frontpage/sr320-cod/index.html",
       "/posts/frontpage/megan-rna/index.html",
@@ -75,9 +73,9 @@
       "/posts/aquamine/index.html",
       "/posts/sr320-marineomics/index.html",
       "/posts/mytilus-genome/index.html",
-      "/posts/frontpage/sr320-fhl/index.html",
+      "/posts/sr320-fhl/index.html",
       "/posts/sr320-spencer-paper/index.html",
-      "/posts/frontpage/sr320-george-paper/index.html",
+      "/posts/sr320-george-paper/index.html",
       "/posts/cool-paper/index.html"
     ]
   },
