@@ -84,6 +84,7 @@ website:
       file: publications.qmd
     - people.qmd
     - dei.qmd
+    - courses.qmd
     - posts.qmd
     
     

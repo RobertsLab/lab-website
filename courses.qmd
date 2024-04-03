@@ -1,0 +1,53 @@
+---
+title: "Courses"
+title-block-banner: true
+toc: true
+---
+
+We are involved in a variety of courses. Here are a few.
+
+# UW 10-week courses
+
+## FISH 441/541 Integrative Environmental Physiology
+
+Both freshwater and marine environments are continually changing in response to natural processes and human activities, putting stress on aquatic organisms from microbes to marine mammals. This course will explore the surprising similarities and unique differences in the physiological response organisms have to stress caused by factors as natural as tidal cycles, and as unnatural as excess pharmaceuticals. The course will take an integrative approach across disciplines linked to physiology, with an emphasis on molecular physiology and endocrinology; and assumes students have been introduced to basic physiological concepts in other coursework. The main focus will be on functional responses to system stressors; however, the course will also explore potential impacts at the population level, and the evolutionary implications of physiological response to environmental stress. Case studies and research papers will be used along with other readings.
+
+url: <https://canvas.uw.edu/courses/1719428>
+
+## FISH 546 Bioinformatics for Environmental Sciences
+
+This course teaches core computing skills as well as project specific approaches. Each student will be developing and completing a research project targeting journal article submission by the end of the Quarter. There will be an emphasis on developing habits that increase automation which in turn will facilitate reproducibility. The primary course platform will be centered around GitHub, with each student creating their own repositories.
+
+url: <https://sr320.github.io/course-fish546-2023/>
+
+## FISH 274 **Introduction to Data Analysis for Aquatic Sciences**
+
+Data management skills are needed for entering data without errors, storing it in a usable way, and extracting key aspects of the data for analysis. This course will provide an introduction to data management, manipulation, and analysis, with an emphasis on biological problems. Class will typically consist of short introductions or question & answer sessions, followed by hands on computing exercises. The course will be taught using bash, R, and Jupyter Notebooks, but the concepts learned will easily apply to all other computational work. There will be an emphasis on reproducible research which includes the use of R markdown and version control. Students will need to come to class each week having completed the assigned readings. Once we learn how to import data, we will explore basic analysis procedures involving summarizing, gathering, spreading, filtering, separating, uniting, selecting, counting, random sampling, and performing basic arithmetic. The course will culminate in students identifying a data set, identifying a specific research question that can be answered with the data set, and communicate the findings in an effective visual manner. Work on these student projects will begin during week 6 of the course and students will present their work to the class during week 10.
+
+url: <https://sr320.github.io/course-fish274-2022/>
+
+## FISH 521 Proposal Writing and Professional Development for Graduate Students
+
+This class was originally designed to help students prepare research proposals. It has undergone various modifications since its inception, as different instructors have been placed in charge of it, and as the needs of students have changed. The course still includes the development of scientific ideas into coherent proposals, but it now also addresses other forms of communication, and aspects of professional development to help graduate students during and after their time at the University of Washington. *Foremost, the current implementation of the course is primarily attributable to Dr. Mark Scheuerell who taught the course in 2022.*
+
+url: <https://sr320.github.io/course-fish521-2023/>
+
+# One Week Courses
+
+## Epigenetic Phenomena Connecting Climate Change and Coastal Marine Species
+
+This one-week intensive graduate-level course explores the intriguing intersection of climate change, epigenetics, and marine invertebrate physiology, with a significant emphasis on the application of functional genomics. The course aims to highlight the substantial yet often overlooked role of marine invertebrates in coastal ecosystems, underlining their ecological significance and their responses to climate change at an epigenetic level.
+
+The course starts by establishing a strong foundational understanding of epigenetics, climate change, and marine invertebrate physiology. Following this, students will delve into the intricate role of functional genomics in understanding these connections. Real-world examples will be extensively used to discuss how changes in climate directly and indirectly lead to alterations in the epigenetic mechanisms of various coastal marine invertebrates.
+
+By the end of the course, students should have a comprehensive understanding of how climate change can influence the epigenetics and physiology of coastal marine invertebrates and the potential broader implications for marine ecosystems. The course is suitable for students with a basic understanding of genetics and climate science, although students from all disciplines are welcome as the course starts from foundational principles.
+
+url: <https://sr320.github.io/course-ASI-2024/>
+
+# Other educational content
+
+-   Tusk (Things you should know) - <https://robertslab.github.io/tusk/>
+
+-   Lab Handbook - <https://robertslab.github.io/resources/>
+
+-   
