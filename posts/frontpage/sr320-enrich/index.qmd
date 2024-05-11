@@ -1,0 +1,51 @@
+---
+title: "Unraveling the Intricacies of Enrichment Analysis"
+description: "A Peek into Our Lab Meeting"
+# author:
+#   - name: Steven Roberts
+#     url: https://sr320.github.io/
+#     orcid: 0000-0001-8302-1138
+#     affiliation: Professor, UW - School of Aquatic and Fishery Sciences
+#     affiliation-url: https://robertslab.info
+date: 05-09-2024
+categories: [methods, tools] # self-defined categories
+image: /img/enrich.png # finding a good image
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+
+format:
+  html:
+    code-fold: true
+    code-tools: true
+    code-copy: true
+    highlight-style: github
+    code-overflow: wrap
+---
+
+
+In our most recent lab meeting, we delved into the fascinating world of enrichment analysis. This statistical method is a cornerstone of our research, helping us identify significantly over-represented subsets of proteins or genes within our data.
+
+{{< video http://gannet.fish.washington.edu/seashell/snaps/GMT20240509-195925_Recording_gallery_1920x1080.mp4 >}}
+
+## The Power of Enrichment Analysis
+
+Enrichment analysis allows us to compare a small subset of genes or proteins to a larger set, identifying overrepresentation. This can provide valuable insights into the biological processes that are most relevant to our research.
+
+## A Deep Dive into David
+
+One of the tools we use for enrichment analysis is David. During the meeting, we explored how to upload gene lists and backgrounds into David, and how to interpret the results it provides. This tool is invaluable in helping us understand the complex relationships and patterns within our data.
+
+## The Reference List Debate
+
+An interesting discussion arose around what to use as a reference list in enrichment analysis. Should it be all the genes detected in the data set, or all genes in a reference genome? This question sparked a lively debate, highlighting the complexities and nuances of enrichment analysis.
+
+## Visualizing Gene Ontology with Revigo
+
+To help us visualize gene ontology, we use a tool called Revigo. This tool provides a visual representation of the relationships between genes, making it easier to understand the complex data we work with.
+
+## A Lighter Moment
+
+Amidst the serious scientific discussions, we also had a lighter moment when a team member shared a story about narrowly avoiding a parking ticket. It's moments like these that remind us of the importance of camaraderie and humor in the lab.
+
+------------------------------------------------------------------------
+
+Our lab meetings are a crucial part of our research process, providing a space for us to discuss, debate, and learn together. Stay tuned for more insights from our lab meetings in future posts!
