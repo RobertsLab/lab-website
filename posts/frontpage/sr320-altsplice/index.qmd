@@ -1,0 +1,59 @@
+---
+title: "Unraveling the Complexities of Gene Expression"
+description: "A Dive into Exon-Level Analysis"
+# author:
+#   - name: Steven Roberts
+#     url: https://sr320.github.io/
+#     orcid: 0000-0001-8302-1138
+#     affiliation: Professor, UW - School of Aquatic and Fishery Sciences
+#     affiliation-url: https://robertslab.info
+date: 05-25-2024
+categories: [methods, tools] # self-defined categories
+image: /img/enrich.png # finding a good image
+draft: true # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+
+format:
+  html:
+    code-fold: true
+    code-tools: true
+    code-copy: true
+    highlight-style: github
+    code-overflow: wrap
+---
+
+In a recent meeting focused on gene expression analysis, we delved into the intricacies of examining expression at the exon level, a crucial but complex aspect of understanding gene function and regulation. The discussion provided deep insights into both the challenges and potential breakthroughs in the field of genomics. Here's a detailed recap of the key points and future directions highlighted during the conversation.
+
+{{< video https://gannet.fish.washington.edu/seashell/snaps/GMT20240523-195855_Recording.m4a >}}
+
+
+#### Emphasis on Gene Expression Analysis
+
+Gene expression analysis remains a cornerstone of genomic studies, serving as a gateway to understanding the roles of genes in various biological processes and disease states. The meeting opened with a reaffirmation of the importance of mastering the techniques and tools that allow for such analysis, emphasizing that comprehensive understanding is necessary to advance research.
+
+#### Workflow and Tools
+
+A significant portion of the discussion revolved around the workflow used in the analysis. The researchers outlined their use of HiSat for alignment—a choice reflecting HiSat's efficiency in handling high-throughput RNA-seq data. StringTie was then introduced as the tool for identifying transcript units, highlighting its capability to assemble transcripts effectively. The differential expression analysis was conducted using DC2, a tool favored for its robust statistical methods in handling variance among biological replicates.
+
+#### Challenges in Interpretation
+
+One of the central themes of the meeting was the challenge of interpreting results where genes do not show differential expression overall but do exhibit variations at the exon level. This scenario often leads to questions about alternative splicing or differential exon usage, which can have significant implications for gene function.
+
+The group discussed several hypothetical situations:    
+- **Alternative Splicing**: If only certain exons within a gene are differentially expressed, this might suggest alternative splicing, a process where the same gene can lead to different protein variants.     
+- **Alternative Start Sites**: Differentially expressed exons at the gene's boundaries might indicate alternative transcription start sites, affecting how transcription is initiated.
+
+#### Biological Implications and Interpretation
+
+The biological implications of these findings are profound, potentially impacting everything from gene regulation to the development of therapeutic strategies. For example, alternative splicing can result in proteins with differing, sometimes antagonistic functions. Understanding these nuances is essential for the development of targeted therapies.
+
+#### The Role of Visual Aids
+
+A noteworthy suggestion from the meeting was the use of visual aids to better explain complex data and analysis. Presentations with graphical representations of data can facilitate a clearer understanding, aiding in the interpretation of intricate patterns of gene expression that might otherwise be overlooked in raw numerical data.
+
+#### Future Directions
+
+Looking to the future, the participants agreed on the need for more refined tools and methodologies to enhance the accuracy and granularity of exon-level expression analysis. They highlighted the potential for developing new computational tools that can integrate more complex layers of data, such as epigenetic modifications and non-coding RNA interactions, which could provide a more comprehensive view of gene regulation.
+
+The meeting concluded with a sense of optimism about the path forward, acknowledging that while challenges remain, the ongoing advancements in technology and methodology will continue to illuminate the complexities of the genome.
+
+This deep dive into exon-level analysis not only underscores the complexity inherent in genetic studies but also highlights the meticulous detail and sophisticated understanding required to truly grasp the implications of gene expression data. As researchers continue to unravel these complexities, each discussion and discovery adds a valuable piece to the puzzle of life sciences.

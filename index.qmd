@@ -9,7 +9,8 @@ listing:
     - "frontpage/*/*.qmd"
   type: grid # or `default` or `table`; each type has its own set of yaml options to include
   sort: "date desc" # can also sort on more than one field
-  categories: false # allows you to sort posts by assigned categories 
+  categories: false # allows you to sort posts by assigned categories
+  feed: true
 ---
 
 Research in our lab focuses on characterizing physiological responses of marine organisms to environmental change. Using integrative approaches we strive to examine impacts and adaptive potential from the nucleotide to organismal level. A core component of this includes investigating the functional relationship of genetics, epigenetics, and physiology.

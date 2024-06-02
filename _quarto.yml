@@ -28,13 +28,17 @@ website:
             url:  http://raven.fish.washington.edu:8787
           - text: gannet
             url:  https://gannet.fish.washington.edu
+          - text: owl
+            url:  https://owl.fish.washington.edu
+          - text: eagle
+            url:  https://eagle.fish.washington.edu
     
       - icon: journal-code
         menu:
           - text: sam
             url:  https://robertslab.github.io/sams-notebook/
           - text: steven
-            url:  https://sr320.github.io
+            url:  https://sr320.github.io/tumbling-oysters/
           - text: aspen
             url:  https://aspencoyle.github.io/notebook/
           - text: chris
@@ -70,7 +74,9 @@ website:
         file: calendar.qmd
       - icon: envelope-paper
         file: contact.qmd
-    
+      - icon: rss
+        href: index.xml
+     
 
 
   sidebar:
