@@ -1,0 +1,28 @@
+---
+title: "Environmental influence on the Atlantic salmon transcriptome and methylome during sea lice infestations"
+type: "article"
+author: "Valenzuela-Muñoz, V., Wanamaker, S., Núñez-Acuña, G., Roberts, S., Garcia, A., Valdés, J. A., Valenzuela-Miranda, D., & Gallardo-Escarate, C"
+year: "2024"
+publication: "Fish and Shellfish Immunology"
+preprint: ""
+doi: ""
+materials: ""
+eprint: ""
+toc: FALSE
+categories:
+  - salmon
+  - temperature
+  - RNA-seq
+  - methylation
+  - sea lice
+---
+
+## Citation
+
+> Valenzuela-Muñoz, V., Wanamaker, S., Núñez-Acuña, G., Roberts, S., Garcia, A., Valdés, J. A., Valenzuela-Miranda, D., & Gallardo-Escarate, C. (2024). Environmental influence on the Atlantic salmon transcriptome and methylome during sea lice infestations. Full Length Article, FSIM-D-24-00599R2.
+
+## Abstract
+
+The fish's immune response is affected by different factors, including a wide range of environmental conditions that can also disrupt or promote changes in the host- pathogen interactions. How environmental conditions modulate the salmon genome during parasitism is poorly understood here. This study aimed to explore the environmental influence on the Salmo salar transcriptome and methylome infected with the sea louse Caligus rogercresseyi. Atlantic salmon were experimentally infected with lice at two temperatures (8 and 16oC) and salinity conditions (32 and 26PSU). Fish tissues were collected from the infected Atlantic salmon for reduced representation bisulfite sequencing (RRBS) and whole transcriptome sequencing (RNAseq) analysis. The parasitic load was highly divergent in the evaluated environmental conditions, where the lowest lice abundance was observed in fish infected at 8oC/26PSU. Notably, transcriptome profile differences were statistically associated with the number of alternative splicing events in fish exposed to low temperature/salinity conditions. Furthermore, the temperature significantly affected the methylation level, where high values of differential methylation regions were observed at 16oC. Also, the association between expression levels of spliced transcripts and their methylation levels was determined, revealing significant correlations with Ferroptosis and TLR KEEG pathways. This study supports the relevance of the environmental conditions during host-parasite interactions in marine ecosystems. The discovery of alternative splicing transcripts associated with DMRs is also discussed as a novel player in fish biology.
+
+## Data Availability
