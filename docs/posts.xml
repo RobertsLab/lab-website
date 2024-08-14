@@ -9,12 +9,50 @@
 <link>https://faculty.washington.edu/sr320/posts.html</link>
 <atom:link href="https://faculty.washington.edu/sr320/posts.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.3.450</generator>
-<lastBuildDate>Thu, 09 May 2024 07:00:00 GMT</lastBuildDate>
+<generator>quarto-1.4.555</generator>
+<lastBuildDate>Tue, 06 Aug 2024 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Ostras en Chile</title>
+  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-ostras/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>On August 6, 2024, approximately sixty participants gathered at the Professor Alamiro Robledo Auditorium of the Faculty of Physical and Mathematical Sciences at the University of Concepción. They were there to delve into the promising sector of oyster aquaculture in Chile during the seminar titled “Oysters in Chile: Opportunities and Challenges for Aquaculture Diversification.” This event was meticulously organized by the Interdisciplinary Center for Aquaculture Research (INCAR).</p>
+<p>The seminar showcased six presentations from both national and international experts, followed by a panel discussion. The diverse audience included academia, public and private sector representatives, producers, aquaculturists, industry leaders, professionals, and both secondary and postgraduate students. The gathering aimed to foster a comprehensive dialogue on the development of oyster aquaculture in the country.</p>
+<p>Manira Matamala, the regional director of the Undersecretary of Fisheries and Aquaculture (Subpesca) for Valparaíso, O’Higgins, and Maule, commended INCAR’s initiative. She highlighted the seminar’s focus on enhancing the genetic and genomic understanding of oysters, which is vital for promoting sustainable aquaculture practices.</p>
+<p>Among the speakers, Justo García, an aquaculturist and founder of “Cultivos Cholche,” shared insights from his hands-on experience in various stages of oyster production, emphasizing the importance of adding value to the aquaculture processes.</p>
+<p>Key Presentations Highlighted at the Seminar:</p>
+<ul>
+<li><p>Dr.&nbsp;Steven Roberts from the University of Washington offered an international perspective with his presentation on the “<a href="https://github.com/sr320/talk-ostras-2024">Olympia Oyster (Ostrea lurida) Restoration in the United States</a>,” focusing on physiological and genomic insights.</p></li>
+<li><p>Dr.&nbsp;Cristian Gallardo-Escárate, deputy director of Incar, discussed the genome of the Chilean oyster (Ostrea chilensis) as a critical tool for the restoration and conservation of natural oyster banks.</p></li>
+<li><p>Dr.&nbsp;Francisco Cárcamo shared experiences on co-cultivating Japanese oysters and algae both in field and laboratory settings, presenting an alternative approach for Environmental Performance Enhancement (APE). Justo García recounted his local experiences in small-scale aquaculture for both Chilean and Japanese oysters.</p></li>
+<li><p>Dr.&nbsp;Rodrigo Rojas from the Catholic University of the North introduced advances from a technological program aimed at the sustainable development of Japanese oyster cultivation.</p></li>
+<li><p>Meyling Tang, vice president of the Cocinamar Foundation, proposed strategies to reinvigorate oyster consumption in Chile with her presentation titled “Oysters Everywhere: Ideas to Reactivate Oyster Consumption in Chile.”</p></li>
+<li><p>Dr.&nbsp;Renato Quiñones, the director of Incar, emphasized the seminar’s role in bringing together experts from varied fields to create a multidimensional space for all stakeholders involved in oyster cultivation. This interaction is crucial for transforming scientific knowledge into a community and national heritage.</p></li>
+</ul>
+<p>The event concluded with a panel discussion moderated by Dr.&nbsp;Doris Soto, principal investigator at Incar, where experts discussed the multifaceted opportunities and challenges facing aquaculture diversification in Chile.</p>
+<p><img src="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Monosnap_2024-08-14_11-36-29.png" class="img-fluid"></p>
+<p>This seminar not only highlighted the collaborative efforts required to advance oyster aquaculture but also showcased the commitment of INCAR to foster a sustainable and innovative aquaculture industry in Chile.</p>
+
+
+<!-- -->
+
+
+ ]]></description>
+  <category>oyster</category>
+  <category>presentation</category>
+  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-ostras/</guid>
+  <pubDate>Tue, 06 Aug 2024 07:00:00 GMT</pubDate>
+  <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Monosnap_2024-08-14_11-33-39.png" medium="image" type="image/png"/>
+</item>
 <item>
   <title>Unraveling the Intricacies of Enrichment Analysis</title>
-  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-enrich/index.html</link>
+  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-enrich/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -51,14 +89,15 @@
  ]]></description>
   <category>methods</category>
   <category>tools</category>
-  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-enrich/index.html</guid>
+  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-enrich/</guid>
   <pubDate>Thu, 09 May 2024 07:00:00 GMT</pubDate>
   <media:content url="https://faculty.washington.edu/sr320/img/enrich.png" medium="image" type="image/png" height="105" width="144"/>
 </item>
 <item>
   <title>Hatchery Field Day at Point Whitney</title>
-  <link>https://faculty.washington.edu/sr320/posts/frontpage/ariana-hatchery/index.html</link>
+  <link>https://faculty.washington.edu/sr320/posts/frontpage/ariana-hatchery/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -88,8 +127,8 @@ Link to Full Notebook Post
 </ol>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://faculty.washington.edu/sr320/posts/frontpage/ariana-hatchery/http:/gannet.fish.washington.edu/seashell/snaps/Monosnap_Hatchery_field_day_at_Point_Whitney_May_6_2024__Ariana_S_Huffmyer__NSF_Ocean_Sciences_Postdoctoral_Fellow_University_of_Rhod_2024-05-11_14-51-46.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">heath-tray</figcaption>
+<p><img src="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Hatchery_field_day_at_Point_Whitney_May_6_2024__Ariana_S_Huffmyer__NSF_Ocean_Sciences_Postdoctoral_Fellow_University_of_Rhod_2024-05-11_14-51-46.png" class="img-fluid figure-img"></p>
+<figcaption>heath-tray</figcaption>
 </figure>
 </div>
 <p><strong>Takeaways for Hatchery Science</strong> Dr.&nbsp;Huffmyer’s systematic approach highlights the significance of precise monitoring and stress testing in hatchery science. Understanding oyster resilience to environmental stressors is crucial for aquaculture sustainability. Her work at Point Whitney offers a detailed protocol that could be replicated or adapted by other researchers to monitor and improve hatchery operations.</p>
@@ -102,25 +141,26 @@ Link to Full Notebook Post
  ]]></description>
   <category>methods</category>
   <category>tools</category>
-  <guid>https://faculty.washington.edu/sr320/posts/frontpage/ariana-hatchery/index.html</guid>
+  <guid>https://faculty.washington.edu/sr320/posts/frontpage/ariana-hatchery/</guid>
   <pubDate>Mon, 06 May 2024 07:00:00 GMT</pubDate>
   <media:content url="https://faculty.washington.edu/sr320/img/bucket.png" medium="image" type="image/png" height="145" width="144"/>
 </item>
 <item>
   <title>Hardening in oysters drives increased growth</title>
-  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-oyster_stage/index.html</link>
+  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-oyster_stage/</link>
   <description><![CDATA[ 
+
 
 
 
 
 <p>In the meticulously orchestrated world of marine science, a groundbreaking experiment has unfolded in the hands of <a href="https://eric-ess.github.io">Eric Essington</a>, casting the spotlight on an unlikely protagonist: the oyster. This narrative begins with the arrival of 235 adult oysters from Pacific Hybreed, their sizes ranging impressively from 40 to 100mm, and further complemented by a diverse younger contingent—120 juveniles, 120 seed, and approximately 120 spat, all courtesy of the USDA’s 2023 spawn.</p>
 <p>The experimental setup divided these oysters into two groups: one destined for a control tank, mirroring their natural aquatic environment at a serene 17ºC, and the other for a treatment tank, where conditions were significantly altered. The latter group was subjected to a deliberate increase in temperature, a gradual ascent of 2ºC per hour until the water reached a stress-inducing 26ºC, maintained for six hours daily over a seven-week span (began 10 2 2023, ended 11 21 2023). This thermal regimen aimed to simulate the increasingly erratic and harsh conditions wrought by climate change.</p>
-<p><img src="https://faculty.washington.edu/sr320/posts/frontpage/sr320-oyster_stage/http:/gannet.fish.washington.edu/seashell/snaps/Monosnap_Explanation_2024-03-08_15-17-47.png" class="img-fluid"></p>
+<p><img src="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Explanation_2024-03-08_15-17-47.png" class="img-fluid"></p>
 <p>Adding a layer of complexity, adults and juveniles were subjected to mechanical stress, an innovative use of a salad spinner for 15 minutes on selected dates (10/2/2023, 10/4/2023, 10/11/2023). This unusual methodology aimed to mimic the physical disturbances oysters might face in their natural habitats, from tumbling in currents to encounters with predators and debris.</p>
 <p>The culmination of this phase was marked by a meticulous sampling process on November 21, 2023. Selected groups of oysters were divided for detailed analysis, with some undergoing immediate tissue sampling for RNA and DNA analysis, while others faced an additional stress test—a 30-minute immersion in 32ºC water followed by a tumbling session in the salad spinner. This process was designed to simulate an acute stress event, allowing researchers to gauge the oysters’ physiological responses to compounded stressors.</p>
 <p>Several months later, on February 28, 2024, the experiment was revisited with a focused approach. This time, the younger generation of oysters was spotlighted, undergoing tissue sampling without the prior mechanical stress, to isolate the effects of thermal stress.</p>
-<p><img src="https://faculty.washington.edu/sr320/posts/frontpage/sr320-oyster_stage/http:/gannet.fish.washington.edu/seashell/snaps/growth.png" class="img-fluid"></p>
+<p><img src="http://gannet.fish.washington.edu/seashell/snaps/growth.png" class="img-fluid"></p>
 <p><strong>Take-away to date</strong> - Stress hardening in spat in October and November resulted in increased growth compared to controls in February.</p>
 <p>This experiment is not merely an investigation into the resilience of oysters to thermal and mechanical stress; it’s a narrative about adaptation, survival, and the intricate dance of life beneath the waves.</p>
 <p>See <a href="https://eric-ess.github.io/data-explanation/">Eric’s Post</a> for more details.</p>
@@ -132,14 +172,15 @@ Link to Full Notebook Post
  ]]></description>
   <category>oyster</category>
   <category>aquaculture</category>
-  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-oyster_stage/index.html</guid>
+  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-oyster_stage/</guid>
   <pubDate>Fri, 08 Mar 2024 08:00:00 GMT</pubDate>
   <media:content url="https://faculty.washington.edu/sr320/img/pw.png" medium="image" type="image/png" height="124" width="144"/>
 </item>
 <item>
   <title>Decoding the Olympia Oyster</title>
-  <link>https://faculty.washington.edu/sr320/posts/ostrea/index.html</link>
+  <link>https://faculty.washington.edu/sr320/posts/ostrea/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -206,14 +247,15 @@ Katherine Silliman and others, Epigenetic and Genetic Population Structure is Co
   <category>genomics</category>
   <category>oyster</category>
   <category>conservation</category>
-  <guid>https://faculty.washington.edu/sr320/posts/ostrea/index.html</guid>
+  <guid>https://faculty.washington.edu/sr320/posts/ostrea/</guid>
   <pubDate>Thu, 29 Feb 2024 08:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_httpswww.biorxiv.orgcontent10.11012023.09.08.556443v1.full.pdf_2024-03-09_15-20-38.png" medium="image" type="image/png"/>
 </item>
 <item>
   <title>Are you really prepared?</title>
-  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-prep/index.html</link>
+  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-prep/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -236,14 +278,15 @@ Katherine Silliman and others, Epigenetic and Genetic Population Structure is Co
  ]]></description>
   <category>methods</category>
   <category>tools</category>
-  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-prep/index.html</guid>
+  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-prep/</guid>
   <pubDate>Fri, 02 Feb 2024 08:00:00 GMT</pubDate>
   <media:content url="https://faculty.washington.edu/sr320/img/prep.png" medium="image" type="image/png" height="105" width="144"/>
 </item>
 <item>
   <title>Sharing the Good Word of Marine Epigenetics</title>
-  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-asi/index.html</link>
+  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-asi/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -299,14 +342,15 @@ Katherine Silliman and others, Epigenetic and Genetic Population Structure is Co
   <category>genomics</category>
   <category>methods</category>
   <category>website</category>
-  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-asi/index.html</guid>
+  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-asi/</guid>
   <pubDate>Fri, 19 Jan 2024 08:00:00 GMT</pubDate>
   <media:content url="https://faculty.washington.edu/sr320/img/asi.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>
   <title>Exploring the Impact of Marine Heatwaves on Pacific Cod</title>
-  <link>https://faculty.washington.edu/sr320/posts/sr320-cod/index.html</link>
+  <link>https://faculty.washington.edu/sr320/posts/sr320-cod/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -328,15 +372,16 @@ Katherine Silliman and others, Epigenetic and Genetic Population Structure is Co
   <category>genomics</category>
   <category>epigenetics</category>
   <category>rna-seq</category>
-  <guid>https://faculty.washington.edu/sr320/posts/sr320-cod/index.html</guid>
+  <guid>https://faculty.washington.edu/sr320/posts/sr320-cod/</guid>
   <pubDate>Wed, 17 Jan 2024 08:00:00 GMT</pubDate>
   <media:content url="https://faculty.washington.edu/sr320/img/cod.png" medium="image" type="image/png" height="139" width="144"/>
 </item>
 <item>
   <title>Clam Gonad RNAseq Analysis</title>
   <dc:creator>Megan Ewing</dc:creator>
-  <link>https://faculty.washington.edu/sr320/posts/megan-rna/index.html</link>
+  <link>https://faculty.washington.edu/sr320/posts/megan-rna/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -365,38 +410,38 @@ Katherine Silliman and others, Epigenetic and Genetic Population Structure is Co
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://faculty.washington.edu/sr320/posts/megan-rna/images/fastqc_sequence_counts_plot.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption"><img src="https://faculty.washington.edu/sr320/posts/megan-rna/images/fastqc_per_base_sequence_quality_plot.png" class="img-fluid figure-img"></figcaption>
+<figcaption><img src="https://faculty.washington.edu/sr320/posts/megan-rna/images/fastqc_per_base_sequence_quality_plot.png" class="img-fluid figure-img"></figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://faculty.washington.edu/sr320/posts/megan-rna/images/fastqc_per_sequence_quality_scores_plot.png" class="img-fluid figure-img"></p>
+<p><img src="https://faculty.washington.edu/sr320/posts/megan-rna/images/fastqc_per_sequence_quality_scores_plot.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://faculty.washington.edu/sr320/posts/megan-rna/images/fastqc_per_sequence_gc_content_plot.png" class="img-fluid figure-img"></p>
+<p><img src="https://faculty.washington.edu/sr320/posts/megan-rna/images/fastqc_per_sequence_gc_content_plot.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://faculty.washington.edu/sr320/posts/megan-rna/images/fastqc_per_base_n_content_plot.png" class="img-fluid figure-img"></p>
+<p><img src="https://faculty.washington.edu/sr320/posts/megan-rna/images/fastqc_per_base_n_content_plot.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://faculty.washington.edu/sr320/posts/megan-rna/images/fastqc_sequence_duplication_levels_plot.png" class="img-fluid figure-img"></p>
+<p><img src="https://faculty.washington.edu/sr320/posts/megan-rna/images/fastqc_sequence_duplication_levels_plot.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
 </figure>
 </div>
 <p><img src="https://faculty.washington.edu/sr320/posts/megan-rna/images/fastqc_overrepresented_sequences_plot.png" class="img-fluid"></p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://faculty.washington.edu/sr320/posts/megan-rna/images/Screen Shot 2024-01-04 at 3.16.31 PM.png" class="img-fluid figure-img"></p>
+<p><img src="https://faculty.washington.edu/sr320/posts/megan-rna/images/Screen Shot 2024-01-04 at 3.16.31 PM.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://faculty.washington.edu/sr320/posts/megan-rna/images/fastqc-status-check-heatmap.png" class="img-fluid figure-img"></p>
+<p><img src="https://faculty.washington.edu/sr320/posts/megan-rna/images/fastqc-status-check-heatmap.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
 </figure>
 </div>
 <p>Software Used:</p>
@@ -421,12 +466,12 @@ Katherine Silliman and others, Epigenetic and Genetic Population Structure is Co
 <p>Using the quantification in the trinity matrix created, I ran DESeq2 to show deferentially expressed genes, and filtering for those who’s expression showed a difference with a p value &lt;= 0.05. Differential expression was also visualized via a volcano plot and heatmap of the top 25 deferentially expressed genes)</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://faculty.washington.edu/sr320/posts/megan-rna/images/volcanoplot-01.png" class="img-fluid figure-img"></p>
+<p><img src="https://faculty.washington.edu/sr320/posts/megan-rna/images/volcanoplot-01.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://faculty.washington.edu/sr320/posts/megan-rna/images/heatmap.png" class="img-fluid figure-img"></p>
+<p><img src="https://faculty.washington.edu/sr320/posts/megan-rna/images/heatmap.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
 </figure>
 </div>
 <p>Along with the visualzations, I created a dataframe with the differentially expressed genes and associated statistics (base mean, log 2fold change, lfcSE, stat, pvalue, padj) and saved as a tab file for the next steps.</p>
@@ -469,15 +514,16 @@ Katherine Silliman and others, Epigenetic and Genetic Population Structure is Co
   <category>aquaculture</category>
   <category>clam</category>
   <category>stress</category>
-  <guid>https://faculty.washington.edu/sr320/posts/megan-rna/index.html</guid>
+  <guid>https://faculty.washington.edu/sr320/posts/megan-rna/</guid>
   <pubDate>Thu, 04 Jan 2024 08:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_mewing-notebook_-_Clam_Gonad_RNAseq_Analysis_2024-01-06_07-25-10.png" medium="image" type="image/png"/>
 </item>
 <item>
   <title>Western Society of Naturalists</title>
   <dc:creator>Grace Leuchtenberger</dc:creator>
-  <link>https://faculty.washington.edu/sr320/posts/grace_L_WSN/index.html</link>
+  <link>https://faculty.washington.edu/sr320/posts/grace_L_WSN/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -487,8 +533,8 @@ Katherine Silliman and others, Epigenetic and Genetic Population Structure is Co
 <p>I presented some data from a summer pilot project that didn’t end up being significant, but sparked some good conversations! Flow rate is known to influence the amount of threads that mussels produce to stick onto rocky surfaces, so I was wondering if it influenced the actual composition of the threads as well! I kept mussels under three different flow rates and measured their attachment strength. Didn’t find anything significant, but saw some trends.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://faculty.washington.edu/sr320/posts/grace_L_WSN/http:/gannet.fish.washington.edu/seashell/snaps/Monosnap_graceleuchtenberger.github.iopost_images20231122WSN.jpeg_at_master__graceleuchtenbergergraceleuchtenberger.github.io_2023-12-11_14-07-16.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">img</figcaption>
+<p><img src="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_graceleuchtenberger.github.iopost_images20231122WSN.jpeg_at_master__graceleuchtenbergergraceleuchtenberger.github.io_2023-12-11_14-07-16.png" class="img-fluid figure-img"></p>
+<figcaption>img</figcaption>
 </figure>
 </div>
 <p>I haven’t ever presented data in person at a conference before (relic of being a college covid baby), so this was really exciting for me to get feedback from other ecomechanics people and brainstorm future directions for my work, especially as I’m trying to propose my thesis this spring.</p>
@@ -500,14 +546,15 @@ Katherine Silliman and others, Epigenetic and Genetic Population Structure is Co
   <category>wsn</category>
   <category>meeting</category>
   <category>seastar</category>
-  <guid>https://faculty.washington.edu/sr320/posts/grace_L_WSN/index.html</guid>
+  <guid>https://faculty.washington.edu/sr320/posts/grace_L_WSN/</guid>
   <pubDate>Wed, 22 Nov 2023 08:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_graceleuchtenberger.github.iopost_images20231122WSN.jpeg_at_master__graceleuchtenbergergraceleuchtenberger.github.io_2023-12-11_14-07-16.png" medium="image" type="image/png"/>
 </item>
 <item>
   <title>Celebrating LGBTQ+ in STEM</title>
-  <link>https://faculty.washington.edu/sr320/posts/sr320-LGBTQ/index.html</link>
+  <link>https://faculty.washington.edu/sr320/posts/sr320-LGBTQ/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -526,7 +573,7 @@ Full Article
 </div>
 </div>
 <p>Celebrating and highlighting the work of LGBTQ+ people in science, technology, engineering, and math (STEM) has a special day on the calendar: November 18. Why this date? It is based on the 60<sup>th</sup>&nbsp;anniversary of American Astronomer and gay activist Frank Kameny’s fight against workplace discrimination, which he took to the U.S. Supreme Court.</p>
-<p><img src="https://faculty.washington.edu/sr320/posts/sr320-LGBTQ/https:/fish.uw.edu/wp-content/uploads/sites/29/2023/11/LGBTQ-in-STEM-528x276.jpg" class="img-fluid" alt=""></p>
+<p><img src="https://fish.uw.edu/wp-content/uploads/sites/29/2023/11/LGBTQ-in-STEM-528x276.jpg" class="img-fluid" alt=""></p>
 <p>Science is a place of innovation, research, and progress, but many communities are still marginalized in these spaces.&nbsp;<a href="https://prideinstem.org/lgbtstemday/">Pride in STEM</a> notes that 28% of LGBT+ people have considered leaving their jobs because of discrimination or workplace hostility.</p>
 <p>On&nbsp;<a href="https://prideinstem.org/lgbtstemday">LGBTQ+ in STEM Day</a>, we celebrate the contribution of LGBTQ+ scientists, while also recognizing that barriers are still faced and that efforts have to continue to break these down. We spoke with SAFS graduate student, Aspen Coyle, who shared her thoughts on her journey so far in academia, what inclusion means for her, and some of the barriers and highlights she’s experienced. She also shares some advice for those concerned about a lack of representation in marine science.</p>
 <div class="callout callout-style-default callout-important callout-titled">
@@ -544,7 +591,7 @@ More information
 </div>
 <section id="what-led-you-to-pursue-studies-in-science" class="level2">
 <h2 class="anchored" data-anchor-id="what-led-you-to-pursue-studies-in-science"><strong>What led you to pursue studies in science?</strong></h2>
-<p><img src="https://faculty.washington.edu/sr320/posts/sr320-LGBTQ/https:/fish.uw.edu/wp-content/uploads/sites/29/2023/10/Aspen_selfie-259x528.jpg" class="img-fluid" alt=""></p>
+<p><img src="https://fish.uw.edu/wp-content/uploads/sites/29/2023/10/Aspen_selfie-259x528.jpg" class="img-fluid" alt=""></p>
 <p>I’m one of those people that’s wanted to be a marine biologist ever since I was a little kid. I grew up in a fishing town in coastal Alaska, and my favorite thing in the world was scrambling along the intertidal, peering into tidepools and turning over rocks, trying to find the neatest critters. That base delight in hunting for cool creatures was augmented in undergrad with a deeper understanding of the ecological importance, and then after getting a job in another Alaskan fishing town, the economic importance.</p>
 </section>
 <section id="what-are-some-of-the-positive-experiences-as-lgbtq-in-stem-that-youve-had" class="level2">
@@ -576,15 +623,16 @@ Full Article
   <category>diversity</category>
   <category>inclusion</category>
   <category>dei</category>
-  <guid>https://faculty.washington.edu/sr320/posts/sr320-LGBTQ/index.html</guid>
+  <guid>https://faculty.washington.edu/sr320/posts/sr320-LGBTQ/</guid>
   <pubDate>Sat, 18 Nov 2023 08:00:00 GMT</pubDate>
   <media:content url="https://fish.uw.edu/wp-content/uploads/sites/29/2023/11/LGBTQ-in-STEM.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Western Society of Naturalists</title>
   <dc:creator>Grace Crandall</dc:creator>
-  <link>https://faculty.washington.edu/sr320/posts/grace-ac-WSN/index.html</link>
+  <link>https://faculty.washington.edu/sr320/posts/grace-ac-WSN/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -596,8 +644,8 @@ Full Article
 <p>Here’s the team!</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://faculty.washington.edu/sr320/posts/grace-ac-WSN/https:/github.com/grace-ac/grace-ac.github.io/raw/master/notebook-images/2023-11-15-wsn-recap/IMG_1750.jpg" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">img</figcaption>
+<p><img src="https://github.com/grace-ac/grace-ac.github.io/raw/master/notebook-images/2023-11-15-wsn-recap/IMG_1750.jpg" class="img-fluid figure-img"></p>
+<figcaption>img</figcaption>
 </figure>
 </div>
 <p>Dr.&nbsp;Lindsay Alma, Dr.&nbsp;Colleen Burge, Dr.&nbsp;Drew Harvell, Dr.&nbsp;Eileen Hoffman, Dr.&nbsp;Maya Groner, Me, Dr.&nbsp;Becca Maher, and Dr.&nbsp;Olivia Graham!</p>
@@ -609,13 +657,13 @@ Full Article
 <p>I was part of the Sunday morning session that was all about <em>Pycnopodia helianthoides</em>! Below is a photo of everyone who presented. My talk went well - I ended up getting Honorable Mention for it!</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://faculty.washington.edu/sr320/posts/grace-ac-WSN/https:/github.com/grace-ac/grace-ac.github.io/raw/master/notebook-images/2023-11-15-wsn-recap/IMG_1970.jpeg" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">img</figcaption>
+<p><img src="https://github.com/grace-ac/grace-ac.github.io/raw/master/notebook-images/2023-11-15-wsn-recap/IMG_1970.jpeg" class="img-fluid figure-img"></p>
+<figcaption>img</figcaption>
 </figure>
 </div>
 <p>Dr.&nbsp;Lauren Schiebelhut, Dr.&nbsp;Jason Hodin, Dr.&nbsp;Alyssa Gehman, Me, Dr.&nbsp;Melanie Prentice, Tiffany Rudek, Dr.&nbsp;Drew Harvell, and Dr.&nbsp;Olivia Graham.</p>
 <p>For fun, here’s a pretty photo of one of our adult <em>Pycnopodia helianthoides</em> from our Summer 2021 work that made many appearances in my talk:<br>
-<img src="https://faculty.washington.edu/sr320/posts/grace-ac-WSN/https:/github.com/grace-ac/grace-ac.github.io/raw/master/notebook-images/2023-11-15-wsn-recap/IMG_3951.JPG" class="img-fluid" alt="img"></p>
+<img src="https://github.com/grace-ac/grace-ac.github.io/raw/master/notebook-images/2023-11-15-wsn-recap/IMG_3951.JPG" class="img-fluid" alt="img"></p>
 
 
 </section>
@@ -624,14 +672,15 @@ Full Article
   <category>wsn</category>
   <category>meeting</category>
   <category>seastar</category>
-  <guid>https://faculty.washington.edu/sr320/posts/grace-ac-WSN/index.html</guid>
+  <guid>https://faculty.washington.edu/sr320/posts/grace-ac-WSN/</guid>
   <pubDate>Wed, 15 Nov 2023 08:00:00 GMT</pubDate>
   <media:content url="https://github.com/grace-ac/grace-ac.github.io/raw/master/notebook-images/2023-11-15-wsn-recap/IMG_1750.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Insights from Pacific Oysters in a Heating Ocean</title>
-  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-DM/index.html</link>
+  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-DM/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -673,14 +722,15 @@ Full Article
   <category>aquaculture</category>
   <category>oyster</category>
   <category>stress</category>
-  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-DM/index.html</guid>
+  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-DM/</guid>
   <pubDate>Sat, 04 Nov 2023 07:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_ChatGPT_2023-11-04_14-59-20.png" medium="image" type="image/png"/>
 </item>
 <item>
   <title>AquaMine</title>
-  <link>https://faculty.washington.edu/sr320/posts/aquamine/index.html</link>
+  <link>https://faculty.washington.edu/sr320/posts/aquamine/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -733,14 +783,15 @@ Full Article
 
  ]]></description>
   <category>genomics</category>
-  <guid>https://faculty.washington.edu/sr320/posts/aquamine/index.html</guid>
+  <guid>https://faculty.washington.edu/sr320/posts/aquamine/</guid>
   <pubDate>Mon, 23 Oct 2023 07:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_ChatGPT_2023-11-04_15-16-26.png" medium="image" type="image/png"/>
 </item>
 <item>
   <title>MarineOmics.io</title>
-  <link>https://faculty.washington.edu/sr320/posts/sr320-marineomics/index.html</link>
+  <link>https://faculty.washington.edu/sr320/posts/sr320-marineomics/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -749,8 +800,8 @@ Full Article
 <p>MarineOmics.io emerges as a living document, meticulously curated to disseminate vital tutorials, reproducibility tools, and best principles pivotal for genomic research in marine and other nonmodel ecosystems. This endeavor is a testament to the collaborative spirit of the ecological genomics community, as the platform encapsulates current methodologies and recommendations across a myriad of genomic studies including whole-genome sequencing, RAD-seq, Pool-seq, and RNA-seq.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://faculty.washington.edu/sr320/posts/sr320-marineomics/http:/gannet.fish.washington.edu/seashell/snaps/Monosnap_17823668.pdf_2023-10-09_05-52-35.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">F I G U R E 1 Screenshot of one web page concerning a RAD-seq pipeline serving as an example of tutorial structure.</figcaption>
+<p><img src="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_17823668.pdf_2023-10-09_05-52-35.png" class="img-fluid figure-img"></p>
+<figcaption>F I G U R E 1 Screenshot of one web page concerning a RAD-seq pipeline serving as an example of tutorial structure.</figcaption>
 </figure>
 </div>
 <p>What sets MarineOmics.io apart is its dynamic nature. Not only does it provide a repository of existing knowledge, but it also outlines a structured process for the aggregation and synthesis of methodological principles derived from the community. The platform invites submissions of new content, feedback, and topic requests from the community, thereby ensuring its content remains updated, relevant, and in tune with the rapidly evolving field of genomics.</p>
@@ -767,14 +818,15 @@ Full Article
   <category>genomics</category>
   <category>methods</category>
   <category>website</category>
-  <guid>https://faculty.washington.edu/sr320/posts/sr320-marineomics/index.html</guid>
+  <guid>https://faculty.washington.edu/sr320/posts/sr320-marineomics/</guid>
   <pubDate>Mon, 09 Oct 2023 07:00:00 GMT</pubDate>
   <media:content url="https://faculty.washington.edu/sr320/img/marineomics.png" medium="image" type="image/png" height="79" width="144"/>
 </item>
 <item>
   <title>Unveiling the Blueprints of the Sea</title>
-  <link>https://faculty.washington.edu/sr320/posts/mytilus-genome/index.html</link>
+  <link>https://faculty.washington.edu/sr320/posts/mytilus-genome/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -814,14 +866,15 @@ Full Article
   <category>mussel</category>
   <category>genome</category>
   <category>Chile</category>
-  <guid>https://faculty.washington.edu/sr320/posts/mytilus-genome/index.html</guid>
+  <guid>https://faculty.washington.edu/sr320/posts/mytilus-genome/</guid>
   <pubDate>Wed, 04 Oct 2023 07:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_ChatGPT_2023-11-04_15-08-02.png" medium="image" type="image/png"/>
 </item>
 <item>
   <title>Marine science mentoring over the summer at FHL</title>
-  <link>https://faculty.washington.edu/sr320/posts/sr320-fhl/index.html</link>
+  <link>https://faculty.washington.edu/sr320/posts/sr320-fhl/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -833,8 +886,8 @@ Full Article
 <p>Specifically geared towards enhancing diversity within the marine sciences, the program welcomes students from underrepresented groups. This year, Chris’ students came from institutions across the US, including Kentucky, Massachusetts, Vermont and North Carolina, to work with her on an intertidal monitoring survey on Yellow Island in the Salish Sea.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://faculty.washington.edu/sr320/posts/sr320-fhl/https:/fish.uw.edu/wp-content/uploads/sites/29/2023/09/IMG_2457.jpg" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Ochre sea stars (Pisaster ocherous) found on the island at low tide.</figcaption>
+<p><img src="https://fish.uw.edu/wp-content/uploads/sites/29/2023/09/IMG_2457.jpg" class="img-fluid figure-img"></p>
+<figcaption>Ochre sea stars (Pisaster ocherous) found on the island at low tide.</figcaption>
 </figure>
 </div>
 <p>The REU-Blinks program based out of FHL takes advantage of the pristine environment, remarkable biodiversity, and the scientific and technical resources available at the marine science research facility. The DDCSP program aims to increase diversity in conservation work and allows students from all over the US a chance to participate in a two-year program where second year scholars participate in an onsite internship of their choosing.</p>
@@ -849,15 +902,16 @@ Full Article
   <category>fhl</category>
   <category>mentoring</category>
   <category>spotlight</category>
-  <guid>https://faculty.washington.edu/sr320/posts/sr320-fhl/index.html</guid>
+  <guid>https://faculty.washington.edu/sr320/posts/sr320-fhl/</guid>
   <pubDate>Mon, 18 Sep 2023 07:00:00 GMT</pubDate>
   <media:content url="https://fish.uw.edu/wp-content/uploads/sites/29/2023/09/IMG_2415.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Uncovering Population-specific Resilience to Ocean Acidification in the Olympia Oyster</title>
   <dc:creator>Steven Roberts</dc:creator>
-  <link>https://faculty.washington.edu/sr320/posts/sr320-spencer-paper/index.html</link>
+  <link>https://faculty.washington.edu/sr320/posts/sr320-spencer-paper/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -913,15 +967,16 @@ Full Article
   <category>oyster</category>
   <category>ostrea</category>
   <category>tag-seq</category>
-  <guid>https://faculty.washington.edu/sr320/posts/sr320-spencer-paper/index.html</guid>
+  <guid>https://faculty.washington.edu/sr320/posts/sr320-spencer-paper/</guid>
   <pubDate>Fri, 15 Sep 2023 07:00:00 GMT</pubDate>
   <media:content url="https://gannet.fish.washington.edu/seashell/snaps/httpswww.biorxiv.orgcontent10.11012023.09.08.556443v1.full.pdf_2023-09-14_12-56-48.png" medium="image" type="image/png"/>
 </item>
 <item>
   <title>The Double-Edged Sword of Triploidy in Pacific Oysters</title>
   <dc:creator>Steven Roberts</dc:creator>
-  <link>https://faculty.washington.edu/sr320/posts/sr320-george-paper/index.html</link>
+  <link>https://faculty.washington.edu/sr320/posts/sr320-george-paper/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -974,15 +1029,16 @@ Full Article
   <category>aquaculture</category>
   <category>oyster</category>
   <category>stress</category>
-  <guid>https://faculty.washington.edu/sr320/posts/sr320-george-paper/index.html</guid>
+  <guid>https://faculty.washington.edu/sr320/posts/sr320-george-paper/</guid>
   <pubDate>Fri, 15 Sep 2023 07:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_9f2CQivNtt5kAAAAASUVORK5CYII_10241024_pixels_2023-12-11_14-18-17.png" medium="image" type="image/png"/>
 </item>
 <item>
   <title>Genetics: Does it really matter?</title>
   <dc:creator>Steven Roberts</dc:creator>
-  <link>https://faculty.washington.edu/sr320/posts/cool-paper/index.html</link>
+  <link>https://faculty.washington.edu/sr320/posts/cool-paper/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -1011,7 +1067,7 @@ Citation
 <div class="cell-output-display">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://faculty.washington.edu/sr320/posts/cool-paper/img/ncbi.png" class="img-fluid figure-img" style="width:70.0%"></p>
+<p><img src="https://faculty.washington.edu/sr320/posts/cool-paper/img/ncbi.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:70.0%"></p>
 </figure>
 </div>
 </div>
@@ -1021,7 +1077,7 @@ Citation
 <div class="cell-output-display">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://faculty.washington.edu/sr320/posts/cool-paper/img/pca.png" class="img-fluid figure-img" style="width:60.0%"></p>
+<p><img src="https://faculty.washington.edu/sr320/posts/cool-paper/img/pca.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:60.0%"></p>
 </figure>
 </div>
 </div>
@@ -1031,7 +1087,7 @@ Citation
 <div class="cell-output-display">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://faculty.washington.edu/sr320/posts/cool-paper/img/distance.png" class="img-fluid figure-img" style="width:70.0%"></p>
+<p><img src="https://faculty.washington.edu/sr320/posts/cool-paper/img/distance.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:70.0%"></p>
 </figure>
 </div>
 </div>
@@ -1041,7 +1097,7 @@ Citation
 <div class="cell-output-display">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://faculty.washington.edu/sr320/posts/cool-paper/img/schematic.png" class="img-fluid figure-img" style="width:85.0%"></p>
+<p><img src="https://faculty.washington.edu/sr320/posts/cool-paper/img/schematic.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:85.0%"></p>
 </figure>
 </div>
 </div>
@@ -1064,7 +1120,7 @@ Citation
 <div class="cell-output-display">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://faculty.washington.edu/sr320/posts/cool-paper/img/oly-readme.png" class="img-fluid figure-img" style="width:70.0%"></p>
+<p><img src="https://faculty.washington.edu/sr320/posts/cool-paper/img/oly-readme.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:70.0%"></p>
 </figure>
 </div>
 </div>
@@ -1074,7 +1130,7 @@ Citation
 <div class="cell-output-display">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://faculty.washington.edu/sr320/posts/cool-paper/img/biorxiv.png" class="img-fluid figure-img" style="width:70.0%"></p>
+<p><img src="https://faculty.washington.edu/sr320/posts/cool-paper/img/biorxiv.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:70.0%"></p>
 </figure>
 </div>
 </div>
@@ -1120,7 +1176,7 @@ The enrichment of CpG-SNPs associated with methylated CpGs supports the hypothes
 <div class="cell-output-display">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://faculty.washington.edu/sr320/posts/cool-paper/img/zenodo.png" class="img-fluid figure-img" style="width:70.0%"></p>
+<p><img src="https://faculty.washington.edu/sr320/posts/cool-paper/img/zenodo.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:70.0%"></p>
 </figure>
 </div>
 </div>
@@ -1143,7 +1199,7 @@ Important
 <div class="cell-output-display">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://faculty.washington.edu/sr320/posts/cool-paper/img/zenodo-gh.png" class="img-fluid figure-img" style="width:70.0%"></p>
+<p><img src="https://faculty.washington.edu/sr320/posts/cool-paper/img/zenodo-gh.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:70.0%"></p>
 </figure>
 </div>
 </div>
@@ -1209,7 +1265,11 @@ font-style: inherit;">sd.filter =</span> T) <span class="co" style="color: #5E5E
 background-color: null;
 font-style: inherit;">#Run a PCA analysis on percent methylation for all samples. methylKit uses prcomp to create the PCA matrix</span></span></code></pre></div>
 <div class="cell-output-display">
-<p><img src="https://faculty.washington.edu/sr320/posts/cool-paper/index_files/figure-html/unnamed-chunk-3-1.png" class="img-fluid" width="672"></p>
+<div>
+<figure class="figure">
+<p><img src="https://faculty.washington.edu/sr320/posts/cool-paper/index_files/figure-html/unnamed-chunk-3-1.png" class="img-fluid figure-img" width="672"></p>
+</figure>
+</div>
 </div>
 <div class="sourceCode cell-code" id="cb5" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb5-1"><span class="fu" style="color: #4758AB;
 background-color: null;
@@ -1255,7 +1315,7 @@ font-style: inherit;">"img/skitch.gif"</span>)</span></code></pre></div>
 <div class="cell-output-display">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://faculty.washington.edu/sr320/posts/cool-paper/img/skitch.gif" class="img-fluid figure-img" style="width:70.0%"></p>
+<p><img src="https://faculty.washington.edu/sr320/posts/cool-paper/img/skitch.gif" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:70.0%"></p>
 </figure>
 </div>
 </div>
@@ -1272,7 +1332,7 @@ font-style: inherit;">"img/skitch.gif"</span>)</span></code></pre></div>
 <div class="cell-output-display">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://faculty.washington.edu/sr320/posts/cool-paper/img/skitch.gif" class="img-fluid figure-img" style="width:70.0%"></p>
+<p><img src="https://faculty.washington.edu/sr320/posts/cool-paper/img/skitch.gif" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:70.0%"></p>
 </figure>
 </div>
 </div>
@@ -1285,7 +1345,7 @@ font-style: inherit;">"img/skitch.gif"</span>)</span></code></pre></div>
 </section>
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent">
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
 <div id="ref-silliman2023" class="csl-entry">
 Silliman, Katherine, Laura H Spencer, Samuel J White, and Steven B Roberts. 2023. <span>“Epigenetic and Genetic Population Structure Is Coupled in a Marine Invertebrate.”</span> Edited by Soojin Yi. <em>Genome Biology and Evolution</em>, February. <a href="https://doi.org/10.1093/gbe/evad013">https://doi.org/10.1093/gbe/evad013</a>.
 </div>
@@ -1293,7 +1353,7 @@ Silliman, Katherine, Laura H Spencer, Samuel J White, and Steven B Roberts. 2023
   <category>paper</category>
   <category>highlight</category>
   <category>code</category>
-  <guid>https://faculty.washington.edu/sr320/posts/cool-paper/index.html</guid>
+  <guid>https://faculty.washington.edu/sr320/posts/cool-paper/</guid>
   <pubDate>Sat, 18 Feb 2023 08:00:00 GMT</pubDate>
   <media:content url="https://faculty.washington.edu/sr320/posts/cool-paper/img/schematic.png" medium="image" type="image/png" height="87" width="144"/>
 </item>

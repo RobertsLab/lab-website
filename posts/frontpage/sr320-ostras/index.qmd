@@ -1,0 +1,51 @@
+---
+title: "Ostras en Chile"
+description: "Oportunidades y desafíos
+para una diversificación acuícola"
+# author:
+#   - name: Steven Roberts
+#     url: https://sr320.github.io/
+#     orcid: 0000-0001-8302-1138
+#     affiliation: Professor, UW - School of Aquatic and Fishery Sciences
+#     affiliation-url: https://robertslab.info
+date: 08-06-2024
+categories: [oyster, presentation] # self-defined categories
+image: http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Monosnap_2024-08-14_11-33-39.png # finding a good image
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+
+format:
+  html:
+    code-fold: true
+    code-tools: true
+    code-copy: true
+    highlight-style: github
+    code-overflow: wrap
+---
+
+On August 6, 2024, approximately sixty participants gathered at the Professor Alamiro Robledo Auditorium of the Faculty of Physical and Mathematical Sciences at the University of Concepción. They were there to delve into the promising sector of oyster aquaculture in Chile during the seminar titled "Oysters in Chile: Opportunities and Challenges for Aquaculture Diversification." This event was meticulously organized by the Interdisciplinary Center for Aquaculture Research (INCAR).
+
+The seminar showcased six presentations from both national and international experts, followed by a panel discussion. The diverse audience included academia, public and private sector representatives, producers, aquaculturists, industry leaders, professionals, and both secondary and postgraduate students. The gathering aimed to foster a comprehensive dialogue on the development of oyster aquaculture in the country.
+
+Manira Matamala, the regional director of the Undersecretary of Fisheries and Aquaculture (Subpesca) for Valparaíso, O’Higgins, and Maule, commended INCAR's initiative. She highlighted the seminar's focus on enhancing the genetic and genomic understanding of oysters, which is vital for promoting sustainable aquaculture practices.
+
+Among the speakers, Justo García, an aquaculturist and founder of “Cultivos Cholche,” shared insights from his hands-on experience in various stages of oyster production, emphasizing the importance of adding value to the aquaculture processes.
+
+Key Presentations Highlighted at the Seminar:
+
+-   Dr. Steven Roberts from the University of Washington offered an international perspective with his presentation on the "[Olympia Oyster (Ostrea lurida) Restoration in the United States](https://github.com/sr320/talk-ostras-2024)," focusing on physiological and genomic insights.
+
+-   Dr. Cristian Gallardo-Escárate, deputy director of Incar, discussed the genome of the Chilean oyster (Ostrea chilensis) as a critical tool for the restoration and conservation of natural oyster banks.
+
+-   Dr. Francisco Cárcamo shared experiences on co-cultivating Japanese oysters and algae both in field and laboratory settings, presenting an alternative approach for Environmental Performance Enhancement (APE). Justo García recounted his local experiences in small-scale aquaculture for both Chilean and Japanese oysters.
+
+-   Dr. Rodrigo Rojas from the Catholic University of the North introduced advances from a technological program aimed at the sustainable development of Japanese oyster cultivation.
+
+-   Meyling Tang, vice president of the Cocinamar Foundation, proposed strategies to reinvigorate oyster consumption in Chile with her presentation titled "Oysters Everywhere: Ideas to Reactivate Oyster Consumption in Chile."
+
+-   Dr. Renato Quiñones, the director of Incar, emphasized the seminar's role in bringing together experts from varied fields to create a multidimensional space for all stakeholders involved in oyster cultivation. This interaction is crucial for transforming scientific knowledge into a community and national heritage.
+
+The event concluded with a panel discussion moderated by Dr. Doris Soto, principal investigator at Incar, where experts discussed the multifaceted opportunities and challenges facing aquaculture diversification in Chile.
+
+![](http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Monosnap_2024-08-14_11-36-29.png)
+
+This seminar not only highlighted the collaborative efforts required to advance oyster aquaculture but also showcased the commitment of INCAR to foster a sustainable and innovative aquaculture industry in Chile.
