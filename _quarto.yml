@@ -120,9 +120,7 @@ website:
     
 format:
   html:
-    theme:
-      light: journal
-      dark: superhero
+    theme: united
     css: styles.css
     toc: true
 
