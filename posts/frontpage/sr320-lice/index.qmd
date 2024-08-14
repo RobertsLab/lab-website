@@ -1,0 +1,44 @@
+---
+title: "Exploring How Environmental Conditions Impact Atlantic Salmon's Defense Against Sea Lice"
+description: "A collboration with INCAR at University of Concepcion"
+# author:
+#   - name: Steven Roberts
+#     url: https://sr320.github.io/
+#     orcid: 0000-0001-8302-1138
+#     affiliation: Professor, UW - School of Aquatic and Fishery Sciences
+#     affiliation-url: https://robertslab.info
+date: 07-01-2024
+categories: [salmon, epigenetics] # self-defined categories
+image: http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Environmental_influence_on_the_Atlantic_salmon_transcriptome_and_methylome_during_sea_lice_infestations_-_ScienceDirect_2024-08-14_12-12-07.png # finding a good image
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+
+format:
+  html:
+    code-fold: true
+    code-tools: true
+    code-copy: true
+    highlight-style: github
+    code-overflow: wrap
+---
+
+[In our latest study, we delved into the complex interplay between environmental factors and the immune responses of Atlantic salmon (*Salmo salar*) during infestations by sea lice (*Caligus rogercresseyi*).](https://pubmed.ncbi.nlm.nih.gov/38876411/) This research is particularly significant for both aquaculture and the management of natural marine ecosystems.
+
+#### Our Research Approach
+
+Dr. Cristian Gallardos' team set up an experimental infestation of Atlantic salmon with sea lice, controlling for variations in temperature and salinity: specifically, conditions were set at 8°C and 16°C, and 32 and 26 practical salinity units (PSU). We then collected tissues from these fish to conduct analyses via reduced representation bisulfite sequencing (RRBS) and whole transcriptome sequencing (RNA-seq).
+
+#### Key Discoveries
+
+1.  **Impact of Environment on Parasitic Load**: We observed that the parasitic load varied significantly with environmental conditions, noting the lowest abundance of lice in salmon kept at cooler and less saline conditions (8°C/26PSU).
+
+2.  **Transcriptional Changes and Splicing Events**: Environmental conditions were found to influence the salmon's transcriptome profiles substantially. Notably, there was an increase in alternative splicing events in fish under low temperature and salinity, suggesting that environmental stress can induce genomic adaptations.
+
+3.  **Methylation Patterns**: We also noted significant changes in methylation levels in response to temperature variations, with more pronounced differential methylation regions (DMRs) at the higher temperature of 16°C. These methylation changes correlated with the expression of alternatively spliced transcripts.
+
+4.  **Biological Pathways**: Our analyses revealed significant correlations between methylation, transcript expression, and key biological pathways such as Ferroptosis and TLR signaling pathways, which are crucial for immune response and cellular integrity.
+
+#### Implications of Our Findings
+
+This research highlights the nuanced ways in which environmental conditions can influence the genomic and epigenomic landscapes of marine organisms. For the aquaculture industry, understanding these dynamics is essential for developing effective management strategies to combat sea lice infestations, which are a major challenge for the sustainability and economic success of salmon farming.
+
+Moreover, the link between environmental conditions, alternative splicing, and methylation opens new research avenues into the genetic mechanisms of resilience and adaptability in marine organisms. This knowledge advances our understanding of how species adapt to their changing environments, which is critical for preserving and enhancing the health of our global marine resources.

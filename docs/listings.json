@@ -3,6 +3,7 @@
     "listing": "/posts.html",
     "items": [
       "/posts/frontpage/sr320-ostras/index.html",
+      "/posts/frontpage/sr320-lice/index.html",
       "/posts/frontpage/sr320-enrich/index.html",
       "/posts/frontpage/ariana-hatchery/index.html",
       "/posts/frontpage/sr320-oyster_stage/index.html",
@@ -14,7 +15,7 @@
       "/posts/grace_L_WSN/index.html",
       "/posts/sr320-LGBTQ/index.html",
       "/posts/grace-ac-WSN/index.html",
-      "/posts/frontpage/sr320-DM/index.html",
+      "/posts/sr320-DM/index.html",
       "/posts/aquamine/index.html",
       "/posts/sr320-marineomics/index.html",
       "/posts/mytilus-genome/index.html",
@@ -77,11 +78,11 @@
     "listing": "/index.html",
     "items": [
       "/posts/frontpage/sr320-ostras/index.html",
+      "/posts/frontpage/sr320-lice/index.html",
       "/posts/frontpage/sr320-enrich/index.html",
       "/posts/frontpage/ariana-hatchery/index.html",
       "/posts/frontpage/sr320-oyster_stage/index.html",
-      "/posts/frontpage/sr320-prep/index.html",
-      "/posts/frontpage/sr320-DM/index.html"
+      "/posts/frontpage/sr320-prep/index.html"
     ]
   }
 ]

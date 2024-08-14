@@ -50,6 +50,46 @@
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Monosnap_2024-08-14_11-33-39.png" medium="image" type="image/png"/>
 </item>
 <item>
+  <title>Exploring How Environmental Conditions Impact Atlantic Salmon’s Defense Against Sea Lice</title>
+  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-lice/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/38876411/">In our latest study, we delved into the complex interplay between environmental factors and the immune responses of Atlantic salmon (<em>Salmo salar</em>) during infestations by sea lice (<em>Caligus rogercresseyi</em>).</a> This research is particularly significant for both aquaculture and the management of natural marine ecosystems.</p>
+<section id="our-research-approach" class="level4">
+<h4 class="anchored" data-anchor-id="our-research-approach">Our Research Approach</h4>
+<p>Dr.&nbsp;Cristian Gallardos’ team set up an experimental infestation of Atlantic salmon with sea lice, controlling for variations in temperature and salinity: specifically, conditions were set at 8°C and 16°C, and 32 and 26 practical salinity units (PSU). We then collected tissues from these fish to conduct analyses via reduced representation bisulfite sequencing (RRBS) and whole transcriptome sequencing (RNA-seq).</p>
+</section>
+<section id="key-discoveries" class="level4">
+<h4 class="anchored" data-anchor-id="key-discoveries">Key Discoveries</h4>
+<ol type="1">
+<li><p><strong>Impact of Environment on Parasitic Load</strong>: We observed that the parasitic load varied significantly with environmental conditions, noting the lowest abundance of lice in salmon kept at cooler and less saline conditions (8°C/26PSU).</p></li>
+<li><p><strong>Transcriptional Changes and Splicing Events</strong>: Environmental conditions were found to influence the salmon’s transcriptome profiles substantially. Notably, there was an increase in alternative splicing events in fish under low temperature and salinity, suggesting that environmental stress can induce genomic adaptations.</p></li>
+<li><p><strong>Methylation Patterns</strong>: We also noted significant changes in methylation levels in response to temperature variations, with more pronounced differential methylation regions (DMRs) at the higher temperature of 16°C. These methylation changes correlated with the expression of alternatively spliced transcripts.</p></li>
+<li><p><strong>Biological Pathways</strong>: Our analyses revealed significant correlations between methylation, transcript expression, and key biological pathways such as Ferroptosis and TLR signaling pathways, which are crucial for immune response and cellular integrity.</p></li>
+</ol>
+</section>
+<section id="implications-of-our-findings" class="level4">
+<h4 class="anchored" data-anchor-id="implications-of-our-findings">Implications of Our Findings</h4>
+<p>This research highlights the nuanced ways in which environmental conditions can influence the genomic and epigenomic landscapes of marine organisms. For the aquaculture industry, understanding these dynamics is essential for developing effective management strategies to combat sea lice infestations, which are a major challenge for the sustainability and economic success of salmon farming.</p>
+<p>Moreover, the link between environmental conditions, alternative splicing, and methylation opens new research avenues into the genetic mechanisms of resilience and adaptability in marine organisms. This knowledge advances our understanding of how species adapt to their changing environments, which is critical for preserving and enhancing the health of our global marine resources.</p>
+
+
+<!-- -->
+
+</section>
+
+ ]]></description>
+  <category>salmon</category>
+  <category>epigenetics</category>
+  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-lice/</guid>
+  <pubDate>Mon, 01 Jul 2024 07:00:00 GMT</pubDate>
+  <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Environmental_influence_on_the_Atlantic_salmon_transcriptome_and_methylome_during_sea_lice_infestations_-_ScienceDirect_2024-08-14_12-12-07.png" medium="image" type="image/png"/>
+</item>
+<item>
   <title>Unraveling the Intricacies of Enrichment Analysis</title>
   <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-enrich/</link>
   <description><![CDATA[ 
@@ -207,56 +247,6 @@ Link to Full Notebook Post
   <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-prep/</guid>
   <pubDate>Fri, 02 Feb 2024 08:00:00 GMT</pubDate>
   <media:content url="https://faculty.washington.edu/sr320/img/prep.png" medium="image" type="image/png" height="105" width="144"/>
-</item>
-<item>
-  <title>Insights from Pacific Oysters in a Heating Ocean</title>
-  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-DM/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>In a recent <a href="https://doi.org/10.1111/gcb.16980">commentary by Donal T. Manahan</a>, the magnified effects of marine heatwaves on the mortality of triploid Pacific oysters have been thrust into the spotlight, underscoring the urgent need for deeper understanding of marine life’s tolerance to heat stress. Manahan’s piece, a commentary <a href="https://doi.org/10.1111/gcb.16880">our recent work led by Matt George</a>, delves into the realm where climate change meets marine biology and aquaculture.</p>
-<section id="the-rising-heat-and-its-victims" class="level2">
-<h2 class="anchored" data-anchor-id="the-rising-heat-and-its-victims">The Rising Heat and Its Victims</h2>
-<p>The context is alarming: with ocean temperatures breaking records and coastal heatwaves causing mass marine mortality, researchers like Manahan stress the importance of grasping how different organisms will survive in this changing environment. The Pacific Northwest, as noted by White et al.&nbsp;(2023), has witnessed temperatures soaring to nearly 50°C, resulting in the death of over a million bivalve mussels in a mere 100-meter stretch.</p>
-</section>
-<section id="the-pacific-oyster-at-the-heart-of-study" class="level2">
-<h2 class="anchored" data-anchor-id="the-pacific-oyster-at-the-heart-of-study">The Pacific Oyster at the Heart of Study</h2>
-<p>Matt’s study, referenced by Manahan, brings under scrutiny the Pacific oyster, Crassostrea gigas, an organism of commercial significance and genetic interest. Their work dissects the responses of diploid and triploid oysters to heatwaves, revealing that the mortality rate among triploid oysters was 2.5 times higher than their diploid counterparts.</p>
-</section>
-<section id="a-triploid-dilemma" class="level2">
-<h2 class="anchored" data-anchor-id="a-triploid-dilemma">A Triploid Dilemma</h2>
-<p>Triploid oysters, engineered for their superior growth and yield, seem to face greater peril under thermal stress. Manahan points out that these oysters show signs of metabolic depression, reduced ATP production, and a slump in essential biological processes like glucose metabolism and immunity responses. This finding poses serious implications for aquaculture, as triploids are widely cultivated for food production.</p>
-</section>
-<section id="the-challenge-of-predicting-phenotypes" class="level2">
-<h2 class="anchored" data-anchor-id="the-challenge-of-predicting-phenotypes">The Challenge of Predicting Phenotypes</h2>
-<p>Manahan underscores a crucial challenge in marine biology: the prediction of phenotypes from gene expression. The commentary reflects on how data from different biological levels may not always align, and he calls for a cautious interpretation of such analyses. Integrative approaches are necessary for a comprehensive understanding of how organisms function and respond to environmental stress.</p>
-</section>
-<section id="energy-allocation-and-the-cost-of-reproduction" class="level2">
-<h2 class="anchored" data-anchor-id="energy-allocation-and-the-cost-of-reproduction">Energy Allocation and the Cost of Reproduction</h2>
-<p>The commentary also touches upon the energetic cost of being a triploid organism. With triploids being functionally sterile, Manahan questions whether there’s an unaccounted metabolic cost involved in maintaining redundant biosynthetic pathways.</p>
-</section>
-<section id="a-path-forward" class="level2">
-<h2 class="anchored" data-anchor-id="a-path-forward">A Path Forward</h2>
-<p>Manahan highlights the value of multi-year, trans-generational breeding programs and commends the collaborative efforts exemplified by the team behind our study. Such partnerships across universities, governments, and industry are vital for sustained research and for breeding marine species that can withstand the pressures of climate change.</p>
-<p>In summary, Manahan’s commentary not only sheds light on the specific challenges faced by triploid Pacific oysters under heat stress but also casts a wider net on the complexities of studying marine life’s response to a warming world. The findings are a crucial piece of the puzzle in our pursuit of sustainable “Blue Food” production and the broader understanding of marine ecosystem resilience.</p>
-<p>Citation: Manahan, D. T. (2023). Marine heatwaves impact mortality of triploid Pacific oysters. Global Change Biology. <a href="https://doi.org/10.1111/gcb.16980" class="uri">https://doi.org/10.1111/gcb.16980</a></p>
-
-
-<!-- -->
-
-</section>
-
- ]]></description>
-  <category>triploid</category>
-  <category>aquaculture</category>
-  <category>oyster</category>
-  <category>stress</category>
-  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-DM/</guid>
-  <pubDate>Sat, 04 Nov 2023 07:00:00 GMT</pubDate>
-  <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_ChatGPT_2023-11-04_14-59-20.png" medium="image" type="image/png"/>
 </item>
 </channel>
 </rss>

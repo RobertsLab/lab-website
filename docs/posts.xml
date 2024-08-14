@@ -50,6 +50,46 @@
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Monosnap_2024-08-14_11-33-39.png" medium="image" type="image/png"/>
 </item>
 <item>
+  <title>Exploring How Environmental Conditions Impact Atlantic Salmon’s Defense Against Sea Lice</title>
+  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-lice/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/38876411/">In our latest study, we delved into the complex interplay between environmental factors and the immune responses of Atlantic salmon (<em>Salmo salar</em>) during infestations by sea lice (<em>Caligus rogercresseyi</em>).</a> This research is particularly significant for both aquaculture and the management of natural marine ecosystems.</p>
+<section id="our-research-approach" class="level4">
+<h4 class="anchored" data-anchor-id="our-research-approach">Our Research Approach</h4>
+<p>Dr.&nbsp;Cristian Gallardos’ team set up an experimental infestation of Atlantic salmon with sea lice, controlling for variations in temperature and salinity: specifically, conditions were set at 8°C and 16°C, and 32 and 26 practical salinity units (PSU). We then collected tissues from these fish to conduct analyses via reduced representation bisulfite sequencing (RRBS) and whole transcriptome sequencing (RNA-seq).</p>
+</section>
+<section id="key-discoveries" class="level4">
+<h4 class="anchored" data-anchor-id="key-discoveries">Key Discoveries</h4>
+<ol type="1">
+<li><p><strong>Impact of Environment on Parasitic Load</strong>: We observed that the parasitic load varied significantly with environmental conditions, noting the lowest abundance of lice in salmon kept at cooler and less saline conditions (8°C/26PSU).</p></li>
+<li><p><strong>Transcriptional Changes and Splicing Events</strong>: Environmental conditions were found to influence the salmon’s transcriptome profiles substantially. Notably, there was an increase in alternative splicing events in fish under low temperature and salinity, suggesting that environmental stress can induce genomic adaptations.</p></li>
+<li><p><strong>Methylation Patterns</strong>: We also noted significant changes in methylation levels in response to temperature variations, with more pronounced differential methylation regions (DMRs) at the higher temperature of 16°C. These methylation changes correlated with the expression of alternatively spliced transcripts.</p></li>
+<li><p><strong>Biological Pathways</strong>: Our analyses revealed significant correlations between methylation, transcript expression, and key biological pathways such as Ferroptosis and TLR signaling pathways, which are crucial for immune response and cellular integrity.</p></li>
+</ol>
+</section>
+<section id="implications-of-our-findings" class="level4">
+<h4 class="anchored" data-anchor-id="implications-of-our-findings">Implications of Our Findings</h4>
+<p>This research highlights the nuanced ways in which environmental conditions can influence the genomic and epigenomic landscapes of marine organisms. For the aquaculture industry, understanding these dynamics is essential for developing effective management strategies to combat sea lice infestations, which are a major challenge for the sustainability and economic success of salmon farming.</p>
+<p>Moreover, the link between environmental conditions, alternative splicing, and methylation opens new research avenues into the genetic mechanisms of resilience and adaptability in marine organisms. This knowledge advances our understanding of how species adapt to their changing environments, which is critical for preserving and enhancing the health of our global marine resources.</p>
+
+
+<!-- -->
+
+</section>
+
+ ]]></description>
+  <category>salmon</category>
+  <category>epigenetics</category>
+  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-lice/</guid>
+  <pubDate>Mon, 01 Jul 2024 07:00:00 GMT</pubDate>
+  <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Environmental_influence_on_the_Atlantic_salmon_transcriptome_and_methylome_during_sea_lice_infestations_-_ScienceDirect_2024-08-14_12-12-07.png" medium="image" type="image/png"/>
+</item>
+<item>
   <title>Unraveling the Intricacies of Enrichment Analysis</title>
   <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-enrich/</link>
   <description><![CDATA[ 
@@ -679,7 +719,7 @@ Full Article
 </item>
 <item>
   <title>Insights from Pacific Oysters in a Heating Ocean</title>
-  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-DM/</link>
+  <link>https://faculty.washington.edu/sr320/posts/sr320-DM/</link>
   <description><![CDATA[ 
 
 
@@ -723,7 +763,7 @@ Full Article
   <category>aquaculture</category>
   <category>oyster</category>
   <category>stress</category>
-  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-DM/</guid>
+  <guid>https://faculty.washington.edu/sr320/posts/sr320-DM/</guid>
   <pubDate>Sat, 04 Nov 2023 07:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_ChatGPT_2023-11-04_14-59-20.png" medium="image" type="image/png"/>
 </item>
@@ -1033,330 +1073,6 @@ Full Article
   <guid>https://faculty.washington.edu/sr320/posts/sr320-george-paper/</guid>
   <pubDate>Fri, 15 Sep 2023 07:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_9f2CQivNtt5kAAAAASUVORK5CYII_10241024_pixels_2023-12-11_14-18-17.png" medium="image" type="image/png"/>
-</item>
-<item>
-  <title>Genetics: Does it really matter?</title>
-  <dc:creator>Steven Roberts</dc:creator>
-  <link>https://faculty.washington.edu/sr320/posts/cool-paper/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>Here I will describe a recent, cool paper and try to also highlight 1) some of the material covered in our class on Proposal Writing and Professional Development, and 2) some of the features of using Quarto.</p>
-<p>The paper characterizes the relationship of genetics and epigenetics in the Olympia oysters. The two primary authors are Katherine Silliman and Laura Spencer. <span class="citation" data-cites="silliman2023">Silliman et al. (2023)</span></p>
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Citation
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>Silliman, Katherine, Laura H Spencer, Samuel J White, and Steven B Roberts. 2023. “Epigenetic and Genetic Population Structure Is Coupled in a Marine Invertebrate.” Edited by Soojin Yi. <em>Genome Biology and Evolution</em>, February. <a href="https://doi.org/10.1093/gbe/evad013" class="uri">https://doi.org/10.1093/gbe/evad013</a>.</p>
-</div>
-</div>
-<hr>
-<section id="paper-summary" class="level1">
-<h1>Paper Summary</h1>
-<p>We know that genotype and epigenetic patterns are primarily responsible for phenotype, yet there is a lack of understanding to what degree the two are linked. Here we characterized the degree by which genetic variation and DNA methylation variation are coupled in a marine invertebrate and identified potential mechanisms, <em>with almost a third of the methylation variation attributable to genotype.</em> This means <strong>2/3 of methylation is not attributable to genotype</strong>.</p>
-<p>In order to perform the analysis to see to what degree genetics and epigenetics are linked, first a genome for <em>Ostrea lurida</em> had to be characterized. The genome assembly (Accession # GCA_903981925.1) is 1.1 Gb in size with a contig N50 of 7.8kb. Gene prediction identified 32,210 genes, 170,394 exons, and 163,637 coding sequences.</p>
-<div class="cell" data-layout-align="center">
-<div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://faculty.washington.edu/sr320/posts/cool-paper/img/ncbi.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:70.0%"></p>
-</figure>
-</div>
-</div>
-</div>
-<p>Oysters in this experiment were from two different locations in Puget Sound but held under common conditions. There was clear genetic and epigenetic differences as determined by SNP and bisulfite treated DNA sequence (MBD-BS)</p>
-<div class="cell" data-layout-align="center">
-<div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://faculty.washington.edu/sr320/posts/cool-paper/img/pca.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:60.0%"></p>
-</figure>
-</div>
-</div>
-</div>
-<p>There is a clear relationship with genetic and epigenetic data</p>
-<div class="cell" data-layout-align="center">
-<div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://faculty.washington.edu/sr320/posts/cool-paper/img/distance.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:70.0%"></p>
-</figure>
-</div>
-</div>
-</div>
-<p>The was not only attributable to local differences (same place on genome) but also distant relationships. This schematics nicely outlines the relationship with genotype and methylation status.</p>
-<div class="cell" data-layout-align="center">
-<div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://faculty.washington.edu/sr320/posts/cool-paper/img/schematic.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:85.0%"></p>
-</figure>
-</div>
-</div>
-</div>
-<section id="so-why-does-it-matter" class="level2">
-<h2 class="anchored" data-anchor-id="so-why-does-it-matter">So why does it matter?</h2>
-<ol type="1">
-<li><p>Studies of plasticity and epigenetic variation among groups from different environments must also account for genetic variation, rather than attributing all differences to the environment.</p></li>
-<li><p>Genetic variation is clearly heritable, our results suggest that some proportion of DNA methylation (and likely associated phenotypes) are also heritable.</p></li>
-<li><p>Despite our two populations being raised in the same environment, 73% of the epigenetic variation in our system was not attributable to genetics.</p></li>
-</ol>
-<hr>
-</section>
-</section>
-<section id="manuscript-history" class="level1">
-<h1>Manuscript History</h1>
-<p>Samples were originally collected in 2015 with sample information documented at https://github.com/RobertsLab/project-olympia.oyster-genomic/wiki/MBD-BSseq-December-2015.</p>
-<p>Many years later a paper was drafted in <a href="https://docs.google.com/document/d/1HKIAAIzJ2-t86US8GY5PD12z7aNsKZSnt25u8QJOiaY/edit#heading=h.g1af6wc1kuxs">Google Docs</a> and a manuscript <a href="https://github.com/sr320/paper-oly-mbdbs-gen">specfic GitHub repo was created</a>.</p>
-<div class="cell" data-layout-align="center">
-<div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://faculty.washington.edu/sr320/posts/cool-paper/img/oly-readme.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:70.0%"></p>
-</figure>
-</div>
-</div>
-</div>
-<p>Once the paper was ready to submit, the manuscript was <a href="https://www.biorxiv.org/content/10.1101/2022.03.23.485415v1">uploaded to BioRxiv</a>.</p>
-<div class="cell" data-layout-align="center">
-<div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://faculty.washington.edu/sr320/posts/cool-paper/img/biorxiv.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:70.0%"></p>
-</figure>
-</div>
-</div>
-</div>
-<p>Upon submitting the preprint, the manuscript was submited to Genome Biology and Evolution. As covered in class, <a href="https://github.com/sr320/paper-oly-mbdbs-gen/blob/master/oly-epigen-gen-cover-letter.pdf">a cover letter was submitted</a>.</p>
-<p>How long did the publishing process take?</p>
-<pre><code>**Received:**
-&nbsp;23 March 2022
-**Revision received:**
-&nbsp;10 January 2023
-**Accepted:**
-&nbsp;24 January 2023
-**Published:**
-&nbsp;06 February 2023</code></pre>
-<p>The manuscript when through two rounds of comments and revisions. Here are some specific comments and responses.</p>
-<div class="tabset-margin-container"></div><div class="panel-tabset" style="color: grey">
-<ul class="nav nav-tabs"><li class="nav-item"><a class="nav-link active" id="tabset-1-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-1" aria-controls="tabset-1-1" aria-selected="true">Comment 1</a></li><li class="nav-item"><a class="nav-link" id="tabset-1-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-2" aria-controls="tabset-1-2" aria-selected="false">Comment 2</a></li><li class="nav-item"><a class="nav-link" id="tabset-1-3-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-3" aria-controls="tabset-1-3" aria-selected="false">Comment 3</a></li><li class="nav-item"><a class="nav-link" id="tabset-1-4-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-4" aria-controls="tabset-1-4" aria-selected="false"></a></li></ul>
-<div class="tab-content" style="color: grey">
-<div id="tabset-1-1" class="tab-pane active" aria-labelledby="tabset-1-1-tab">
-<p><strong>COMMENT:</strong> Line 19-22: I personally think that the last sentence of the abstract is a bit arbitrary / difficult to understand without reading the full paper. Maybe try to explain it a bit more / be more specific.</p>
-<p><br>
-<strong>RESPONSE:</strong> This sentence has been changed to: “When comparing measures of genetic and epigenetic population divergence at specific genomic regions this relationship surprisingly breaks down, which has implications for the methods commonly used to study epigenetic and genetic coupling in marine invertebrates.”</p>
-</div>
-<div id="tabset-1-2" class="tab-pane" aria-labelledby="tabset-1-2-tab">
-<p><strong>COMMENT:</strong> line 86: This discussion of DNA methylation causing SNPs needs to mention the most important factor: the high mutability of mC relative to C (and basis for methylation effect on CpG o/e metric).<br>
-</p>
-<p><strong>RESPONSE</strong>: Indeed, this is an important factor that likely influences the relationship between methylation and genetic variation. In our discussion, we present the concept of CpG depletion due to the mutability of methylated cytosines, starting at line 454. We have added text to emphasize the importance of this mechanism, which is in bold in the below excerpt:&nbsp;</p>
-<p><br>
-The enrichment of CpG-SNPs associated with methylated CpGs supports the hypothesis that methylation could have preceded and induced genetic variation by altering genome stability and mutation rates (Flores et al.&nbsp;2013). Methylated cytosines readily mutate to thymine by deamination, which results in an overall depletion of CpG dinucleotides (Coulondre et al.&nbsp;1978; Schorderet &amp; Gartler 1992; Bird 1980). For instance, in the Pacific oyster C. gigas mutation rate is biased towards GC -&gt; AT, particularly at methylated CpG sites, and in coding regions (Song 2020), and genes predicted to have low levels of methylation (analyzed in-silico using the established CpG observed / expected relationship) are less genetically diverse (analyzed via SNPs) (Roberts &amp; Gavery 2012). <strong>The higher mutability of methylated cytosines compared to those that are unmethylated is therefore a likely mechanism by which DNA methylation can influence genetic variants.</strong></p>
-</div>
-<div id="tabset-1-3" class="tab-pane" aria-labelledby="tabset-1-3-tab">
-<p><strong>COMMENT</strong> : Even though there are many remaining questions, many previous papers have noted the connection between genetic and DNA methylation divergence. I would like to see more discussion of potential underlying mechanisms with appropriate citations. Yi 2017 and Ritter and Niederhuth 2021 are good places to start, with several relevant references cited therein.</p>
-<p><br>
-<strong>RESPONSE:</strong> We thank the reviewer for their suggestions. We have added these two references into our discussion of potential underlying mechanisms linking genetic and methylation evolution in the Introduction and Discussion.</p>
-</div>
-<div id="tabset-1-4" class="tab-pane" aria-labelledby="tabset-1-4-tab">
-
-</div>
-</div>
-</div>
-<p>The research compendium (GitHub repo) was minted using Zenodo.</p>
-<div class="cell" data-layout-align="center">
-<div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://faculty.washington.edu/sr320/posts/cool-paper/img/zenodo.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:70.0%"></p>
-</figure>
-</div>
-</div>
-</div>
-<div class="callout callout-style-default callout-important callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Important
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>Research compendiums need to be archived in manner where a DOI can be assigned. Common platforms to do this include Zenodo, Figshare, and Dryad.</p>
-</div>
-</div>
-<p>In Zenodo it is simple as once you flip the switch, each time you create a release a version of you GitHub repo is archived with a DOI.</p>
-<div class="cell" data-layout-align="center">
-<div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://faculty.washington.edu/sr320/posts/cool-paper/img/zenodo-gh.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:70.0%"></p>
-</figure>
-</div>
-</div>
-</div>
-<p>Speaking of GitHub, let me show-off one of the coolest featurs in Quarto, embedding code.</p>
-<div class="cell">
-<div class="sourceCode cell-code" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">#installing methylKit</span></span>
-<span id="cb2-2"><span class="cf" style="color: #003B4F;
-background-color: null;
-font-style: inherit;">if</span> (<span class="sc" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">!</span><span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">requireNamespace</span>(<span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">"BiocManager"</span>, <span class="at" style="color: #657422;
-background-color: null;
-font-style: inherit;">quietly =</span> <span class="cn" style="color: #8f5902;
-background-color: null;
-font-style: inherit;">TRUE</span>))</span>
-<span id="cb2-3">    <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">install.packages</span>(<span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">"BiocManager"</span>)</span>
-<span id="cb2-4"></span>
-<span id="cb2-5">BiocManager<span class="sc" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">::</span><span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">install</span>(<span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">c</span>(<span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">"methylKit"</span>))</span></code></pre></div>
-</div>
-<div class="cell">
-<div class="sourceCode cell-code" id="cb3" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1"><span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">library</span>(methylKit)</span></code></pre></div>
-</div>
-<div class="cell">
-<div class="sourceCode cell-code" id="cb4" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb4-1"><span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">load</span>(<span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">url</span>(<span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">"https://github.com/sr320/paper-oly-mbdbs-gen/blob/master/analyses/DMLs/R-objects/dml25_counts?raw=true"</span>))</span>
-<span id="cb4-2">PCA.DMLs <span class="ot" style="color: #003B4F;
-background-color: null;
-font-style: inherit;">&lt;-</span> <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">PCASamples</span>(dml25_counts, <span class="at" style="color: #657422;
-background-color: null;
-font-style: inherit;">obj.return =</span> <span class="cn" style="color: #8f5902;
-background-color: null;
-font-style: inherit;">TRUE</span>, <span class="at" style="color: #657422;
-background-color: null;
-font-style: inherit;">sd.filter =</span> T) <span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">#Run a PCA analysis on percent methylation for all samples. methylKit uses prcomp to create the PCA matrix</span></span></code></pre></div>
-<div class="cell-output-display">
-<div>
-<figure class="figure">
-<p><img src="https://faculty.washington.edu/sr320/posts/cool-paper/index_files/figure-html/unnamed-chunk-3-1.png" class="img-fluid figure-img" width="672"></p>
-</figure>
-</div>
-</div>
-<div class="sourceCode cell-code" id="cb5" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb5-1"><span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">nrow</span>(PCA.DMLs<span class="sc" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">$</span>rotation)</span>
-<span id="cb5-2"><span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">summary</span>(PCA.DMLs) <span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">#Look at summary statistics. The first PC explains 36.3% of variation, the second PC explains 8.5% of variation</span></span></code></pre></div>
-<div class="cell-output cell-output-stdout">
-<pre><code>[1] 868
-Importance of components:
-                           PC1    PC2     PC3     PC4     PC5     PC6     PC7
-Standard deviation     17.7896 8.9700 7.21837 6.78664 6.48868 6.30909 6.15263
-Proportion of Variance  0.3646 0.0927 0.06003 0.05306 0.04851 0.04586 0.04361
-Cumulative Proportion   0.3646 0.4573 0.51732 0.57039 0.61889 0.66475 0.70836
-                          PC8     PC9    PC10    PC11    PC12   PC13    PC14
-Standard deviation     5.9657 5.58598 5.52902 5.27256 5.16677 5.1115 4.73178
-Proportion of Variance 0.0410 0.03595 0.03522 0.03203 0.03076 0.0301 0.02579
-Cumulative Proportion  0.7494 0.78531 0.82053 0.85256 0.88331 0.9134 0.93921
-                          PC15    PC16    PC17      PC18
-Standard deviation     4.41715 4.14425 4.01020 7.816e-15
-Proportion of Variance 0.02248 0.01979 0.01853 0.000e+00
-Cumulative Proportion  0.96169 0.98147 1.00000 1.000e+00</code></pre>
-</div>
-</div>
-<hr>
-</section>
-<section id="practical-aspects-of-posting" class="level1">
-<h1>Practical Aspects of Posting</h1>
-<section id="how-are-you-including-images" class="level2">
-<h2 class="anchored" data-anchor-id="how-are-you-including-images">How are you including images?</h2>
-<div class="cell" data-layout-align="center">
-<div class="sourceCode cell-code" id="cb7" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb7-1">knitr<span class="sc" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">::</span><span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">include_graphics</span>(<span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">"img/skitch.gif"</span>)</span></code></pre></div>
-<div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://faculty.washington.edu/sr320/posts/cool-paper/img/skitch.gif" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:70.0%"></p>
-</figure>
-</div>
-</div>
-</div>
-<p>But what is the code in the Quarto file to render what we are seeing above?</p>
-<div class="cell" data-layout-align="center">
-<div class="sourceCode cell-code" id="cb8" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb8-1">knitr<span class="sc" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">::</span><span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">include_graphics</span>(<span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">"img/skitch.gif"</span>)</span></code></pre></div>
-<div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://faculty.washington.edu/sr320/posts/cool-paper/img/skitch.gif" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:70.0%"></p>
-</figure>
-</div>
-</div>
-</div>
-<p>Essentially you just need to include an image (here it is within the post directory) and use R code to display, highly leveraging code chunk options.</p>
-<p>Explore the entirety of the code behind this page at <a href="https://github.com/sr320/tumbling-oysters/blob/main/posts/cool-paper/index.qmd" class="uri">https://github.com/sr320/tumbling-oysters/blob/main/posts/cool-paper/index.qmd</a></p>
-
-
-
-</section>
-</section>
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
-<div id="ref-silliman2023" class="csl-entry">
-Silliman, Katherine, Laura H Spencer, Samuel J White, and Steven B Roberts. 2023. <span>“Epigenetic and Genetic Population Structure Is Coupled in a Marine Invertebrate.”</span> Edited by Soojin Yi. <em>Genome Biology and Evolution</em>, February. <a href="https://doi.org/10.1093/gbe/evad013">https://doi.org/10.1093/gbe/evad013</a>.
-</div>
-</div></section></div> ]]></description>
-  <category>paper</category>
-  <category>highlight</category>
-  <category>code</category>
-  <guid>https://faculty.washington.edu/sr320/posts/cool-paper/</guid>
-  <pubDate>Sat, 18 Feb 2023 08:00:00 GMT</pubDate>
-  <media:content url="https://faculty.washington.edu/sr320/posts/cool-paper/img/schematic.png" medium="image" type="image/png" height="87" width="144"/>
 </item>
 </channel>
 </rss>
