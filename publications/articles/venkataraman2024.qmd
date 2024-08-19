@@ -1,0 +1,35 @@
+---
+title: "DNA methylation correlates with transcriptional noise in response to elevated pCO2 in the eastern oyster (Crassostrea virginica)"
+type: "article"
+author: "Yaamini R. Venkataraman, Ariana S. Huffmyer, Samuel J. White, Alan Downey-Wall, Jill Ashey, Danielle M. Becker, Zachary Bengtsson, Hollie M. Putnam, Emma Strand, Javier A. Rodríguez-Casariego, Shelly A. Wanamaker, Kathleen E. Lotterhos, Steven B. Roberts"
+year: "2024"
+publication: "bioRxiv"
+preprint: ""
+doi: "https://www.biorxiv.org/content/10.1101/2024.04.04.588108v2"
+materials: ""
+eprint: ""
+toc: FALSE
+categories:
+  - methylation
+  - acidification
+  - oyster
+  - crassostrea
+---
+
+## Citation
+
+> DNA methylation correlates with transcriptional noise in response to elevated pCO~2~ in the eastern oyster (*Crassostrea virginica*)
+>
+> Yaamini R. Venkataraman, Ariana S. Huffmyer, Samuel J. White, Alan Downey-Wall, JillAshey, Danielle M. Becker, Zachary Bengtsson, Hollie M. Putnam, Emma Strand, Javier A. Rodríguez-Casariego, Shelly A. Wanamaker, Kathleen E. Lotterhos, Steven B. Roberts
+>
+> bioRxiv 2024.04.04.588108; doi: https://doi.org/10.1101/2024.04.04.588108
+
+## Abstract
+
+Ocean acidification significantly affects marine calcifiers like oysters, warranting the study of molecular mechanisms like DNA methylation that contribute to adaptive plasticity in response to environmental change. However, a consensus has not been reached on the extent to which methylation modules gene expression, and in turn plasticity, in marine invertebrates. In this study, we investigated the impact of pCO~2~ on gene expression and DNA methylation in the eastern oyster, *Crassostrea virginica*. After a 30-day exposure to control (572 ppm) or elevated pCO~2~ (2,827 ppm), whole genome bisulfite sequencing (WGBS) and RNA-Seq data were generated from adult female gonad tissue and male sperm samples. Although differentially methylated loci (DML) were identified in females (89) and males (2,916), there were no differentially expressed genes, and only one differentially expressed transcript in females. However, gene body methylation impacted other forms of gene activity in sperm, such as the maximum number of transcripts expressed per gene and changes in the predominant transcript expressed. Elevated pCO~2~ exposure increased gene expression variability (transcriptional noise) in males but decreased noise in females, suggesting a sex-specific role of methylation in gene expression regulation. Functional annotation of genes with changes in transcript-level expression or containing DML revealed several enriched biological processes potentially involved in elevated pCO~2~ response, including apoptotic pathways and signal transduction, as well as reproductive functions. Taken together, these results suggest that DNA methylation may regulate gene expression variability to maintain homeostasis in elevated pCO~2~ conditions and could play a key role in environmental resilience in marine invertebrates.
+
+## Data Availability
+
+-   <https://github.com/sr320/ceabigr>
+
+-   <https://osf.io/xuy2f/>
