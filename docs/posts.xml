@@ -10,7 +10,41 @@
 <atom:link href="https://faculty.washington.edu/sr320/posts.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.4.555</generator>
-<lastBuildDate>Tue, 06 Aug 2024 07:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 19 Aug 2024 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Intertidal Innovators</title>
+  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-intertidal/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Quote
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>This program has lasted for 10 days, but during those days we have learned and worked very hard to give you this project. And we are proud to say that there are a bunch of hard working members in our program that have learned new skills and have gained knowledge in this program So in this journey, you will learn a lot about our work and marine life.</p>
+</div>
+</div>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/PsVyUPzu2_A" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+
+
+<!-- -->
+
+
+ ]]></description>
+  <category>education</category>
+  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-intertidal/</guid>
+  <pubDate>Mon, 19 Aug 2024 07:00:00 GMT</pubDate>
+  <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_The_Golden_Hour_-_a_geolocated_audio_walk_by_Intertidal_Innovators_on_ECHOES_2024-08-19_12-50-25.png" medium="image" type="image/png"/>
+</item>
 <item>
   <title>Ostras en Chile</title>
   <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-ostras/</link>
@@ -1011,68 +1045,6 @@ Full Article
   <guid>https://faculty.washington.edu/sr320/posts/sr320-spencer-paper/</guid>
   <pubDate>Fri, 15 Sep 2023 07:00:00 GMT</pubDate>
   <media:content url="https://gannet.fish.washington.edu/seashell/snaps/httpswww.biorxiv.orgcontent10.11012023.09.08.556443v1.full.pdf_2023-09-14_12-56-48.png" medium="image" type="image/png"/>
-</item>
-<item>
-  <title>The Double-Edged Sword of Triploidy in Pacific Oysters</title>
-  <dc:creator>Steven Roberts</dc:creator>
-  <link>https://faculty.washington.edu/sr320/posts/sr320-george-paper/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<section id="the-double-edged-sword-of-triploidy-in-pacific-oysters-new-research-highlights-increased-vulnerability-to-climate-stressors" class="level1">
-<h1>The Double-Edged Sword of Triploidy in Pacific Oysters: New Research Highlights Increased Vulnerability to Climate Stressors</h1>
-<section id="introduction" class="level2">
-<h2 class="anchored" data-anchor-id="introduction">Introduction</h2>
-<p>The issue of climate change and its cascading effects on marine ecosystems is a growing concern for researchers, conservationists, and policymakers alike. One of the intriguing avenues of research in marine science involves the impact of polyploidy, a genetic variation where organisms have extra sets of chromosomes, on stress tolerance in marine species. A recent study led by Matthew N. George from the School of Aquatic &amp; Fishery Sciences at the University of Washington, along with affiliations from the Environmental and Fisheries Sciences Division at the Northwest Fisheries Science Center, sheds new light on the vulnerability of triploid Pacific oysters to climate stressors.</p>
-</section>
-<section id="summary-of-the-paper" class="level2">
-<h2 class="anchored" data-anchor-id="summary-of-the-paper">Summary of the Paper</h2>
-<p>The study, titled “Triploid Pacific oysters exhibit stress response dysregulation and elevated mortality following heatwaves,” focuses on the comparison of diploid (2n) and triploid (3n) Pacific oysters (Crassostrea gigas) in response to environmental conditions akin to a heatwave. By exposing these oysters to different stressors such as elevated seawater temperature and aerial emersion, the researchers found that triploid oysters had a significantly higher mortality rate than their diploid counterparts when subjected to multiple stressors.</p>
-<section id="key-findings" class="level3">
-<h3 class="anchored" data-anchor-id="key-findings">Key Findings</h3>
-<ol type="1">
-<li><p><strong>Higher Mortality Rates in Triploids</strong>: The mortality rate in triploid oysters exposed to multiple stressors was 36.4% compared to 14.8% in diploid oysters.</p></li>
-<li><p><strong>Metabolic and Physiological Limitations</strong>: Triploid oysters showed signs of metabolic depression, a reduction in ctenidium Na+/K+ ATPase activity, and dysregulated expression of stress response genes.</p></li>
-<li><p><strong>Functional Genomics Insights</strong>: Gene sets enriched in biological processes like metabolism, stress tolerance, and immune function were disproportionately represented in triploids across stress treatments.</p></li>
-</ol>
-</section>
-<section id="implications-for-marine-aquaculture-and-food-security" class="level3">
-<h3 class="anchored" data-anchor-id="implications-for-marine-aquaculture-and-food-security">Implications for Marine Aquaculture and Food Security</h3>
-<p>The increased vulnerability of triploid Pacific oysters to climate stressors has far-reaching implications. Triploidy is often induced to achieve reproductive control in species used for marine aquaculture. While this serves to boost production and control unwanted reproduction, the study highlights that it may also render these organisms more susceptible to environmental extremes. This, in turn, could impact food security in regions dependent on marine aquaculture.</p>
-</section>
-</section>
-<section id="discussion-and-future-directions" class="level2">
-<h2 class="anchored" data-anchor-id="discussion-and-future-directions">Discussion and Future Directions</h2>
-<p>The findings of this study present a clear need for further research to fully understand the complexities of triploidy and its relationship with environmental stress tolerance. As climate change continues to bring about more frequent and severe heatwaves, understanding the impact on marine organisms is crucial. Future research should explore the possibility of developing stress-resilient triploid species and consider alternative strategies for reproductive control in aquaculture.</p>
-</section>
-<section id="conclusion" class="level2">
-<h2 class="anchored" data-anchor-id="conclusion">Conclusion</h2>
-<p>While triploidy offers some benefits for controlling reproduction in marine aquaculture, this genetic modification may inadvertently make these organisms more susceptible to the threats posed by climate change. As we continue to grapple with the realities of a changing climate, research like this serves as an invaluable resource for better understanding the complex interactions between genetic variation and environmental stressors, thereby informing both conservation strategies and aquaculture practices.</p>
-<section id="citation" class="level4">
-<h4 class="anchored" data-anchor-id="citation">Citation</h4>
-<blockquote class="blockquote">
-<p>George, M. N.,&nbsp;&nbsp;Cattau, O.,&nbsp;&nbsp;Middleton, M. A.,&nbsp;&nbsp;Lawson, D.,&nbsp;&nbsp;Vadopalas, B.,&nbsp;&nbsp;Gavery, M., &amp;&nbsp;&nbsp;Roberts, S. B.&nbsp;(2023).&nbsp;Triploid Pacific oysters exhibit stress response dysregulation and elevated mortality following heatwaves.&nbsp;<em>Global Change Biology</em>,&nbsp;&nbsp;00,&nbsp;&nbsp;1–19.&nbsp;<a href="https://doi.org/10.1111/gcb.16880" class="uri">https://doi.org/10.1111/gcb.16880</a></p>
-</blockquote>
-<p>Feel free to dive into the <a href="http://gannet.fish.washington.edu/seashell/snaps/Global_Change_Biology_-_2023_-_George_-_Triploid_Pacific_oysters_exhibit_stress_response_dysregulation_and_elevated.pdf">full paper</a> for a more detailed understanding of our findings.</p>
-
-
-<!-- -->
-
-</section>
-</section>
-</section>
-
- ]]></description>
-  <category>triploid</category>
-  <category>aquaculture</category>
-  <category>oyster</category>
-  <category>stress</category>
-  <guid>https://faculty.washington.edu/sr320/posts/sr320-george-paper/</guid>
-  <pubDate>Fri, 15 Sep 2023 07:00:00 GMT</pubDate>
-  <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_9f2CQivNtt5kAAAAASUVORK5CYII_10241024_pixels_2023-12-11_14-18-17.png" medium="image" type="image/png"/>
 </item>
 </channel>
 </rss>
