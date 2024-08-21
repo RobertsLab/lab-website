@@ -2,6 +2,7 @@
   {
     "listing": "/posts.html",
     "items": [
+      "/posts/frontpage/sr320-lsamp/index.html",
       "/posts/frontpage/sr320-intertidal/index.html",
       "/posts/frontpage/sr320-ostras/index.html",
       "/posts/frontpage/sr320-lice/index.html",
@@ -79,6 +80,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/frontpage/sr320-lsamp/index.html",
       "/posts/frontpage/sr320-intertidal/index.html",
       "/posts/frontpage/sr320-ostras/index.html",
       "/posts/frontpage/sr320-lice/index.html",

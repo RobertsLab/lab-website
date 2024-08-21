@@ -1,0 +1,52 @@
+---
+title: "Assessing Oyster Viability Under Environmental Stress"
+description: "Insights from LSAMP Summer Research Efforts"
+# author:
+#   - name: Steven Roberts
+#     url: https://sr320.github.io/
+#     orcid: 0000-0001-8302-1138
+#     affiliation: Professor, UW - School of Aquatic and Fishery Sciences
+#     affiliation-url: https://robertslab.info
+date: 08-22-2024
+categories: [oyster, stress] # self-defined categories
+image: http://gannet.fish.washington.edu/seashell/snaps/2024-08-21_11-42-08.png # finding a good image
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+
+format:
+  html:
+    code-fold: true
+    code-tools: true
+    code-copy: true
+    highlight-style: github
+    code-overflow: wrap
+---
+
+As part of our ongoing commitment to fostering innovative research, this summer was particularly thrilling due to the strides made in the [LSAMP Scientist Program](https://www.washington.edu/omad/louis-stokes-alliance-for-minority-participation/). One of our standout projects, led by an ambitious student researcher, Colby Elvrum, brought new insights into the resilience of oysters against environmental stressors. Get a [first hand account of all of Colby's science from his notebook!](https://genefish.wordpress.com/author/colbyelvrum/)
+
+### The Genesis of the Study
+
+Oysters, a crucial component of aquatic ecosystems, serve as indicators of environmental health and sustainability. Recognizing their role and the urgent need to understand how environmental changes affect these organisms, we embarked on a project to utilize a novel application of the resazurin assay, traditionally a cell viability test in microbiology. This assay, which exploits the color-changing properties of the resazurin dye in response to oxygen consumption, was adapted to measure the metabolic activity of oysters under stress.
+
+### What We Aimed to Discover
+
+Our research was driven by two pivotal questions: Can resazurin effectively measure metabolism in oysters, and does prior exposure to stress (stress hardening) alter their metabolic response to subsequent stressors? Through meticulously designed experiments, Colby led the charge in optimizing the assay conditions, ensuring the reliability and accuracy of our measurements.
+
+![Colby presenting his research at the Summer Research Symposium](http://gannet.fish.washington.edu/seashell/snaps/2024-08-21_11-33-23.png)
+
+### Key Findings and Methodological Innovations
+
+Our findings were enlightening. We observed that resazurin is not only a viable marker for oyster metabolism but also that it clearly illustrates the metabolic shifts caused by environmental stressors such as temperature fluctuations. Notably, oysters exposed to elevated temperatures displayed a rapid increase in metabolic rate, which was a precursor to subsequent mortality. This initial surge and later plateau in metabolism provided critical clues about the stress thresholds of these organisms.
+
+Moreover, the study also highlighted how oysters previously conditioned to withstand stress exhibited altered survival rates under extreme temperatures, suggesting a potential sensitization rather than hardening effect. These insights are crucial for understanding how oysters might respond to the escalating challenges of climate change.
+
+### Looking Ahead
+
+The implications of this research extend beyond the academic sphere. They beckon a reevaluation of how we manage and conserve our aquatic resources in the face of rapid environmental changes. The potential to scale up this assay and automate aspects of the procedure could revolutionize aquaculture, and provide a more dynamic understanding of environmental impacts on marine life.
+
+### Gratitude and Acknowledgments
+
+This research was made possible through the support of the National Science Foundation. We are immensely proud of Colby and all associated researchers for their dedication and hard work.
+
+**Poster** ([download hi-res pdf](http://gannet.fish.washington.edu/seashell/snaps/Colby_Poster_LSAMP.pdf))
+
+![](http://gannet.fish.washington.edu/seashell/snaps/2024-08-21_11-40-33.png)
