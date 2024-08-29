@@ -10,58 +10,7 @@
 <atom:link href="https://faculty.washington.edu/sr320/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.4.555</generator>
-<lastBuildDate>Thu, 22 Aug 2024 07:00:00 GMT</lastBuildDate>
-<item>
-  <title>Assessing Oyster Viability Under Environmental Stress</title>
-  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-lsamp/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>As part of our ongoing commitment to fostering innovative research, this summer was particularly thrilling due to the strides made in the <a href="https://www.washington.edu/omad/louis-stokes-alliance-for-minority-participation/">LSAMP Scientist Program</a>. One of our standout projects, led by an ambitious student researcher, Colby Elvrum, brought new insights into the resilience of oysters against environmental stressors. Get a <a href="https://genefish.wordpress.com/author/colbyelvrum/">first hand account of all of Colby’s science from his notebook!</a></p>
-<section id="the-genesis-of-the-study" class="level3">
-<h3 class="anchored" data-anchor-id="the-genesis-of-the-study">The Genesis of the Study</h3>
-<p>Oysters, a crucial component of aquatic ecosystems, serve as indicators of environmental health and sustainability. Recognizing their role and the urgent need to understand how environmental changes affect these organisms, we embarked on a project to utilize a novel application of the resazurin assay, traditionally a cell viability test in microbiology. This assay, which exploits the color-changing properties of the resazurin dye in response to oxygen consumption, was adapted to measure the metabolic activity of oysters under stress.</p>
-</section>
-<section id="what-we-aimed-to-discover" class="level3">
-<h3 class="anchored" data-anchor-id="what-we-aimed-to-discover">What We Aimed to Discover</h3>
-<p>Our research was driven by two pivotal questions: Can resazurin effectively measure metabolism in oysters, and does prior exposure to stress (stress hardening) alter their metabolic response to subsequent stressors? Through meticulously designed experiments, Colby led the charge in optimizing the assay conditions, ensuring the reliability and accuracy of our measurements.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="http://gannet.fish.washington.edu/seashell/snaps/2024-08-21_11-33-23.png" class="img-fluid figure-img"></p>
-<figcaption>Colby presenting his research at the Summer Research Symposium</figcaption>
-</figure>
-</div>
-</section>
-<section id="key-findings-and-methodological-innovations" class="level3">
-<h3 class="anchored" data-anchor-id="key-findings-and-methodological-innovations">Key Findings and Methodological Innovations</h3>
-<p>Our findings were enlightening. We observed that resazurin is not only a viable marker for oyster metabolism but also that it clearly illustrates the metabolic shifts caused by environmental stressors such as temperature fluctuations. Notably, oysters exposed to elevated temperatures displayed a rapid increase in metabolic rate, which was a precursor to subsequent mortality. This initial surge and later plateau in metabolism provided critical clues about the stress thresholds of these organisms.</p>
-<p>Moreover, the study also highlighted how oysters previously conditioned to withstand stress exhibited altered survival rates under extreme temperatures, suggesting a potential sensitization rather than hardening effect. These insights are crucial for understanding how oysters might respond to the escalating challenges of climate change.</p>
-</section>
-<section id="looking-ahead" class="level3">
-<h3 class="anchored" data-anchor-id="looking-ahead">Looking Ahead</h3>
-<p>The implications of this research extend beyond the academic sphere. They beckon a reevaluation of how we manage and conserve our aquatic resources in the face of rapid environmental changes. The potential to scale up this assay and automate aspects of the procedure could revolutionize aquaculture, and provide a more dynamic understanding of environmental impacts on marine life.</p>
-</section>
-<section id="gratitude-and-acknowledgments" class="level3">
-<h3 class="anchored" data-anchor-id="gratitude-and-acknowledgments">Gratitude and Acknowledgments</h3>
-<p>This research was made possible through the support of the National Science Foundation. We are immensely proud of Colby and all associated researchers for their dedication and hard work.</p>
-<p><strong>Poster</strong> (<a href="http://gannet.fish.washington.edu/seashell/snaps/Colby_Poster_LSAMP.pdf">download hi-res pdf</a>)</p>
-<p><img src="http://gannet.fish.washington.edu/seashell/snaps/2024-08-21_11-40-33.png" class="img-fluid"></p>
-
-
-<!-- -->
-
-</section>
-
- ]]></description>
-  <category>oyster</category>
-  <category>stress</category>
-  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-lsamp/</guid>
-  <pubDate>Thu, 22 Aug 2024 07:00:00 GMT</pubDate>
-  <media:content url="http://gannet.fish.washington.edu/seashell/snaps/2024-08-21_11-42-08.png" medium="image" type="image/png"/>
-</item>
+<lastBuildDate>Fri, 30 Aug 2024 07:00:00 GMT</lastBuildDate>
 <item>
   <title>Hatchery-based Environmental Conditioning Activities</title>
   <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-usda-report/</link>
@@ -122,8 +71,59 @@
   <category>oyster</category>
   <category>stress</category>
   <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-usda-report/</guid>
-  <pubDate>Thu, 22 Aug 2024 07:00:00 GMT</pubDate>
+  <pubDate>Fri, 30 Aug 2024 07:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Monosnap_2024-08-29_13-10-49.png" medium="image" type="image/png"/>
+</item>
+<item>
+  <title>Assessing Oyster Viability Under Environmental Stress</title>
+  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-lsamp/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>As part of our ongoing commitment to fostering innovative research, this summer was particularly thrilling due to the strides made in the <a href="https://www.washington.edu/omad/louis-stokes-alliance-for-minority-participation/">LSAMP Scientist Program</a>. One of our standout projects, led by an ambitious student researcher, Colby Elvrum, brought new insights into the resilience of oysters against environmental stressors. Get a <a href="https://genefish.wordpress.com/author/colbyelvrum/">first hand account of all of Colby’s science from his notebook!</a></p>
+<section id="the-genesis-of-the-study" class="level3">
+<h3 class="anchored" data-anchor-id="the-genesis-of-the-study">The Genesis of the Study</h3>
+<p>Oysters, a crucial component of aquatic ecosystems, serve as indicators of environmental health and sustainability. Recognizing their role and the urgent need to understand how environmental changes affect these organisms, we embarked on a project to utilize a novel application of the resazurin assay, traditionally a cell viability test in microbiology. This assay, which exploits the color-changing properties of the resazurin dye in response to oxygen consumption, was adapted to measure the metabolic activity of oysters under stress.</p>
+</section>
+<section id="what-we-aimed-to-discover" class="level3">
+<h3 class="anchored" data-anchor-id="what-we-aimed-to-discover">What We Aimed to Discover</h3>
+<p>Our research was driven by two pivotal questions: Can resazurin effectively measure metabolism in oysters, and does prior exposure to stress (stress hardening) alter their metabolic response to subsequent stressors? Through meticulously designed experiments, Colby led the charge in optimizing the assay conditions, ensuring the reliability and accuracy of our measurements.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="http://gannet.fish.washington.edu/seashell/snaps/2024-08-21_11-33-23.png" class="img-fluid figure-img"></p>
+<figcaption>Colby presenting his research at the Summer Research Symposium</figcaption>
+</figure>
+</div>
+</section>
+<section id="key-findings-and-methodological-innovations" class="level3">
+<h3 class="anchored" data-anchor-id="key-findings-and-methodological-innovations">Key Findings and Methodological Innovations</h3>
+<p>Our findings were enlightening. We observed that resazurin is not only a viable marker for oyster metabolism but also that it clearly illustrates the metabolic shifts caused by environmental stressors such as temperature fluctuations. Notably, oysters exposed to elevated temperatures displayed a rapid increase in metabolic rate, which was a precursor to subsequent mortality. This initial surge and later plateau in metabolism provided critical clues about the stress thresholds of these organisms.</p>
+<p>Moreover, the study also highlighted how oysters previously conditioned to withstand stress exhibited altered survival rates under extreme temperatures, suggesting a potential sensitization rather than hardening effect. These insights are crucial for understanding how oysters might respond to the escalating challenges of climate change.</p>
+</section>
+<section id="looking-ahead" class="level3">
+<h3 class="anchored" data-anchor-id="looking-ahead">Looking Ahead</h3>
+<p>The implications of this research extend beyond the academic sphere. They beckon a reevaluation of how we manage and conserve our aquatic resources in the face of rapid environmental changes. The potential to scale up this assay and automate aspects of the procedure could revolutionize aquaculture, and provide a more dynamic understanding of environmental impacts on marine life.</p>
+</section>
+<section id="gratitude-and-acknowledgments" class="level3">
+<h3 class="anchored" data-anchor-id="gratitude-and-acknowledgments">Gratitude and Acknowledgments</h3>
+<p>This research was made possible through the support of the National Science Foundation. We are immensely proud of Colby and all associated researchers for their dedication and hard work.</p>
+<p><strong>Poster</strong> (<a href="http://gannet.fish.washington.edu/seashell/snaps/Colby_Poster_LSAMP.pdf">download hi-res pdf</a>)</p>
+<p><img src="http://gannet.fish.washington.edu/seashell/snaps/2024-08-21_11-40-33.png" class="img-fluid"></p>
+
+
+<!-- -->
+
+</section>
+
+ ]]></description>
+  <category>oyster</category>
+  <category>stress</category>
+  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-lsamp/</guid>
+  <pubDate>Thu, 22 Aug 2024 07:00:00 GMT</pubDate>
+  <media:content url="http://gannet.fish.washington.edu/seashell/snaps/2024-08-21_11-42-08.png" medium="image" type="image/png"/>
 </item>
 <item>
   <title>Intertidal Innovators</title>
