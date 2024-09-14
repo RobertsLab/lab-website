@@ -1,0 +1,31 @@
+---
+title: "Deep dive into the handbook"
+description: "Listen in on the conversation"
+# author:
+#   - name: Steven Roberts
+#     url: https://sr320.github.io/
+#     orcid: 0000-0001-8302-1138
+#     affiliation: Professor, UW - School of Aquatic and Fishery Sciences
+#     affiliation-url: https://robertslab.info
+date: 05-25-2024
+categories: [methods, tools] # self-defined categories
+image: /img/enrich.png # finding a good image
+draft: true # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+
+format:
+  html:
+    code-fold: true
+    code-tools: true
+    code-copy: true
+    highlight-style: github
+    code-overflow: wrap
+---
+
+A unique perspective. You will never guess what they reveal! 
+
+
+{{< video http://gannet.fish.washington.edu/seashell/snaps/handbook.wav >}}
+
+
+
+
