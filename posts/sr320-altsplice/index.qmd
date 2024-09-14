@@ -1,6 +1,6 @@
 ---
-title: "Unraveling the Complexities of Gene Expression"
-description: "A Dive into Exon-Level Analysis"
+title: "Cmplexities of Gene Expression"
+description: "Exon-Level Analysis"
 # author:
 #   - name: Steven Roberts
 #     url: https://sr320.github.io/
@@ -10,7 +10,7 @@ description: "A Dive into Exon-Level Analysis"
 date: 05-25-2024
 categories: [methods, tools] # self-defined categories
 image: /img/enrich.png # finding a good image
-draft: true # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 
 format:
   html:
@@ -25,7 +25,6 @@ In a recent meeting focused on gene expression analysis, we delved into the intr
 
 {{< video https://gannet.fish.washington.edu/seashell/snaps/GMT20240523-195855_Recording.m4a >}}
 
-
 #### Emphasis on Gene Expression Analysis
 
 Gene expression analysis remains a cornerstone of genomic studies, serving as a gateway to understanding the roles of genes in various biological processes and disease states. The meeting opened with a reaffirmation of the importance of mastering the techniques and tools that allow for such analysis, emphasizing that comprehensive understanding is necessary to advance research.
@@ -38,8 +37,8 @@ A significant portion of the discussion revolved around the workflow used in the
 
 One of the central themes of the meeting was the challenge of interpreting results where genes do not show differential expression overall but do exhibit variations at the exon level. This scenario often leads to questions about alternative splicing or differential exon usage, which can have significant implications for gene function.
 
-The group discussed several hypothetical situations:    
-- **Alternative Splicing**: If only certain exons within a gene are differentially expressed, this might suggest alternative splicing, a process where the same gene can lead to different protein variants.     
+The group discussed several hypothetical situations:\
+- **Alternative Splicing**: If only certain exons within a gene are differentially expressed, this might suggest alternative splicing, a process where the same gene can lead to different protein variants.\
 - **Alternative Start Sites**: Differentially expressed exons at the gene's boundaries might indicate alternative transcription start sites, affecting how transcription is initiated.
 
 #### Biological Implications and Interpretation

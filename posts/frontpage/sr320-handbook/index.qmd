@@ -7,10 +7,10 @@ description: "Listen in on the conversation"
 #     orcid: 0000-0001-8302-1138
 #     affiliation: Professor, UW - School of Aquatic and Fishery Sciences
 #     affiliation-url: https://robertslab.info
-date: 05-25-2024
-categories: [methods, tools] # self-defined categories
-image: /img/enrich.png # finding a good image
-draft: true # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+date: 09-14-2024
+categories: [handbook, audio] # self-defined categories
+image: http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Roberts_Lab_Handbook_2024-09-14_13-23-52.png # finding a good image
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 
 format:
   html:
@@ -23,9 +23,274 @@ format:
 
 A unique perspective. You will never guess what they reveal! 
 
+# Audio
 
 {{< video http://gannet.fish.washington.edu/seashell/snaps/handbook.wav >}}
 
+
+# Transcript
+
+Welcome to The Deep Dive, where we dig into the nitty gritty of fascinating topics.
+
+Today, we're taking a deep dive into the Roberts Lab at the University of Washington, and we're doing that through the lens of their handbook.
+
+It's more than just a rule book, though, isn't it?
+
+Oh, absolutely.
+
+It's like a window into their whole approach to science.
+
+Everything from, like, groundbreaking research to how they actually build their research culture.
+
+And they're known for being incredibly transparent, which this handbook really embodies.
+
+Yeah, it's refreshing.
+
+And speaking of refreshing, I have to ask you about this freezer alarm situation.
+
+Oh, yes.
+
+So they have, like, a dedicated alarm for their ultra-low temperature freezers, right?
+
+Yeah.
+
+But there's this 15-minute delay before anyone actually gets notified if it goes off.
+
+Can you imagine?
+
+It's like a slow-motion heart attack for a researcher.
+
+Right.
+
+All those precious samples.
+
+I'd be a wreck.
+
+It really highlights the fragility of these biological materials they're working with.
+
+RNA, proteins, these things have to be stored at, like, negative 80 degrees Celsius.
+
+Wow.
+
+Even a short power outage could be disastrous.
+
+So is that delay, like, a safety net to give the system a chance to recover?
+
+Exactly.
+
+It's a calculated risk.
+
+They're trying to balance preventing false alarms while also, you know, protecting those invaluable research materials.
+
+Makes sense.
+
+Yeah.
+
+And it seems like that emphasis on meticulousness, on minimizing risk, it really comes through in the whole handbook, especially when they talk about lab safety and chemicals.
+
+It's serious business.
+
+Right.
+
+Like with Arnazole RT, they're very clear about it being corrosive, potentially harmful if you inhale it, even disposing of it.
+
+It's a whole multi-step process.
+
+Well, they're dealing with some pretty potent stuff.
+
+It underscores their dedication to, you know, not just scientific rigor, but the actual well-being of their researchers.
+
+Absolutely.
+
+It's like they're creating an environment where cutting-edge science can happen, but it can happen safely.
+
+Safety first.
+
+Yeah.
+
+And that meticulousness, that doing things by the book, it goes beyond just lab safety, you know.
+
+Right.
+
+It's woven into their whole research philosophy, which makes you wonder, if they're this careful with safety, how does that translate to, say, data management or collaboration?
+
+Good question.
+
+And as luck would have it, that's exactly what we're going to be digging into in the rest of this deep dive.
+
+You know, it's funny you should mention that because the next thing that really struck me about this handbook was their code of conduct.
+
+Oh, interesting.
+
+How so?
+
+Well, for one, it's incredibly detailed, even for like their diversity, equity, and inclusion meetings.
+
+You don't always see that level of, I don't know, formality in a lab handbook.
+
+What kinds of things are we talking about here?
+
+They have these great phrases like, "Elevate impact above intent," and, "Expect and accept non-closure."
+
+Like, really specific guidelines.
+
+Huh.
+
+It sounds like they're trying to foster a very specific kind of research environment.
+
+Right.
+
+One where people feel comfortable admitting they don't know everything, which, let's be honest, is most of the time in research, right?
+
+Oh, absolutely.
+
+Science is all about embracing uncertainty.
+
+But it takes a certain culture to really allow for that.
+
+Totally.
+
+And it seems like they're putting a lot of emphasis on making sure everyone feels heard and respected, especially in those DEI meetings.
+
+Well, and that makes sense, right?
+
+If you want to have those tough conversations about diversity and inclusion, you need to create a space where people feel safe to speak their minds.
+
+Yeah.
+
+No, you're right.
+
+It all ties together.
+
+And then there's this whole thing about mentorship.
+
+They really encourage lab members to have multiple mentors, not just one.
+
+That's interesting.
+
+Most labs I've seen, it's pretty standard to have one primary mentor.
+
+Right.
+
+Yeah.
+
+So I thought that was really unique.
+
+It kind of speaks to this idea of providing a well-rounded experience, right?
+
+Absolutely.
+
+Different mentors bring different perspectives, different areas of expertise.
+
+It can really enrich a researcher's training.
+
+Okay, so we've got meticulous safety protocols, a very deliberate approach to their lab culture.
+
+But we also know they're dealing with a massive amount of data.
+
+Like their handbook mentions Nightingale for sequencing this whole network attached storage system called Gannett.
+
+Don't forget the supercomputer.
+
+MOCs, was it?
+
+Oh, right.
+
+MOCs.
+
+I mean, it's a lot.
+
+It really makes you wonder how they manage it all.
+
+It's a data tsunami.
+
+How do they keep from drowning?
+
+Well, for one thing, they're incredibly organized.
+
+Like religiously organized.
+
+Give me the details.
+
+Think detailed metadata for every single experiment, strict folder structures on their network.
+
+They even have readme files.
+
+Readme files for every folder, seriously.
+
+Seriously.
+
+And it's all part of this commitment to open science.
+
+They want their research to be accessible, transparent.
+
+So anyone could theoretically go in and understand their data, their methods.
+
+That's the idea.
+
+It's about breaking down those silos, you know, fostering collaboration, avoiding unnecessary redundancy, ultimately speeding up discoveries.
+
+It's kind of inspiring, actually.
+
+It's like they're playing the long game, advancing science as a whole, not just their own work.
+
+Exactly.
+
+But okay, even with perfect organization, all that data analysis, it's got to be intense.
+
+They mentioned Jupiter notebooks in the handbook.
+
+Right, and mocks the supercomputer.
+
+And they even talk about using like the command line.
+
+Hard course, so they're not messing around.
+
+Well, they're equipping their researchers with a seriously powerful toolkit.
+
+But it goes beyond just the tech.
+
+They even recommend this book, Getting Things Done.
+
+Time management.
+
+Time management.
+
+It's all about efficiency.
+
+They don't just give them the tools.
+
+They give them the training, the resources to actually use them well.
+
+It's like they've thought of everything.
+
+Yeah.
+
+And it doesn't stop there.
+
+They have a whole section on conferences, funding opportunities, even like travel grants.
+
+They want their researchers to be well-rounded, right?
+
+Not just stuck in the lab, but out there presenting, collaborating, getting their work funded.
+
+It's impressive, I have to say.
+
+Looking at the Roberts Lab this way, through their handbook, you really get a sense of the thoughtfulness, the care that goes into building a successful research environment.
+
+It's not just about, you know, the results, the discoveries.
+
+It's the people, the culture.
+
+And that commitment to moving science forward in a way that's open and collaborative, it's really something.
+
+Makes you wonder what they'll accomplish, what amazing discoveries are on the horizon for them.
+
+It does, doesn't it?
+
+And that's something to ponder as we wrap up this deep dive into the world of the Roberts Lab.
+
+Until next time, keep exploring, keep questioning, and keep diving deep.
 
 
 

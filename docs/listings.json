@@ -2,16 +2,18 @@
   {
     "listing": "/posts.html",
     "items": [
+      "/posts/frontpage/sr320-handbook/index.html",
       "/posts/frontpage/sr320-usda-report/index.html",
-      "/posts/frontpage/sr320-lsamp/index.html",
+      "/posts/sr320-lsamp/index.html",
       "/posts/frontpage/sr320-intertidal/index.html",
-      "/posts/frontpage/sr320-ostras/index.html",
-      "/posts/frontpage/sr320-lice/index.html",
+      "/posts/sr320-ostras/index.html",
+      "/posts/sr320-lice/index.html",
+      "/posts/sr320-altsplice/index.html",
       "/posts/frontpage/sr320-enrich/index.html",
       "/posts/frontpage/ariana-hatchery/index.html",
-      "/posts/frontpage/sr320-oyster_stage/index.html",
+      "/posts/sr320-oyster_stage/index.html",
       "/posts/ostrea/index.html",
-      "/posts/frontpage/sr320-prep/index.html",
+      "/posts/sr320-prep/index.html",
       "/posts/sr320-asi/index.html",
       "/posts/sr320-cod/index.html",
       "/posts/megan-rna/index.html",
@@ -81,15 +83,11 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/frontpage/sr320-handbook/index.html",
       "/posts/frontpage/sr320-usda-report/index.html",
-      "/posts/frontpage/sr320-lsamp/index.html",
       "/posts/frontpage/sr320-intertidal/index.html",
-      "/posts/frontpage/sr320-ostras/index.html",
-      "/posts/frontpage/sr320-lice/index.html",
       "/posts/frontpage/sr320-enrich/index.html",
-      "/posts/frontpage/ariana-hatchery/index.html",
-      "/posts/frontpage/sr320-oyster_stage/index.html",
-      "/posts/frontpage/sr320-prep/index.html"
+      "/posts/frontpage/ariana-hatchery/index.html"
     ]
   }
 ]

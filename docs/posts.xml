@@ -10,7 +10,167 @@
 <atom:link href="https://faculty.washington.edu/sr320/posts.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.4.555</generator>
-<lastBuildDate>Fri, 30 Aug 2024 07:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 14 Sep 2024 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Deep dive into the handbook</title>
+  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-handbook/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>A unique perspective. You will never guess what they reveal!</p>
+<section id="audio" class="level1">
+<h1>Audio</h1>
+<div class="quarto-video"><video id="video_shortcode_videojs_video1" class="video-js vjs-default-skin vjs-fluid" controls="" preload="auto" data-setup="{}" title=""><source src="http://gannet.fish.washington.edu/seashell/snaps/handbook.wav"></video></div>
+</section>
+<section id="transcript" class="level1">
+<h1>Transcript</h1>
+<p>Welcome to The Deep Dive, where we dig into the nitty gritty of fascinating topics.</p>
+<p>Today, we’re taking a deep dive into the Roberts Lab at the University of Washington, and we’re doing that through the lens of their handbook.</p>
+<p>It’s more than just a rule book, though, isn’t it?</p>
+<p>Oh, absolutely.</p>
+<p>It’s like a window into their whole approach to science.</p>
+<p>Everything from, like, groundbreaking research to how they actually build their research culture.</p>
+<p>And they’re known for being incredibly transparent, which this handbook really embodies.</p>
+<p>Yeah, it’s refreshing.</p>
+<p>And speaking of refreshing, I have to ask you about this freezer alarm situation.</p>
+<p>Oh, yes.</p>
+<p>So they have, like, a dedicated alarm for their ultra-low temperature freezers, right?</p>
+<p>Yeah.</p>
+<p>But there’s this 15-minute delay before anyone actually gets notified if it goes off.</p>
+<p>Can you imagine?</p>
+<p>It’s like a slow-motion heart attack for a researcher.</p>
+<p>Right.</p>
+<p>All those precious samples.</p>
+<p>I’d be a wreck.</p>
+<p>It really highlights the fragility of these biological materials they’re working with.</p>
+<p>RNA, proteins, these things have to be stored at, like, negative 80 degrees Celsius.</p>
+<p>Wow.</p>
+<p>Even a short power outage could be disastrous.</p>
+<p>So is that delay, like, a safety net to give the system a chance to recover?</p>
+<p>Exactly.</p>
+<p>It’s a calculated risk.</p>
+<p>They’re trying to balance preventing false alarms while also, you know, protecting those invaluable research materials.</p>
+<p>Makes sense.</p>
+<p>Yeah.</p>
+<p>And it seems like that emphasis on meticulousness, on minimizing risk, it really comes through in the whole handbook, especially when they talk about lab safety and chemicals.</p>
+<p>It’s serious business.</p>
+<p>Right.</p>
+<p>Like with Arnazole RT, they’re very clear about it being corrosive, potentially harmful if you inhale it, even disposing of it.</p>
+<p>It’s a whole multi-step process.</p>
+<p>Well, they’re dealing with some pretty potent stuff.</p>
+<p>It underscores their dedication to, you know, not just scientific rigor, but the actual well-being of their researchers.</p>
+<p>Absolutely.</p>
+<p>It’s like they’re creating an environment where cutting-edge science can happen, but it can happen safely.</p>
+<p>Safety first.</p>
+<p>Yeah.</p>
+<p>And that meticulousness, that doing things by the book, it goes beyond just lab safety, you know.</p>
+<p>Right.</p>
+<p>It’s woven into their whole research philosophy, which makes you wonder, if they’re this careful with safety, how does that translate to, say, data management or collaboration?</p>
+<p>Good question.</p>
+<p>And as luck would have it, that’s exactly what we’re going to be digging into in the rest of this deep dive.</p>
+<p>You know, it’s funny you should mention that because the next thing that really struck me about this handbook was their code of conduct.</p>
+<p>Oh, interesting.</p>
+<p>How so?</p>
+<p>Well, for one, it’s incredibly detailed, even for like their diversity, equity, and inclusion meetings.</p>
+<p>You don’t always see that level of, I don’t know, formality in a lab handbook.</p>
+<p>What kinds of things are we talking about here?</p>
+<p>They have these great phrases like, “Elevate impact above intent,” and, “Expect and accept non-closure.”</p>
+<p>Like, really specific guidelines.</p>
+<p>Huh.</p>
+<p>It sounds like they’re trying to foster a very specific kind of research environment.</p>
+<p>Right.</p>
+<p>One where people feel comfortable admitting they don’t know everything, which, let’s be honest, is most of the time in research, right?</p>
+<p>Oh, absolutely.</p>
+<p>Science is all about embracing uncertainty.</p>
+<p>But it takes a certain culture to really allow for that.</p>
+<p>Totally.</p>
+<p>And it seems like they’re putting a lot of emphasis on making sure everyone feels heard and respected, especially in those DEI meetings.</p>
+<p>Well, and that makes sense, right?</p>
+<p>If you want to have those tough conversations about diversity and inclusion, you need to create a space where people feel safe to speak their minds.</p>
+<p>Yeah.</p>
+<p>No, you’re right.</p>
+<p>It all ties together.</p>
+<p>And then there’s this whole thing about mentorship.</p>
+<p>They really encourage lab members to have multiple mentors, not just one.</p>
+<p>That’s interesting.</p>
+<p>Most labs I’ve seen, it’s pretty standard to have one primary mentor.</p>
+<p>Right.</p>
+<p>Yeah.</p>
+<p>So I thought that was really unique.</p>
+<p>It kind of speaks to this idea of providing a well-rounded experience, right?</p>
+<p>Absolutely.</p>
+<p>Different mentors bring different perspectives, different areas of expertise.</p>
+<p>It can really enrich a researcher’s training.</p>
+<p>Okay, so we’ve got meticulous safety protocols, a very deliberate approach to their lab culture.</p>
+<p>But we also know they’re dealing with a massive amount of data.</p>
+<p>Like their handbook mentions Nightingale for sequencing this whole network attached storage system called Gannett.</p>
+<p>Don’t forget the supercomputer.</p>
+<p>MOCs, was it?</p>
+<p>Oh, right.</p>
+<p>MOCs.</p>
+<p>I mean, it’s a lot.</p>
+<p>It really makes you wonder how they manage it all.</p>
+<p>It’s a data tsunami.</p>
+<p>How do they keep from drowning?</p>
+<p>Well, for one thing, they’re incredibly organized.</p>
+<p>Like religiously organized.</p>
+<p>Give me the details.</p>
+<p>Think detailed metadata for every single experiment, strict folder structures on their network.</p>
+<p>They even have readme files.</p>
+<p>Readme files for every folder, seriously.</p>
+<p>Seriously.</p>
+<p>And it’s all part of this commitment to open science.</p>
+<p>They want their research to be accessible, transparent.</p>
+<p>So anyone could theoretically go in and understand their data, their methods.</p>
+<p>That’s the idea.</p>
+<p>It’s about breaking down those silos, you know, fostering collaboration, avoiding unnecessary redundancy, ultimately speeding up discoveries.</p>
+<p>It’s kind of inspiring, actually.</p>
+<p>It’s like they’re playing the long game, advancing science as a whole, not just their own work.</p>
+<p>Exactly.</p>
+<p>But okay, even with perfect organization, all that data analysis, it’s got to be intense.</p>
+<p>They mentioned Jupiter notebooks in the handbook.</p>
+<p>Right, and mocks the supercomputer.</p>
+<p>And they even talk about using like the command line.</p>
+<p>Hard course, so they’re not messing around.</p>
+<p>Well, they’re equipping their researchers with a seriously powerful toolkit.</p>
+<p>But it goes beyond just the tech.</p>
+<p>They even recommend this book, Getting Things Done.</p>
+<p>Time management.</p>
+<p>Time management.</p>
+<p>It’s all about efficiency.</p>
+<p>They don’t just give them the tools.</p>
+<p>They give them the training, the resources to actually use them well.</p>
+<p>It’s like they’ve thought of everything.</p>
+<p>Yeah.</p>
+<p>And it doesn’t stop there.</p>
+<p>They have a whole section on conferences, funding opportunities, even like travel grants.</p>
+<p>They want their researchers to be well-rounded, right?</p>
+<p>Not just stuck in the lab, but out there presenting, collaborating, getting their work funded.</p>
+<p>It’s impressive, I have to say.</p>
+<p>Looking at the Roberts Lab this way, through their handbook, you really get a sense of the thoughtfulness, the care that goes into building a successful research environment.</p>
+<p>It’s not just about, you know, the results, the discoveries.</p>
+<p>It’s the people, the culture.</p>
+<p>And that commitment to moving science forward in a way that’s open and collaborative, it’s really something.</p>
+<p>Makes you wonder what they’ll accomplish, what amazing discoveries are on the horizon for them.</p>
+<p>It does, doesn’t it?</p>
+<p>And that’s something to ponder as we wrap up this deep dive into the world of the Roberts Lab.</p>
+<p>Until next time, keep exploring, keep questioning, and keep diving deep.</p>
+
+
+<!-- -->
+
+</section>
+
+ ]]></description>
+  <category>handbook</category>
+  <category>audio</category>
+  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-handbook/</guid>
+  <pubDate>Sat, 14 Sep 2024 07:00:00 GMT</pubDate>
+  <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Roberts_Lab_Handbook_2024-09-14_13-23-52.png" medium="image" type="image/png"/>
+</item>
 <item>
   <title>Hatchery-based Environmental Conditioning Activities</title>
   <dc:creator>Steven Roberts</dc:creator>
@@ -86,7 +246,7 @@
 </item>
 <item>
   <title>Assessing Oyster Viability Under Environmental Stress</title>
-  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-lsamp/</link>
+  <link>https://faculty.washington.edu/sr320/posts/sr320-lsamp/</link>
   <description><![CDATA[ 
 
 
@@ -131,7 +291,7 @@
  ]]></description>
   <category>oyster</category>
   <category>stress</category>
-  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-lsamp/</guid>
+  <guid>https://faculty.washington.edu/sr320/posts/sr320-lsamp/</guid>
   <pubDate>Thu, 22 Aug 2024 07:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/2024-08-21_11-42-08.png" medium="image" type="image/png"/>
 </item>
@@ -176,8 +336,9 @@ Quote
 </item>
 <item>
   <title>Ostras en Chile</title>
-  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-ostras/</link>
+  <link>https://faculty.washington.edu/sr320/posts/sr320-ostras/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -207,14 +368,15 @@ Quote
  ]]></description>
   <category>oyster</category>
   <category>presentation</category>
-  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-ostras/</guid>
+  <guid>https://faculty.washington.edu/sr320/posts/sr320-ostras/</guid>
   <pubDate>Tue, 06 Aug 2024 07:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Monosnap_2024-08-14_11-33-39.png" medium="image" type="image/png"/>
 </item>
 <item>
   <title>Exploring How Environmental Conditions Impact Atlantic Salmon’s Defense Against Sea Lice</title>
-  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-lice/</link>
+  <link>https://faculty.washington.edu/sr320/posts/sr320-lice/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -246,14 +408,67 @@ Quote
  ]]></description>
   <category>salmon</category>
   <category>epigenetics</category>
-  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-lice/</guid>
+  <guid>https://faculty.washington.edu/sr320/posts/sr320-lice/</guid>
   <pubDate>Mon, 01 Jul 2024 07:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Environmental_influence_on_the_Atlantic_salmon_transcriptome_and_methylome_during_sea_lice_infestations_-_ScienceDirect_2024-08-14_12-12-07.png" medium="image" type="image/png"/>
+</item>
+<item>
+  <title>Cmplexities of Gene Expression</title>
+  <link>https://faculty.washington.edu/sr320/posts/sr320-altsplice/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>In a recent meeting focused on gene expression analysis, we delved into the intricacies of examining expression at the exon level, a crucial but complex aspect of understanding gene function and regulation. The discussion provided deep insights into both the challenges and potential breakthroughs in the field of genomics. Here’s a detailed recap of the key points and future directions highlighted during the conversation.</p>
+<div class="quarto-video"><video id="video_shortcode_videojs_video1" class="video-js vjs-default-skin vjs-fluid" controls="" preload="auto" data-setup="{}" title=""><source src="https://gannet.fish.washington.edu/seashell/snaps/GMT20240523-195855_Recording.m4a"></video></div>
+<section id="emphasis-on-gene-expression-analysis" class="level4">
+<h4 class="anchored" data-anchor-id="emphasis-on-gene-expression-analysis">Emphasis on Gene Expression Analysis</h4>
+<p>Gene expression analysis remains a cornerstone of genomic studies, serving as a gateway to understanding the roles of genes in various biological processes and disease states. The meeting opened with a reaffirmation of the importance of mastering the techniques and tools that allow for such analysis, emphasizing that comprehensive understanding is necessary to advance research.</p>
+</section>
+<section id="workflow-and-tools" class="level4">
+<h4 class="anchored" data-anchor-id="workflow-and-tools">Workflow and Tools</h4>
+<p>A significant portion of the discussion revolved around the workflow used in the analysis. The researchers outlined their use of HiSat for alignment—a choice reflecting HiSat’s efficiency in handling high-throughput RNA-seq data. StringTie was then introduced as the tool for identifying transcript units, highlighting its capability to assemble transcripts effectively. The differential expression analysis was conducted using DC2, a tool favored for its robust statistical methods in handling variance among biological replicates.</p>
+</section>
+<section id="challenges-in-interpretation" class="level4">
+<h4 class="anchored" data-anchor-id="challenges-in-interpretation">Challenges in Interpretation</h4>
+<p>One of the central themes of the meeting was the challenge of interpreting results where genes do not show differential expression overall but do exhibit variations at the exon level. This scenario often leads to questions about alternative splicing or differential exon usage, which can have significant implications for gene function.</p>
+<p>The group discussed several hypothetical situations:<br>
+- <strong>Alternative Splicing</strong>: If only certain exons within a gene are differentially expressed, this might suggest alternative splicing, a process where the same gene can lead to different protein variants.<br>
+- <strong>Alternative Start Sites</strong>: Differentially expressed exons at the gene’s boundaries might indicate alternative transcription start sites, affecting how transcription is initiated.</p>
+</section>
+<section id="biological-implications-and-interpretation" class="level4">
+<h4 class="anchored" data-anchor-id="biological-implications-and-interpretation">Biological Implications and Interpretation</h4>
+<p>The biological implications of these findings are profound, potentially impacting everything from gene regulation to the development of therapeutic strategies. For example, alternative splicing can result in proteins with differing, sometimes antagonistic functions. Understanding these nuances is essential for the development of targeted therapies.</p>
+</section>
+<section id="the-role-of-visual-aids" class="level4">
+<h4 class="anchored" data-anchor-id="the-role-of-visual-aids">The Role of Visual Aids</h4>
+<p>A noteworthy suggestion from the meeting was the use of visual aids to better explain complex data and analysis. Presentations with graphical representations of data can facilitate a clearer understanding, aiding in the interpretation of intricate patterns of gene expression that might otherwise be overlooked in raw numerical data.</p>
+</section>
+<section id="future-directions" class="level4">
+<h4 class="anchored" data-anchor-id="future-directions">Future Directions</h4>
+<p>Looking to the future, the participants agreed on the need for more refined tools and methodologies to enhance the accuracy and granularity of exon-level expression analysis. They highlighted the potential for developing new computational tools that can integrate more complex layers of data, such as epigenetic modifications and non-coding RNA interactions, which could provide a more comprehensive view of gene regulation.</p>
+<p>The meeting concluded with a sense of optimism about the path forward, acknowledging that while challenges remain, the ongoing advancements in technology and methodology will continue to illuminate the complexities of the genome.</p>
+<p>This deep dive into exon-level analysis not only underscores the complexity inherent in genetic studies but also highlights the meticulous detail and sophisticated understanding required to truly grasp the implications of gene expression data. As researchers continue to unravel these complexities, each discussion and discovery adds a valuable piece to the puzzle of life sciences.</p>
+
+
+<!-- -->
+
+</section>
+
+ ]]></description>
+  <category>methods</category>
+  <category>tools</category>
+  <guid>https://faculty.washington.edu/sr320/posts/sr320-altsplice/</guid>
+  <pubDate>Sat, 25 May 2024 07:00:00 GMT</pubDate>
+  <media:content url="https://faculty.washington.edu/sr320/img/enrich.png" medium="image" type="image/png" height="105" width="144"/>
 </item>
 <item>
   <title>Unraveling the Intricacies of Enrichment Analysis</title>
   <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-enrich/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -302,6 +517,7 @@ Quote
 
 
 
+
 <p>On May 6, 2024, Dr.&nbsp;Ariana Huffmyer, an NSF Ocean Sciences Postdoctoral Fellow from the University of Rhode Island and University of Washington, shared insights from a field day at Point Whitney. This comprehensive post revealed the detailed process of managing and monitoring oyster growth and stress testing, providing a clear framework for hatchery management.</p>
 <div class="callout callout-style-default callout-important callout-titled">
 <div class="callout-header d-flex align-content-center">
@@ -328,7 +544,7 @@ Link to Full Notebook Post
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Hatchery_field_day_at_Point_Whitney_May_6_2024__Ariana_S_Huffmyer__NSF_Ocean_Sciences_Postdoctoral_Fellow_University_of_Rhod_2024-05-11_14-51-46.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">heath-tray</figcaption>
+<figcaption>heath-tray</figcaption>
 </figure>
 </div>
 <p><strong>Takeaways for Hatchery Science</strong> Dr.&nbsp;Huffmyer’s systematic approach highlights the significance of precise monitoring and stress testing in hatchery science. Understanding oyster resilience to environmental stressors is crucial for aquaculture sustainability. Her work at Point Whitney offers a detailed protocol that could be replicated or adapted by other researchers to monitor and improve hatchery operations.</p>
@@ -347,7 +563,7 @@ Link to Full Notebook Post
 </item>
 <item>
   <title>Hardening in oysters drives increased growth</title>
-  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-oyster_stage/</link>
+  <link>https://faculty.washington.edu/sr320/posts/sr320-oyster_stage/</link>
   <description><![CDATA[ 
 
 
@@ -372,7 +588,7 @@ Link to Full Notebook Post
  ]]></description>
   <category>oyster</category>
   <category>aquaculture</category>
-  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-oyster_stage/</guid>
+  <guid>https://faculty.washington.edu/sr320/posts/sr320-oyster_stage/</guid>
   <pubDate>Fri, 08 Mar 2024 08:00:00 GMT</pubDate>
   <media:content url="https://faculty.washington.edu/sr320/img/pw.png" medium="image" type="image/png" height="124" width="144"/>
 </item>
@@ -453,7 +669,7 @@ Katherine Silliman and others, Epigenetic and Genetic Population Structure is Co
 </item>
 <item>
   <title>Are you really prepared?</title>
-  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-prep/</link>
+  <link>https://faculty.washington.edu/sr320/posts/sr320-prep/</link>
   <description><![CDATA[ 
 
 
@@ -478,7 +694,7 @@ Katherine Silliman and others, Epigenetic and Genetic Population Structure is Co
  ]]></description>
   <category>methods</category>
   <category>tools</category>
-  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-prep/</guid>
+  <guid>https://faculty.washington.edu/sr320/posts/sr320-prep/</guid>
   <pubDate>Fri, 02 Feb 2024 08:00:00 GMT</pubDate>
   <media:content url="https://faculty.washington.edu/sr320/img/prep.png" medium="image" type="image/png" height="105" width="144"/>
 </item>
@@ -486,6 +702,7 @@ Katherine Silliman and others, Epigenetic and Genetic Population Structure is Co
   <title>Sharing the Good Word of Marine Epigenetics</title>
   <link>https://faculty.washington.edu/sr320/posts/sr320-asi/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -553,6 +770,7 @@ Katherine Silliman and others, Epigenetic and Genetic Population Structure is Co
 
 
 
+
 <p>In recent years, the Northeastern Pacific has been hit by a series of unprecedented marine heatwaves, notably “The Blob” from 2014-2016 and another in 2019, causing significant ecological disruptions. A compelling article titled “Beyond the Blob: Pinpointing the Mechanisms of Pacific Cod Population Decline” by the CICOES staff, delves into the alarming decline of Pacific cod populations in the Gulf of Alaska, a critical concern given the species’ ecological and economic significance.</p>
 <p>The Pacific cod, a vital component of Alaska’s groundfish fishery, generating over $100 million annually, faced a dramatic 71% reduction in population between 2015 and 2017 surveys. This decline coincides with the marine heatwaves, raising urgent questions about the survival of early life stages of Pacific cod in a rapidly changing climate.</p>
 <p>Researchers from CICOES, the University of Washington’s School of Aquatic and Fishery Sciences, Oregon State University, and NOAA are collaborating to unravel how increased temperatures impact Pacific cod. Their focus is on the vulnerable early life stages – developing eggs, larvae, and juveniles. Intriguingly, higher temperatures, while accelerating growth, also diminish liver size and alter key metabolic enzymes in young Pacific cod, hinting at deeper metabolic disruptions.</p>
@@ -583,6 +801,7 @@ Katherine Silliman and others, Epigenetic and Genetic Population Structure is Co
 
 
 
+
 <p>Write up for <a href="https://github.com/RobertsLab/resources/issues/1748">this github issue</a></p>
 <p>Github repo available <a href="https://github.com/meganewing/clamgonads-macsamples">here</a> but each step’s chunk is also linked in workflow write up.</p>
 <section id="the-data" class="level1">
@@ -607,38 +826,38 @@ Katherine Silliman and others, Epigenetic and Genetic Population Structure is Co
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://faculty.washington.edu/sr320/posts/megan-rna/images/fastqc_sequence_counts_plot.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption"><img src="https://faculty.washington.edu/sr320/posts/megan-rna/images/fastqc_per_base_sequence_quality_plot.png" class="img-fluid figure-img"></figcaption>
+<figcaption><img src="https://faculty.washington.edu/sr320/posts/megan-rna/images/fastqc_per_base_sequence_quality_plot.png" class="img-fluid figure-img"></figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://faculty.washington.edu/sr320/posts/megan-rna/images/fastqc_per_sequence_quality_scores_plot.png" class="img-fluid figure-img"></p>
+<p><img src="https://faculty.washington.edu/sr320/posts/megan-rna/images/fastqc_per_sequence_quality_scores_plot.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://faculty.washington.edu/sr320/posts/megan-rna/images/fastqc_per_sequence_gc_content_plot.png" class="img-fluid figure-img"></p>
+<p><img src="https://faculty.washington.edu/sr320/posts/megan-rna/images/fastqc_per_sequence_gc_content_plot.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://faculty.washington.edu/sr320/posts/megan-rna/images/fastqc_per_base_n_content_plot.png" class="img-fluid figure-img"></p>
+<p><img src="https://faculty.washington.edu/sr320/posts/megan-rna/images/fastqc_per_base_n_content_plot.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://faculty.washington.edu/sr320/posts/megan-rna/images/fastqc_sequence_duplication_levels_plot.png" class="img-fluid figure-img"></p>
+<p><img src="https://faculty.washington.edu/sr320/posts/megan-rna/images/fastqc_sequence_duplication_levels_plot.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
 </figure>
 </div>
 <p><img src="https://faculty.washington.edu/sr320/posts/megan-rna/images/fastqc_overrepresented_sequences_plot.png" class="img-fluid"></p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://faculty.washington.edu/sr320/posts/megan-rna/images/Screen Shot 2024-01-04 at 3.16.31 PM.png" class="img-fluid figure-img"></p>
+<p><img src="https://faculty.washington.edu/sr320/posts/megan-rna/images/Screen Shot 2024-01-04 at 3.16.31 PM.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://faculty.washington.edu/sr320/posts/megan-rna/images/fastqc-status-check-heatmap.png" class="img-fluid figure-img"></p>
+<p><img src="https://faculty.washington.edu/sr320/posts/megan-rna/images/fastqc-status-check-heatmap.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
 </figure>
 </div>
 <p>Software Used:</p>
@@ -663,12 +882,12 @@ Katherine Silliman and others, Epigenetic and Genetic Population Structure is Co
 <p>Using the quantification in the trinity matrix created, I ran DESeq2 to show deferentially expressed genes, and filtering for those who’s expression showed a difference with a p value &lt;= 0.05. Differential expression was also visualized via a volcano plot and heatmap of the top 25 deferentially expressed genes)</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://faculty.washington.edu/sr320/posts/megan-rna/images/volcanoplot-01.png" class="img-fluid figure-img"></p>
+<p><img src="https://faculty.washington.edu/sr320/posts/megan-rna/images/volcanoplot-01.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://faculty.washington.edu/sr320/posts/megan-rna/images/heatmap.png" class="img-fluid figure-img"></p>
+<p><img src="https://faculty.washington.edu/sr320/posts/megan-rna/images/heatmap.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
 </figure>
 </div>
 <p>Along with the visualzations, I created a dataframe with the differentially expressed genes and associated statistics (base mean, log 2fold change, lfcSE, stat, pvalue, padj) and saved as a tab file for the next steps.</p>
@@ -881,6 +1100,7 @@ Full Article
 
 
 
+
 <p>In a recent <a href="https://doi.org/10.1111/gcb.16980">commentary by Donal T. Manahan</a>, the magnified effects of marine heatwaves on the mortality of triploid Pacific oysters have been thrust into the spotlight, underscoring the urgent need for deeper understanding of marine life’s tolerance to heat stress. Manahan’s piece, a commentary <a href="https://doi.org/10.1111/gcb.16880">our recent work led by Matt George</a>, delves into the realm where climate change meets marine biology and aquaculture.</p>
 <section id="the-rising-heat-and-its-victims" class="level2">
 <h2 class="anchored" data-anchor-id="the-rising-heat-and-its-victims">The Rising Heat and Its Victims</h2>
@@ -982,89 +1202,6 @@ Full Article
   <guid>https://faculty.washington.edu/sr320/posts/aquamine/</guid>
   <pubDate>Mon, 23 Oct 2023 07:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_ChatGPT_2023-11-04_15-16-26.png" medium="image" type="image/png"/>
-</item>
-<item>
-  <title>MarineOmics.io</title>
-  <link>https://faculty.washington.edu/sr320/posts/sr320-marineomics/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>In an era where ecological genomics is garnering increased recognition, particularly within nonmodel species, the necessity for robust, reproducible, and accessible resources has never been more apparent. A <a href="https://doi.org/10.1111/2041-210X.14219">recent publication</a> led by a consortium of researchers introduces <a href="MarineOmics.io">MarineOmics.io</a>, a dynamic web resource tailored to meet the burgeoning needs of this scientific domain. This open-source platform aims to foster a collaborative environment for researchers at various stages of their career, promoting reproducibility, accessibility, and adaptability in genomic analyses.</p>
-<p>MarineOmics.io emerges as a living document, meticulously curated to disseminate vital tutorials, reproducibility tools, and best principles pivotal for genomic research in marine and other nonmodel ecosystems. This endeavor is a testament to the collaborative spirit of the ecological genomics community, as the platform encapsulates current methodologies and recommendations across a myriad of genomic studies including whole-genome sequencing, RAD-seq, Pool-seq, and RNA-seq.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_17823668.pdf_2023-10-09_05-52-35.png" class="img-fluid figure-img"></p>
-<figcaption>F I G U R E 1 Screenshot of one web page concerning a RAD-seq pipeline serving as an example of tutorial structure.</figcaption>
-</figure>
-</div>
-<p>What sets MarineOmics.io apart is its dynamic nature. Not only does it provide a repository of existing knowledge, but it also outlines a structured process for the aggregation and synthesis of methodological principles derived from the community. The platform invites submissions of new content, feedback, and topic requests from the community, thereby ensuring its content remains updated, relevant, and in tune with the rapidly evolving field of genomics.</p>
-<p>The meticulous planning invested in MarineOmics.io is reflective in its guidelines for authorship, submission of new content, and protocols for community feedback. These guidelines are drafted with a vision to uphold the rigor and reproducibility in scientific inquiries, encouraging contributions from scientists spanning various skill sets and expertise levels. This collaborative ethos is further underscored by the availability of the site’s source code for contributors on GitHub, and a snapshot of the source code as of the time of submission, hosted on Zenodo.</p>
-<p>The data and resources available through MarineOmics.io are not merely a contribution but a cornerstone for advancing ecological genomic research in nonmodel marine systems. By providing a structured, collaborative platform, MarineOmics.io is poised to catalyze a new wave of discoveries, fostering a community of researchers equipped to navigate the challenges and opportunities that lay ahead in the genomic era.</p>
-<p>Citation: Bogan, S. N., Johns, J., Griffiths, J. S., Davenport, D., Smith, S. J., Schaal, S. M., Downey-Wall, A., Lou, R. N., Lotterhos, K., Guidry, M. E., Rivera, H. E., McGirr, J. A., Puritz, J. B., Roberts, S. B., &amp; Silliman, K. (2023). A dynamic web resource for robust and reproducible genomics in nonmodel species: marineomics.io. Methods in Ecology and Evolution, 00, 1–8. https://doi.org/10.1111/2041-210X.14219</p>
-
-
-<!-- -->
-
-
- ]]></description>
-  <category>paper</category>
-  <category>genomics</category>
-  <category>methods</category>
-  <category>website</category>
-  <guid>https://faculty.washington.edu/sr320/posts/sr320-marineomics/</guid>
-  <pubDate>Mon, 09 Oct 2023 07:00:00 GMT</pubDate>
-  <media:content url="https://faculty.washington.edu/sr320/img/marineomics.png" medium="image" type="image/png" height="79" width="144"/>
-</item>
-<item>
-  <title>Unveiling the Blueprints of the Sea</title>
-  <link>https://faculty.washington.edu/sr320/posts/mytilus-genome/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<section id="unveiling-the-blueprints-of-the-sea-the-genome-of-mytilus-chilensis" class="level1">
-<h1>Unveiling the Blueprints of the Sea: The Genome of Mytilus chilensis</h1>
-<p>The blue mussel, Mytilus chilensis, is not only a delicacy on dinner plates but also a cornerstone of the booming aquaculture industry along the southern coast of Chile. Its iridescent shells and robust nature make it a favorite, but beneath the waves, this bivalve is locked in a constant battle against environmental stressors, diseases, and the effects of pollution. The secret to its resilience lies in its genetic code, a treasure trove of information until now largely uncharted.</p>
-<section id="a-genomic-milestone" class="level2">
-<h2 class="anchored" data-anchor-id="a-genomic-milestone">A Genomic Milestone</h2>
-<p>In a groundbreaking study, researchers have presented the first chromosome-level genome assembly for a Mytilidae family member in South America. This scientific feat, detailed in a recent publication, offers a high-quality reference genome for M. chilensis. It’s a leap forward in our understanding of this species, providing a detailed map of the genetic factors that contribute to its survival and adaptation in a changing marine environment.</p>
-</section>
-<section id="why-genome-matters" class="level2">
-<h2 class="anchored" data-anchor-id="why-genome-matters">Why Genome Matters?</h2>
-<p>Imagine having a detailed instruction manual for building and maintaining an organism, one that could tell you how it can survive freezing waters, resist certain pathogens, or how it might react to the shifting chemistry of its habitat. That’s what a genome assembly provides. For aquaculture, this information is invaluable. It can lead to the development of hardier mussel strains, inform conservation efforts, and enhance the industry’s sustainability.</p>
-</section>
-<section id="the-economic-and-ecological-impact" class="level2">
-<h2 class="anchored" data-anchor-id="the-economic-and-ecological-impact">The Economic and Ecological Impact</h2>
-<p>The aquaculture industry relies heavily on mussel farming, but it’s an enterprise not without its risks. With seeds collected from natural beds and translocated to varied farming conditions, the industry has been seeking ways to reduce losses and improve yields. The newly unveiled genome paves the way for breeding programs that can select for desirable traits, such as disease resistance or faster growth rates, potentially revolutionizing mussel farming.</p>
-</section>
-<section id="beyond-the-economic-horizon" class="level2">
-<h2 class="anchored" data-anchor-id="beyond-the-economic-horizon">Beyond the Economic Horizon</h2>
-<p>But the implications of this research extend beyond the realm of economics. Mussels serve as a filter for the ocean, playing a critical role in maintaining the health of marine ecosystems. Understanding their genetic makeup helps us appreciate not only how they contribute to their environment but also how they might be affected by our actions—be it through climate change or pollution.</p>
-</section>
-<section id="looking-forward" class="level2">
-<h2 class="anchored" data-anchor-id="looking-forward">Looking Forward</h2>
-<p>The journey of understanding Mytilus chilensis at the genomic level is just beginning. This initial assembly is a scaffold for future discoveries, a reference for comparative genomics, and a baseline for monitoring the genetic health of populations. As scientists continue to unravel the mysteries locked in its DNA, we move closer to a future where the blue mussel can continue to thrive, both as a species and an industry.</p>
-<p>The study in discussion is not just a scientific achievement; it’s a testament to the intricate dance of life adapted to the ebb and flow of the sea. As we delve into the genome of Mytilus chilensis, we’re reminded of the resilience of life and the ingenuity of those who seek to understand and preserve it. The blueprints of the sea are laid bare, and with them, a new chapter in sustainable aquaculture beckons.</p>
-<p>CITATION: Gallardo-Escárate, C.; Valenzuela-Muñoz, V.; Nuñez-Acuña, G.; Valenzuela-Miranda, D.; Tapia, F.J.; Yévenes, M.; Gajardo, G.; Toro, J.E.; Oyarzún, P.A.; Arriagada, G.; et al.&nbsp;Chromosome-Level Genome Assembly of the Blue Mussel Mytilus chilensis Reveals Molecular Signatures Facing the Marine Environment. Genes 2023, 14, 876. <a href="https://doi.org/10.3390/genes14040876" class="uri">https://doi.org/10.3390/genes14040876</a></p>
-
-
-<!-- -->
-
-</section>
-</section>
-
- ]]></description>
-  <category>mussel</category>
-  <category>genome</category>
-  <category>Chile</category>
-  <guid>https://faculty.washington.edu/sr320/posts/mytilus-genome/</guid>
-  <pubDate>Wed, 04 Oct 2023 07:00:00 GMT</pubDate>
-  <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_ChatGPT_2023-11-04_15-08-02.png" medium="image" type="image/png"/>
 </item>
 </channel>
 </rss>

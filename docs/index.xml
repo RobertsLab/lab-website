@@ -10,7 +10,167 @@
 <atom:link href="https://faculty.washington.edu/sr320/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.4.555</generator>
-<lastBuildDate>Fri, 30 Aug 2024 07:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 14 Sep 2024 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Deep dive into the handbook</title>
+  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-handbook/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>A unique perspective. You will never guess what they reveal!</p>
+<section id="audio" class="level1">
+<h1>Audio</h1>
+<div class="quarto-video"><video id="video_shortcode_videojs_video1" class="video-js vjs-default-skin vjs-fluid" controls="" preload="auto" data-setup="{}" title=""><source src="http://gannet.fish.washington.edu/seashell/snaps/handbook.wav"></video></div>
+</section>
+<section id="transcript" class="level1">
+<h1>Transcript</h1>
+<p>Welcome to The Deep Dive, where we dig into the nitty gritty of fascinating topics.</p>
+<p>Today, we’re taking a deep dive into the Roberts Lab at the University of Washington, and we’re doing that through the lens of their handbook.</p>
+<p>It’s more than just a rule book, though, isn’t it?</p>
+<p>Oh, absolutely.</p>
+<p>It’s like a window into their whole approach to science.</p>
+<p>Everything from, like, groundbreaking research to how they actually build their research culture.</p>
+<p>And they’re known for being incredibly transparent, which this handbook really embodies.</p>
+<p>Yeah, it’s refreshing.</p>
+<p>And speaking of refreshing, I have to ask you about this freezer alarm situation.</p>
+<p>Oh, yes.</p>
+<p>So they have, like, a dedicated alarm for their ultra-low temperature freezers, right?</p>
+<p>Yeah.</p>
+<p>But there’s this 15-minute delay before anyone actually gets notified if it goes off.</p>
+<p>Can you imagine?</p>
+<p>It’s like a slow-motion heart attack for a researcher.</p>
+<p>Right.</p>
+<p>All those precious samples.</p>
+<p>I’d be a wreck.</p>
+<p>It really highlights the fragility of these biological materials they’re working with.</p>
+<p>RNA, proteins, these things have to be stored at, like, negative 80 degrees Celsius.</p>
+<p>Wow.</p>
+<p>Even a short power outage could be disastrous.</p>
+<p>So is that delay, like, a safety net to give the system a chance to recover?</p>
+<p>Exactly.</p>
+<p>It’s a calculated risk.</p>
+<p>They’re trying to balance preventing false alarms while also, you know, protecting those invaluable research materials.</p>
+<p>Makes sense.</p>
+<p>Yeah.</p>
+<p>And it seems like that emphasis on meticulousness, on minimizing risk, it really comes through in the whole handbook, especially when they talk about lab safety and chemicals.</p>
+<p>It’s serious business.</p>
+<p>Right.</p>
+<p>Like with Arnazole RT, they’re very clear about it being corrosive, potentially harmful if you inhale it, even disposing of it.</p>
+<p>It’s a whole multi-step process.</p>
+<p>Well, they’re dealing with some pretty potent stuff.</p>
+<p>It underscores their dedication to, you know, not just scientific rigor, but the actual well-being of their researchers.</p>
+<p>Absolutely.</p>
+<p>It’s like they’re creating an environment where cutting-edge science can happen, but it can happen safely.</p>
+<p>Safety first.</p>
+<p>Yeah.</p>
+<p>And that meticulousness, that doing things by the book, it goes beyond just lab safety, you know.</p>
+<p>Right.</p>
+<p>It’s woven into their whole research philosophy, which makes you wonder, if they’re this careful with safety, how does that translate to, say, data management or collaboration?</p>
+<p>Good question.</p>
+<p>And as luck would have it, that’s exactly what we’re going to be digging into in the rest of this deep dive.</p>
+<p>You know, it’s funny you should mention that because the next thing that really struck me about this handbook was their code of conduct.</p>
+<p>Oh, interesting.</p>
+<p>How so?</p>
+<p>Well, for one, it’s incredibly detailed, even for like their diversity, equity, and inclusion meetings.</p>
+<p>You don’t always see that level of, I don’t know, formality in a lab handbook.</p>
+<p>What kinds of things are we talking about here?</p>
+<p>They have these great phrases like, “Elevate impact above intent,” and, “Expect and accept non-closure.”</p>
+<p>Like, really specific guidelines.</p>
+<p>Huh.</p>
+<p>It sounds like they’re trying to foster a very specific kind of research environment.</p>
+<p>Right.</p>
+<p>One where people feel comfortable admitting they don’t know everything, which, let’s be honest, is most of the time in research, right?</p>
+<p>Oh, absolutely.</p>
+<p>Science is all about embracing uncertainty.</p>
+<p>But it takes a certain culture to really allow for that.</p>
+<p>Totally.</p>
+<p>And it seems like they’re putting a lot of emphasis on making sure everyone feels heard and respected, especially in those DEI meetings.</p>
+<p>Well, and that makes sense, right?</p>
+<p>If you want to have those tough conversations about diversity and inclusion, you need to create a space where people feel safe to speak their minds.</p>
+<p>Yeah.</p>
+<p>No, you’re right.</p>
+<p>It all ties together.</p>
+<p>And then there’s this whole thing about mentorship.</p>
+<p>They really encourage lab members to have multiple mentors, not just one.</p>
+<p>That’s interesting.</p>
+<p>Most labs I’ve seen, it’s pretty standard to have one primary mentor.</p>
+<p>Right.</p>
+<p>Yeah.</p>
+<p>So I thought that was really unique.</p>
+<p>It kind of speaks to this idea of providing a well-rounded experience, right?</p>
+<p>Absolutely.</p>
+<p>Different mentors bring different perspectives, different areas of expertise.</p>
+<p>It can really enrich a researcher’s training.</p>
+<p>Okay, so we’ve got meticulous safety protocols, a very deliberate approach to their lab culture.</p>
+<p>But we also know they’re dealing with a massive amount of data.</p>
+<p>Like their handbook mentions Nightingale for sequencing this whole network attached storage system called Gannett.</p>
+<p>Don’t forget the supercomputer.</p>
+<p>MOCs, was it?</p>
+<p>Oh, right.</p>
+<p>MOCs.</p>
+<p>I mean, it’s a lot.</p>
+<p>It really makes you wonder how they manage it all.</p>
+<p>It’s a data tsunami.</p>
+<p>How do they keep from drowning?</p>
+<p>Well, for one thing, they’re incredibly organized.</p>
+<p>Like religiously organized.</p>
+<p>Give me the details.</p>
+<p>Think detailed metadata for every single experiment, strict folder structures on their network.</p>
+<p>They even have readme files.</p>
+<p>Readme files for every folder, seriously.</p>
+<p>Seriously.</p>
+<p>And it’s all part of this commitment to open science.</p>
+<p>They want their research to be accessible, transparent.</p>
+<p>So anyone could theoretically go in and understand their data, their methods.</p>
+<p>That’s the idea.</p>
+<p>It’s about breaking down those silos, you know, fostering collaboration, avoiding unnecessary redundancy, ultimately speeding up discoveries.</p>
+<p>It’s kind of inspiring, actually.</p>
+<p>It’s like they’re playing the long game, advancing science as a whole, not just their own work.</p>
+<p>Exactly.</p>
+<p>But okay, even with perfect organization, all that data analysis, it’s got to be intense.</p>
+<p>They mentioned Jupiter notebooks in the handbook.</p>
+<p>Right, and mocks the supercomputer.</p>
+<p>And they even talk about using like the command line.</p>
+<p>Hard course, so they’re not messing around.</p>
+<p>Well, they’re equipping their researchers with a seriously powerful toolkit.</p>
+<p>But it goes beyond just the tech.</p>
+<p>They even recommend this book, Getting Things Done.</p>
+<p>Time management.</p>
+<p>Time management.</p>
+<p>It’s all about efficiency.</p>
+<p>They don’t just give them the tools.</p>
+<p>They give them the training, the resources to actually use them well.</p>
+<p>It’s like they’ve thought of everything.</p>
+<p>Yeah.</p>
+<p>And it doesn’t stop there.</p>
+<p>They have a whole section on conferences, funding opportunities, even like travel grants.</p>
+<p>They want their researchers to be well-rounded, right?</p>
+<p>Not just stuck in the lab, but out there presenting, collaborating, getting their work funded.</p>
+<p>It’s impressive, I have to say.</p>
+<p>Looking at the Roberts Lab this way, through their handbook, you really get a sense of the thoughtfulness, the care that goes into building a successful research environment.</p>
+<p>It’s not just about, you know, the results, the discoveries.</p>
+<p>It’s the people, the culture.</p>
+<p>And that commitment to moving science forward in a way that’s open and collaborative, it’s really something.</p>
+<p>Makes you wonder what they’ll accomplish, what amazing discoveries are on the horizon for them.</p>
+<p>It does, doesn’t it?</p>
+<p>And that’s something to ponder as we wrap up this deep dive into the world of the Roberts Lab.</p>
+<p>Until next time, keep exploring, keep questioning, and keep diving deep.</p>
+
+
+<!-- -->
+
+</section>
+
+ ]]></description>
+  <category>handbook</category>
+  <category>audio</category>
+  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-handbook/</guid>
+  <pubDate>Sat, 14 Sep 2024 07:00:00 GMT</pubDate>
+  <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Roberts_Lab_Handbook_2024-09-14_13-23-52.png" medium="image" type="image/png"/>
+</item>
 <item>
   <title>Hatchery-based Environmental Conditioning Activities</title>
   <dc:creator>Steven Roberts</dc:creator>
@@ -85,57 +245,6 @@
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Monosnap_2024-08-29_13-10-49.png" medium="image" type="image/png"/>
 </item>
 <item>
-  <title>Assessing Oyster Viability Under Environmental Stress</title>
-  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-lsamp/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>As part of our ongoing commitment to fostering innovative research, this summer was particularly thrilling due to the strides made in the <a href="https://www.washington.edu/omad/louis-stokes-alliance-for-minority-participation/">LSAMP Scientist Program</a>. One of our standout projects, led by an ambitious student researcher, Colby Elvrum, brought new insights into the resilience of oysters against environmental stressors. Get a <a href="https://genefish.wordpress.com/author/colbyelvrum/">first hand account of all of Colby’s science from his notebook!</a></p>
-<section id="the-genesis-of-the-study" class="level3">
-<h3 class="anchored" data-anchor-id="the-genesis-of-the-study">The Genesis of the Study</h3>
-<p>Oysters, a crucial component of aquatic ecosystems, serve as indicators of environmental health and sustainability. Recognizing their role and the urgent need to understand how environmental changes affect these organisms, we embarked on a project to utilize a novel application of the resazurin assay, traditionally a cell viability test in microbiology. This assay, which exploits the color-changing properties of the resazurin dye in response to oxygen consumption, was adapted to measure the metabolic activity of oysters under stress.</p>
-</section>
-<section id="what-we-aimed-to-discover" class="level3">
-<h3 class="anchored" data-anchor-id="what-we-aimed-to-discover">What We Aimed to Discover</h3>
-<p>Our research was driven by two pivotal questions: Can resazurin effectively measure metabolism in oysters, and does prior exposure to stress (stress hardening) alter their metabolic response to subsequent stressors? Through meticulously designed experiments, Colby led the charge in optimizing the assay conditions, ensuring the reliability and accuracy of our measurements.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="http://gannet.fish.washington.edu/seashell/snaps/2024-08-21_11-33-23.png" class="img-fluid figure-img"></p>
-<figcaption>Colby presenting his research at the Summer Research Symposium</figcaption>
-</figure>
-</div>
-</section>
-<section id="key-findings-and-methodological-innovations" class="level3">
-<h3 class="anchored" data-anchor-id="key-findings-and-methodological-innovations">Key Findings and Methodological Innovations</h3>
-<p>Our findings were enlightening. We observed that resazurin is not only a viable marker for oyster metabolism but also that it clearly illustrates the metabolic shifts caused by environmental stressors such as temperature fluctuations. Notably, oysters exposed to elevated temperatures displayed a rapid increase in metabolic rate, which was a precursor to subsequent mortality. This initial surge and later plateau in metabolism provided critical clues about the stress thresholds of these organisms.</p>
-<p>Moreover, the study also highlighted how oysters previously conditioned to withstand stress exhibited altered survival rates under extreme temperatures, suggesting a potential sensitization rather than hardening effect. These insights are crucial for understanding how oysters might respond to the escalating challenges of climate change.</p>
-</section>
-<section id="looking-ahead" class="level3">
-<h3 class="anchored" data-anchor-id="looking-ahead">Looking Ahead</h3>
-<p>The implications of this research extend beyond the academic sphere. They beckon a reevaluation of how we manage and conserve our aquatic resources in the face of rapid environmental changes. The potential to scale up this assay and automate aspects of the procedure could revolutionize aquaculture, and provide a more dynamic understanding of environmental impacts on marine life.</p>
-</section>
-<section id="gratitude-and-acknowledgments" class="level3">
-<h3 class="anchored" data-anchor-id="gratitude-and-acknowledgments">Gratitude and Acknowledgments</h3>
-<p>This research was made possible through the support of the National Science Foundation. We are immensely proud of Colby and all associated researchers for their dedication and hard work.</p>
-<p><strong>Poster</strong> (<a href="http://gannet.fish.washington.edu/seashell/snaps/Colby_Poster_LSAMP.pdf">download hi-res pdf</a>)</p>
-<p><img src="http://gannet.fish.washington.edu/seashell/snaps/2024-08-21_11-40-33.png" class="img-fluid"></p>
-
-
-<!-- -->
-
-</section>
-
- ]]></description>
-  <category>oyster</category>
-  <category>stress</category>
-  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-lsamp/</guid>
-  <pubDate>Thu, 22 Aug 2024 07:00:00 GMT</pubDate>
-  <media:content url="http://gannet.fish.washington.edu/seashell/snaps/2024-08-21_11-42-08.png" medium="image" type="image/png"/>
-</item>
-<item>
   <title>Intertidal Innovators</title>
   <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-intertidal/</link>
   <description><![CDATA[ 
@@ -175,85 +284,10 @@ Quote
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_The_Golden_Hour_-_a_geolocated_audio_walk_by_Intertidal_Innovators_on_ECHOES_2024-08-19_12-50-25.png" medium="image" type="image/png"/>
 </item>
 <item>
-  <title>Ostras en Chile</title>
-  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-ostras/</link>
-  <description><![CDATA[ 
-
-
-
-
-<p><img src="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_IMG_6806.jpg_19801320_pixels_2024-08-14_11-49-59.png" class="img-fluid"></p>
-<p>On August 6, 2024, approximately sixty participants gathered at the Professor Alamiro Robledo Auditorium of the Faculty of Physical and Mathematical Sciences at the University of Concepción. They were there to delve into the promising sector of oyster aquaculture in Chile during the seminar titled “Oysters in Chile: Opportunities and Challenges for Aquaculture Diversification.” This event was meticulously organized by the Interdisciplinary Center for Aquaculture Research (INCAR).</p>
-<p>The seminar showcased six presentations from both national and international experts, followed by a panel discussion. The diverse audience included academia, public and private sector representatives, producers, aquaculturists, industry leaders, professionals, and both secondary and postgraduate students. The gathering aimed to foster a comprehensive dialogue on the development of oyster aquaculture in the country.</p>
-<p>Manira Matamala, the regional director of the Undersecretary of Fisheries and Aquaculture (Subpesca) for Valparaíso, O’Higgins, and Maule, commended INCAR’s initiative. She highlighted the seminar’s focus on enhancing the genetic and genomic understanding of oysters, which is vital for promoting sustainable aquaculture practices.</p>
-<p>Among the speakers, Justo García, an aquaculturist and founder of “Cultivos Cholche,” shared insights from his hands-on experience in various stages of oyster production, emphasizing the importance of adding value to the aquaculture processes.</p>
-<p>Key Presentations Highlighted at the Seminar:</p>
-<ul>
-<li><p>Dr.&nbsp;Steven Roberts from the University of Washington offered an international perspective with his presentation on the “<a href="https://github.com/sr320/talk-ostras-2024">Olympia Oyster (Ostrea lurida) Restoration in the United States</a>,” focusing on physiological and genomic insights.</p></li>
-<li><p>Dr.&nbsp;Cristian Gallardo-Escárate, deputy director of Incar, discussed the genome of the Chilean oyster (Ostrea chilensis) as a critical tool for the restoration and conservation of natural oyster banks.</p></li>
-<li><p>Dr.&nbsp;Francisco Cárcamo shared experiences on co-cultivating Japanese oysters and algae both in field and laboratory settings, presenting an alternative approach for Environmental Performance Enhancement (APE). Justo García recounted his local experiences in small-scale aquaculture for both Chilean and Japanese oysters.</p></li>
-<li><p>Dr.&nbsp;Rodrigo Rojas from the Catholic University of the North introduced advances from a technological program aimed at the sustainable development of Japanese oyster cultivation.</p></li>
-<li><p>Meyling Tang, vice president of the Cocinamar Foundation, proposed strategies to reinvigorate oyster consumption in Chile with her presentation titled “Oysters Everywhere: Ideas to Reactivate Oyster Consumption in Chile.”</p></li>
-<li><p>Dr.&nbsp;Renato Quiñones, the director of Incar, emphasized the seminar’s role in bringing together experts from varied fields to create a multidimensional space for all stakeholders involved in oyster cultivation. This interaction is crucial for transforming scientific knowledge into a community and national heritage.</p></li>
-</ul>
-<p>The event concluded with a panel discussion moderated by Dr.&nbsp;Doris Soto, principal investigator at Incar, where experts discussed the multifaceted opportunities and challenges facing aquaculture diversification in Chile.</p>
-<p><img src="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Monosnap_2024-08-14_11-36-29.png" class="img-fluid"></p>
-<p>This seminar not only highlighted the collaborative efforts required to advance oyster aquaculture but also showcased the commitment of INCAR to foster a sustainable and innovative aquaculture industry in Chile.</p>
-
-
-<!-- -->
-
-
- ]]></description>
-  <category>oyster</category>
-  <category>presentation</category>
-  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-ostras/</guid>
-  <pubDate>Tue, 06 Aug 2024 07:00:00 GMT</pubDate>
-  <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Monosnap_2024-08-14_11-33-39.png" medium="image" type="image/png"/>
-</item>
-<item>
-  <title>Exploring How Environmental Conditions Impact Atlantic Salmon’s Defense Against Sea Lice</title>
-  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-lice/</link>
-  <description><![CDATA[ 
-
-
-
-
-<p><a href="https://pubmed.ncbi.nlm.nih.gov/38876411/">In our latest study, we delved into the complex interplay between environmental factors and the immune responses of Atlantic salmon (<em>Salmo salar</em>) during infestations by sea lice (<em>Caligus rogercresseyi</em>).</a> This research is particularly significant for both aquaculture and the management of natural marine ecosystems.</p>
-<section id="our-research-approach" class="level4">
-<h4 class="anchored" data-anchor-id="our-research-approach">Our Research Approach</h4>
-<p>Dr.&nbsp;Cristian Gallardos’ team set up an experimental infestation of Atlantic salmon with sea lice, controlling for variations in temperature and salinity: specifically, conditions were set at 8°C and 16°C, and 32 and 26 practical salinity units (PSU). We then collected tissues from these fish to conduct analyses via reduced representation bisulfite sequencing (RRBS) and whole transcriptome sequencing (RNA-seq).</p>
-</section>
-<section id="key-discoveries" class="level4">
-<h4 class="anchored" data-anchor-id="key-discoveries">Key Discoveries</h4>
-<ol type="1">
-<li><p><strong>Impact of Environment on Parasitic Load</strong>: We observed that the parasitic load varied significantly with environmental conditions, noting the lowest abundance of lice in salmon kept at cooler and less saline conditions (8°C/26PSU).</p></li>
-<li><p><strong>Transcriptional Changes and Splicing Events</strong>: Environmental conditions were found to influence the salmon’s transcriptome profiles substantially. Notably, there was an increase in alternative splicing events in fish under low temperature and salinity, suggesting that environmental stress can induce genomic adaptations.</p></li>
-<li><p><strong>Methylation Patterns</strong>: We also noted significant changes in methylation levels in response to temperature variations, with more pronounced differential methylation regions (DMRs) at the higher temperature of 16°C. These methylation changes correlated with the expression of alternatively spliced transcripts.</p></li>
-<li><p><strong>Biological Pathways</strong>: Our analyses revealed significant correlations between methylation, transcript expression, and key biological pathways such as Ferroptosis and TLR signaling pathways, which are crucial for immune response and cellular integrity.</p></li>
-</ol>
-</section>
-<section id="implications-of-our-findings" class="level4">
-<h4 class="anchored" data-anchor-id="implications-of-our-findings">Implications of Our Findings</h4>
-<p>This research highlights the nuanced ways in which environmental conditions can influence the genomic and epigenomic landscapes of marine organisms. For the aquaculture industry, understanding these dynamics is essential for developing effective management strategies to combat sea lice infestations, which are a major challenge for the sustainability and economic success of salmon farming.</p>
-<p>Moreover, the link between environmental conditions, alternative splicing, and methylation opens new research avenues into the genetic mechanisms of resilience and adaptability in marine organisms. This knowledge advances our understanding of how species adapt to their changing environments, which is critical for preserving and enhancing the health of our global marine resources.</p>
-
-
-<!-- -->
-
-</section>
-
- ]]></description>
-  <category>salmon</category>
-  <category>epigenetics</category>
-  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-lice/</guid>
-  <pubDate>Mon, 01 Jul 2024 07:00:00 GMT</pubDate>
-  <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Environmental_influence_on_the_Atlantic_salmon_transcriptome_and_methylome_during_sea_lice_infestations_-_ScienceDirect_2024-08-14_12-12-07.png" medium="image" type="image/png"/>
-</item>
-<item>
   <title>Unraveling the Intricacies of Enrichment Analysis</title>
   <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-enrich/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -302,6 +336,7 @@ Quote
 
 
 
+
 <p>On May 6, 2024, Dr.&nbsp;Ariana Huffmyer, an NSF Ocean Sciences Postdoctoral Fellow from the University of Rhode Island and University of Washington, shared insights from a field day at Point Whitney. This comprehensive post revealed the detailed process of managing and monitoring oyster growth and stress testing, providing a clear framework for hatchery management.</p>
 <div class="callout callout-style-default callout-important callout-titled">
 <div class="callout-header d-flex align-content-center">
@@ -328,7 +363,7 @@ Link to Full Notebook Post
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Hatchery_field_day_at_Point_Whitney_May_6_2024__Ariana_S_Huffmyer__NSF_Ocean_Sciences_Postdoctoral_Fellow_University_of_Rhod_2024-05-11_14-51-46.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">heath-tray</figcaption>
+<figcaption>heath-tray</figcaption>
 </figure>
 </div>
 <p><strong>Takeaways for Hatchery Science</strong> Dr.&nbsp;Huffmyer’s systematic approach highlights the significance of precise monitoring and stress testing in hatchery science. Understanding oyster resilience to environmental stressors is crucial for aquaculture sustainability. Her work at Point Whitney offers a detailed protocol that could be replicated or adapted by other researchers to monitor and improve hatchery operations.</p>
@@ -344,68 +379,6 @@ Link to Full Notebook Post
   <guid>https://faculty.washington.edu/sr320/posts/frontpage/ariana-hatchery/</guid>
   <pubDate>Mon, 06 May 2024 07:00:00 GMT</pubDate>
   <media:content url="https://faculty.washington.edu/sr320/img/bucket.png" medium="image" type="image/png" height="145" width="144"/>
-</item>
-<item>
-  <title>Hardening in oysters drives increased growth</title>
-  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-oyster_stage/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>In the meticulously orchestrated world of marine science, a groundbreaking experiment has unfolded in the hands of <a href="https://eric-ess.github.io">Eric Essington</a>, casting the spotlight on an unlikely protagonist: the oyster. This narrative begins with the arrival of 235 adult oysters from Pacific Hybreed, their sizes ranging impressively from 40 to 100mm, and further complemented by a diverse younger contingent—120 juveniles, 120 seed, and approximately 120 spat, all courtesy of the USDA’s 2023 spawn.</p>
-<p>The experimental setup divided these oysters into two groups: one destined for a control tank, mirroring their natural aquatic environment at a serene 17ºC, and the other for a treatment tank, where conditions were significantly altered. The latter group was subjected to a deliberate increase in temperature, a gradual ascent of 2ºC per hour until the water reached a stress-inducing 26ºC, maintained for six hours daily over a seven-week span (began 10 2 2023, ended 11 21 2023). This thermal regimen aimed to simulate the increasingly erratic and harsh conditions wrought by climate change.</p>
-<p><img src="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Explanation_2024-03-08_15-17-47.png" class="img-fluid"></p>
-<p>Adding a layer of complexity, adults and juveniles were subjected to mechanical stress, an innovative use of a salad spinner for 15 minutes on selected dates (10/2/2023, 10/4/2023, 10/11/2023). This unusual methodology aimed to mimic the physical disturbances oysters might face in their natural habitats, from tumbling in currents to encounters with predators and debris.</p>
-<p>The culmination of this phase was marked by a meticulous sampling process on November 21, 2023. Selected groups of oysters were divided for detailed analysis, with some undergoing immediate tissue sampling for RNA and DNA analysis, while others faced an additional stress test—a 30-minute immersion in 32ºC water followed by a tumbling session in the salad spinner. This process was designed to simulate an acute stress event, allowing researchers to gauge the oysters’ physiological responses to compounded stressors.</p>
-<p>Several months later, on February 28, 2024, the experiment was revisited with a focused approach. This time, the younger generation of oysters was spotlighted, undergoing tissue sampling without the prior mechanical stress, to isolate the effects of thermal stress.</p>
-<p><img src="http://gannet.fish.washington.edu/seashell/snaps/growth.png" class="img-fluid"></p>
-<p><strong>Take-away to date</strong> - Stress hardening in spat in October and November resulted in increased growth compared to controls in February.</p>
-<p>This experiment is not merely an investigation into the resilience of oysters to thermal and mechanical stress; it’s a narrative about adaptation, survival, and the intricate dance of life beneath the waves.</p>
-<p>See <a href="https://eric-ess.github.io/data-explanation/">Eric’s Post</a> for more details.</p>
-
-
-<!-- -->
-
-
- ]]></description>
-  <category>oyster</category>
-  <category>aquaculture</category>
-  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-oyster_stage/</guid>
-  <pubDate>Fri, 08 Mar 2024 08:00:00 GMT</pubDate>
-  <media:content url="https://faculty.washington.edu/sr320/img/pw.png" medium="image" type="image/png" height="124" width="144"/>
-</item>
-<item>
-  <title>Are you really prepared?</title>
-  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-prep/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p><a href="https://faculty.washington.edu/sr320/people.html#ariana-s.-huffmyer-phd">Ariana</a> lead a great tutorial on being prepared and planning for science. The narrative underscored the importance of thorough preparation and planning, including considering alternative uses for collected data, planning for potential pitfalls, and ensuring that experimental designs are robust against unforeseen challenges. This includes the practical aspects of laboratory work, field studies, and data analysis, emphasizing the value of learning from past experiences and being flexible in research approaches.</p>
-<div class="quarto-video"><video id="video_shortcode_videojs_video1" class="video-js vjs-default-skin vjs-fluid" controls="" preload="auto" data-setup="{}" title=""><source src="http://gannet.fish.washington.edu/seashell/snaps/Exp_prep.mov"></video></div>
-<p>Designing scientific experiments requires extensive planning to ensure projects run smoothly and yield meaningful results. Here are some important aspects to consider when preparing for research:</p>
-<p><strong>Clearly Define Your Hypothesis and Objectives</strong>: Having a clear hypothesis drives your experimental design and analysis approach. Define what you aim to test upfront.</p>
-<p><strong>Prepare Detailed Protocols</strong>: Write step-by-step protocols for all procedures well before starting. Practice techniques on mock datasets to work out kinks.</p>
-<p><strong>Plan Your Data Collection</strong>: Design data sheets, name conventions, and metadata standards early. Consider sample sizes and ensure you collect the right data to answer your questions.</p>
-<p><strong>Schedule Carefully</strong>: Block out experiment timelines, factoring permitting needs and collaborator availability. Leave buffer time for unexpected issues.</p>
-<p><strong>Create Organizational Systems</strong>: Use checklists, spreadsheets, and visual aids to track tasks and ensure all preparation steps are completed thoroughly.</p>
-<p><strong>Anticipate Challenges</strong>: Brainstorm potential pitfalls and have contingency plans. Run test analyses to flag problems before using real data.</p>
-<p>Proper preparation is key to running successful, high-quality experiments that yield meaningful scientific insights. Taking the time to carefully plan experimental design and logistics pays off in efficient, productive research.</p>
-
-
-<!-- -->
-
-
- ]]></description>
-  <category>methods</category>
-  <category>tools</category>
-  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-prep/</guid>
-  <pubDate>Fri, 02 Feb 2024 08:00:00 GMT</pubDate>
-  <media:content url="https://faculty.washington.edu/sr320/img/prep.png" medium="image" type="image/png" height="105" width="144"/>
 </item>
 </channel>
 </rss>
