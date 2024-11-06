@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.555">
+<meta name="generator" content="quarto-1.3.433">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -50,13 +50,7 @@ ul.task-list li input[type="checkbox"] {
   "collapse-after": 3,
   "panel-placement": "end",
   "type": "overlay",
-  "limit": 50,
-  "keyboard-shortcut": [
-    "f",
-    "/",
-    "s"
-  ],
-  "show-item-context": false,
+  "limit": 20,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -65,7 +59,6 @@ ul.task-list li input[type="checkbox"] {
     "search-more-match-text": "more match in this document",
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
-    "search-text-placeholder": "",
     "search-detached-cancel-button-title": "Cancel",
     "search-submit-button-title": "Submit",
     "search-label": "Search"
@@ -114,42 +107,15 @@ gtag('config', 'G-CVEKGK5BS0', { 'anonymize_ip': true});
   <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="alternate" type="application/rss+xml" title="robertslab.info" href="posts.xml" data-external="1"></head>
+<link rel="alternate" type="application/rss+xml" title="robertslab.info" href="posts.xml"></head>
 
 <body class="nav-sidebar docked nav-fixed">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top quarto-banner">
-    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
-      <div class="navbar-brand-container mx-auto">
+      <div class="navbar-brand-container">
     <a href="./index.html" class="navbar-brand navbar-brand-logo">
     <img src="./img/logo.png" alt="" class="navbar-logo">
     </a>
@@ -157,32 +123,32 @@ window.Quarto = {
     <span class="navbar-title">robertslab.info</span>
     </a>
   </div>
-        <div class="quarto-navbar-tools tools-wide tools-end">
+        <div class="quarto-navbar-tools ms-auto tools-wide">
     <div class="dropdown">
       <a href="" title="" id="quarto-navigation-tool-dropdown-0" class="quarto-navigation-tool dropdown-toggle px-1" data-bs-toggle="dropdown" aria-expanded="false" aria-label=""><i class="bi bi-hdd-network"></i></a>
       <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="quarto-navigation-tool-dropdown-0">
           <li>
-            <a class="dropdown-item quarto-navbar-tools-item" href="http://raven.fish.washington.edu:8787">
+            <a class="dropdown-item quarto-navbar-tools ms-auto-item" href="http://raven.fish.washington.edu:8787">
             raven
             </a>
           </li>
           <li>
-            <a class="dropdown-item quarto-navbar-tools-item" href="https://gannet.fish.washington.edu">
+            <a class="dropdown-item quarto-navbar-tools ms-auto-item" href="https://gannet.fish.washington.edu">
             gannet
             </a>
           </li>
           <li>
-            <a class="dropdown-item quarto-navbar-tools-item" href="https://owl.fish.washington.edu">
+            <a class="dropdown-item quarto-navbar-tools ms-auto-item" href="https://owl.fish.washington.edu">
             owl
             </a>
           </li>
           <li>
-            <a class="dropdown-item quarto-navbar-tools-item" href="https://eagle.fish.washington.edu">
+            <a class="dropdown-item quarto-navbar-tools ms-auto-item" href="https://eagle.fish.washington.edu">
             eagle
             </a>
           </li>
           <li>
-            <a class="dropdown-item quarto-navbar-tools-item" href="https://apexfusion.com/apex/6442fd69028f6947a44a61d1">
+            <a class="dropdown-item quarto-navbar-tools ms-auto-item" href="https://apexfusion.com/apex/6442fd69028f6947a44a61d1">
             apex
             </a>
           </li>
@@ -192,67 +158,67 @@ window.Quarto = {
       <a href="" title="" id="quarto-navigation-tool-dropdown-1" class="quarto-navigation-tool dropdown-toggle px-1" data-bs-toggle="dropdown" aria-expanded="false" aria-label=""><i class="bi bi-journal-code"></i></a>
       <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="quarto-navigation-tool-dropdown-1">
           <li>
-            <a class="dropdown-item quarto-navbar-tools-item" href="https://robertslab.github.io/sams-notebook/">
+            <a class="dropdown-item quarto-navbar-tools ms-auto-item" href="https://robertslab.github.io/sams-notebook/">
             sam
             </a>
           </li>
           <li>
-            <a class="dropdown-item quarto-navbar-tools-item" href="https://sr320.github.io/tumbling-oysters/">
+            <a class="dropdown-item quarto-navbar-tools ms-auto-item" href="https://sr320.github.io/tumbling-oysters/">
             steven
             </a>
           </li>
           <li>
-            <a class="dropdown-item quarto-navbar-tools-item" href="https://aspencoyle.github.io/notebook/">
+            <a class="dropdown-item quarto-navbar-tools ms-auto-item" href="https://aspencoyle.github.io/notebook/">
             aspen
             </a>
           </li>
           <li>
-            <a class="dropdown-item quarto-navbar-tools-item" href="https://chrismantegna.github.io/cmlabsite/notebook.html">
+            <a class="dropdown-item quarto-navbar-tools ms-auto-item" href="https://chrismantegna.github.io/cmlabsite/notebook.html">
             chris
             </a>
           </li>
           <li>
-            <a class="dropdown-item quarto-navbar-tools-item" href="https://zbengt.github.io/notebook/">
+            <a class="dropdown-item quarto-navbar-tools ms-auto-item" href="https://zbengt.github.io/notebook/">
             zach
             </a>
           </li>
           <li>
-            <a class="dropdown-item quarto-navbar-tools-item" href="https://valeste.github.io/tough-tunicates/">
+            <a class="dropdown-item quarto-navbar-tools ms-auto-item" href="https://valeste.github.io/tough-tunicates/">
             celeste
             </a>
           </li>
           <li>
-            <a class="dropdown-item quarto-navbar-tools-item" href="https://grace-ac.github.io/notebook/">
+            <a class="dropdown-item quarto-navbar-tools ms-auto-item" href="https://grace-ac.github.io/notebook/">
             grace
             </a>
           </li>
           <li>
-            <a class="dropdown-item quarto-navbar-tools-item" href="https://shedurkin.github.io/Roberts-LabNotebook/">
+            <a class="dropdown-item quarto-navbar-tools ms-auto-item" href="https://shedurkin.github.io/Roberts-LabNotebook/">
             kathleen
             </a>
           </li>
           <li>
-            <a class="dropdown-item quarto-navbar-tools-item" href="https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/">
+            <a class="dropdown-item quarto-navbar-tools ms-auto-item" href="https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/">
             ariana
             </a>
           </li>
           <li>
-            <a class="dropdown-item quarto-navbar-tools-item" href="https://larkenr.github.io">
+            <a class="dropdown-item quarto-navbar-tools ms-auto-item" href="https://larkenr.github.io">
             larken
             </a>
           </li>
           <li>
-            <a class="dropdown-item quarto-navbar-tools-item" href="https://genefish.wordpress.com/author/jtatum0celts/">
+            <a class="dropdown-item quarto-navbar-tools ms-auto-item" href="https://genefish.wordpress.com/author/jtatum0celts/">
             noah
             </a>
           </li>
           <li>
-            <a class="dropdown-item quarto-navbar-tools-item" href="https://meganewing.github.io/mewing-notebook/">
+            <a class="dropdown-item quarto-navbar-tools ms-auto-item" href="https://meganewing.github.io/mewing-notebook/">
             megan
             </a>
           </li>
           <li>
-            <a class="dropdown-item quarto-navbar-tools-item" href="https://eric-ess.github.io/notebook/">
+            <a class="dropdown-item quarto-navbar-tools ms-auto-item" href="https://eric-ess.github.io/notebook/">
             eric
             </a>
           </li>
@@ -262,25 +228,25 @@ window.Quarto = {
       <a href="" title="" id="quarto-navigation-tool-dropdown-2" class="quarto-navigation-tool dropdown-toggle px-1" data-bs-toggle="dropdown" aria-expanded="false" aria-label=""><i class="bi bi-github"></i></a>
       <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="quarto-navigation-tool-dropdown-2">
           <li>
-            <a class="dropdown-item quarto-navbar-tools-item" href="https://github.com/RobertsLab/resources/issues/new">
+            <a class="dropdown-item quarto-navbar-tools ms-auto-item" href="https://github.com/RobertsLab/resources/issues/new">
             Submit an Issue
             </a>
           </li>
           <li>
-            <a class="dropdown-item quarto-navbar-tools-item" href="https://github.com/RobertsLab">
+            <a class="dropdown-item quarto-navbar-tools ms-auto-item" href="https://github.com/RobertsLab">
             Lab Organization
             </a>
           </li>
           <li>
-            <a class="dropdown-item quarto-navbar-tools-item" href="https://github.com/RobertsLab/lab-website">
+            <a class="dropdown-item quarto-navbar-tools ms-auto-item" href="https://github.com/RobertsLab/lab-website">
             Edit this site
             </a>
           </li>
       </ul>
     </div>
-    <a href="./calendar.html" title="Calendar" class="quarto-navigation-tool px-1" aria-label="Calendar"><i class="bi bi-calendar-week"></i></a>
-    <a href="./contact.html" title="Contact Us" class="quarto-navigation-tool px-1" aria-label="Contact Us"><i class="bi bi-envelope-paper"></i></a>
-    <a href="./index.xml" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-rss"></i></a>
+    <a href="./calendar.html" rel="" title="Calendar" class="quarto-navigation-tool px-1" aria-label="Calendar"><i class="bi bi-calendar-week"></i></a>
+    <a href="./contact.html" rel="" title="Contact Us" class="quarto-navigation-tool px-1" aria-label="Contact Us"><i class="bi bi-envelope-paper"></i></a>
+    <a href="./index.xml" rel="" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-rss"></i></a>
   <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
 </div>
           <div id="quarto-search" class="" title="Search"></div>
@@ -288,12 +254,12 @@ window.Quarto = {
     </nav>
   <nav class="quarto-secondary-nav">
     <div class="container-fluid d-flex">
-      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./posts.html">News and Updates</a></li></ol></nav>
-        <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
-        </a>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./posts.html">News and Updates</a></li></ol></nav>
+      <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+      </a>
       <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
         <i class="bi bi-search"></i>
       </button>
@@ -319,7 +285,7 @@ window.Quarto = {
   
   </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal sidebar-navigation docked overflow-auto">
         <div class="mt-2 flex-shrink-0 align-items-center">
         <div class="sidebar-search">
         <div id="quarto-search" class="" title="Search"></div>
@@ -366,11 +332,11 @@ window.Quarto = {
     </ul>
     </div>
 </nav>
-<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(26)</span></div><div class="category" data-category="Chile">Chile <span class="quarto-category-count">(1)</span></div><div class="category" data-category="LGBTQ+">LGBTQ+ <span class="quarto-category-count">(1)</span></div><div class="category" data-category="acidication">acidication <span class="quarto-category-count">(1)</span></div><div class="category" data-category="aquaculture">aquaculture <span class="quarto-category-count">(4)</span></div><div class="category" data-category="audio">audio <span class="quarto-category-count">(1)</span></div><div class="category" data-category="clam">clam <span class="quarto-category-count">(1)</span></div><div class="category" data-category="cod">cod <span class="quarto-category-count">(1)</span></div><div class="category" data-category="code">code <span class="quarto-category-count">(1)</span></div><div class="category" data-category="conservation">conservation <span class="quarto-category-count">(1)</span></div><div class="category" data-category="course">course <span class="quarto-category-count">(1)</span></div><div class="category" data-category="dei">dei <span class="quarto-category-count">(1)</span></div><div class="category" data-category="diversity">diversity <span class="quarto-category-count">(1)</span></div><div class="category" data-category="education">education <span class="quarto-category-count">(1)</span></div><div class="category" data-category="epigenetics">epigenetics <span class="quarto-category-count">(2)</span></div><div class="category" data-category="fhl">fhl <span class="quarto-category-count">(1)</span></div><div class="category" data-category="genome">genome <span class="quarto-category-count">(1)</span></div><div class="category" data-category="genomics">genomics <span class="quarto-category-count">(5)</span></div><div class="category" data-category="handbook">handbook <span class="quarto-category-count">(1)</span></div><div class="category" data-category="highlight">highlight <span class="quarto-category-count">(1)</span></div><div class="category" data-category="inclusion">inclusion <span class="quarto-category-count">(1)</span></div><div class="category" data-category="meeting">meeting <span class="quarto-category-count">(2)</span></div><div class="category" data-category="mentoring">mentoring <span class="quarto-category-count">(1)</span></div><div class="category" data-category="methods">methods <span class="quarto-category-count">(6)</span></div><div class="category" data-category="mussel">mussel <span class="quarto-category-count">(1)</span></div><div class="category" data-category="ostrea">ostrea <span class="quarto-category-count">(1)</span></div><div class="category" data-category="oyster">oyster <span class="quarto-category-count">(8)</span></div><div class="category" data-category="paper">paper <span class="quarto-category-count">(3)</span></div><div class="category" data-category="presentation">presentation <span class="quarto-category-count">(1)</span></div><div class="category" data-category="rna-seq">rna-seq <span class="quarto-category-count">(1)</span></div><div class="category" data-category="rnaseq">rnaseq <span class="quarto-category-count">(1)</span></div><div class="category" data-category="salmon">salmon <span class="quarto-category-count">(1)</span></div><div class="category" data-category="seastar">seastar <span class="quarto-category-count">(2)</span></div><div class="category" data-category="spotlight">spotlight <span class="quarto-category-count">(1)</span></div><div class="category" data-category="stress">stress <span class="quarto-category-count">(5)</span></div><div class="category" data-category="tag-seq">tag-seq <span class="quarto-category-count">(1)</span></div><div class="category" data-category="tools">tools <span class="quarto-category-count">(4)</span></div><div class="category" data-category="triploid">triploid <span class="quarto-category-count">(2)</span></div><div class="category" data-category="website">website <span class="quarto-category-count">(2)</span></div><div class="category" data-category="wsn">wsn <span class="quarto-category-count">(2)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(27)</span></div><div class="category" data-category="Alaska">Alaska <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Chile">Chile <span class="quarto-category-count">(1)</span></div><div class="category" data-category="LGBTQ+">LGBTQ+ <span class="quarto-category-count">(1)</span></div><div class="category" data-category="acidication">acidication <span class="quarto-category-count">(1)</span></div><div class="category" data-category="aquaculture">aquaculture <span class="quarto-category-count">(4)</span></div><div class="category" data-category="audio">audio <span class="quarto-category-count">(1)</span></div><div class="category" data-category="clam">clam <span class="quarto-category-count">(1)</span></div><div class="category" data-category="cod">cod <span class="quarto-category-count">(2)</span></div><div class="category" data-category="code">code <span class="quarto-category-count">(1)</span></div><div class="category" data-category="conservation">conservation <span class="quarto-category-count">(1)</span></div><div class="category" data-category="course">course <span class="quarto-category-count">(1)</span></div><div class="category" data-category="dei">dei <span class="quarto-category-count">(1)</span></div><div class="category" data-category="diversity">diversity <span class="quarto-category-count">(1)</span></div><div class="category" data-category="education">education <span class="quarto-category-count">(1)</span></div><div class="category" data-category="epigenetics">epigenetics <span class="quarto-category-count">(2)</span></div><div class="category" data-category="fhl">fhl <span class="quarto-category-count">(1)</span></div><div class="category" data-category="genome">genome <span class="quarto-category-count">(1)</span></div><div class="category" data-category="genomics">genomics <span class="quarto-category-count">(5)</span></div><div class="category" data-category="handbook">handbook <span class="quarto-category-count">(1)</span></div><div class="category" data-category="highlight">highlight <span class="quarto-category-count">(1)</span></div><div class="category" data-category="inclusion">inclusion <span class="quarto-category-count">(1)</span></div><div class="category" data-category="meeting">meeting <span class="quarto-category-count">(2)</span></div><div class="category" data-category="mentoring">mentoring <span class="quarto-category-count">(1)</span></div><div class="category" data-category="methods">methods <span class="quarto-category-count">(6)</span></div><div class="category" data-category="mussel">mussel <span class="quarto-category-count">(1)</span></div><div class="category" data-category="ostrea">ostrea <span class="quarto-category-count">(1)</span></div><div class="category" data-category="oyster">oyster <span class="quarto-category-count">(8)</span></div><div class="category" data-category="paper">paper <span class="quarto-category-count">(3)</span></div><div class="category" data-category="presentation">presentation <span class="quarto-category-count">(1)</span></div><div class="category" data-category="rna-seq">rna-seq <span class="quarto-category-count">(1)</span></div><div class="category" data-category="rnaseq">rnaseq <span class="quarto-category-count">(1)</span></div><div class="category" data-category="salmon">salmon <span class="quarto-category-count">(1)</span></div><div class="category" data-category="seastar">seastar <span class="quarto-category-count">(2)</span></div><div class="category" data-category="spotlight">spotlight <span class="quarto-category-count">(1)</span></div><div class="category" data-category="stress">stress <span class="quarto-category-count">(5)</span></div><div class="category" data-category="tag-seq">tag-seq <span class="quarto-category-count">(1)</span></div><div class="category" data-category="tools">tools <span class="quarto-category-count">(4)</span></div><div class="category" data-category="triploid">triploid <span class="quarto-category-count">(2)</span></div><div class="category" data-category="website">website <span class="quarto-category-count">(2)</span></div><div class="category" data-category="wsn">wsn <span class="quarto-category-count">(2)</span></div></div></div>
 <!-- main -->
 <main class="content quarto-banner-title-block" id="quarto-document-content">
 
@@ -381,10 +347,42 @@ window.Quarto = {
 
 
 
-
 <div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="handbook,audio" data-listing-date-sort="1726297200000" data-listing-file-modified-sort="1726345450339" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1015">
+<div class="g-col-1" data-index="0" data-categories="cod,Alaska" data-listing-date-sort="1730880000000" data-listing-file-modified-sort="1730934934739" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<a href="./posts/frontpage/lspencer-cod/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="http://gannet.fish.washington.edu/seashell/snaps/2024-11-06_13-57-57.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Exploring Pacific Cod Resilience in a Warming Ocean
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('cod'); return false;">
+cod
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Alaska'); return false;">
+Alaska
+</div>
+</div>
+<div class="card-text listing-description">
+In our latest update on the Pacific cod juvenile temperature study, we've gained deeper insights…
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Laura Spencer
+</div>
+<div class="listing-date">
+Nov 6, 2024
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="handbook,audio" data-listing-date-sort="1726297200000" data-listing-file-modified-sort="1730934869719" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6">
 <a href="./posts/frontpage/sr320-handbook/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -417,7 +415,7 @@ Sep 14, 2024
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="oyster,stress" data-listing-date-sort="1725001200000" data-listing-file-modified-sort="1724966354262" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="686">
+<div class="g-col-1" data-index="2" data-categories="oyster,stress" data-listing-date-sort="1725001200000" data-listing-file-modified-sort="1730934869719" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4">
 <a href="./posts/frontpage/sr320-usda-report/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -450,7 +448,7 @@ Aug 30, 2024
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="2" data-categories="oyster,stress" data-listing-date-sort="1724310000000" data-listing-file-modified-sort="1724356562178" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="414">
+<div class="g-col-1" data-index="3" data-categories="oyster,stress" data-listing-date-sort="1724310000000" data-listing-file-modified-sort="1730934869726" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3">
 <a href="./posts/sr320-lsamp/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -483,7 +481,7 @@ Aug 22, 2024
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="3" data-categories="education" data-listing-date-sort="1724050800000" data-listing-file-modified-sort="1724098743122" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="174">
+<div class="g-col-1" data-index="4" data-categories="education" data-listing-date-sort="1724050800000" data-listing-file-modified-sort="1730934869719" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
 <a href="./posts/frontpage/sr320-intertidal/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -513,7 +511,7 @@ Aug 19, 2024
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="4" data-categories="oyster,presentation" data-listing-date-sort="1722927600000" data-listing-file-modified-sort="1723661418263" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="469">
+<div class="g-col-1" data-index="5" data-categories="oyster,presentation" data-listing-date-sort="1722927600000" data-listing-file-modified-sort="1730934869726" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3">
 <a href="./posts/sr320-ostras/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -546,7 +544,7 @@ Aug 6, 2024
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="5" data-categories="salmon,epigenetics" data-listing-date-sort="1719817200000" data-listing-file-modified-sort="1723663050843" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="358">
+<div class="g-col-1" data-index="6" data-categories="salmon,epigenetics" data-listing-date-sort="1719817200000" data-listing-file-modified-sort="1730934869725" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
 <a href="./posts/sr320-lice/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -579,7 +577,7 @@ Jul 1, 2024
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="6" data-categories="methods,tools" data-listing-date-sort="1716620400000" data-listing-file-modified-sort="1726345642840" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="551">
+<div class="g-col-1" data-index="7" data-categories="methods,tools" data-listing-date-sort="1716620400000" data-listing-file-modified-sort="1730934869725" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3">
 <a href="./posts/sr320-altsplice/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -612,7 +610,7 @@ May 25, 2024
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="7" data-categories="methods,tools" data-listing-date-sort="1715238000000" data-listing-file-modified-sort="1715463826448" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="291">
+<div class="g-col-1" data-index="8" data-categories="methods,tools" data-listing-date-sort="1715238000000" data-listing-file-modified-sort="1730934869719" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
 <a href="./posts/frontpage/sr320-enrich/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -645,7 +643,7 @@ May 9, 2024
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="8" data-categories="methods,tools" data-listing-date-sort="1714978800000" data-listing-file-modified-sort="1715464353655" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="400">
+<div class="g-col-1" data-index="9" data-categories="methods,tools" data-listing-date-sort="1714978800000" data-listing-file-modified-sort="1730934869718" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
 <a href="./posts/frontpage/ariana-hatchery/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -678,7 +676,7 @@ May 6, 2024
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="9" data-categories="oyster,aquaculture" data-listing-date-sort="1709884800000" data-listing-file-modified-sort="1710026457573" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="391">
+<div class="g-col-1" data-index="10" data-categories="oyster,aquaculture" data-listing-date-sort="1709884800000" data-listing-file-modified-sort="1730934869726" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
 <a href="./posts/sr320-oyster_stage/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -711,7 +709,7 @@ Mar 8, 2024
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="10" data-categories="genomics,oyster,conservation" data-listing-date-sort="1709193600000" data-listing-file-modified-sort="1710026455276" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="857">
+<div class="g-col-1" data-index="11" data-categories="genomics,oyster,conservation" data-listing-date-sort="1709193600000" data-listing-file-modified-sort="1730934869724" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5">
 <a href="./posts/ostrea/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -747,7 +745,7 @@ Feb 29, 2024
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="11" data-categories="methods,tools" data-listing-date-sort="1706860800000" data-listing-file-modified-sort="1706924840453" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="250">
+<div class="g-col-1" data-index="12" data-categories="methods,tools" data-listing-date-sort="1706860800000" data-listing-file-modified-sort="1730934869726" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
 <a href="./posts/sr320-prep/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -780,7 +778,7 @@ Feb 2, 2024
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="12" data-categories="course,genomics,methods,website" data-listing-date-sort="1705651200000" data-listing-file-modified-sort="1705790844340" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="493">
+<div class="g-col-1" data-index="13" data-categories="course,genomics,methods,website" data-listing-date-sort="1705651200000" data-listing-file-modified-sort="1730934869725" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3">
 <a href="./posts/sr320-asi/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -819,7 +817,7 @@ Jan 19, 2024
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="13" data-categories="cod,genomics,epigenetics,rna-seq" data-listing-date-sort="1705478400000" data-listing-file-modified-sort="1706924592385" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="386">
+<div class="g-col-1" data-index="14" data-categories="cod,genomics,epigenetics,rna-seq" data-listing-date-sort="1705478400000" data-listing-file-modified-sort="1730934869725" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
 <a href="./posts/sr320-cod/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -858,7 +856,7 @@ Jan 17, 2024
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="14" data-categories="rnaseq,aquaculture,clam,stress" data-listing-date-sort="1704355200000" data-listing-file-modified-sort="1704554916781" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="672">
+<div class="g-col-1" data-index="15" data-categories="rnaseq,aquaculture,clam,stress" data-listing-date-sort="1704355200000" data-listing-file-modified-sort="1730934869724" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4">
 <a href="./posts/megan-rna/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -897,7 +895,7 @@ Jan 4, 2024
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="15" data-categories="wsn,meeting,seastar" data-listing-date-sort="1700640000000" data-listing-file-modified-sort="1702332484937" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="122">
+<div class="g-col-1" data-index="16" data-categories="wsn,meeting,seastar" data-listing-date-sort="1700640000000" data-listing-file-modified-sort="1730934869719" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
 <a href="./posts/grace_L_WSN/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -933,7 +931,7 @@ Nov 22, 2023
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="16" data-categories="LGBTQ+,diversity,inclusion,dei" data-listing-date-sort="1700294400000" data-listing-file-modified-sort="1702332264579" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="483">
+<div class="g-col-1" data-index="17" data-categories="LGBTQ+,diversity,inclusion,dei" data-listing-date-sort="1700294400000" data-listing-file-modified-sort="1730934869725" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3">
 <a href="./posts/sr320-LGBTQ/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -972,11 +970,11 @@ Nov 18, 2023
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="17" data-categories="wsn,meeting,seastar" data-listing-date-sort="1700035200000" data-listing-file-modified-sort="1700264125857" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="320">
+<div class="g-col-1" data-index="18" data-categories="wsn,meeting,seastar" data-listing-date-sort="1700035200000" data-listing-file-modified-sort="1730934869719" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
 <a href="./posts/grace-ac-WSN/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img src="https://github.com/grace-ac/grace-ac.github.io/raw/master/notebook-images/2023-11-15-wsn-recap/IMG_1750.jpg" class="thumbnail-image card-img" style="height: 150px;">
+<img data-src="https://github.com/grace-ac/grace-ac.github.io/raw/master/notebook-images/2023-11-15-wsn-recap/IMG_1750.jpg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -1008,7 +1006,7 @@ Nov 15, 2023
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="18" data-categories="triploid,aquaculture,oyster,stress" data-listing-date-sort="1699081200000" data-listing-file-modified-sort="1699135171898" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="469">
+<div class="g-col-1" data-index="19" data-categories="triploid,aquaculture,oyster,stress" data-listing-date-sort="1699081200000" data-listing-file-modified-sort="1730934869725" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3">
 <a href="./posts/sr320-DM/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -1047,7 +1045,7 @@ Nov 4, 2023
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="19" data-categories="genomics" data-listing-date-sort="1698044400000" data-listing-file-modified-sort="1699136211608" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="615">
+<div class="g-col-1" data-index="20" data-categories="genomics" data-listing-date-sort="1698044400000" data-listing-file-modified-sort="1730934869600" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4">
 <a href="./posts/aquamine/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -1077,7 +1075,7 @@ Oct 23, 2023
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="20" data-categories="paper,genomics,methods,website" data-listing-date-sort="1696834800000" data-listing-file-modified-sort="1697300097528" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="430">
+<div class="g-col-1" data-index="21" data-categories="paper,genomics,methods,website" data-listing-date-sort="1696834800000" data-listing-file-modified-sort="1730934869726" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3">
 <a href="./posts/sr320-marineomics/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -1116,7 +1114,7 @@ Oct 9, 2023
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="21" data-categories="mussel,genome,Chile" data-listing-date-sort="1696402800000" data-listing-file-modified-sort="1699135705865" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="539">
+<div class="g-col-1" data-index="22" data-categories="mussel,genome,Chile" data-listing-date-sort="1696402800000" data-listing-file-modified-sort="1730934869724" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3">
 <a href="./posts/mytilus-genome/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -1152,7 +1150,7 @@ Oct 4, 2023
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="22" data-categories="fhl,mentoring,spotlight" data-listing-date-sort="1695020400000" data-listing-file-modified-sort="1697300170721" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="321">
+<div class="g-col-1" data-index="23" data-categories="fhl,mentoring,spotlight" data-listing-date-sort="1695020400000" data-listing-file-modified-sort="1730934869725" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
 <a href="./posts/sr320-fhl/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -1188,7 +1186,7 @@ Sep 18, 2023
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="23" data-categories="paper,acidication,oyster,ostrea,tag-seq" data-listing-date-sort="1694761200000" data-listing-file-modified-sort="1694739339513" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="535">
+<div class="g-col-1" data-index="24" data-categories="paper,acidication,oyster,ostrea,tag-seq" data-listing-date-sort="1694761200000" data-listing-file-modified-sort="1730934869726" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3">
 <a href="./posts/sr320-spencer-paper/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -1230,7 +1228,7 @@ Sep 15, 2023
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="24" data-categories="triploid,aquaculture,oyster,stress" data-listing-date-sort="1694761200000" data-listing-file-modified-sort="1702333118463" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="507">
+<div class="g-col-1" data-index="25" data-categories="triploid,aquaculture,oyster,stress" data-listing-date-sort="1694761200000" data-listing-file-modified-sort="1730934869725" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3">
 <a href="./posts/sr320-george-paper/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -1269,7 +1267,7 @@ Sep 15, 2023
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="25" data-categories="paper,highlight,code" data-listing-date-sort="1676707200000" data-listing-file-modified-sort="1684284795811" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1154">
+<div class="g-col-1" data-index="26" data-categories="paper,highlight,code" data-listing-date-sort="1676707200000" data-listing-file-modified-sort="1730934869718" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6">
 <a href="./posts/cool-paper/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -1291,7 +1289,7 @@ code
 </div>
 </div>
 <div class="card-text listing-description">
-Here I will describe a recent, cool paper and try to also highlight 1) some of the material covered in our class on Proposal Writing and Professional Development, and 2)…
+Here I will describe a recent…
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -1354,33 +1352,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       } else {
         el.classList.add('notransition');
       }
-    }
-  }
-  const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
-    const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
-    const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
-    let newTheme = '';
-    if(darkModeDefault) {
-      newTheme = isAlternate ? baseTheme : alternateTheme;
-    } else {
-      newTheme = isAlternate ? alternateTheme : baseTheme;
-    }
-    const changeGiscusTheme = () => {
-      // From: https://github.com/giscus/giscus/issues/336
-      const sendMessage = (message) => {
-        const iframe = document.querySelector('iframe.giscus-frame');
-        if (!iframe) return;
-        iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
-      }
-      sendMessage({
-        setConfig: {
-          theme: newTheme
-        }
-      });
-    }
-    const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
-    if (isGiscussLoaded) {
-      changeGiscusTheme();
     }
   }
   const toggleColorMode = (alternate) => {
@@ -1449,15 +1420,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return localAlternateSentinel;
     }
   }
-  const darkModeDefault = false;
-  let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
+  let localAlternateSentinel = 'default';
   // Dark / light mode switch
   window.quartoToggleColorScheme = () => {
     // Read the current dark / light value 
     let toAlternate = !hasAlternateSentinel();
     toggleColorMode(toAlternate);
     setStyleSentinel(toAlternate);
-    toggleGiscusIfUsed(toAlternate, darkModeDefault);
   };
   // Ensure there is a toggle, if there isn't float one in the top right
   if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
@@ -1536,27 +1505,10 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
-    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
-    var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/faculty\.washington\.edu\/sr320");
-    var isInternal = (href) => {
-        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
-    }
-    // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
-    for (var i=0; i<links.length; i++) {
-      const link = links[i];
-      if (!isInternal(link.href)) {
-        // undo the damage that might have been done by quarto-nav.js in the case of
-        // links that we want to consider external
-        if (link.dataset.originalHref !== undefined) {
-          link.href = link.dataset.originalHref;
-        }
-      }
-    }
-  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+  function tippyHover(el, contentFn) {
     const config = {
       allowHTML: true,
+      content: contentFn,
       maxWidth: 500,
       delay: 100,
       arrow: false,
@@ -1566,17 +1518,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       interactive: true,
       interactiveBorder: 10,
       theme: 'quarto',
-      placement: 'bottom-start',
+      placement: 'bottom-start'
     };
-    if (contentFn) {
-      config.content = contentFn;
-    }
-    if (onTriggerFn) {
-      config.onTrigger = onTriggerFn;
-    }
-    if (onUntriggerFn) {
-      config.onUntrigger = onUntriggerFn;
-    }
     window.tippy(el, config); 
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
@@ -1588,130 +1531,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      if (note) {
-        return note.innerHTML;
-      } else {
-        return "";
-      }
-    });
-  }
-  const xrefs = window.document.querySelectorAll('a.quarto-xref');
-  const processXRef = (id, note) => {
-    // Strip column container classes
-    const stripColumnClz = (el) => {
-      el.classList.remove("page-full", "page-columns");
-      if (el.children) {
-        for (const child of el.children) {
-          stripColumnClz(child);
-        }
-      }
-    }
-    stripColumnClz(note)
-    if (id === null || id.startsWith('sec-')) {
-      // Special case sections, only their first couple elements
-      const container = document.createElement("div");
-      if (note.children && note.children.length > 2) {
-        container.appendChild(note.children[0].cloneNode(true));
-        for (let i = 1; i < note.children.length; i++) {
-          const child = note.children[i];
-          if (child.tagName === "P" && child.innerText === "") {
-            continue;
-          } else {
-            container.appendChild(child.cloneNode(true));
-            break;
-          }
-        }
-        if (window.Quarto?.typesetMath) {
-          window.Quarto.typesetMath(container);
-        }
-        return container.innerHTML
-      } else {
-        if (window.Quarto?.typesetMath) {
-          window.Quarto.typesetMath(note);
-        }
-        return note.innerHTML;
-      }
-    } else {
-      // Remove any anchor links if they are present
-      const anchorLink = note.querySelector('a.anchorjs-link');
-      if (anchorLink) {
-        anchorLink.remove();
-      }
-      if (window.Quarto?.typesetMath) {
-        window.Quarto.typesetMath(note);
-      }
-      // TODO in 1.5, we should make sure this works without a callout special case
-      if (note.classList.contains("callout")) {
-        return note.outerHTML;
-      } else {
-        return note.innerHTML;
-      }
-    }
-  }
-  for (var i=0; i<xrefs.length; i++) {
-    const xref = xrefs[i];
-    tippyHover(xref, undefined, function(instance) {
-      instance.disable();
-      let url = xref.getAttribute('href');
-      let hash = undefined; 
-      if (url.startsWith('#')) {
-        hash = url;
-      } else {
-        try { hash = new URL(url).hash; } catch {}
-      }
-      if (hash) {
-        const id = hash.replace(/^#\/?/, "");
-        const note = window.document.getElementById(id);
-        if (note !== null) {
-          try {
-            const html = processXRef(id, note.cloneNode(true));
-            instance.setContent(html);
-          } finally {
-            instance.enable();
-            instance.show();
-          }
-        } else {
-          // See if we can fetch this
-          fetch(url.split('#')[0])
-          .then(res => res.text())
-          .then(html => {
-            const parser = new DOMParser();
-            const htmlDoc = parser.parseFromString(html, "text/html");
-            const note = htmlDoc.getElementById(id);
-            if (note !== null) {
-              const html = processXRef(id, note);
-              instance.setContent(html);
-            } 
-          }).finally(() => {
-            instance.enable();
-            instance.show();
-          });
-        }
-      } else {
-        // See if we can fetch a full url (with no hash to target)
-        // This is a special case and we should probably do some content thinning / targeting
-        fetch(url)
-        .then(res => res.text())
-        .then(html => {
-          const parser = new DOMParser();
-          const htmlDoc = parser.parseFromString(html, "text/html");
-          const note = htmlDoc.querySelector('main.content');
-          if (note !== null) {
-            // This should only happen for chapter cross references
-            // (since there is no id in the URL)
-            // remove the first header
-            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
-              note.children[0].remove();
-            }
-            const html = processXRef(null, note);
-            instance.setContent(html);
-          } 
-        }).finally(() => {
-          instance.enable();
-          instance.show();
-        });
-      }
-    }, function(instance) {
+      return note.innerHTML;
     });
   }
       let selectedAnnoteEl;
@@ -1755,7 +1575,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             }
             div.style.top = top - 2 + "px";
             div.style.height = height + 4 + "px";
-            div.style.left = 0;
             let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
             if (gutterDiv === null) {
               gutterDiv = window.document.createElement("div");
@@ -1781,32 +1600,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         });
         selectedAnnoteEl = undefined;
       };
-        // Handle positioning of the toggle
-    window.addEventListener(
-      "resize",
-      throttle(() => {
-        elRect = undefined;
-        if (selectedAnnoteEl) {
-          selectCodeLines(selectedAnnoteEl);
-        }
-      }, 10)
-    );
-    function throttle(fn, ms) {
-    let throttle = false;
-    let timer;
-      return (...args) => {
-        if(!throttle) { // first call gets through
-            fn.apply(this, args);
-            throttle = true;
-        } else { // all the others get throttled
-            if(timer) clearTimeout(timer); // cancel #2
-            timer = setTimeout(() => {
-              fn.apply(this, args);
-              timer = throttle = false;
-            }, ms);
-        }
-      };
-    }
       // Attach click handler to the DT
       const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
       for (const annoteDlNode of annoteDls) {
@@ -1867,7 +1660,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
-
 
 
 

@@ -9,13 +9,46 @@
 <link>https://faculty.washington.edu/sr320/posts.html</link>
 <atom:link href="https://faculty.washington.edu/sr320/posts.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.4.555</generator>
-<lastBuildDate>Sat, 14 Sep 2024 07:00:00 GMT</lastBuildDate>
+<generator>quarto-1.3.433</generator>
+<lastBuildDate>Wed, 06 Nov 2024 08:00:00 GMT</lastBuildDate>
 <item>
-  <title>Deep dive into the handbook</title>
-  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-handbook/</link>
+  <title>Exploring Pacific Cod Resilience in a Warming Ocean</title>
+  <dc:creator>Laura Spencer</dc:creator>
+  <link>https://faculty.washington.edu/sr320/posts/frontpage/lspencer-cod/index.html</link>
   <description><![CDATA[ 
 
+
+
+
+<p>In our latest update on the Pacific cod juvenile temperature study, we've gained deeper insights into how these remarkable fish respond to different temperatures. This research is part of a larger effort to understand the resilience of marine species in changing environments.</p>
+<p><strong>Genetic Insights Reveal Population Origins</strong></p>
+<p>We began with genetic analyses, using data from thousands of genetic markers to determine the origin of our experimental fish. All our test fish were linked to the spawning grounds in the western Gulf of Alaska (wGOA) and the Eastern Bering Sea (EBS). This finding allows us to focus on the thermal resilience of cod from this particular region, which is vital as they face shifts in temperature in their natural habitats.</p>
+<p><img src="https://faculty.washington.edu/sr320/posts/frontpage/lspencer-cod/http:/gannet.fish.washington.edu/seashell/snaps/2024-11-06_15-00-51.png" class="img-fluid"></p>
+<p><strong>Temperature's Role in Energy and Lipid Storage</strong></p>
+<p>Our collaborator Louise Copement analyzed liver lipids in these juvenile cod, focusing on triglycerides and other key lipid types that are crucial for overwinter survival. The results showed a clear trend: energy storage, primarily in the form of triglycerides, peaked at 9°C, then dropped sharply at higher temperatures, especially at 16°C. This suggests that extreme warmth could deplete essential energy reserves, reducing the fish's survival prospects in the cold winter months.</p>
+<p><img src="https://faculty.washington.edu/sr320/posts/frontpage/lspencer-cod/http:/gannet.fish.washington.edu/seashell/snaps/2024-11-06_15-01-47.png" class="img-fluid"></p>
+<p><strong>Optimal Growth Temperatures and Physiological Responses</strong></p>
+<p>We also observed that juvenile cod exhibit optimal growth at approximately 12.3°C, slightly higher than previous findings. With higher temperatures, growth rates plateau or decline, mirroring the energy storage patterns. Interestingly, the gene expression data from liver tissues revealed significant temperature-driven shifts, especially in energy production, lipid metabolism, and immune response genes. This molecular data adds a new layer to our understanding of temperature tolerance.</p>
+<p><img src="https://faculty.washington.edu/sr320/posts/frontpage/lspencer-cod/http:/gannet.fish.washington.edu/seashell/snaps/2024-11-06_15-01-22.png" class="img-fluid"></p>
+<p><strong>Integrated Data: A Pathway to Genomic Resilience Markers</strong></p>
+<p>Combining growth, lipid, and gene expression data, we've started identifying genes that correlate with enhanced resilience at specific temperatures. This approach could spotlight genetic markers for thermal resilience, offering clues about cod populations best suited to future ocean conditions.</p>
+<p>In summary, this research underscores the delicate balance juvenile Pacific cod must maintain in their energy reserves and growth under variable temperatures. These findings will help guide conservation and management efforts as we work to protect Pacific cod populations in a warming world.</p>
+
+
+<!-- -->
+
+
+ ]]></description>
+  <category>cod</category>
+  <category>Alaska</category>
+  <guid>https://faculty.washington.edu/sr320/posts/frontpage/lspencer-cod/index.html</guid>
+  <pubDate>Wed, 06 Nov 2024 08:00:00 GMT</pubDate>
+  <media:content url="http://gannet.fish.washington.edu/seashell/snaps/2024-11-06_13-57-57.png" medium="image" type="image/png"/>
+</item>
+<item>
+  <title>Deep dive into the handbook</title>
+  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-handbook/index.html</link>
+  <description><![CDATA[ 
 
 
 
@@ -167,16 +200,15 @@
  ]]></description>
   <category>handbook</category>
   <category>audio</category>
-  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-handbook/</guid>
+  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-handbook/index.html</guid>
   <pubDate>Sat, 14 Sep 2024 07:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Roberts_Lab_Handbook_2024-09-14_13-23-52.png" medium="image" type="image/png"/>
 </item>
 <item>
   <title>Hatchery-based Environmental Conditioning Activities</title>
   <dc:creator>Steven Roberts</dc:creator>
-  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-usda-report/</link>
+  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-usda-report/index.html</link>
   <description><![CDATA[ 
-
 
 
 
@@ -184,8 +216,8 @@
 <p>During this past year a series of hatchery-based environmental conditioning activities (referred to as hardening) were completed with oysters out-planted onto three farms to evaluate performance. Additionally, climate resiliency was assessed in hardened oysters under controlled conditions.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_overview.png_2024-08-29_13-35-45.png" class="img-fluid figure-img"></p>
-<figcaption>Experimental Overview</figcaption>
+<p><img src="https://faculty.washington.edu/sr320/posts/frontpage/sr320-usda-report/http:/gannet.fish.washington.edu/seashell/snaps/Monosnap_overview.png_2024-08-29_13-35-45.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Experimental Overview</figcaption>
 </figure>
 </div>
 <section id="farm-outplanting" class="level1">
@@ -193,8 +225,8 @@
 <p>Early in the season, a cohort of oysters were subject to (a) daily thermal hardening for approximately two weeks prior to out planting in hanging bags on a farm in Sequim Bay, alongside a control group. These oyster will be assessed in early Autumn 2024. Later in the season oysters were subjected to a more diverse series of hardening conditions with oyster split between two commercial farms, one located in Willapa Bay and a second in the San Juan Islands. The combination of age classes and hardening conditions were as follows: b) small seed / daily thermal hardening, c) adult / daily thermal hardening, d) small seed / weekly thermal hardening, e1) large seed / weekly thermal hardening, e2) large seed / weekly zero salinity hardening. These hardening activities spanned from several weeks to months. For all hardening efforts controls were also outplanted. Oysters out planted in Willapa Bay will be assessed for survival and growth in early September 2024. Oysters out planted in the San Juan Islands have be subject to more routine monitoring. At this site we are currently observing a trend where oysters subjected to the daily hardening regime are surviving better than controls.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Monosnap_2024-08-29_13-37-09.png" class="img-fluid figure-img" width="300"></p>
-<figcaption>Wescott Bay Outplanting</figcaption>
+<p><img src="https://faculty.washington.edu/sr320/posts/frontpage/sr320-usda-report/http:/gannet.fish.washington.edu/seashell/snaps/Monosnap_Monosnap_2024-08-29_13-37-09.png" class="img-fluid figure-img" width="300"></p>
+<figcaption class="figure-caption">Wescott Bay Outplanting</figcaption>
 </figure>
 </div>
 </section>
@@ -203,34 +235,34 @@
 <p>To assess the effectiveness of hardening within a hatchery setting, four ages classes of oysters were examined: adults (40-100mm), juveniles (20-55mm), seed (6-15mm), and spat ()1-6mm). In order to assess hardening potential and environmental memory, oysters were subject to an initial chronic temperature stress, then subjected to a secondary stress to see if the response to secondary stress was impacted by initial exposure. During the chronic temperature stress period, oysters from each age class were exposed to a daily 25ºC temperature spike. This repeated for 14 days starting on October 1. Control oysters from each cohort were maintained at an ambient temperature of approximately 17ºC during the same time period.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_env_hardening..._-_Google_Slides_2024-08-29_13-38-28.png" class="img-fluid figure-img" width="500"></p>
-<figcaption>Hardening and acute stress temperature timeline</figcaption>
+<p><img src="https://faculty.washington.edu/sr320/posts/frontpage/sr320-usda-report/http:/gannet.fish.washington.edu/seashell/snaps/Monosnap_env_hardening..._-_Google_Slides_2024-08-29_13-38-28.png" class="img-fluid figure-img" width="500"></p>
+<figcaption class="figure-caption">Hardening and acute stress temperature timeline</figcaption>
 </figure>
 </div>
 <p>Adult oysters in stress conditions were also subject to mechanical stress at day 1, 7, and 48, which was induced by 15 minutes. At day 147 (7 weeks after initial chronic stress), both stressed and non-stressed adult, juvenile, spat, and seed were subjected to a secondary stress of 30 minutes in 32ºC. Gill tissue was sampled immediately after and placed into RNAlater. Spat and seed that were too small to dissect gill tissue were sampled whole with all tissue used in gene expression assays. To date we have analyzed gene expression data from seed and spat. There was no mortality during this trial. Hardening increased growth (compared to controls) in spat. Further there was a reduced transcriptional response in spat. These data suggest temperature hardening of spat could result in a resiliency to later temperature stress whereby energy resources could favor growth.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_env_hardening..._-_Google_Slides_2024-08-29_13-39-30.png" class="img-fluid figure-img" width="500"></p>
-<figcaption>Growth Performance</figcaption>
+<p><img src="https://faculty.washington.edu/sr320/posts/frontpage/sr320-usda-report/http:/gannet.fish.washington.edu/seashell/snaps/Monosnap_env_hardening..._-_Google_Slides_2024-08-29_13-39-30.png" class="img-fluid figure-img" width="500"></p>
+<figcaption class="figure-caption">Growth Performance</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_env_hardening..._-_Google_Slides_2024-08-29_13-40-09.png" class="img-fluid figure-img" width="500"></p>
-<figcaption>Gene expression profiles (spat)</figcaption>
+<p><img src="https://faculty.washington.edu/sr320/posts/frontpage/sr320-usda-report/http:/gannet.fish.washington.edu/seashell/snaps/Monosnap_env_hardening..._-_Google_Slides_2024-08-29_13-40-09.png" class="img-fluid figure-img" width="500"></p>
+<figcaption class="figure-caption">Gene expression profiles (spat)</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_env_hardening..._-_Google_Slides_2024-08-29_13-40-54.png" class="img-fluid figure-img" width="500"></p>
-<figcaption>Schematic physiology explanation when hardened spat are exposed to acute temperature stress.</figcaption>
+<p><img src="https://faculty.washington.edu/sr320/posts/frontpage/sr320-usda-report/http:/gannet.fish.washington.edu/seashell/snaps/Monosnap_env_hardening..._-_Google_Slides_2024-08-29_13-40-54.png" class="img-fluid figure-img" width="500"></p>
+<figcaption class="figure-caption">Schematic physiology explanation when hardened spat are exposed to acute temperature stress.</figcaption>
 </figure>
 </div>
 </section>
 <section id="physiological-assessment-2" class="level1">
 <h1>Physiological Assessment 2</h1>
 <p>In a second experimental regime, juvenile oysters were subjected to four hardening conditions 1) high temperature (35°C), 2) high temperature and freshwater, 3) freshwater, and 4) poly I:C immersion. These were exposures that occurred every other day for about 3 weeks. Approximately 1 month after hardening, oysters were brought to the lab and subjected to metabolic assessment using resazurin at 18°C and 42°C. Resazurin is a dye that is commonly used in cell viability, and it works by changing color as an organism consumes oxygen. Survival was assessed during the resazurin assay and 24 hours later. To date, our analysis suggests metabolic activity of the 42°C oysters was higher in the control oysters than previously hardened oysters. In the near future we will assess the relationship of metabolic activity and survival however it appears higher metabolic rate directly correlates with mortality. Taken together these sets of controlled experiments suggest hardening does have an impact on resiliency, though dependent on age, hardening duration, and subsequent environmental conditions.</p>
-<p><img src="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_logo-resazuring_2024-08-29_13-50-31.png" class="img-fluid" alt="Resazurin assay (4 hour / 2 temperatures) on hardened oysters"></p>
+<p><img src="https://faculty.washington.edu/sr320/posts/frontpage/sr320-usda-report/http:/gannet.fish.washington.edu/seashell/snaps/Monosnap_logo-resazuring_2024-08-29_13-50-31.png" class="img-fluid" alt="Resazurin assay (4 hour / 2 temperatures) on hardened oysters"></p>
 
 
 <!-- -->
@@ -240,15 +272,14 @@
  ]]></description>
   <category>oyster</category>
   <category>stress</category>
-  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-usda-report/</guid>
+  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-usda-report/index.html</guid>
   <pubDate>Fri, 30 Aug 2024 07:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Monosnap_2024-08-29_13-10-49.png" medium="image" type="image/png"/>
 </item>
 <item>
   <title>Assessing Oyster Viability Under Environmental Stress</title>
-  <link>https://faculty.washington.edu/sr320/posts/sr320-lsamp/</link>
+  <link>https://faculty.washington.edu/sr320/posts/sr320-lsamp/index.html</link>
   <description><![CDATA[ 
-
 
 
 
@@ -263,8 +294,8 @@
 <p>Our research was driven by two pivotal questions: Can resazurin effectively measure metabolism in oysters, and does prior exposure to stress (stress hardening) alter their metabolic response to subsequent stressors? Through meticulously designed experiments, Colby led the charge in optimizing the assay conditions, ensuring the reliability and accuracy of our measurements.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="http://gannet.fish.washington.edu/seashell/snaps/2024-08-21_11-33-23.png" class="img-fluid figure-img"></p>
-<figcaption>Colby presenting his research at the Summer Research Symposium</figcaption>
+<p><img src="https://faculty.washington.edu/sr320/posts/sr320-lsamp/http:/gannet.fish.washington.edu/seashell/snaps/2024-08-21_11-33-23.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Colby presenting his research at the Summer Research Symposium</figcaption>
 </figure>
 </div>
 </section>
@@ -281,7 +312,7 @@
 <h3 class="anchored" data-anchor-id="gratitude-and-acknowledgments">Gratitude and Acknowledgments</h3>
 <p>This research was made possible through the support of the National Science Foundation. We are immensely proud of Colby and all associated researchers for their dedication and hard work.</p>
 <p><strong>Poster</strong> (<a href="http://gannet.fish.washington.edu/seashell/snaps/Colby_Poster_LSAMP.pdf">download hi-res pdf</a>)</p>
-<p><img src="http://gannet.fish.washington.edu/seashell/snaps/2024-08-21_11-40-33.png" class="img-fluid"></p>
+<p><img src="https://faculty.washington.edu/sr320/posts/sr320-lsamp/http:/gannet.fish.washington.edu/seashell/snaps/2024-08-21_11-40-33.png" class="img-fluid"></p>
 
 
 <!-- -->
@@ -291,22 +322,21 @@
  ]]></description>
   <category>oyster</category>
   <category>stress</category>
-  <guid>https://faculty.washington.edu/sr320/posts/sr320-lsamp/</guid>
+  <guid>https://faculty.washington.edu/sr320/posts/sr320-lsamp/index.html</guid>
   <pubDate>Thu, 22 Aug 2024 07:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/2024-08-21_11-42-08.png" medium="image" type="image/png"/>
 </item>
 <item>
   <title>Intertidal Innovators</title>
-  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-intertidal/</link>
+  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-intertidal/index.html</link>
   <description><![CDATA[ 
 
 
 
 
-
-<p><img src="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_IMG_1373.png_2024-08-19_12-59-21.png" class="img-fluid"></p>
+<p><img src="https://faculty.washington.edu/sr320/posts/frontpage/sr320-intertidal/http:/gannet.fish.washington.edu/seashell/snaps/Monosnap_IMG_1373.png_2024-08-19_12-59-21.png" class="img-fluid"></p>
 <p>On August 16, participants in the Intertidal Innovators program presented their work to the community. The program, which was a collaboration sponsored by the UW Earthlab program, provided students with the opportunity to learn about marine science and conservation through art.</p>
-<p><img src="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Monosnap_2024-08-19_13-09-47.png" class="img-fluid"></p>
+<p><img src="https://faculty.washington.edu/sr320/posts/frontpage/sr320-intertidal/http:/gannet.fish.washington.edu/seashell/snaps/Monosnap_Monosnap_2024-08-19_13-09-47.png" class="img-fluid"></p>
 <div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -330,20 +360,19 @@ Quote
 
  ]]></description>
   <category>education</category>
-  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-intertidal/</guid>
+  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-intertidal/index.html</guid>
   <pubDate>Mon, 19 Aug 2024 07:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_The_Golden_Hour_-_a_geolocated_audio_walk_by_Intertidal_Innovators_on_ECHOES_2024-08-19_12-50-25.png" medium="image" type="image/png"/>
 </item>
 <item>
   <title>Ostras en Chile</title>
-  <link>https://faculty.washington.edu/sr320/posts/sr320-ostras/</link>
+  <link>https://faculty.washington.edu/sr320/posts/sr320-ostras/index.html</link>
   <description><![CDATA[ 
 
 
 
 
-
-<p><img src="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_IMG_6806.jpg_19801320_pixels_2024-08-14_11-49-59.png" class="img-fluid"></p>
+<p><img src="https://faculty.washington.edu/sr320/posts/sr320-ostras/http:/gannet.fish.washington.edu/seashell/snaps/Monosnap_IMG_6806.jpg_19801320_pixels_2024-08-14_11-49-59.png" class="img-fluid"></p>
 <p>On August 6, 2024, approximately sixty participants gathered at the Professor Alamiro Robledo Auditorium of the Faculty of Physical and Mathematical Sciences at the University of Concepción. They were there to delve into the promising sector of oyster aquaculture in Chile during the seminar titled “Oysters in Chile: Opportunities and Challenges for Aquaculture Diversification.” This event was meticulously organized by the Interdisciplinary Center for Aquaculture Research (INCAR).</p>
 <p>The seminar showcased six presentations from both national and international experts, followed by a panel discussion. The diverse audience included academia, public and private sector representatives, producers, aquaculturists, industry leaders, professionals, and both secondary and postgraduate students. The gathering aimed to foster a comprehensive dialogue on the development of oyster aquaculture in the country.</p>
 <p>Manira Matamala, the regional director of the Undersecretary of Fisheries and Aquaculture (Subpesca) for Valparaíso, O’Higgins, and Maule, commended INCAR’s initiative. She highlighted the seminar’s focus on enhancing the genetic and genomic understanding of oysters, which is vital for promoting sustainable aquaculture practices.</p>
@@ -358,7 +387,7 @@ Quote
 <li><p>Dr.&nbsp;Renato Quiñones, the director of Incar, emphasized the seminar’s role in bringing together experts from varied fields to create a multidimensional space for all stakeholders involved in oyster cultivation. This interaction is crucial for transforming scientific knowledge into a community and national heritage.</p></li>
 </ul>
 <p>The event concluded with a panel discussion moderated by Dr.&nbsp;Doris Soto, principal investigator at Incar, where experts discussed the multifaceted opportunities and challenges facing aquaculture diversification in Chile.</p>
-<p><img src="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Monosnap_2024-08-14_11-36-29.png" class="img-fluid"></p>
+<p><img src="https://faculty.washington.edu/sr320/posts/sr320-ostras/http:/gannet.fish.washington.edu/seashell/snaps/Monosnap_Monosnap_2024-08-14_11-36-29.png" class="img-fluid"></p>
 <p>This seminar not only highlighted the collaborative efforts required to advance oyster aquaculture but also showcased the commitment of INCAR to foster a sustainable and innovative aquaculture industry in Chile.</p>
 
 
@@ -368,15 +397,14 @@ Quote
  ]]></description>
   <category>oyster</category>
   <category>presentation</category>
-  <guid>https://faculty.washington.edu/sr320/posts/sr320-ostras/</guid>
+  <guid>https://faculty.washington.edu/sr320/posts/sr320-ostras/index.html</guid>
   <pubDate>Tue, 06 Aug 2024 07:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Monosnap_2024-08-14_11-33-39.png" medium="image" type="image/png"/>
 </item>
 <item>
   <title>Exploring How Environmental Conditions Impact Atlantic Salmon’s Defense Against Sea Lice</title>
-  <link>https://faculty.washington.edu/sr320/posts/sr320-lice/</link>
+  <link>https://faculty.washington.edu/sr320/posts/sr320-lice/index.html</link>
   <description><![CDATA[ 
-
 
 
 
@@ -408,15 +436,14 @@ Quote
  ]]></description>
   <category>salmon</category>
   <category>epigenetics</category>
-  <guid>https://faculty.washington.edu/sr320/posts/sr320-lice/</guid>
+  <guid>https://faculty.washington.edu/sr320/posts/sr320-lice/index.html</guid>
   <pubDate>Mon, 01 Jul 2024 07:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Environmental_influence_on_the_Atlantic_salmon_transcriptome_and_methylome_during_sea_lice_infestations_-_ScienceDirect_2024-08-14_12-12-07.png" medium="image" type="image/png"/>
 </item>
 <item>
   <title>Cmplexities of Gene Expression</title>
-  <link>https://faculty.washington.edu/sr320/posts/sr320-altsplice/</link>
+  <link>https://faculty.washington.edu/sr320/posts/sr320-altsplice/index.html</link>
   <description><![CDATA[ 
-
 
 
 
@@ -460,15 +487,14 @@ Quote
  ]]></description>
   <category>methods</category>
   <category>tools</category>
-  <guid>https://faculty.washington.edu/sr320/posts/sr320-altsplice/</guid>
+  <guid>https://faculty.washington.edu/sr320/posts/sr320-altsplice/index.html</guid>
   <pubDate>Sat, 25 May 2024 07:00:00 GMT</pubDate>
   <media:content url="https://faculty.washington.edu/sr320/img/enrich.png" medium="image" type="image/png" height="105" width="144"/>
 </item>
 <item>
   <title>Unraveling the Intricacies of Enrichment Analysis</title>
-  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-enrich/</link>
+  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-enrich/index.html</link>
   <description><![CDATA[ 
-
 
 
 
@@ -505,15 +531,14 @@ Quote
  ]]></description>
   <category>methods</category>
   <category>tools</category>
-  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-enrich/</guid>
+  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-enrich/index.html</guid>
   <pubDate>Thu, 09 May 2024 07:00:00 GMT</pubDate>
   <media:content url="https://faculty.washington.edu/sr320/img/enrich.png" medium="image" type="image/png" height="105" width="144"/>
 </item>
 <item>
   <title>Hatchery Field Day at Point Whitney</title>
-  <link>https://faculty.washington.edu/sr320/posts/frontpage/ariana-hatchery/</link>
+  <link>https://faculty.washington.edu/sr320/posts/frontpage/ariana-hatchery/index.html</link>
   <description><![CDATA[ 
-
 
 
 
@@ -543,8 +568,8 @@ Link to Full Notebook Post
 </ol>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Hatchery_field_day_at_Point_Whitney_May_6_2024__Ariana_S_Huffmyer__NSF_Ocean_Sciences_Postdoctoral_Fellow_University_of_Rhod_2024-05-11_14-51-46.png" class="img-fluid figure-img"></p>
-<figcaption>heath-tray</figcaption>
+<p><img src="https://faculty.washington.edu/sr320/posts/frontpage/ariana-hatchery/http:/gannet.fish.washington.edu/seashell/snaps/Monosnap_Hatchery_field_day_at_Point_Whitney_May_6_2024__Ariana_S_Huffmyer__NSF_Ocean_Sciences_Postdoctoral_Fellow_University_of_Rhod_2024-05-11_14-51-46.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">heath-tray</figcaption>
 </figure>
 </div>
 <p><strong>Takeaways for Hatchery Science</strong> Dr.&nbsp;Huffmyer’s systematic approach highlights the significance of precise monitoring and stress testing in hatchery science. Understanding oyster resilience to environmental stressors is crucial for aquaculture sustainability. Her work at Point Whitney offers a detailed protocol that could be replicated or adapted by other researchers to monitor and improve hatchery operations.</p>
@@ -557,26 +582,25 @@ Link to Full Notebook Post
  ]]></description>
   <category>methods</category>
   <category>tools</category>
-  <guid>https://faculty.washington.edu/sr320/posts/frontpage/ariana-hatchery/</guid>
+  <guid>https://faculty.washington.edu/sr320/posts/frontpage/ariana-hatchery/index.html</guid>
   <pubDate>Mon, 06 May 2024 07:00:00 GMT</pubDate>
   <media:content url="https://faculty.washington.edu/sr320/img/bucket.png" medium="image" type="image/png" height="145" width="144"/>
 </item>
 <item>
   <title>Hardening in oysters drives increased growth</title>
-  <link>https://faculty.washington.edu/sr320/posts/sr320-oyster_stage/</link>
+  <link>https://faculty.washington.edu/sr320/posts/sr320-oyster_stage/index.html</link>
   <description><![CDATA[ 
-
 
 
 
 
 <p>In the meticulously orchestrated world of marine science, a groundbreaking experiment has unfolded in the hands of <a href="https://eric-ess.github.io">Eric Essington</a>, casting the spotlight on an unlikely protagonist: the oyster. This narrative begins with the arrival of 235 adult oysters from Pacific Hybreed, their sizes ranging impressively from 40 to 100mm, and further complemented by a diverse younger contingent—120 juveniles, 120 seed, and approximately 120 spat, all courtesy of the USDA’s 2023 spawn.</p>
 <p>The experimental setup divided these oysters into two groups: one destined for a control tank, mirroring their natural aquatic environment at a serene 17ºC, and the other for a treatment tank, where conditions were significantly altered. The latter group was subjected to a deliberate increase in temperature, a gradual ascent of 2ºC per hour until the water reached a stress-inducing 26ºC, maintained for six hours daily over a seven-week span (began 10 2 2023, ended 11 21 2023). This thermal regimen aimed to simulate the increasingly erratic and harsh conditions wrought by climate change.</p>
-<p><img src="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Explanation_2024-03-08_15-17-47.png" class="img-fluid"></p>
+<p><img src="https://faculty.washington.edu/sr320/posts/sr320-oyster_stage/http:/gannet.fish.washington.edu/seashell/snaps/Monosnap_Explanation_2024-03-08_15-17-47.png" class="img-fluid"></p>
 <p>Adding a layer of complexity, adults and juveniles were subjected to mechanical stress, an innovative use of a salad spinner for 15 minutes on selected dates (10/2/2023, 10/4/2023, 10/11/2023). This unusual methodology aimed to mimic the physical disturbances oysters might face in their natural habitats, from tumbling in currents to encounters with predators and debris.</p>
 <p>The culmination of this phase was marked by a meticulous sampling process on November 21, 2023. Selected groups of oysters were divided for detailed analysis, with some undergoing immediate tissue sampling for RNA and DNA analysis, while others faced an additional stress test—a 30-minute immersion in 32ºC water followed by a tumbling session in the salad spinner. This process was designed to simulate an acute stress event, allowing researchers to gauge the oysters’ physiological responses to compounded stressors.</p>
 <p>Several months later, on February 28, 2024, the experiment was revisited with a focused approach. This time, the younger generation of oysters was spotlighted, undergoing tissue sampling without the prior mechanical stress, to isolate the effects of thermal stress.</p>
-<p><img src="http://gannet.fish.washington.edu/seashell/snaps/growth.png" class="img-fluid"></p>
+<p><img src="https://faculty.washington.edu/sr320/posts/sr320-oyster_stage/http:/gannet.fish.washington.edu/seashell/snaps/growth.png" class="img-fluid"></p>
 <p><strong>Take-away to date</strong> - Stress hardening in spat in October and November resulted in increased growth compared to controls in February.</p>
 <p>This experiment is not merely an investigation into the resilience of oysters to thermal and mechanical stress; it’s a narrative about adaptation, survival, and the intricate dance of life beneath the waves.</p>
 <p>See <a href="https://eric-ess.github.io/data-explanation/">Eric’s Post</a> for more details.</p>
@@ -588,15 +612,14 @@ Link to Full Notebook Post
  ]]></description>
   <category>oyster</category>
   <category>aquaculture</category>
-  <guid>https://faculty.washington.edu/sr320/posts/sr320-oyster_stage/</guid>
+  <guid>https://faculty.washington.edu/sr320/posts/sr320-oyster_stage/index.html</guid>
   <pubDate>Fri, 08 Mar 2024 08:00:00 GMT</pubDate>
   <media:content url="https://faculty.washington.edu/sr320/img/pw.png" medium="image" type="image/png" height="124" width="144"/>
 </item>
 <item>
   <title>Decoding the Olympia Oyster</title>
-  <link>https://faculty.washington.edu/sr320/posts/ostrea/</link>
+  <link>https://faculty.washington.edu/sr320/posts/ostrea/index.html</link>
   <description><![CDATA[ 
-
 
 
 
@@ -663,15 +686,14 @@ Katherine Silliman and others, Epigenetic and Genetic Population Structure is Co
   <category>genomics</category>
   <category>oyster</category>
   <category>conservation</category>
-  <guid>https://faculty.washington.edu/sr320/posts/ostrea/</guid>
+  <guid>https://faculty.washington.edu/sr320/posts/ostrea/index.html</guid>
   <pubDate>Thu, 29 Feb 2024 08:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_httpswww.biorxiv.orgcontent10.11012023.09.08.556443v1.full.pdf_2024-03-09_15-20-38.png" medium="image" type="image/png"/>
 </item>
 <item>
   <title>Are you really prepared?</title>
-  <link>https://faculty.washington.edu/sr320/posts/sr320-prep/</link>
+  <link>https://faculty.washington.edu/sr320/posts/sr320-prep/index.html</link>
   <description><![CDATA[ 
-
 
 
 
@@ -694,15 +716,14 @@ Katherine Silliman and others, Epigenetic and Genetic Population Structure is Co
  ]]></description>
   <category>methods</category>
   <category>tools</category>
-  <guid>https://faculty.washington.edu/sr320/posts/sr320-prep/</guid>
+  <guid>https://faculty.washington.edu/sr320/posts/sr320-prep/index.html</guid>
   <pubDate>Fri, 02 Feb 2024 08:00:00 GMT</pubDate>
   <media:content url="https://faculty.washington.edu/sr320/img/prep.png" medium="image" type="image/png" height="105" width="144"/>
 </item>
 <item>
   <title>Sharing the Good Word of Marine Epigenetics</title>
-  <link>https://faculty.washington.edu/sr320/posts/sr320-asi/</link>
+  <link>https://faculty.washington.edu/sr320/posts/sr320-asi/index.html</link>
   <description><![CDATA[ 
-
 
 
 
@@ -758,15 +779,14 @@ Katherine Silliman and others, Epigenetic and Genetic Population Structure is Co
   <category>genomics</category>
   <category>methods</category>
   <category>website</category>
-  <guid>https://faculty.washington.edu/sr320/posts/sr320-asi/</guid>
+  <guid>https://faculty.washington.edu/sr320/posts/sr320-asi/index.html</guid>
   <pubDate>Fri, 19 Jan 2024 08:00:00 GMT</pubDate>
   <media:content url="https://faculty.washington.edu/sr320/img/asi.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>
   <title>Exploring the Impact of Marine Heatwaves on Pacific Cod</title>
-  <link>https://faculty.washington.edu/sr320/posts/sr320-cod/</link>
+  <link>https://faculty.washington.edu/sr320/posts/sr320-cod/index.html</link>
   <description><![CDATA[ 
-
 
 
 
@@ -788,16 +808,15 @@ Katherine Silliman and others, Epigenetic and Genetic Population Structure is Co
   <category>genomics</category>
   <category>epigenetics</category>
   <category>rna-seq</category>
-  <guid>https://faculty.washington.edu/sr320/posts/sr320-cod/</guid>
+  <guid>https://faculty.washington.edu/sr320/posts/sr320-cod/index.html</guid>
   <pubDate>Wed, 17 Jan 2024 08:00:00 GMT</pubDate>
   <media:content url="https://faculty.washington.edu/sr320/img/cod.png" medium="image" type="image/png" height="139" width="144"/>
 </item>
 <item>
   <title>Clam Gonad RNAseq Analysis</title>
   <dc:creator>Megan Ewing</dc:creator>
-  <link>https://faculty.washington.edu/sr320/posts/megan-rna/</link>
+  <link>https://faculty.washington.edu/sr320/posts/megan-rna/index.html</link>
   <description><![CDATA[ 
-
 
 
 
@@ -826,38 +845,38 @@ Katherine Silliman and others, Epigenetic and Genetic Population Structure is Co
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://faculty.washington.edu/sr320/posts/megan-rna/images/fastqc_sequence_counts_plot.png" class="img-fluid figure-img"></p>
-<figcaption><img src="https://faculty.washington.edu/sr320/posts/megan-rna/images/fastqc_per_base_sequence_quality_plot.png" class="img-fluid figure-img"></figcaption>
+<figcaption class="figure-caption"><img src="https://faculty.washington.edu/sr320/posts/megan-rna/images/fastqc_per_base_sequence_quality_plot.png" class="img-fluid figure-img"></figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://faculty.washington.edu/sr320/posts/megan-rna/images/fastqc_per_sequence_quality_scores_plot.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+<p><img src="https://faculty.washington.edu/sr320/posts/megan-rna/images/fastqc_per_sequence_quality_scores_plot.png" class="img-fluid figure-img"></p>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://faculty.washington.edu/sr320/posts/megan-rna/images/fastqc_per_sequence_gc_content_plot.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+<p><img src="https://faculty.washington.edu/sr320/posts/megan-rna/images/fastqc_per_sequence_gc_content_plot.png" class="img-fluid figure-img"></p>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://faculty.washington.edu/sr320/posts/megan-rna/images/fastqc_per_base_n_content_plot.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+<p><img src="https://faculty.washington.edu/sr320/posts/megan-rna/images/fastqc_per_base_n_content_plot.png" class="img-fluid figure-img"></p>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://faculty.washington.edu/sr320/posts/megan-rna/images/fastqc_sequence_duplication_levels_plot.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+<p><img src="https://faculty.washington.edu/sr320/posts/megan-rna/images/fastqc_sequence_duplication_levels_plot.png" class="img-fluid figure-img"></p>
 </figure>
 </div>
 <p><img src="https://faculty.washington.edu/sr320/posts/megan-rna/images/fastqc_overrepresented_sequences_plot.png" class="img-fluid"></p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://faculty.washington.edu/sr320/posts/megan-rna/images/Screen Shot 2024-01-04 at 3.16.31 PM.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+<p><img src="https://faculty.washington.edu/sr320/posts/megan-rna/images/Screen Shot 2024-01-04 at 3.16.31 PM.png" class="img-fluid figure-img"></p>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://faculty.washington.edu/sr320/posts/megan-rna/images/fastqc-status-check-heatmap.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+<p><img src="https://faculty.washington.edu/sr320/posts/megan-rna/images/fastqc-status-check-heatmap.png" class="img-fluid figure-img"></p>
 </figure>
 </div>
 <p>Software Used:</p>
@@ -882,12 +901,12 @@ Katherine Silliman and others, Epigenetic and Genetic Population Structure is Co
 <p>Using the quantification in the trinity matrix created, I ran DESeq2 to show deferentially expressed genes, and filtering for those who’s expression showed a difference with a p value &lt;= 0.05. Differential expression was also visualized via a volcano plot and heatmap of the top 25 deferentially expressed genes)</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://faculty.washington.edu/sr320/posts/megan-rna/images/volcanoplot-01.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+<p><img src="https://faculty.washington.edu/sr320/posts/megan-rna/images/volcanoplot-01.png" class="img-fluid figure-img"></p>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://faculty.washington.edu/sr320/posts/megan-rna/images/heatmap.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+<p><img src="https://faculty.washington.edu/sr320/posts/megan-rna/images/heatmap.png" class="img-fluid figure-img"></p>
 </figure>
 </div>
 <p>Along with the visualzations, I created a dataframe with the differentially expressed genes and associated statistics (base mean, log 2fold change, lfcSE, stat, pvalue, padj) and saved as a tab file for the next steps.</p>
@@ -930,16 +949,15 @@ Katherine Silliman and others, Epigenetic and Genetic Population Structure is Co
   <category>aquaculture</category>
   <category>clam</category>
   <category>stress</category>
-  <guid>https://faculty.washington.edu/sr320/posts/megan-rna/</guid>
+  <guid>https://faculty.washington.edu/sr320/posts/megan-rna/index.html</guid>
   <pubDate>Thu, 04 Jan 2024 08:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_mewing-notebook_-_Clam_Gonad_RNAseq_Analysis_2024-01-06_07-25-10.png" medium="image" type="image/png"/>
 </item>
 <item>
   <title>Western Society of Naturalists</title>
   <dc:creator>Grace Leuchtenberger</dc:creator>
-  <link>https://faculty.washington.edu/sr320/posts/grace_L_WSN/</link>
+  <link>https://faculty.washington.edu/sr320/posts/grace_L_WSN/index.html</link>
   <description><![CDATA[ 
-
 
 
 
@@ -949,8 +967,8 @@ Katherine Silliman and others, Epigenetic and Genetic Population Structure is Co
 <p>I presented some data from a summer pilot project that didn’t end up being significant, but sparked some good conversations! Flow rate is known to influence the amount of threads that mussels produce to stick onto rocky surfaces, so I was wondering if it influenced the actual composition of the threads as well! I kept mussels under three different flow rates and measured their attachment strength. Didn’t find anything significant, but saw some trends.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_graceleuchtenberger.github.iopost_images20231122WSN.jpeg_at_master__graceleuchtenbergergraceleuchtenberger.github.io_2023-12-11_14-07-16.png" class="img-fluid figure-img"></p>
-<figcaption>img</figcaption>
+<p><img src="https://faculty.washington.edu/sr320/posts/grace_L_WSN/http:/gannet.fish.washington.edu/seashell/snaps/Monosnap_graceleuchtenberger.github.iopost_images20231122WSN.jpeg_at_master__graceleuchtenbergergraceleuchtenberger.github.io_2023-12-11_14-07-16.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">img</figcaption>
 </figure>
 </div>
 <p>I haven’t ever presented data in person at a conference before (relic of being a college covid baby), so this was really exciting for me to get feedback from other ecomechanics people and brainstorm future directions for my work, especially as I’m trying to propose my thesis this spring.</p>
@@ -962,15 +980,14 @@ Katherine Silliman and others, Epigenetic and Genetic Population Structure is Co
   <category>wsn</category>
   <category>meeting</category>
   <category>seastar</category>
-  <guid>https://faculty.washington.edu/sr320/posts/grace_L_WSN/</guid>
+  <guid>https://faculty.washington.edu/sr320/posts/grace_L_WSN/index.html</guid>
   <pubDate>Wed, 22 Nov 2023 08:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_graceleuchtenberger.github.iopost_images20231122WSN.jpeg_at_master__graceleuchtenbergergraceleuchtenberger.github.io_2023-12-11_14-07-16.png" medium="image" type="image/png"/>
 </item>
 <item>
   <title>Celebrating LGBTQ+ in STEM</title>
-  <link>https://faculty.washington.edu/sr320/posts/sr320-LGBTQ/</link>
+  <link>https://faculty.washington.edu/sr320/posts/sr320-LGBTQ/index.html</link>
   <description><![CDATA[ 
-
 
 
 
@@ -989,7 +1006,7 @@ Full Article
 </div>
 </div>
 <p>Celebrating and highlighting the work of LGBTQ+ people in science, technology, engineering, and math (STEM) has a special day on the calendar: November 18. Why this date? It is based on the 60<sup>th</sup>&nbsp;anniversary of American Astronomer and gay activist Frank Kameny’s fight against workplace discrimination, which he took to the U.S. Supreme Court.</p>
-<p><img src="https://fish.uw.edu/wp-content/uploads/sites/29/2023/11/LGBTQ-in-STEM-528x276.jpg" class="img-fluid" alt=""></p>
+<p><img src="https://faculty.washington.edu/sr320/posts/sr320-LGBTQ/https:/fish.uw.edu/wp-content/uploads/sites/29/2023/11/LGBTQ-in-STEM-528x276.jpg" class="img-fluid" alt=""></p>
 <p>Science is a place of innovation, research, and progress, but many communities are still marginalized in these spaces.&nbsp;<a href="https://prideinstem.org/lgbtstemday/">Pride in STEM</a> notes that 28% of LGBT+ people have considered leaving their jobs because of discrimination or workplace hostility.</p>
 <p>On&nbsp;<a href="https://prideinstem.org/lgbtstemday">LGBTQ+ in STEM Day</a>, we celebrate the contribution of LGBTQ+ scientists, while also recognizing that barriers are still faced and that efforts have to continue to break these down. We spoke with SAFS graduate student, Aspen Coyle, who shared her thoughts on her journey so far in academia, what inclusion means for her, and some of the barriers and highlights she’s experienced. She also shares some advice for those concerned about a lack of representation in marine science.</p>
 <div class="callout callout-style-default callout-important callout-titled">
@@ -1007,7 +1024,7 @@ More information
 </div>
 <section id="what-led-you-to-pursue-studies-in-science" class="level2">
 <h2 class="anchored" data-anchor-id="what-led-you-to-pursue-studies-in-science"><strong>What led you to pursue studies in science?</strong></h2>
-<p><img src="https://fish.uw.edu/wp-content/uploads/sites/29/2023/10/Aspen_selfie-259x528.jpg" class="img-fluid" alt=""></p>
+<p><img src="https://faculty.washington.edu/sr320/posts/sr320-LGBTQ/https:/fish.uw.edu/wp-content/uploads/sites/29/2023/10/Aspen_selfie-259x528.jpg" class="img-fluid" alt=""></p>
 <p>I’m one of those people that’s wanted to be a marine biologist ever since I was a little kid. I grew up in a fishing town in coastal Alaska, and my favorite thing in the world was scrambling along the intertidal, peering into tidepools and turning over rocks, trying to find the neatest critters. That base delight in hunting for cool creatures was augmented in undergrad with a deeper understanding of the ecological importance, and then after getting a job in another Alaskan fishing town, the economic importance.</p>
 </section>
 <section id="what-are-some-of-the-positive-experiences-as-lgbtq-in-stem-that-youve-had" class="level2">
@@ -1039,16 +1056,15 @@ Full Article
   <category>diversity</category>
   <category>inclusion</category>
   <category>dei</category>
-  <guid>https://faculty.washington.edu/sr320/posts/sr320-LGBTQ/</guid>
+  <guid>https://faculty.washington.edu/sr320/posts/sr320-LGBTQ/index.html</guid>
   <pubDate>Sat, 18 Nov 2023 08:00:00 GMT</pubDate>
   <media:content url="https://fish.uw.edu/wp-content/uploads/sites/29/2023/11/LGBTQ-in-STEM.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Western Society of Naturalists</title>
   <dc:creator>Grace Crandall</dc:creator>
-  <link>https://faculty.washington.edu/sr320/posts/grace-ac-WSN/</link>
+  <link>https://faculty.washington.edu/sr320/posts/grace-ac-WSN/index.html</link>
   <description><![CDATA[ 
-
 
 
 
@@ -1060,8 +1076,8 @@ Full Article
 <p>Here’s the team!</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://github.com/grace-ac/grace-ac.github.io/raw/master/notebook-images/2023-11-15-wsn-recap/IMG_1750.jpg" class="img-fluid figure-img"></p>
-<figcaption>img</figcaption>
+<p><img src="https://faculty.washington.edu/sr320/posts/grace-ac-WSN/https:/github.com/grace-ac/grace-ac.github.io/raw/master/notebook-images/2023-11-15-wsn-recap/IMG_1750.jpg" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">img</figcaption>
 </figure>
 </div>
 <p>Dr.&nbsp;Lindsay Alma, Dr.&nbsp;Colleen Burge, Dr.&nbsp;Drew Harvell, Dr.&nbsp;Eileen Hoffman, Dr.&nbsp;Maya Groner, Me, Dr.&nbsp;Becca Maher, and Dr.&nbsp;Olivia Graham!</p>
@@ -1073,13 +1089,13 @@ Full Article
 <p>I was part of the Sunday morning session that was all about <em>Pycnopodia helianthoides</em>! Below is a photo of everyone who presented. My talk went well - I ended up getting Honorable Mention for it!</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://github.com/grace-ac/grace-ac.github.io/raw/master/notebook-images/2023-11-15-wsn-recap/IMG_1970.jpeg" class="img-fluid figure-img"></p>
-<figcaption>img</figcaption>
+<p><img src="https://faculty.washington.edu/sr320/posts/grace-ac-WSN/https:/github.com/grace-ac/grace-ac.github.io/raw/master/notebook-images/2023-11-15-wsn-recap/IMG_1970.jpeg" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">img</figcaption>
 </figure>
 </div>
 <p>Dr.&nbsp;Lauren Schiebelhut, Dr.&nbsp;Jason Hodin, Dr.&nbsp;Alyssa Gehman, Me, Dr.&nbsp;Melanie Prentice, Tiffany Rudek, Dr.&nbsp;Drew Harvell, and Dr.&nbsp;Olivia Graham.</p>
 <p>For fun, here’s a pretty photo of one of our adult <em>Pycnopodia helianthoides</em> from our Summer 2021 work that made many appearances in my talk:<br>
-<img src="https://github.com/grace-ac/grace-ac.github.io/raw/master/notebook-images/2023-11-15-wsn-recap/IMG_3951.JPG" class="img-fluid" alt="img"></p>
+<img src="https://faculty.washington.edu/sr320/posts/grace-ac-WSN/https:/github.com/grace-ac/grace-ac.github.io/raw/master/notebook-images/2023-11-15-wsn-recap/IMG_3951.JPG" class="img-fluid" alt="img"></p>
 
 
 </section>
@@ -1088,15 +1104,14 @@ Full Article
   <category>wsn</category>
   <category>meeting</category>
   <category>seastar</category>
-  <guid>https://faculty.washington.edu/sr320/posts/grace-ac-WSN/</guid>
+  <guid>https://faculty.washington.edu/sr320/posts/grace-ac-WSN/index.html</guid>
   <pubDate>Wed, 15 Nov 2023 08:00:00 GMT</pubDate>
   <media:content url="https://github.com/grace-ac/grace-ac.github.io/raw/master/notebook-images/2023-11-15-wsn-recap/IMG_1750.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Insights from Pacific Oysters in a Heating Ocean</title>
-  <link>https://faculty.washington.edu/sr320/posts/sr320-DM/</link>
+  <link>https://faculty.washington.edu/sr320/posts/sr320-DM/index.html</link>
   <description><![CDATA[ 
-
 
 
 
@@ -1138,70 +1153,9 @@ Full Article
   <category>aquaculture</category>
   <category>oyster</category>
   <category>stress</category>
-  <guid>https://faculty.washington.edu/sr320/posts/sr320-DM/</guid>
+  <guid>https://faculty.washington.edu/sr320/posts/sr320-DM/index.html</guid>
   <pubDate>Sat, 04 Nov 2023 07:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_ChatGPT_2023-11-04_14-59-20.png" medium="image" type="image/png"/>
-</item>
-<item>
-  <title>AquaMine</title>
-  <link>https://faculty.washington.edu/sr320/posts/aquamine/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<section id="aquamine-a-treasure-trove-for-aquatic-genomics-research" class="level1">
-<h1><strong>AquaMine: A Treasure Trove for Aquatic Genomics Research</strong></h1>
-<p>Aquatic species are not just fascinating creatures of the deep; they are vital to the balance of our ecosystems and the prosperity of our aquaculture industries. As the demand for sustainable aquaculture and fisheries practices increases, so does the necessity for advanced research and development. Enter <a href="https://aquamine.elsiklab.missouri.edu">AquaMine</a>—a cutting-edge data mining system poised to revolutionize aquatic eumetazoan research by integrating genome assemblies and gene annotation data. This powerful tool is designed to empower researchers, enabling the creation of customized datasets that can be integrated with their own data. Here’s a closer look at AquaMine and its plethora of features.</p>
-<section id="a-platform-with-immense-potential" class="level2">
-<h2 class="anchored" data-anchor-id="a-platform-with-immense-potential"><strong>A Platform with Immense Potential</strong></h2>
-<p>Built on the robust InterMine genomic data mining platform, AquaMine is a testament to the power of bioinformatics in modern research. The web application component of AquaMine boasts an impressive array of search tools tailored to the needs of researchers:</p>
-<ul>
-<li><p>A simple key word search for straightforward inquiries</p></li>
-<li><p>Predefined template queries to streamline the research process</p></li>
-<li><p>A QueryBuilder Tool that offers flexibility for crafting custom queries</p></li>
-<li><p>A Regions Search Tool for those who require coordinate-based queries</p></li>
-<li><p>A List Tool that allows for uploading and searching with lists of identifiers</p></li>
-</ul>
-<p>These features not only enhance the user experience but also optimize the research workflow, leading to more efficient and effective studies.</p>
-</section>
-<section id="aquamine-v1.2-whats-new" class="level2">
-<h2 class="anchored" data-anchor-id="aquamine-v1.2-whats-new"><strong>AquaMine v1.2: What’s New?</strong></h2>
-<p>The latest iteration, AquaMine v1.2, houses the genomic gold of 37 aquatic species that are of paramount importance to the US aquaculture and fisheries. This includes, but is not limited to, species such as the Arctic char, Atlantic salmon, channel catfish, and the Pacific white shrimp. AquaMine doesn’t stop there; it ensures that the annotation data for these species is comprehensive, including resources from RefSeq genes, Ensembl, KEGG, UniProt, Gene Ontology (GO), PubMed, and OrthoDB.</p>
-<p>Moreover, the inclusion of genes from human, fruit fly, owl limpet, and zebrafish allows researchers to leverage model organism information through orthology, offering a broader perspective and facilitating comparative studies.</p>
-</section>
-<section id="enhancing-genetic-insight-with-aquamine-ortho-and-go-annotations" class="level2">
-<h2 class="anchored" data-anchor-id="enhancing-genetic-insight-with-aquamine-ortho-and-go-annotations"><strong>Enhancing Genetic Insight with AquaMine-Ortho and GO Annotations</strong></h2>
-<p>AquaMine-Ortho, a precomputed orthology dataset within AquaMine v1.2, spans all included species and fills gaps not covered by databases like OrthoDB or Ensembl. The addition of a comprehensive GO annotation dataset for all species is another feather in AquaMine’s cap, providing a rich resource for gene enrichment analysis.</p>
-</section>
-<section id="beyond-genomes-variants-and-expression-levels" class="level2">
-<h2 class="anchored" data-anchor-id="beyond-genomes-variants-and-expression-levels"><strong>Beyond Genomes: Variants and Expression Levels</strong></h2>
-<p>Staying true to its vision of comprehensive data provision, AquaMine v1.2 also introduces new genomic variant data from the Ensembl Variation Archive and extends its resources to include RNA-seq-based gene expression levels for selected species, offering a deeper understanding of genetic function and regulation.</p>
-</section>
-<section id="the-future-is-interactive-jbrowse-genome-browsers" class="level2">
-<h2 class="anchored" data-anchor-id="the-future-is-interactive-jbrowse-genome-browsers"><strong>The Future is Interactive: JBrowse Genome Browsers</strong></h2>
-<p>AquaMine’s development team is tirelessly working to further enhance user interaction with genomic data. The introduction of new JBrowse genome browsers equipped with Apollo manual genome annotation tools for aquaculture species is on the horizon. This feature promises to offer an even more hands-on approach to genomic data navigation and analysis.</p>
-</section>
-<section id="a-call-to-action-for-researchers" class="level2">
-<h2 class="anchored" data-anchor-id="a-call-to-action-for-researchers"><strong>A Call to Action for Researchers</strong></h2>
-<p>The ongoing development of AquaMine underscores a collaborative spirit, as the team calls upon researchers to participate as beta-testers. This invitation to provide feedback is not merely a request for quality assurance but a rallying cry for the scientific community to shape a tool that reflects their needs and aspirations.</p>
-</section>
-<section id="conclusion" class="level2">
-<h2 class="anchored" data-anchor-id="conclusion"><strong>Conclusion</strong></h2>
-<p>AquaMine v1.2 is more than a mere database—it’s a beacon for aquaculture and fisheries research, guiding the way towards a more informed and sustainable management of aquatic resources. With its comprehensive datasets, versatile tools, and forward-thinking enhancements, AquaMine is set to become an indispensable ally for researchers and industry professionals alike. Dive into AquaMine, and surface with the insights needed to keep our waters teeming with life for generations to come.</p>
-
-
-<!-- -->
-
-</section>
-</section>
-
- ]]></description>
-  <category>genomics</category>
-  <guid>https://faculty.washington.edu/sr320/posts/aquamine/</guid>
-  <pubDate>Mon, 23 Oct 2023 07:00:00 GMT</pubDate>
-  <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_ChatGPT_2023-11-04_15-16-26.png" medium="image" type="image/png"/>
 </item>
 </channel>
 </rss>
