@@ -3,6 +3,7 @@
     "listing": "/posts.html",
     "items": [
       "/posts/frontpage/lspencer-cod/index.html",
+      "/posts/frontpage/sr320-boundless/index.html",
       "/posts/frontpage/sr320-handbook/index.html",
       "/posts/frontpage/sr320-usda-report/index.html",
       "/posts/sr320-lsamp/index.html",
@@ -10,7 +11,7 @@
       "/posts/sr320-ostras/index.html",
       "/posts/sr320-lice/index.html",
       "/posts/sr320-altsplice/index.html",
-      "/posts/frontpage/sr320-enrich/index.html",
+      "/posts/sr320-enrich/index.html",
       "/posts/frontpage/ariana-hatchery/index.html",
       "/posts/sr320-oyster_stage/index.html",
       "/posts/ostrea/index.html",
@@ -85,10 +86,10 @@
     "listing": "/index.html",
     "items": [
       "/posts/frontpage/lspencer-cod/index.html",
+      "/posts/frontpage/sr320-boundless/index.html",
       "/posts/frontpage/sr320-handbook/index.html",
       "/posts/frontpage/sr320-usda-report/index.html",
       "/posts/frontpage/sr320-intertidal/index.html",
-      "/posts/frontpage/sr320-enrich/index.html",
       "/posts/frontpage/ariana-hatchery/index.html"
     ]
   }

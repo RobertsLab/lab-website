@@ -1,0 +1,48 @@
+---
+title: "Exploring Pacific Cod Resilience in a Warming Ocean"
+#description: "It's a stage-specific phenomenon."
+author:
+  name: Laura Spencer
+  #url: https://sr320.github.io/
+  #orcid: 0000-0001-8302-1138
+  affiliation: Postdoctoral Research Associate - Alaska Fisheries Science Center / UW SAFS & CICOES
+  #affiliation-url: https://robertslab.info
+date: "2024-11-06"
+categories: [cod, Alaska] # self-defined categories
+image: http://gannet.fish.washington.edu/seashell/snaps/2024-11-06_13-57-57.png # finding a good image
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+
+format:
+  html:
+    code-fold: true
+    code-tools: true
+    code-copy: true
+    highlight-style: github
+    code-overflow: wrap
+---
+
+In our latest update on the Pacific cod juvenile temperature study, we\'ve gained deeper insights into how these remarkable fish respond to different temperatures. This research is part of a larger effort to understand the resilience of marine species in changing environments.
+
+**Genetic Insights Reveal Population Origins**
+
+We began with genetic analyses, using data from thousands of genetic markers to determine the origin of our experimental fish. All our test fish were linked to the spawning grounds in the western Gulf of Alaska (wGOA) and the Eastern Bering Sea (EBS). This finding allows us to focus on the thermal resilience of cod from this particular region, which is vital as they face shifts in temperature in their natural habitats.
+
+![](http://gannet.fish.washington.edu/seashell/snaps/2024-11-06_15-00-51.png)
+
+**Temperature\'s Role in Energy and Lipid Storage**
+
+Our collaborator Louise Copement analyzed liver lipids in these juvenile cod, focusing on triglycerides and other key lipid types that are crucial for overwinter survival. The results showed a clear trend: energy storage, primarily in the form of triglycerides, peaked at 9°C, then dropped sharply at higher temperatures, especially at 16°C. This suggests that extreme warmth could deplete essential energy reserves, reducing the fish\'s survival prospects in the cold winter months.
+
+![](http://gannet.fish.washington.edu/seashell/snaps/2024-11-06_15-01-47.png)
+
+**Optimal Growth Temperatures and Physiological Responses**
+
+We also observed that juvenile cod exhibit optimal growth at approximately 12.3°C, slightly higher than previous findings. With higher temperatures, growth rates plateau or decline, mirroring the energy storage patterns. Interestingly, the gene expression data from liver tissues revealed significant temperature-driven shifts, especially in energy production, lipid metabolism, and immune response genes. This molecular data adds a new layer to our understanding of temperature tolerance.
+
+![](http://gannet.fish.washington.edu/seashell/snaps/2024-11-06_15-01-22.png)
+
+**Integrated Data: A Pathway to Genomic Resilience Markers**
+
+Combining growth, lipid, and gene expression data, we\'ve started identifying genes that correlate with enhanced resilience at specific temperatures. This approach could spotlight genetic markers for thermal resilience, offering clues about cod populations best suited to future ocean conditions.
+
+In summary, this research underscores the delicate balance juvenile Pacific cod must maintain in their energy reserves and growth under variable temperatures. These findings will help guide conservation and management efforts as we work to protect Pacific cod populations in a warming world.

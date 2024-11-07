@@ -10,11 +10,38 @@
 <atom:link href="https://faculty.washington.edu/sr320/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.3.433</generator>
-<lastBuildDate>Wed, 06 Nov 2024 08:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 08 Nov 2024 08:00:00 GMT</lastBuildDate>
+<item>
+  <title>Turning the tide</title>
+  <link>https://faculty.washington.edu/sr320/posts/frontpage/lspencer-cod/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><strong>Chris is featured on UW’s “Be Boundless” site. Read full article <a href="https://www.washington.edu/boundless/turning-the-tide-marine-biology/">here</a>. Below is a short snippet of the feature along with an amazing video!</strong></p>
+<p>On a windy June afternoon, Chris Mantegna, ’21, encourages a half-dozen undergraduates to flip over barnacle-studded rocks and sift through seaweed. Equipped with clipboards to record their findings, they’re creating a snapshot of the organisms in the island’s intertidal zone — from orange sea cucumbers to the camouflaged armored mollusks called chitons.</p>
+<p>Mantegna, a third-year graduate student in aquatic and fishery sciences, has spent the past three summers in Washington’s San Juan Islands, mentoring undergrads here on Yellow Island — a pristine 11-acre nature preserve owned by the Nature Conservancy. She created this eight-week program for students to get their hands dirty in the field and learn cutting-edge lab techniques at the UW Friday Harbor Laboratories — where she had a transformational research experience herself as a Husky undergrad.</p>
+<p>This mentorship program reflects Mantegna’s passion both for advancing the science and for making it more inclusive and accessible to others. Her face lights up when she spots a small chiton (her favorite) clinging to the bottom of a rock, and she invites others to feel the mollusk’s tough plated back. Even Mantegna’s doctoral work — examining the genetic response of shellfish to contaminants in Puget Sound waterways — has a focus on community outreach and environmental literacy.</p>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/VLLocGcP9S8?si=UzEadZGT7XryVpEV" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<p>Mantegna says we have a better chance at fighting climate change when everyone — scientists and community members — feels connected to their environment and each other. “I can tell you that the ocean is dying or that we have too much acidification,” says Mantegna, a U.S. Navy veteran who is the first in her family to graduate from college. “But it doesn’t matter if you’ve never had the chance to feel the joy that comes from this place.”</p>
+<p>Finish feature <a href="https://www.washington.edu/boundless/turning-the-tide-marine-biology/">here</a>.</p>
+
+
+<!-- -->
+
+
+ ]]></description>
+  <category>dna</category>
+  <category>education</category>
+  <guid>https://faculty.washington.edu/sr320/posts/frontpage/lspencer-cod/index.html</guid>
+  <pubDate>Fri, 08 Nov 2024 08:00:00 GMT</pubDate>
+  <media:content url="http://gannet.fish.washington.edu/seashell/snaps/2024-11-07_12-56-13.png" medium="image" type="image/png"/>
+</item>
 <item>
   <title>Exploring Pacific Cod Resilience in a Warming Ocean</title>
   <dc:creator>Laura Spencer</dc:creator>
-  <link>https://faculty.washington.edu/sr320/posts/frontpage/lspencer-cod/index.html</link>
+  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-boundless/index.html</link>
   <description><![CDATA[ 
 
 
@@ -23,13 +50,13 @@
 <p>In our latest update on the Pacific cod juvenile temperature study, we've gained deeper insights into how these remarkable fish respond to different temperatures. This research is part of a larger effort to understand the resilience of marine species in changing environments.</p>
 <p><strong>Genetic Insights Reveal Population Origins</strong></p>
 <p>We began with genetic analyses, using data from thousands of genetic markers to determine the origin of our experimental fish. All our test fish were linked to the spawning grounds in the western Gulf of Alaska (wGOA) and the Eastern Bering Sea (EBS). This finding allows us to focus on the thermal resilience of cod from this particular region, which is vital as they face shifts in temperature in their natural habitats.</p>
-<p><img src="https://faculty.washington.edu/sr320/posts/frontpage/lspencer-cod/http:/gannet.fish.washington.edu/seashell/snaps/2024-11-06_15-00-51.png" class="img-fluid"></p>
+<p><img src="https://faculty.washington.edu/sr320/posts/frontpage/sr320-boundless/http:/gannet.fish.washington.edu/seashell/snaps/2024-11-06_15-00-51.png" class="img-fluid"></p>
 <p><strong>Temperature's Role in Energy and Lipid Storage</strong></p>
 <p>Our collaborator Louise Copement analyzed liver lipids in these juvenile cod, focusing on triglycerides and other key lipid types that are crucial for overwinter survival. The results showed a clear trend: energy storage, primarily in the form of triglycerides, peaked at 9°C, then dropped sharply at higher temperatures, especially at 16°C. This suggests that extreme warmth could deplete essential energy reserves, reducing the fish's survival prospects in the cold winter months.</p>
-<p><img src="https://faculty.washington.edu/sr320/posts/frontpage/lspencer-cod/http:/gannet.fish.washington.edu/seashell/snaps/2024-11-06_15-01-47.png" class="img-fluid"></p>
+<p><img src="https://faculty.washington.edu/sr320/posts/frontpage/sr320-boundless/http:/gannet.fish.washington.edu/seashell/snaps/2024-11-06_15-01-47.png" class="img-fluid"></p>
 <p><strong>Optimal Growth Temperatures and Physiological Responses</strong></p>
 <p>We also observed that juvenile cod exhibit optimal growth at approximately 12.3°C, slightly higher than previous findings. With higher temperatures, growth rates plateau or decline, mirroring the energy storage patterns. Interestingly, the gene expression data from liver tissues revealed significant temperature-driven shifts, especially in energy production, lipid metabolism, and immune response genes. This molecular data adds a new layer to our understanding of temperature tolerance.</p>
-<p><img src="https://faculty.washington.edu/sr320/posts/frontpage/lspencer-cod/http:/gannet.fish.washington.edu/seashell/snaps/2024-11-06_15-01-22.png" class="img-fluid"></p>
+<p><img src="https://faculty.washington.edu/sr320/posts/frontpage/sr320-boundless/http:/gannet.fish.washington.edu/seashell/snaps/2024-11-06_15-01-22.png" class="img-fluid"></p>
 <p><strong>Integrated Data: A Pathway to Genomic Resilience Markers</strong></p>
 <p>Combining growth, lipid, and gene expression data, we've started identifying genes that correlate with enhanced resilience at specific temperatures. This approach could spotlight genetic markers for thermal resilience, offering clues about cod populations best suited to future ocean conditions.</p>
 <p>In summary, this research underscores the delicate balance juvenile Pacific cod must maintain in their energy reserves and growth under variable temperatures. These findings will help guide conservation and management efforts as we work to protect Pacific cod populations in a warming world.</p>
@@ -41,7 +68,7 @@
  ]]></description>
   <category>cod</category>
   <category>Alaska</category>
-  <guid>https://faculty.washington.edu/sr320/posts/frontpage/lspencer-cod/index.html</guid>
+  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-boundless/index.html</guid>
   <pubDate>Wed, 06 Nov 2024 08:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/2024-11-06_13-57-57.png" medium="image" type="image/png"/>
 </item>
@@ -313,50 +340,6 @@ Quote
   <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-intertidal/index.html</guid>
   <pubDate>Mon, 19 Aug 2024 07:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_The_Golden_Hour_-_a_geolocated_audio_walk_by_Intertidal_Innovators_on_ECHOES_2024-08-19_12-50-25.png" medium="image" type="image/png"/>
-</item>
-<item>
-  <title>Unraveling the Intricacies of Enrichment Analysis</title>
-  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-enrich/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>In our most recent lab meeting, we delved into the fascinating world of enrichment analysis. This statistical method is a cornerstone of our research, helping us identify significantly over-represented subsets of proteins or genes within our data.</p>
-<div class="quarto-video"><video id="video_shortcode_videojs_video1" class="video-js vjs-default-skin vjs-fluid" controls="" preload="auto" data-setup="{}" title=""><source src="http://gannet.fish.washington.edu/seashell/snaps/GMT20240509-195925_Recording_gallery_1920x1080.mp4"></video></div>
-<section id="the-power-of-enrichment-analysis" class="level2">
-<h2 class="anchored" data-anchor-id="the-power-of-enrichment-analysis">The Power of Enrichment Analysis</h2>
-<p>Enrichment analysis allows us to compare a small subset of genes or proteins to a larger set, identifying overrepresentation. This can provide valuable insights into the biological processes that are most relevant to our research.</p>
-</section>
-<section id="a-deep-dive-into-david" class="level2">
-<h2 class="anchored" data-anchor-id="a-deep-dive-into-david">A Deep Dive into David</h2>
-<p>One of the tools we use for enrichment analysis is David. During the meeting, we explored how to upload gene lists and backgrounds into David, and how to interpret the results it provides. This tool is invaluable in helping us understand the complex relationships and patterns within our data.</p>
-</section>
-<section id="the-reference-list-debate" class="level2">
-<h2 class="anchored" data-anchor-id="the-reference-list-debate">The Reference List Debate</h2>
-<p>An interesting discussion arose around what to use as a reference list in enrichment analysis. Should it be all the genes detected in the data set, or all genes in a reference genome? This question sparked a lively debate, highlighting the complexities and nuances of enrichment analysis.</p>
-</section>
-<section id="visualizing-gene-ontology-with-revigo" class="level2">
-<h2 class="anchored" data-anchor-id="visualizing-gene-ontology-with-revigo">Visualizing Gene Ontology with Revigo</h2>
-<p>To help us visualize gene ontology, we use a tool called Revigo. This tool provides a visual representation of the relationships between genes, making it easier to understand the complex data we work with.</p>
-</section>
-<section id="a-lighter-moment" class="level2">
-<h2 class="anchored" data-anchor-id="a-lighter-moment">A Lighter Moment</h2>
-<p>Amidst the serious scientific discussions, we also had a lighter moment when a team member shared a story about narrowly avoiding a parking ticket. It’s moments like these that remind us of the importance of camaraderie and humor in the lab.</p>
-<hr>
-<p>Our lab meetings are a crucial part of our research process, providing a space for us to discuss, debate, and learn together. Stay tuned for more insights from our lab meetings in future posts!</p>
-
-
-<!-- -->
-
-</section>
-
- ]]></description>
-  <category>methods</category>
-  <category>tools</category>
-  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-enrich/index.html</guid>
-  <pubDate>Thu, 09 May 2024 07:00:00 GMT</pubDate>
-  <media:content url="https://faculty.washington.edu/sr320/img/enrich.png" medium="image" type="image/png" height="105" width="144"/>
 </item>
 <item>
   <title>Hatchery Field Day at Point Whitney</title>
