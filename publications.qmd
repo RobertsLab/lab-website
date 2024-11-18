@@ -353,6 +353,7 @@ Characterizing the effects of ocean acidification in larval and juvenile Manila 
 # Recent Presentations
 
 #### 2024
+-   [Comparing sea star species with varying susceptibility to sea star wasting disease](https://github.com/grace-ac/presentations/blob/main/2024/Crandall_WSN_2024.pptx). Grace Crandall. Western Society of Naturalists. Portland, OR. November 2024. 
 
 -   [*Pycnopodia helianthoides* immune response to Sea Star Wasting Disease](https://github.com/grace-ac/presentations/blob/main/2024/Crandall_SICB_2024.pdf). Grace Crandall. Society of Integrative and Comparative Biology. January 2024.
 
