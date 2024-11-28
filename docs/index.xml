@@ -6,15 +6,16 @@
       version="2.0">
 <channel>
 <title>robertslab.info</title>
-<link>https://faculty.washington.edu/sr320/index.html</link>
+<link>https://faculty.washington.edu/sr320/</link>
 <atom:link href="https://faculty.washington.edu/sr320/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.3.433</generator>
+<generator>quarto-1.5.57</generator>
 <lastBuildDate>Fri, 08 Nov 2024 08:00:00 GMT</lastBuildDate>
 <item>
   <title>Turning the tide</title>
-  <link>https://faculty.washington.edu/sr320/posts/frontpage/lspencer-cod/index.html</link>
+  <link>https://faculty.washington.edu/sr320/posts/frontpage/lspencer-cod/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -34,15 +35,16 @@
  ]]></description>
   <category>dna</category>
   <category>education</category>
-  <guid>https://faculty.washington.edu/sr320/posts/frontpage/lspencer-cod/index.html</guid>
+  <guid>https://faculty.washington.edu/sr320/posts/frontpage/lspencer-cod/</guid>
   <pubDate>Fri, 08 Nov 2024 08:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/2024-11-07_12-56-13.png" medium="image" type="image/png"/>
 </item>
 <item>
   <title>Exploring Pacific Cod Resilience in a Warming Ocean</title>
   <dc:creator>Laura Spencer</dc:creator>
-  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-boundless/index.html</link>
+  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-boundless/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -50,13 +52,13 @@
 <p>In our latest update on the Pacific cod juvenile temperature study, we've gained deeper insights into how these remarkable fish respond to different temperatures. This research is part of a larger effort to understand the resilience of marine species in changing environments.</p>
 <p><strong>Genetic Insights Reveal Population Origins</strong></p>
 <p>We began with genetic analyses, using data from thousands of genetic markers to determine the origin of our experimental fish. All our test fish were linked to the spawning grounds in the western Gulf of Alaska (wGOA) and the Eastern Bering Sea (EBS). This finding allows us to focus on the thermal resilience of cod from this particular region, which is vital as they face shifts in temperature in their natural habitats.</p>
-<p><img src="https://faculty.washington.edu/sr320/posts/frontpage/sr320-boundless/http:/gannet.fish.washington.edu/seashell/snaps/2024-11-06_15-00-51.png" class="img-fluid"></p>
+<p><img src="http://gannet.fish.washington.edu/seashell/snaps/2024-11-06_15-00-51.png" class="img-fluid"></p>
 <p><strong>Temperature's Role in Energy and Lipid Storage</strong></p>
 <p>Our collaborator Louise Copement analyzed liver lipids in these juvenile cod, focusing on triglycerides and other key lipid types that are crucial for overwinter survival. The results showed a clear trend: energy storage, primarily in the form of triglycerides, peaked at 9°C, then dropped sharply at higher temperatures, especially at 16°C. This suggests that extreme warmth could deplete essential energy reserves, reducing the fish's survival prospects in the cold winter months.</p>
-<p><img src="https://faculty.washington.edu/sr320/posts/frontpage/sr320-boundless/http:/gannet.fish.washington.edu/seashell/snaps/2024-11-06_15-01-47.png" class="img-fluid"></p>
+<p><img src="http://gannet.fish.washington.edu/seashell/snaps/2024-11-06_15-01-47.png" class="img-fluid"></p>
 <p><strong>Optimal Growth Temperatures and Physiological Responses</strong></p>
 <p>We also observed that juvenile cod exhibit optimal growth at approximately 12.3°C, slightly higher than previous findings. With higher temperatures, growth rates plateau or decline, mirroring the energy storage patterns. Interestingly, the gene expression data from liver tissues revealed significant temperature-driven shifts, especially in energy production, lipid metabolism, and immune response genes. This molecular data adds a new layer to our understanding of temperature tolerance.</p>
-<p><img src="https://faculty.washington.edu/sr320/posts/frontpage/sr320-boundless/http:/gannet.fish.washington.edu/seashell/snaps/2024-11-06_15-01-22.png" class="img-fluid"></p>
+<p><img src="http://gannet.fish.washington.edu/seashell/snaps/2024-11-06_15-01-22.png" class="img-fluid"></p>
 <p><strong>Integrated Data: A Pathway to Genomic Resilience Markers</strong></p>
 <p>Combining growth, lipid, and gene expression data, we've started identifying genes that correlate with enhanced resilience at specific temperatures. This approach could spotlight genetic markers for thermal resilience, offering clues about cod populations best suited to future ocean conditions.</p>
 <p>In summary, this research underscores the delicate balance juvenile Pacific cod must maintain in their energy reserves and growth under variable temperatures. These findings will help guide conservation and management efforts as we work to protect Pacific cod populations in a warming world.</p>
@@ -68,14 +70,15 @@
  ]]></description>
   <category>cod</category>
   <category>Alaska</category>
-  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-boundless/index.html</guid>
+  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-boundless/</guid>
   <pubDate>Wed, 06 Nov 2024 08:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/2024-11-06_13-57-57.png" medium="image" type="image/png"/>
 </item>
 <item>
   <title>Deep dive into the handbook</title>
-  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-handbook/index.html</link>
+  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-handbook/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -227,15 +230,16 @@
  ]]></description>
   <category>handbook</category>
   <category>audio</category>
-  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-handbook/index.html</guid>
+  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-handbook/</guid>
   <pubDate>Sat, 14 Sep 2024 07:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Roberts_Lab_Handbook_2024-09-14_13-23-52.png" medium="image" type="image/png"/>
 </item>
 <item>
   <title>Hatchery-based Environmental Conditioning Activities</title>
   <dc:creator>Steven Roberts</dc:creator>
-  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-usda-report/index.html</link>
+  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-usda-report/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -243,8 +247,8 @@
 <p>During this past year a series of hatchery-based environmental conditioning activities (referred to as hardening) were completed with oysters out-planted onto three farms to evaluate performance. Additionally, climate resiliency was assessed in hardened oysters under controlled conditions.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://faculty.washington.edu/sr320/posts/frontpage/sr320-usda-report/http:/gannet.fish.washington.edu/seashell/snaps/Monosnap_overview.png_2024-08-29_13-35-45.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Experimental Overview</figcaption>
+<p><img src="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_overview.png_2024-08-29_13-35-45.png" class="img-fluid figure-img"></p>
+<figcaption>Experimental Overview</figcaption>
 </figure>
 </div>
 <section id="farm-outplanting" class="level1">
@@ -252,8 +256,8 @@
 <p>Early in the season, a cohort of oysters were subject to (a) daily thermal hardening for approximately two weeks prior to out planting in hanging bags on a farm in Sequim Bay, alongside a control group. These oyster will be assessed in early Autumn 2024. Later in the season oysters were subjected to a more diverse series of hardening conditions with oyster split between two commercial farms, one located in Willapa Bay and a second in the San Juan Islands. The combination of age classes and hardening conditions were as follows: b) small seed / daily thermal hardening, c) adult / daily thermal hardening, d) small seed / weekly thermal hardening, e1) large seed / weekly thermal hardening, e2) large seed / weekly zero salinity hardening. These hardening activities spanned from several weeks to months. For all hardening efforts controls were also outplanted. Oysters out planted in Willapa Bay will be assessed for survival and growth in early September 2024. Oysters out planted in the San Juan Islands have be subject to more routine monitoring. At this site we are currently observing a trend where oysters subjected to the daily hardening regime are surviving better than controls.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://faculty.washington.edu/sr320/posts/frontpage/sr320-usda-report/http:/gannet.fish.washington.edu/seashell/snaps/Monosnap_Monosnap_2024-08-29_13-37-09.png" class="img-fluid figure-img" width="300"></p>
-<figcaption class="figure-caption">Wescott Bay Outplanting</figcaption>
+<p><img src="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Monosnap_2024-08-29_13-37-09.png" class="img-fluid figure-img" width="300"></p>
+<figcaption>Wescott Bay Outplanting</figcaption>
 </figure>
 </div>
 </section>
@@ -262,34 +266,34 @@
 <p>To assess the effectiveness of hardening within a hatchery setting, four ages classes of oysters were examined: adults (40-100mm), juveniles (20-55mm), seed (6-15mm), and spat ()1-6mm). In order to assess hardening potential and environmental memory, oysters were subject to an initial chronic temperature stress, then subjected to a secondary stress to see if the response to secondary stress was impacted by initial exposure. During the chronic temperature stress period, oysters from each age class were exposed to a daily 25ºC temperature spike. This repeated for 14 days starting on October 1. Control oysters from each cohort were maintained at an ambient temperature of approximately 17ºC during the same time period.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://faculty.washington.edu/sr320/posts/frontpage/sr320-usda-report/http:/gannet.fish.washington.edu/seashell/snaps/Monosnap_env_hardening..._-_Google_Slides_2024-08-29_13-38-28.png" class="img-fluid figure-img" width="500"></p>
-<figcaption class="figure-caption">Hardening and acute stress temperature timeline</figcaption>
+<p><img src="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_env_hardening..._-_Google_Slides_2024-08-29_13-38-28.png" class="img-fluid figure-img" width="500"></p>
+<figcaption>Hardening and acute stress temperature timeline</figcaption>
 </figure>
 </div>
 <p>Adult oysters in stress conditions were also subject to mechanical stress at day 1, 7, and 48, which was induced by 15 minutes. At day 147 (7 weeks after initial chronic stress), both stressed and non-stressed adult, juvenile, spat, and seed were subjected to a secondary stress of 30 minutes in 32ºC. Gill tissue was sampled immediately after and placed into RNAlater. Spat and seed that were too small to dissect gill tissue were sampled whole with all tissue used in gene expression assays. To date we have analyzed gene expression data from seed and spat. There was no mortality during this trial. Hardening increased growth (compared to controls) in spat. Further there was a reduced transcriptional response in spat. These data suggest temperature hardening of spat could result in a resiliency to later temperature stress whereby energy resources could favor growth.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://faculty.washington.edu/sr320/posts/frontpage/sr320-usda-report/http:/gannet.fish.washington.edu/seashell/snaps/Monosnap_env_hardening..._-_Google_Slides_2024-08-29_13-39-30.png" class="img-fluid figure-img" width="500"></p>
-<figcaption class="figure-caption">Growth Performance</figcaption>
+<p><img src="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_env_hardening..._-_Google_Slides_2024-08-29_13-39-30.png" class="img-fluid figure-img" width="500"></p>
+<figcaption>Growth Performance</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://faculty.washington.edu/sr320/posts/frontpage/sr320-usda-report/http:/gannet.fish.washington.edu/seashell/snaps/Monosnap_env_hardening..._-_Google_Slides_2024-08-29_13-40-09.png" class="img-fluid figure-img" width="500"></p>
-<figcaption class="figure-caption">Gene expression profiles (spat)</figcaption>
+<p><img src="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_env_hardening..._-_Google_Slides_2024-08-29_13-40-09.png" class="img-fluid figure-img" width="500"></p>
+<figcaption>Gene expression profiles (spat)</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://faculty.washington.edu/sr320/posts/frontpage/sr320-usda-report/http:/gannet.fish.washington.edu/seashell/snaps/Monosnap_env_hardening..._-_Google_Slides_2024-08-29_13-40-54.png" class="img-fluid figure-img" width="500"></p>
-<figcaption class="figure-caption">Schematic physiology explanation when hardened spat are exposed to acute temperature stress.</figcaption>
+<p><img src="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_env_hardening..._-_Google_Slides_2024-08-29_13-40-54.png" class="img-fluid figure-img" width="500"></p>
+<figcaption>Schematic physiology explanation when hardened spat are exposed to acute temperature stress.</figcaption>
 </figure>
 </div>
 </section>
 <section id="physiological-assessment-2" class="level1">
 <h1>Physiological Assessment 2</h1>
 <p>In a second experimental regime, juvenile oysters were subjected to four hardening conditions 1) high temperature (35°C), 2) high temperature and freshwater, 3) freshwater, and 4) poly I:C immersion. These were exposures that occurred every other day for about 3 weeks. Approximately 1 month after hardening, oysters were brought to the lab and subjected to metabolic assessment using resazurin at 18°C and 42°C. Resazurin is a dye that is commonly used in cell viability, and it works by changing color as an organism consumes oxygen. Survival was assessed during the resazurin assay and 24 hours later. To date, our analysis suggests metabolic activity of the 42°C oysters was higher in the control oysters than previously hardened oysters. In the near future we will assess the relationship of metabolic activity and survival however it appears higher metabolic rate directly correlates with mortality. Taken together these sets of controlled experiments suggest hardening does have an impact on resiliency, though dependent on age, hardening duration, and subsequent environmental conditions.</p>
-<p><img src="https://faculty.washington.edu/sr320/posts/frontpage/sr320-usda-report/http:/gannet.fish.washington.edu/seashell/snaps/Monosnap_logo-resazuring_2024-08-29_13-50-31.png" class="img-fluid" alt="Resazurin assay (4 hour / 2 temperatures) on hardened oysters"></p>
+<p><img src="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_logo-resazuring_2024-08-29_13-50-31.png" class="img-fluid" alt="Resazurin assay (4 hour / 2 temperatures) on hardened oysters"></p>
 
 
 <!-- -->
@@ -299,21 +303,22 @@
  ]]></description>
   <category>oyster</category>
   <category>stress</category>
-  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-usda-report/index.html</guid>
+  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-usda-report/</guid>
   <pubDate>Fri, 30 Aug 2024 07:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Monosnap_2024-08-29_13-10-49.png" medium="image" type="image/png"/>
 </item>
 <item>
   <title>Intertidal Innovators</title>
-  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-intertidal/index.html</link>
+  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-intertidal/</link>
   <description><![CDATA[ 
 
 
 
 
-<p><img src="https://faculty.washington.edu/sr320/posts/frontpage/sr320-intertidal/http:/gannet.fish.washington.edu/seashell/snaps/Monosnap_IMG_1373.png_2024-08-19_12-59-21.png" class="img-fluid"></p>
+
+<p><img src="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_IMG_1373.png_2024-08-19_12-59-21.png" class="img-fluid"></p>
 <p>On August 16, participants in the Intertidal Innovators program presented their work to the community. The program, which was a collaboration sponsored by the UW Earthlab program, provided students with the opportunity to learn about marine science and conservation through art.</p>
-<p><img src="https://faculty.washington.edu/sr320/posts/frontpage/sr320-intertidal/http:/gannet.fish.washington.edu/seashell/snaps/Monosnap_Monosnap_2024-08-19_13-09-47.png" class="img-fluid"></p>
+<p><img src="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Monosnap_2024-08-19_13-09-47.png" class="img-fluid"></p>
 <div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -337,14 +342,15 @@ Quote
 
  ]]></description>
   <category>education</category>
-  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-intertidal/index.html</guid>
+  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-intertidal/</guid>
   <pubDate>Mon, 19 Aug 2024 07:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_The_Golden_Hour_-_a_geolocated_audio_walk_by_Intertidal_Innovators_on_ECHOES_2024-08-19_12-50-25.png" medium="image" type="image/png"/>
 </item>
 <item>
   <title>Hatchery Field Day at Point Whitney</title>
-  <link>https://faculty.washington.edu/sr320/posts/frontpage/ariana-hatchery/index.html</link>
+  <link>https://faculty.washington.edu/sr320/posts/frontpage/ariana-hatchery/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -374,8 +380,8 @@ Link to Full Notebook Post
 </ol>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://faculty.washington.edu/sr320/posts/frontpage/ariana-hatchery/http:/gannet.fish.washington.edu/seashell/snaps/Monosnap_Hatchery_field_day_at_Point_Whitney_May_6_2024__Ariana_S_Huffmyer__NSF_Ocean_Sciences_Postdoctoral_Fellow_University_of_Rhod_2024-05-11_14-51-46.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">heath-tray</figcaption>
+<p><img src="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Hatchery_field_day_at_Point_Whitney_May_6_2024__Ariana_S_Huffmyer__NSF_Ocean_Sciences_Postdoctoral_Fellow_University_of_Rhod_2024-05-11_14-51-46.png" class="img-fluid figure-img"></p>
+<figcaption>heath-tray</figcaption>
 </figure>
 </div>
 <p><strong>Takeaways for Hatchery Science</strong> Dr.&nbsp;Huffmyer’s systematic approach highlights the significance of precise monitoring and stress testing in hatchery science. Understanding oyster resilience to environmental stressors is crucial for aquaculture sustainability. Her work at Point Whitney offers a detailed protocol that could be replicated or adapted by other researchers to monitor and improve hatchery operations.</p>
@@ -388,7 +394,7 @@ Link to Full Notebook Post
  ]]></description>
   <category>methods</category>
   <category>tools</category>
-  <guid>https://faculty.washington.edu/sr320/posts/frontpage/ariana-hatchery/index.html</guid>
+  <guid>https://faculty.washington.edu/sr320/posts/frontpage/ariana-hatchery/</guid>
   <pubDate>Mon, 06 May 2024 07:00:00 GMT</pubDate>
   <media:content url="https://faculty.washington.edu/sr320/img/bucket.png" medium="image" type="image/png" height="145" width="144"/>
 </item>

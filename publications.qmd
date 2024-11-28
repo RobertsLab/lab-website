@@ -86,6 +86,7 @@ Gavery MR, Roberts SB. (**2017**) [Epigenetic considerations in aquaculture](htt
 <script async type="application/javascript" src="https://cdn.scite.ai/badge/scite-badge-latest.min.js">
 </script>
 ```
+
 <a href="https://doi.org/10.7717/peerj.4147"><img src="https://d.pr/i/prer0r+" title="aq-epigenetic" alt="heat-map" class="wp-image-2505 alignright" width="265" height="143"/></a>
 
 Jake Emerson Heare, Brady Blake, Jonathan P Davis, Brent Vadopalas, Steven Roberts (**2017**) [Evidence of Ostrea lurida Carpenter, 1864 population structure in Puget Sound, WA](https://doi.org/10.1111/maec.12458) Marine Ecology 38:e12458 doi: 10.1111/maec.12458
@@ -334,26 +335,33 @@ Characterizing the effects of ocean acidification in larval and juvenile Manila 
 
 # Notebooks
 
-| Person           | Notebook                                                                        | Commitment                                                                                             |
-|-------------------|-------------------|-----------------------------------|
-| Steven Roberts   | [sr320.github.io](https://sr320.github.io/)                                     | ![GitHub last commit](https://img.shields.io/github/last-commit/sr320/sr320.github.io)                 |
-| Sam White        | [robertslab.github.io](https://robertslab.github.io/sams-notebook/)             | ![GitHub last commit](https://img.shields.io/github/last-commit/RobertsLab/sams-notebook)              |
-| Matt George      | [mattgeorgephd.github.io](https://mattgeorgephd.github.io/notebook/)            | ![GitHub last commit](https://img.shields.io/github/last-commit/mattgeorgephd/mattgeorgephd.github.io) |
-| Aspen Coyle      | [aspencoyle.github.io](https://aspencoyle.github.io)                            | ![GitHub last commit](https://img.shields.io/github/last-commit/afcoyle/afcoyle.github.io)             |
-| Ariana Huffmyer  | [ahuffmyer.github.io](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/)     | ![GitHub last commit](https://img.shields.io/github/last-commit/AHuffmyer/ASH_Putnam_Lab_Notebook)     |
-| Chris Mantegna   | [chrismantegna.github.io/cmlabsite](https://chrismantegna.github.io/cmlabsite/) | ![Github last commit](https://img.shields.io/github/last-commit/ChrisMantegna.github.io/cmlabsite)     |
-| Zach Bengtsson   | [zbengt.github.io](https://zbengt.github.io/notebook/)                          | ![Github last commit](https://img.shields.io/github/last-commit/zbengt/zbengt.github.io)               |
-| Celeste Valdivia | [valeste.github.io](https://valeste.github.io/tough-tunicates/)                 | ![GitHub last commit](https://img.shields.io/github/last-commit/valeste/tough-tunicates)               |
-| Larken Root      | [larkenr.github.io](https://larkenr.github.io)                                  | ![Github last commit](https://img.shields.io/github/last-commit/larkenr/larkenr.github.io)             |
-| Grace Crandall   | [grace-ac.github.io](https://grace-ac.github.io/)                               | ![GitHub last commit](https://img.shields.io/github/last-commit/grace-a/grace-ac.github.io)            |
-| Kathleen Durkin  | [shedurkin.github.io](https://shedurkin.github.io/Roberts-LabNotebook/)         | ![GitHub last commit](https://img.shields.io/github/last-commit/shedurkin/Roberts-LabNotebook)         |
+| Person | Notebook | Commitment |
+|-------------------|-------------------|----------------------------------|
+| Steven Roberts | [sr320.github.io](https://sr320.github.io/) | ![GitHub last commit](https://img.shields.io/github/last-commit/sr320/sr320.github.io) |
+| Sam White | [robertslab.github.io](https://robertslab.github.io/sams-notebook/) | ![GitHub last commit](https://img.shields.io/github/last-commit/RobertsLab/sams-notebook) |
+| Matt George | [mattgeorgephd.github.io](https://mattgeorgephd.github.io/notebook/) | ![GitHub last commit](https://img.shields.io/github/last-commit/mattgeorgephd/mattgeorgephd.github.io) |
+| Aspen Coyle | [aspencoyle.github.io](https://aspencoyle.github.io) | ![GitHub last commit](https://img.shields.io/github/last-commit/afcoyle/afcoyle.github.io) |
+| Ariana Huffmyer | [ahuffmyer.github.io](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/) | ![GitHub last commit](https://img.shields.io/github/last-commit/AHuffmyer/ASH_Putnam_Lab_Notebook) |
+| Chris Mantegna | [chrismantegna.github.io/cmlabsite](https://chrismantegna.github.io/cmlabsite/) | ![Github last commit](https://img.shields.io/github/last-commit/ChrisMantegna.github.io/cmlabsite) |
+| Zach Bengtsson | [zbengt.github.io](https://zbengt.github.io/notebook/) | ![Github last commit](https://img.shields.io/github/last-commit/zbengt/zbengt.github.io) |
+| Celeste Valdivia | [valeste.github.io](https://valeste.github.io/tough-tunicates/) | ![GitHub last commit](https://img.shields.io/github/last-commit/valeste/tough-tunicates) |
+| Larken Root | [larkenr.github.io](https://larkenr.github.io) | ![Github last commit](https://img.shields.io/github/last-commit/larkenr/larkenr.github.io) |
+| Grace Crandall | [grace-ac.github.io](https://grace-ac.github.io/) | ![GitHub last commit](https://img.shields.io/github/last-commit/grace-a/grace-ac.github.io) |
+| Kathleen Durkin | [shedurkin.github.io](https://shedurkin.github.io/Roberts-LabNotebook/) | ![GitHub last commit](https://img.shields.io/github/last-commit/shedurkin/Roberts-LabNotebook) |
 
 ------------------------------------------------------------------------
 
 # Recent Presentations
 
 #### 2024
--   [Comparing sea star species with varying susceptibility to sea star wasting disease](https://github.com/grace-ac/presentations/blob/main/2024/Crandall_WSN_2024.pptx). Grace Crandall. Western Society of Naturalists. Portland, OR. November 2024. 
+
+-   [Comparing sea star species with varying susceptibility to sea star wasting disease](https://github.com/grace-ac/presentations/blob/main/2024/Crandall_WSN_2024.pptx). Grace Crandall. Western Society of Naturalists. Portland, OR. November 2024.
+
+-   [Marine invertebrate environmental memory: Implications, mechanisms, and opportunities.](https://github.com/sr320/talk-SZAN-2024) Steven Roberts. Stazione Zoologica Anton Dohrn, Naples, Italy. October 2024.
+
+-   [Olympia Oyster (*Ostrea lurida*) Restoration in the United States A Physiology and Genomic Perspective](https://github.com/sr320/talk-ostras-2024). Steven Roberts. Concepcion, Chile. July 2024.
+
+-   [Marine invertebrate environmental memory: Implications, mechanisms, and opportunities](https://github.com/sr320/talk-duke-2024). Steven Roberts. Duke Marine Laboratory, Beaufort, NC. February 2024.
 
 -   [*Pycnopodia helianthoides* immune response to Sea Star Wasting Disease](https://github.com/grace-ac/presentations/blob/main/2024/Crandall_SICB_2024.pdf). Grace Crandall. Society of Integrative and Comparative Biology. January 2024.
 
