@@ -85,23 +85,21 @@ I have been proud to call Washington home for most of my life, so I am thrilled 
 
 # Postdoctoral Research Associates
 
-## Ariana S. Huffmyer, PhD
+## Ariana S. Huffmyer, PhD 
 
 -   [Lab notebook](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/)
 -   [LinkTree](https://linktr.ee/ashuffmyer)
--   Email: ashuffmyer\@uri.edu
--   National Science Foundation Ocean Sciences Postdoctoral Fellow
--   UW eScience Data Science Postdoctoral Fellow
+-   Email: ashuff\@uw.edu
 
-![](https://raw.githubusercontent.com/ahuffmyer/ASH_Putnam_Lab_Notebook/master/images/ArianaHuffmyer.jpg){width="130px" height="150px"}
+![](https://github.com/AHuffmyer/ASH_Putnam_Lab_Notebook/blob/master/images/Ariana_Huffmyer.jpeg?raw=true){width="130px" height="150px"}
 
-I am a postdoctoral researcher working with [Dr. Hollie Putnam at the University of Rhode Island](http://putnamlab.com/) and Dr. Steven Roberts at the University of Washington studying the effects of climate change on marine invertebrate early life history, with a particular interest in the formation of coral-algal symbiosis during coral development.
+I am a Research Scientist at the University of Washington studying the effects of climate change on marine invertebrate early life history, with a particular interest in tolerance and resilience to stress in reef-building corals and bivalves.
 
 My current research interests are in understanding how climate change affects coral performance and survival using multi-omic approaches. Increased frequency and severity of marine heat waves are causing coral bleaching - the breakdown of the nutritional symbiosis between tropical corals and their algal endosymbionts. My research investigates the formation of symbiosis between corals and their algal symbionts during early development in coral species in Hawaii, USA, and Moorea, French Polynesia by utilizing physiological, metabolomic, and transcriptomic approaches.
 
-I am working with the [E5 Coral team](https://e5coral.org/) to examine coral physiological, metabolic, and epigenetic responses across nutrient gradients in Moorea. I use [online notebooks](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/) and [GitHub](https://github.com/AHuffmyer) to publicly share my data and analyses.
+Our work also investigates the capacity for aquaculture species (e.g., the Pacific oysters) to increase thermal tolerance and growth through stress hardening. We work in collaboration with aquaculture growers and hatcheries throughout Western Washington. 
 
-I completed my Ph.D. in marine biology and science education at the Hawaii Institute of Marine Biology in the [Coral Resilience Lab - The Legacy of Ruth Gates](https://www.coralresiliencelab.com/) and [Lemus Labs](https://judylemus.com/) where I studied how early life stages of corals respond to climate change driven thermal stress.
+I use [online notebooks](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/) and [GitHub](https://github.com/AHuffmyer) to publicly share my data and analyses.
 
 Outside the lab, I enjoy hiking, mountain biking, fly fishing, and exploring with my two dogs the Pacific Northwest.
 
