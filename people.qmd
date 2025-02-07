@@ -70,8 +70,11 @@ I'm a returning student to the Roberts Lab, having previously received my BSc (2
 
 ![](https://avatars.githubusercontent.com/u/89885240?v=4){width="140" height="150" align="left" border="10" style="border-color: white"}
 
-Growing up in land-locked Fort Worth, Texas, I rarely interacted with marine ecosystems. However, despite my high school focus on studying mathematics, a lifelong interest in how climate change was affecting the world prompted me to join a coral phylogenetics lab in my freshman year at Harvey Mudd College. My experience there sparked an ongoing interest in studying the impacts of climate change on vulnerable ecological systems. Throughout my undergraduate career I continued to study soft coral taxonomy and population genetics using both molecular and NGS methods, culminating in a thesis project for which I utilized target capture of conserved elements to improve species delimitation and understanding of biogeographical diversity in the speciose octocoral genus Sclerophytum (formerly Sinularia). I graduated with a B.S. in Mathematical and Computational Biology and an Emphasis in Environmental Analysis in May 2023 and spent the following summer working as a Lab Technician for my undergraduate lab, both continuing my research and managing the lab’s daily operation. 
-Now, as part of the Roberts Lab I'm broadly studying stress response in marine invertebrates. My current projects include studying differential gene expression in Pacific cod, non-coding RNAs in corals, and the efficacy of stress hardening in Pacific oysters! Outside of classes and the lab, I like to spend my time thrifting, reading, crafting, and finding new shows to watch with my partner!
+I’m pursuing a PhD in Aquatic and Fishery Sciences, and am broadly interested in environmental response in marine invertebrates! 
+
+I spent my undergraduate career studying soft coral taxonomy and population genetics using single- and multi-locus sequencing, and graduated from Harvey Mudd College in 2023 with a B.S. in Mathematical and Computational Biology.
+
+Since joining the Roberts Lab later that year, I’ve shifted my focus to epigenetics – molecular modifications that influence gene expression without affecting the DNA sequence. My current projects include the study of non-coding RNAs in corals and of multigenerational DNA methylation in Eastern oysters. You can learn more about my work through my publicly-available digital lab notebook, linked above. Outside of the lab I TA R-based biostatics classes, am learning Swedish, and like to spend my free time thrifting, crafting, and finding new shows to watch with my partner!
 
 ## Megan Ewing
 
