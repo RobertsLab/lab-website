@@ -8,7 +8,7 @@ website:
   announcement: 
     icon: info-circle
     dismissable: true
-    content: "**Alert** - Watch out for cool new updates in February 2025!"
+    content: "**Get in Touch!** - Use the [contact form](https://faculty.washington.edu/sr320/contact.html) to reach out to us with any questions or comments."
     type: primary
     position: above-navbar
   repo-url: https://github.com/Robertslab/lab-website
