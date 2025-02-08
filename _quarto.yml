@@ -4,6 +4,13 @@ project:
 
 
 website:
+  open-graph: true
+  announcement: 
+    icon: info-circle
+    dismissable: true
+    content: "**Alert** - this is some information that you should pay attention to"
+    type: primary
+    position: above-navbar
   repo-url: https://github.com/Robertslab/lab-website
   #repo-actions: [edit, issue]
   favicon: /img/logo.png
@@ -81,7 +88,6 @@ website:
         href: index.xml
      
 
-
   sidebar:
     style: "docked"
     search: true
@@ -129,3 +135,4 @@ format:
 editor: visual
 
 
+body-footer: test
