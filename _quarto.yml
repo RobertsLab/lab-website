@@ -8,7 +8,7 @@ website:
   announcement: 
     icon: info-circle
     dismissable: true
-    content: "**Alert** - this is some information that you should pay attention to"
+    content: "**Alert** - Watch out for cool new updates in February 2025!"
     type: primary
     position: above-navbar
   repo-url: https://github.com/Robertslab/lab-website
