@@ -10,7 +10,53 @@
 <atom:link href="https://faculty.washington.edu/sr320/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.6.40</generator>
-<lastBuildDate>Fri, 08 Nov 2024 08:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 08 Feb 2025 08:00:00 GMT</lastBuildDate>
+<item>
+  <title>Coral Larvae and Thermal Stress</title>
+  <link>https://faculty.washington.edu/sr320/posts/frontpage/ariana-paper/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>As climate change continues to drive rising ocean temperatures, coral reef ecosystems face an unprecedented crisis. Coral bleaching events, characterized by the breakdown of the mutualistic relationship between corals and their algal endosymbionts (Symbiodiniaceae), have become increasingly common, threatening the persistence of coral reefs worldwide. While much research has focused on adult corals, new studies are shedding light on how early life stages respond to thermal stress. <a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002875">A recent study by Huffmyer et al.&nbsp;(2024), published in&nbsp;<em>PLOS Biology</em></a>, provides novel insights into how coral larvae cope with increased temperatures by modifying nitrogen assimilation to stabilize symbiotic relationships and mitigate bleaching risk.</p>
+<section id="the-crucial-role-of-coral-larvae-in-reef-resilience" class="level3">
+<h3 class="anchored" data-anchor-id="the-crucial-role-of-coral-larvae-in-reef-resilience"><strong>The Crucial Role of Coral Larvae in Reef Resilience</strong></h3>
+<p>Reef-building corals rely on their symbionts to produce energy-rich photosynthates that fuel metabolic processes. However, when subjected to thermal stress, this delicate exchange can be disrupted, leading to the expulsion of symbionts and loss of critical energy sources. Understanding how coral larvae respond to environmental stress is particularly important, as their ability to establish symbiosis and successfully settle onto reefs determines the future of coral populations.</p>
+<p>The study focused on&nbsp;<em>Montipora capitata</em>, a dominant reef-building coral in Hawai‘i that vertically transmits Symbiodiniaceae to its offspring. The researchers subjected symbiotic larvae to a 2.5°C increase in temperature for three days and assessed metabolic responses, photosynthetic performance, and stable isotope-labeled metabolite exchange.</p>
+</section>
+<section id="key-findings-nitrogen-assimilation-as-a-protective-mechanism" class="level3">
+<h3 class="anchored" data-anchor-id="key-findings-nitrogen-assimilation-as-a-protective-mechanism"><strong>Key Findings: Nitrogen Assimilation as a Protective Mechanism</strong></h3>
+<p>Contrary to expectations, the study found that while larvae exhibited significant metabolic depression under high temperatures—indicated by a 19% reduction in respiration rates—they did not experience bleaching or a decline in survival and settlement rates. Photosynthetic activity remained stable, and the symbiont population density was maintained despite thermal stress.</p>
+<p>A crucial discovery was that coral larvae increased ammonium assimilation and urea metabolism while sequestering nitrogen into dipeptides. This shift suggests that larvae actively modulate nitrogen cycling to maintain symbiotic balance. By limiting nitrogen availability to the symbionts, the coral hosts may be promoting sustained photosynthate translocation, ensuring that energy supply remains uninterrupted under heat stress.</p>
+</section>
+<section id="metabolic-trade-offs-and-implications-for-coral-survival" class="level3">
+<h3 class="anchored" data-anchor-id="metabolic-trade-offs-and-implications-for-coral-survival"><strong>Metabolic Trade-offs and Implications for Coral Survival</strong></h3>
+<p>While glucose translocation from symbiont to host was maintained, the study revealed reduced metabolism of glucose through central carbon pathways such as glycolysis. This metabolic shift implies a trade-off: larvae prioritize nitrogen assimilation over carbohydrate breakdown, potentially conserving energy for essential physiological functions.</p>
+<p>The authors propose that nitrogen limitation imposed on Symbiodiniaceae encourages continued carbon transfer to the host, preventing the symbionts from hoarding fixed carbon, which could otherwise disrupt the mutualistic relationship. This mechanism highlights a potential resilience strategy in coral early life stages that may influence reef recovery following bleaching events.</p>
+</section>
+<section id="future-directions-and-conservation-implications" class="level3">
+<h3 class="anchored" data-anchor-id="future-directions-and-conservation-implications"><strong>Future Directions and Conservation Implications</strong></h3>
+<p>Understanding the physiological mechanisms that allow coral larvae to withstand heat stress has significant implications for reef conservation and restoration efforts. If coral larvae can naturally modulate nitrogen metabolism to maintain symbiosis, selective breeding or assisted evolution approaches may enhance these traits in vulnerable species.</p>
+<p>Additionally, further research should investigate whether similar nitrogen assimilation strategies are present in adult corals or if this is a life-stage-specific adaptation. Given the increasing frequency of marine heatwaves, identifying and promoting heat-resilient traits in corals could be a crucial component of future conservation strategies.</p>
+</section>
+<section id="conclusion" class="level3">
+<h3 class="anchored" data-anchor-id="conclusion"><strong>Conclusion</strong></h3>
+<p>Huffmyer et al.&nbsp;(2024) provide compelling evidence that coral larvae can mitigate thermal stress through nitrogen assimilation, maintaining stable symbiosis even under elevated temperatures. By uncovering this metabolic adaptation, the study advances our understanding of coral resilience mechanisms and underscores the importance of protecting early life stages in reef conservation efforts. As climate change accelerates, these insights may inform new strategies to support coral reef survival in a warming world.</p>
+
+
+<!-- -->
+
+</section>
+
+ ]]></description>
+  <category>paper</category>
+  <category>coral</category>
+  <guid>https://faculty.washington.edu/sr320/posts/frontpage/ariana-paper/</guid>
+  <pubDate>Sat, 08 Feb 2025 08:00:00 GMT</pubDate>
+  <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Coral_larvae_increase_nitrogen_assimilation_to_stabilize_algal_symbiosis_and_combat_bleaching_under_increased_temperature__PLO_2025-02-08_12-36-36.png" medium="image" type="image/png"/>
+</item>
 <item>
   <title>Turning the tide</title>
   <link>https://faculty.washington.edu/sr320/posts/frontpage/lspencer-cod/</link>
@@ -73,166 +119,6 @@
   <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-boundless/</guid>
   <pubDate>Wed, 06 Nov 2024 08:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/2024-11-06_13-57-57.png" medium="image" type="image/png"/>
-</item>
-<item>
-  <title>Deep dive into the handbook</title>
-  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-handbook/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>A unique perspective. You will never guess what they reveal!</p>
-<section id="audio" class="level1">
-<h1>Audio</h1>
-<div class="quarto-video"><video id="video_shortcode_videojs_video1" class="video-js vjs-default-skin vjs-fluid" controls="" preload="auto" data-setup="{}" title=""><source src="http://gannet.fish.washington.edu/seashell/snaps/handbook.wav"></video></div>
-</section>
-<section id="transcript" class="level1">
-<h1>Transcript</h1>
-<p>Welcome to The Deep Dive, where we dig into the nitty gritty of fascinating topics.</p>
-<p>Today, we’re taking a deep dive into the Roberts Lab at the University of Washington, and we’re doing that through the lens of their handbook.</p>
-<p>It’s more than just a rule book, though, isn’t it?</p>
-<p>Oh, absolutely.</p>
-<p>It’s like a window into their whole approach to science.</p>
-<p>Everything from, like, groundbreaking research to how they actually build their research culture.</p>
-<p>And they’re known for being incredibly transparent, which this handbook really embodies.</p>
-<p>Yeah, it’s refreshing.</p>
-<p>And speaking of refreshing, I have to ask you about this freezer alarm situation.</p>
-<p>Oh, yes.</p>
-<p>So they have, like, a dedicated alarm for their ultra-low temperature freezers, right?</p>
-<p>Yeah.</p>
-<p>But there’s this 15-minute delay before anyone actually gets notified if it goes off.</p>
-<p>Can you imagine?</p>
-<p>It’s like a slow-motion heart attack for a researcher.</p>
-<p>Right.</p>
-<p>All those precious samples.</p>
-<p>I’d be a wreck.</p>
-<p>It really highlights the fragility of these biological materials they’re working with.</p>
-<p>RNA, proteins, these things have to be stored at, like, negative 80 degrees Celsius.</p>
-<p>Wow.</p>
-<p>Even a short power outage could be disastrous.</p>
-<p>So is that delay, like, a safety net to give the system a chance to recover?</p>
-<p>Exactly.</p>
-<p>It’s a calculated risk.</p>
-<p>They’re trying to balance preventing false alarms while also, you know, protecting those invaluable research materials.</p>
-<p>Makes sense.</p>
-<p>Yeah.</p>
-<p>And it seems like that emphasis on meticulousness, on minimizing risk, it really comes through in the whole handbook, especially when they talk about lab safety and chemicals.</p>
-<p>It’s serious business.</p>
-<p>Right.</p>
-<p>Like with Arnazole RT, they’re very clear about it being corrosive, potentially harmful if you inhale it, even disposing of it.</p>
-<p>It’s a whole multi-step process.</p>
-<p>Well, they’re dealing with some pretty potent stuff.</p>
-<p>It underscores their dedication to, you know, not just scientific rigor, but the actual well-being of their researchers.</p>
-<p>Absolutely.</p>
-<p>It’s like they’re creating an environment where cutting-edge science can happen, but it can happen safely.</p>
-<p>Safety first.</p>
-<p>Yeah.</p>
-<p>And that meticulousness, that doing things by the book, it goes beyond just lab safety, you know.</p>
-<p>Right.</p>
-<p>It’s woven into their whole research philosophy, which makes you wonder, if they’re this careful with safety, how does that translate to, say, data management or collaboration?</p>
-<p>Good question.</p>
-<p>And as luck would have it, that’s exactly what we’re going to be digging into in the rest of this deep dive.</p>
-<p>You know, it’s funny you should mention that because the next thing that really struck me about this handbook was their code of conduct.</p>
-<p>Oh, interesting.</p>
-<p>How so?</p>
-<p>Well, for one, it’s incredibly detailed, even for like their diversity, equity, and inclusion meetings.</p>
-<p>You don’t always see that level of, I don’t know, formality in a lab handbook.</p>
-<p>What kinds of things are we talking about here?</p>
-<p>They have these great phrases like, “Elevate impact above intent,” and, “Expect and accept non-closure.”</p>
-<p>Like, really specific guidelines.</p>
-<p>Huh.</p>
-<p>It sounds like they’re trying to foster a very specific kind of research environment.</p>
-<p>Right.</p>
-<p>One where people feel comfortable admitting they don’t know everything, which, let’s be honest, is most of the time in research, right?</p>
-<p>Oh, absolutely.</p>
-<p>Science is all about embracing uncertainty.</p>
-<p>But it takes a certain culture to really allow for that.</p>
-<p>Totally.</p>
-<p>And it seems like they’re putting a lot of emphasis on making sure everyone feels heard and respected, especially in those DEI meetings.</p>
-<p>Well, and that makes sense, right?</p>
-<p>If you want to have those tough conversations about diversity and inclusion, you need to create a space where people feel safe to speak their minds.</p>
-<p>Yeah.</p>
-<p>No, you’re right.</p>
-<p>It all ties together.</p>
-<p>And then there’s this whole thing about mentorship.</p>
-<p>They really encourage lab members to have multiple mentors, not just one.</p>
-<p>That’s interesting.</p>
-<p>Most labs I’ve seen, it’s pretty standard to have one primary mentor.</p>
-<p>Right.</p>
-<p>Yeah.</p>
-<p>So I thought that was really unique.</p>
-<p>It kind of speaks to this idea of providing a well-rounded experience, right?</p>
-<p>Absolutely.</p>
-<p>Different mentors bring different perspectives, different areas of expertise.</p>
-<p>It can really enrich a researcher’s training.</p>
-<p>Okay, so we’ve got meticulous safety protocols, a very deliberate approach to their lab culture.</p>
-<p>But we also know they’re dealing with a massive amount of data.</p>
-<p>Like their handbook mentions Nightingale for sequencing this whole network attached storage system called Gannett.</p>
-<p>Don’t forget the supercomputer.</p>
-<p>MOCs, was it?</p>
-<p>Oh, right.</p>
-<p>MOCs.</p>
-<p>I mean, it’s a lot.</p>
-<p>It really makes you wonder how they manage it all.</p>
-<p>It’s a data tsunami.</p>
-<p>How do they keep from drowning?</p>
-<p>Well, for one thing, they’re incredibly organized.</p>
-<p>Like religiously organized.</p>
-<p>Give me the details.</p>
-<p>Think detailed metadata for every single experiment, strict folder structures on their network.</p>
-<p>They even have readme files.</p>
-<p>Readme files for every folder, seriously.</p>
-<p>Seriously.</p>
-<p>And it’s all part of this commitment to open science.</p>
-<p>They want their research to be accessible, transparent.</p>
-<p>So anyone could theoretically go in and understand their data, their methods.</p>
-<p>That’s the idea.</p>
-<p>It’s about breaking down those silos, you know, fostering collaboration, avoiding unnecessary redundancy, ultimately speeding up discoveries.</p>
-<p>It’s kind of inspiring, actually.</p>
-<p>It’s like they’re playing the long game, advancing science as a whole, not just their own work.</p>
-<p>Exactly.</p>
-<p>But okay, even with perfect organization, all that data analysis, it’s got to be intense.</p>
-<p>They mentioned Jupiter notebooks in the handbook.</p>
-<p>Right, and mocks the supercomputer.</p>
-<p>And they even talk about using like the command line.</p>
-<p>Hard course, so they’re not messing around.</p>
-<p>Well, they’re equipping their researchers with a seriously powerful toolkit.</p>
-<p>But it goes beyond just the tech.</p>
-<p>They even recommend this book, Getting Things Done.</p>
-<p>Time management.</p>
-<p>Time management.</p>
-<p>It’s all about efficiency.</p>
-<p>They don’t just give them the tools.</p>
-<p>They give them the training, the resources to actually use them well.</p>
-<p>It’s like they’ve thought of everything.</p>
-<p>Yeah.</p>
-<p>And it doesn’t stop there.</p>
-<p>They have a whole section on conferences, funding opportunities, even like travel grants.</p>
-<p>They want their researchers to be well-rounded, right?</p>
-<p>Not just stuck in the lab, but out there presenting, collaborating, getting their work funded.</p>
-<p>It’s impressive, I have to say.</p>
-<p>Looking at the Roberts Lab this way, through their handbook, you really get a sense of the thoughtfulness, the care that goes into building a successful research environment.</p>
-<p>It’s not just about, you know, the results, the discoveries.</p>
-<p>It’s the people, the culture.</p>
-<p>And that commitment to moving science forward in a way that’s open and collaborative, it’s really something.</p>
-<p>Makes you wonder what they’ll accomplish, what amazing discoveries are on the horizon for them.</p>
-<p>It does, doesn’t it?</p>
-<p>And that’s something to ponder as we wrap up this deep dive into the world of the Roberts Lab.</p>
-<p>Until next time, keep exploring, keep questioning, and keep diving deep.</p>
-
-
-<!-- -->
-
-</section>
-
- ]]></description>
-  <category>handbook</category>
-  <category>audio</category>
-  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-handbook/</guid>
-  <pubDate>Sat, 14 Sep 2024 07:00:00 GMT</pubDate>
-  <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Roberts_Lab_Handbook_2024-09-14_13-23-52.png" medium="image" type="image/png"/>
 </item>
 <item>
   <title>Hatchery-based Environmental Conditioning Activities</title>

@@ -9,6 +9,7 @@ agency: "USDA"
 year: "2023"
 github: "https://github.com/RobertsLab/project-gigas-carryover/tree/main"
 toc: FALSE
+image: http://gannet.fish.washington.edu/seashell/snaps/Monosnap_lab-website_-_main_-_RStudio_2025-02-08_12-57-38.png
 categories:
   - oyster
   - carryover
