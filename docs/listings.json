@@ -2,6 +2,7 @@
   {
     "listing": "/posts.html",
     "items": [
+      "/posts/frontpage/sr320-WSG/index.html",
       "/posts/frontpage/ariana-paper/index.html",
       "/posts/frontpage/lspencer-cod/index.html",
       "/posts/frontpage/sr320-boundless/index.html",
@@ -109,6 +110,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/frontpage/sr320-WSG/index.html",
       "/posts/frontpage/ariana-paper/index.html",
       "/posts/frontpage/lspencer-cod/index.html",
       "/posts/frontpage/sr320-boundless/index.html",

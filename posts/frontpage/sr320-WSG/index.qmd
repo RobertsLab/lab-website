@@ -1,0 +1,60 @@
+---
+title: "Harnessing Shellfish Environmental Memory for a Resilient Future"
+description: "Understanding the Power of Environmental Memory in Shellfish"
+author:
+  - name: Steven Roberts
+    url: https://sr320.github.io/
+    orcid: 0000-0001-8302-1138
+    affiliation: Professor, UW - School of Aquatic and Fishery Sciences
+    affiliation-url: https://robertslab.info
+date: 02-10-2025
+categories: [wsg, talk] # self-defined categories
+image: http://gannet.fish.washington.edu/seashell/snaps/Monosnap_2025-WSG-Roberts_2025-02-10_07-20-44.png # finding a good image
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+
+format:
+  html:
+    code-fold: true
+    code-tools: true
+    code-copy: true
+    highlight-style: github
+    code-overflow: wrap
+---
+
+
+Shellfish aquaculture is facing increasing challenges due to climate change, ocean acidification, and other environmental stressors. However, research is showing that environmental memory—the ability of organisms to retain and transmit adaptive responses to stress—may offer a promising strategy for improving resilience in aquaculture species.
+
+At the 2025 Washington Sea Grant workshop, researchers and industry professionals came together to explore how environmental priming—exposing shellfish to controlled stress conditions—could be leveraged to enhance survival, growth, and performance.
+
+## Industry Engagement and Perceptions
+
+To better understand industry perspectives, a survey of shellfish growers was conducted to gauge their views on environmental priming as an adaptation strategy. The results were enlightening:    
+	•	78% of hatchery operators indicated they would consider implementing environmental priming, though most preferred to see supporting data first.    
+	•	70% of respondents said they would be willing to pay more for primed seed, provided evidence from test plots or research-supported literature was available.   
+
+This feedback underscores the importance of continued scientific research to validate environmental priming techniques and demonstrate their effectiveness in real-world aquaculture operations.
+
+## What is Environmental Priming?
+
+Environmental priming involves exposing shellfish to controlled stressors—such as temperature fluctuations, salinity changes, or immune challenges—to enhance their resilience later in life. Research has shown promising results across multiple species:  
+
+•	Olympia oysters: Parental priming increased offspring survival in field conditions.   
+•	Pacific geoduck: Early-life priming led to improved growth rates later in life.   
+•	Manila clams: Offspring from primed parents exhibited better growth and survival rates.   
+
+## Ongoing Research and Applications
+
+Scientists are now working to optimize environmental priming strategies across different species. Ongoing research at institutions like NOAA’s Manchester Field Station and the Jamestown S’Klallam Hatchery is exploring how priming can enhance the performance of shellfish under various stress conditions.
+
+For Pacific oysters, researchers are testing multiple priming approaches, including:     
+✅ Immune challenges    
+✅ Temperature stress    
+✅ Salinity shifts    
+✅ Combination stress exposures   
+
+
+## Moving Forward: Bridging Science and Industry
+
+The insights from this research are critical for both hatchery operators and policymakers as they work toward sustainable shellfish aquaculture. With growing industry interest and evidence-based strategies, environmental priming may become a tool in ensuring the future resilience of shellfish populations. 
+
+Slidedecck: https://github.com/sr320/talk-WSG-2025
