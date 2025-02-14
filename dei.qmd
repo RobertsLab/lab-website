@@ -1,5 +1,5 @@
 ---
-title: "Diversity, Equity, and Inclusion"
+title: "Outreach and Lab Culture"
 title-block-banner: true
 toc: true
 
@@ -23,7 +23,7 @@ Specifically we strive to\
 
 In our effort to continue growing and learning we
 
--   Have regular [DEI lab discussions](https://robertslab.github.io/resources/DEI-Resources/#bimonthly-diversity-equity-and-inclusion-meetings). Currently we are reading and discussing: Race After Technology: Abolitionist Tools for the New Jim Code. Other focuses [have been reading articles, watching videos](https://docs.google.com/spreadsheets/d/1LCIiAqWMaJ0tPZIevUXqWyZR2SN4p9qGLgQIvWBaWgo/edit#gid=0), and we have completed the following books: Invisible Women, The Disorded Cosmas, and Fresh Banana Leaves.
+-   Have regular [lab discussions](https://robertslab.github.io/resources/DEI-Resources/#bimonthly-diversity-equity-and-inclusion-meetings). Focuses [have been reading articles, watching videos](https://docs.google.com/spreadsheets/d/1LCIiAqWMaJ0tPZIevUXqWyZR2SN4p9qGLgQIvWBaWgo/edit#gid=0), and continue to reflect on ways our lab and department can welcome diverse voices.
 
 -   Incorporate our values into projects. Examples include projects aimed at [bringing marine sciences to a local high school](https://faculty.washington.edu/sr320/research/wsg-clam.html) and another one we [partner with Sea Potential and Black in Marine Science](https://faculty.washington.edu/sr320/research/art.html) to engage underrepresented students through an Art + Science collaborative education practice.
 

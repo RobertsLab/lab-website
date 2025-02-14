@@ -97,8 +97,10 @@ website:
       file: research.qmd
     - text: "Publications"
       file: publications.qmd
-    - people.qmd
-    - dei.qmd
+    - text: "About us"
+      file: people.qmd
+    - text: "Outreach"
+      file: dei.qmd
     - courses.qmd
     - posts.qmd
     

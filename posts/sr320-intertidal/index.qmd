@@ -1,0 +1,40 @@
+---
+title: "Intertidal Innovators"
+description: "Community Showcase at Golden Garden Park combining art and science"
+# author:
+#   - name: Steven Roberts
+#     url: https://sr320.github.io/
+#     orcid: 0000-0001-8302-1138
+#     affiliation: Professor, UW - School of Aquatic and Fishery Sciences
+#     affiliation-url: https://robertslab.info
+date: 08-19-2024
+categories: [education] # self-defined categories
+image: http://gannet.fish.washington.edu/seashell/snaps/Monosnap_The_Golden_Hour_-_a_geolocated_audio_walk_by_Intertidal_Innovators_on_ECHOES_2024-08-19_12-50-25.png # finding a good image
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+
+format:
+  html:
+    code-fold: true
+    code-tools: true
+    code-copy: true
+    highlight-style: github
+    code-overflow: wrap
+---
+
+![](http://gannet.fish.washington.edu/seashell/snaps/Monosnap_IMG_1373.png_2024-08-19_12-59-21.png)
+
+On August 16, participants in the Intertidal Innovators program presented their work to the community. The program, which was a collaboration sponsored by the UW Earthlab program, provided students with the opportunity to learn about marine science and conservation through art.
+
+![](http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Monosnap_2024-08-19_13-09-47.png)
+
+::: callout-note
+## Quote
+
+This program has lasted for 10 days, but during those days we have learned and worked very hard to give you this project. And we are proud to say that there are a bunch of hard working members in our program that have learned new skills and have gained knowledge in this program So in this journey, you will learn a lot about our work and marine life.
+:::
+
+At the community showcase, students guide small groups around the intertidal, sharing their art with tablets and speakers. It was a great experience that showcased videos, poems, live demonostrations, and stories. Anyone can checkout their guided tour at Golden Garden Park via the echoes app - <https://explore.echoes.xyz/collections/jJtrYdYIdtZ8eCpC>
+
+Below is a video that takes you behind the scenes on the 10-day experience students participated in.
+
+{{< video https://www.youtube.com/embed/PsVyUPzu2_A >}}
