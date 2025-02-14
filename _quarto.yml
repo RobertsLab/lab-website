@@ -96,7 +96,7 @@ website:
     #footer: "_some pages listed above are still in active development_"
     contents:
     - text: "Projects"
-      file: research.qmd
+      file: projects.qmd
     - text: "Publications"
       file: publications.qmd
     - text: "About us"

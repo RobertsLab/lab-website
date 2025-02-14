@@ -9,10 +9,13 @@ listing:
     - "research/e5.qmd"
     - "research/cod.qmd"
     - "research/usda.qmd"
+    - "research/aust.qmd"
+    - "research/wsg-ec.qmd"
   type: grid # or `default` or `table`; each type has its own set of yaml options to include
   sort: "date desc" # can also sort on more than one field
   categories: false # allows you to sort posts by assigned categories 
   feed: false
+  fields: [image, title]
 ---
 
 Below are some featured efforts. For a full list of projects, visit [this page](research.qmd).

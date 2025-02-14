@@ -33,7 +33,6 @@ Objective 3. Develop an enhanced workforce training curriculum for shellfish ind
 
 ## Data Availability
 
-
 ## Notes
 
 ::: panel-tabset
@@ -51,6 +50,5 @@ TBD
 
 ## Amount
 
-$280,000
-
+\$280,000
 :::
