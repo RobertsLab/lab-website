@@ -42,6 +42,8 @@ website:
             url:  https://eagle.fish.washington.edu
           - text: apex
             url: https://apexfusion.com/apex/6442fd69028f6947a44a61d1
+          - text: klone
+            url: https://robertslab.github.io/resources/klone_quick-start/
     
       - icon: journal-code
         menu:

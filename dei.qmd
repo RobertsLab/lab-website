@@ -3,12 +3,14 @@ title: "Outreach and Lab Culture"
 title-block-banner: true
 toc: true
 
-# listing: 
-#   contents:
-#     - "dei/*/*.qmd"
-#   type: grid # or `default` or `table`; each type has its own set of yaml options to include
-#   sort: "date desc" # can also sort on more than one field
-#   categories: FALSE
+listing:
+  contents:
+    - "posts/*/*boundless/index.qmd"
+    - "posts/*inter*/index.qmd"
+    - "posts/*LGB*/index.qmd"
+  type: grid # or `default` or `table`; each type has its own set of yaml options to include
+  sort: "date desc" # can also sort on more than one field
+  categories: FALSE
 ---
 
 We assert that the diversity of our community, inclusive of various ethnicity, genders, sexual orientations, and social backgrounds, is key the impact of our research. We recognize that diverse perspectives lead to novel solutions and that inclusion cultivates an environment where members are valued, supported, and encouraged to succeed.
