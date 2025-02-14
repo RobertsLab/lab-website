@@ -8,6 +8,7 @@ theme: "environmental epigenetics"
 agency: "NSF"
 year: "2022"
 github: "https://github.com/urol-e5"
+image: "http://gannet.fish.washington.edu/seashell/snaps/Monosnap_E5__E5_uROL_Epigenetics_Project_2025-02-14_06-51-58.png"
 toc: FALSE
 categories:
   - coral
@@ -52,5 +53,5 @@ NSF / EF-1921149
 
 ## Amount
 
-$871,336     
+\$871,336
 :::

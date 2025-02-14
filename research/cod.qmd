@@ -8,6 +8,7 @@ theme: "reproductive biology and ecology"
 agency: "Pacific States Marine Fishery Commission"
 year: "2023"
 github: "https://github.com/RobertsLab/project-cod-temperature"
+image: "/img/cod.png"
 toc: FALSE
 categories:
   - cod
@@ -52,8 +53,5 @@ Pacific States Marine Fisheries Commission / 23-084G (66-9283)
 
 ## Amount
 
-$524,788
-
+\$524,788
 :::
-
-

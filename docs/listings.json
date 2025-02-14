@@ -66,23 +66,9 @@
   {
     "listing": "/projects.html",
     "items": [
-      "/research/crabcod.html",
-      "/research/safs.html",
-      "/research/aquamine.html",
-      "/research/usda.html",
-      "/research/nprb.html",
-      "/research/cod.html",
-      "/research/wsg-ec.html",
-      "/research/nrsp8.html",
-      "/research/vernon.html",
-      "/research/ffar.html",
-      "/research/wsg-sc.html",
-      "/research/art.html",
-      "/research/wsg-clam.html",
-      "/research/ceabigr.html",
-      "/research/aust.html",
       "/research/e5.html",
-      "/research/psmfc.html"
+      "/research/cod.html",
+      "/research/usda.html"
     ]
   },
   {
