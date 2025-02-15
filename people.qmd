@@ -70,7 +70,7 @@ I'm a returning student to the Roberts Lab, having previously received my BSc (2
 
 ![](https://avatars.githubusercontent.com/u/89885240?v=4){width="140" height="150" align="left" border="10" style="border-color: white"}
 
-I’m pursuing a PhD in Aquatic and Fishery Sciences, and am broadly interested in environmental response in marine invertebrates! 
+I’m pursuing a PhD in Aquatic and Fishery Sciences, and am broadly interested in environmental response in marine invertebrates!
 
 I spent my undergraduate career studying soft coral taxonomy and population genetics using single- and multi-locus sequencing, and graduated from Harvey Mudd College in 2023 with a B.S. in Mathematical and Computational Biology.
 
@@ -90,9 +90,9 @@ I have been proud to call Washington home for most of my life, so I am thrilled 
 
 ## Laura H Spencer, PhD
 
-I am a postdoctoral researcher and NOAA Alaska Fishery Science Center Affiliate. Currently I study the response of Pacific cod and king crab species to temperature and acidification. Alaskan cod and crab populations crashed in recent years, coinciding with marine heatwaves and resulting in fisheries closures. I work with NOAA researchers conducting experiments on hatchery settings (Newport, OR and Kodiak, AK) to pair genomics data (RNASeq, lcWGS) with lab-based measurements for a deeper understanding of physiological responses and potential for adaptation. I also look for opportunities to devlop genomics tools that generate data that is fundamental to fisheries management, aquaculture, and marine conservation. 
+![](https://github.com/RobertsLab/lab-website/blob/main/img/spencer,lh.jpg?raw=true){width="130" height="150"}
 
-![](https://github.com/RobertsLab/lab-website/blob/main/img/spencer,lh.jpg?raw=true){width="130px" height="150px"}
+I am a postdoctoral researcher and NOAA Alaska Fishery Science Center Affiliate. Currently I study the response of Pacific cod and king crab species to temperature and acidification. Alaskan cod and crab populations crashed in recent years, coinciding with marine heatwaves and resulting in fisheries closures. I work with NOAA researchers conducting experiments on hatchery settings (Newport, OR and Kodiak, AK) to pair genomics data (RNASeq, lcWGS) with lab-based measurements for a deeper understanding of physiological responses and potential for adaptation. I also look for opportunities to devlop genomics tools that generate data that is fundamental to fisheries management, aquaculture, and marine conservation.
 
 # Research Scientists
 
@@ -107,7 +107,7 @@ I am a research scientist in the lab since the lab's inception in 2007 and am ja
 
 Outside of lab-related work, I dig playing video games and listening to Phish (and, to placate the haters, I also like other good bands/musicians like Queens of the Stone Age, Uriah Heep, and Kacey Musgraves). I guess I also enjoy spending time with my spouse, kid, and dog, too.
 
-## Ariana S. Huffmyer, PhD 
+## Ariana S. Huffmyer, PhD
 
 -   [Lab notebook](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/)
 -   [LinkTree](https://linktr.ee/ashuffmyer)
@@ -119,7 +119,7 @@ I am a Research Scientist at the University of Washington studying the effects o
 
 My current research interests are in understanding how climate change affects coral performance and survival using multi-omic approaches. Increased frequency and severity of marine heat waves are causing coral bleaching - the breakdown of the nutritional symbiosis between tropical corals and their algal endosymbionts. My research investigates the formation of symbiosis between corals and their algal symbionts during early development in coral species in Hawaii, USA, and Moorea, French Polynesia by utilizing physiological, metabolomic, and transcriptomic approaches.
 
-Our work also investigates the capacity for aquaculture species (e.g., the Pacific oysters) to increase thermal tolerance and growth through stress hardening. We work in collaboration with aquaculture growers and hatcheries throughout Western Washington. 
+Our work also investigates the capacity for aquaculture species (e.g., the Pacific oysters) to increase thermal tolerance and growth through stress hardening. We work in collaboration with aquaculture growers and hatcheries throughout Western Washington.
 
 I use [online notebooks](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/) and [GitHub](https://github.com/AHuffmyer) to publicly share my data and analyses.
 
@@ -231,6 +231,7 @@ I realize all code below is crappy (html)
 no plans to edit. will just use markdown going forward.
 -->
 ```
+
 Bradley Chi; UW SAFS <a href="https://docs.google.com/document/d/1hq9m-_T5E9O0NiWx9uIPHOF3npCFOk6wAEWGZoaT5AM/edit">proposal</a> <a href="https://docs.google.com/document/d/1rew1-36rDWzbCcekr1CF_QVf0mtv91XPI_Qp2q1BDbE/edit">paper</a> <a href="https://docs.google.com/file/d/0B9V_gF766XZAZDhCLUF5ZUdFUnc/edit?usp=sharing">slides</a>
 
 Paul Ehlen; UW FISH499 <a href="http://aquariumanimals.blogspot.com/">blog</a> <a href="https://docs.google.com/open?id=0B9V_gF766XZAUzBlNllDRTM4WGM">slides</a>
