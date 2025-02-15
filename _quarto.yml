@@ -13,6 +13,7 @@ website:
     position: above-navbar
   repo-url: https://github.com/Robertslab/lab-website
   #repo-actions: [edit, issue]
+  #page-footer: "© 2025 Roberts Lab, University of Washington"
   favicon: /img/logo.png
   title: "robertslab.info"
   google-analytics: "G-CVEKGK5BS0"
