@@ -8,7 +8,7 @@ listing:
     - "posts/*/*boundless/index.qmd"
     - "posts/*inter*/index.qmd"
     - "posts/*LGB*/index.qmd"
-    - “posts/*LSAM*/index.qmd”
+    - "posts/*lsam*/index.qmd"
   type: grid # or `default` or `table`; each type has its own set of yaml options to include
   sort: "date desc" # can also sort on more than one field
   categories: FALSE
