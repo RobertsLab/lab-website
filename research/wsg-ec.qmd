@@ -8,6 +8,7 @@ website: ""
 theme: "aquaculture resource development"
 agency: "Washington Sea Grant"
 year: "2024"
+image: "http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Monosnap_2024-06-08_10-13-56.png"
 github: ""
 toc: FALSE
 categories:
