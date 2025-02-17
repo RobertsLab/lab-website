@@ -25,7 +25,7 @@ Specifically we strive to\
 ![](img/lab-photo-20250213-edited-SJW-01.JPG)
 
 
-**Actionable Steps**
+### Actionable Steps
 
 In our effort to continue growing and learning we
 
@@ -37,8 +37,16 @@ In our effort to continue growing and learning we
 
 Several current and former students are integrating these values in their core activities. For instance [Chris Mantegna](https://faculty.washington.edu/sr320/people.html#chris-mantegna) mentors students in pursuit of [enhancing diversity within the marine sciences.](https://fish.uw.edu/2023/09/marine-science-mentoring-over-the-summer-at-fhl/) and [Ariana Huffmyer](https://faculty.washington.edu/sr320/people.html#ariana-s.-huffmyer-phd) is partnering with [Reva Atea, a local organization in Mo'orea, French Polynesia to develop education programs and showcase local research](https://www.reva-atea.com/).
 
-**Invitation to Partnership**
+### Invitation to Partnership
 
 We invite those including current and prospective collaborators, and the wider scientific community, to join us in actively cultivating an environment where every individual is provided the opportunity to be successful.
 
-**Featured Articles**
+
+## Podcast 
+
+We are experimenting with a podcast to share our experiences and learnings. You should be able to add to your favorite podcast app by adding the url: `https://genefish.wordpress.com/category/podcast/feed` 
+
+See episodes on the web [here](https://genefish.wordpress.com/category/podcast/).
+
+
+## Featured Articles
