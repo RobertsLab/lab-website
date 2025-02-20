@@ -1,16 +1,2 @@
 /* css styles */
 
-/* Change sidebar menu font size */
-.sidebar nav {
-    font-size: 40px; /* Adjust as needed */
-}
-
-/* Adjust sidebar header font size */
-.sidebar h2, .sidebar h3 {
-    font-size: 20px;
-}
-
-/* Optionally, adjust the item links */
-.sidebar nav a {
-    font-size: 22px;
-}

@@ -16,17 +16,6 @@ Professor in the School of Aquatic and Fishery Sciences at the University of Was
 
 # Graduate Students
 
-## Aspen Coyle
-
--   [Lab notebook](https://aspencoyle.github.io/)
--   [CV](https://aspencoyle.github.io/cv/Coyle_CV_Sept_2021.pdf)
--   [Github](https://github.com/aspencoyle)
--   Email: afcoyle\@uw.edu
-
-![](https://raw.githubusercontent.com/afcoyle/afcoyle-misc/master/download%20(3).png){width="152" height="162" align="left" border="10" style="border-color: white"}
-
-Growing up in coastal Alaska, I spent most of my youth being poked by sea urchins and stung by jellyfish. Undeterred, I dove into marine research at Bowdoin College, where I found a linkage between cold tolerance and mitochondrial genotype within the invasive European green crab. I then joined the Alaska Department of Fish and Game, where I worked on Bering Sea crab surveys, Tanner crab fecundity and movement studies, and fishery monitoring projects. After moving down to Seattle, I joined the Washington Department of Fish and Wildlife, where I researched forage fish spawning and development. At the Roberts lab, I joined my interests in disease and crabs by studying gene expression in southeast Alaskan Tanner crabs and in *Hematodinium*, the parasitic dinoflagellate that causes Bitter Crab Syndrome. In my free time, I love long-distance cycling, making coffee, and thrifting. If you'd like to chat about anything at all (particularly if it happens to be crab-related), feel free to email me!
-
 ## Zach Bengtsson
 
 -   [Lab notebook](https://zbengt.github.io/)
@@ -125,9 +114,6 @@ I use [online notebooks](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/) a
 
 Outside the lab, I enjoy hiking, mountain biking, fly fishing, and exploring with my two dogs the Pacific Northwest.
 
-## Brent Vadopalas
-
-## Giles Goetz
 
 # Undergraduate Students
 
@@ -141,7 +127,6 @@ Outside the lab, I enjoy hiking, mountain biking, fly fishing, and exploring wit
 
 ### [Henry Berg](https://henryberg03.github.io/notebook/)
 
-### [Eric Essington](https://Eric-Ess.github.io/notebook/)
 
 # Alumni
 
@@ -157,6 +142,10 @@ Hollie Putnam
 
 ### *Research Scientists*
 
+Brent Vadopalas
+
+Giles Goetz
+
 Delaney Lawson
 
 Kaitlyn Mitchell
@@ -164,6 +153,8 @@ Kaitlyn Mitchell
 Crystal Simchick
 
 ### *Graduate Students*
+
+[Aspen Coyle](https://aspencoyle.github.io/)
 
 Olivia Cattau
 
@@ -199,8 +190,8 @@ Dave Metzger
 
 ### *Undergraduates*
 
+[Eric Essington](https://Eric-Ess.github.io/notebook/)
 Dorothy Lartey
-
 Delaney Lawson (2022) [proposal](https://docs.google.com/document/d/1eC47B3HlVMkbWwHj7mGXQNNOS2X0rbl6YhE2z1lLmR0/edit?usp=sharing) [paper](https://docs.google.com/document/d/1yW3u7tCCBXVSf8YxZFtwRDIPVgnKMnvMCjVoaKXl7qw/edit?usp=sharing) [presentation](https://drive.google.com/file/d/1xELKSJINDtCFiOOR4NQTJV7J6yU7a1dm/view?usp=sharing)
 
 Hana Ra (2020)
