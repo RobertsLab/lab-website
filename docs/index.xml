@@ -10,7 +10,84 @@
 <atom:link href="https://faculty.washington.edu/sr320/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.6.40</generator>
-<lastBuildDate>Thu, 20 Feb 2025 08:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 21 Feb 2025 08:00:00 GMT</lastBuildDate>
+<item>
+  <title>Unlocking the Future of Shellfish Aquaculture Through Genomics</title>
+  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-genomics/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Aquaculture is undergoing a revolution. The integration of cutting-edge genomic tools into breeding programs is transforming the industry, allowing for enhanced growth rates, disease resistance, and environmental adaptability in farmed species. While finfish often take center stage in discussions about genomic innovation, shellfish—particularly oysters, clams, and other bivalves—stand to benefit tremendously from these advancements. A recent review by <a href="https://doi.org/10.1186/s12864-025-11247-z">Andersen et al.&nbsp;(2025), published in BMC Genomics</a>, outlines the progress and future priorities for U.S. aquaculture genomics, with significant implications for shellfish industries.</p>
+<section id="why-genomics-matters-for-shellfish" class="level2">
+<h2 class="anchored" data-anchor-id="why-genomics-matters-for-shellfish">Why Genomics Matters for Shellfish</h2>
+<p>Shellfish farming is a cornerstone of coastal economies, providing a sustainable protein source while contributing to water filtration and habitat structure. However, challenges such as disease outbreaks, climate change-driven stressors (e.g., ocean acidification, salinity fluctuations), and genetic bottlenecks in breeding programs pose significant hurdles. The integration of genomics and multi-omics approaches is helping researchers and industry stakeholders address these issues head-on.</p>
+<ol type="1">
+<li>Advancing Reference Genomes for Shellfish</li>
+</ol>
+<p>One of the key priorities identified in the review is the need for high-quality genome assemblies for shellfish species. Reference genomes serve as blueprints for breeding programs, guiding selective breeding efforts toward desirable traits such as disease resistance, growth efficiency, and stress tolerance.</p>
+<p>For instance:</p>
+<ul>
+<li><p>The Pacific oyster (Magallana gigas) and Eastern oyster (Crassostrea virginica) now have improved genome assemblies, which are crucial for mapping genes associated with disease resilience.</p></li>
+<li><p>Structural variations in oyster genomes have been linked to breeding success, helping hatcheries refine their selection of broodstock.</p></li>
+<li><p>Functional annotation efforts, like those undertaken by the international FAANG (Functional Annotation of ANimal Genomes) initiative, are improving our understanding of how genes are regulated in response to environmental stressors.</p></li>
+</ul>
+<ol start="2" type="1">
+<li>Multi-Omics Approaches: Beyond the Genome</li>
+</ol>
+<p>While genomic sequencing provides a foundational understanding of shellfish biology, integrating other “omics” layers—epigenomics, transcriptomics, and microbiomics—adds depth to the picture.</p>
+<ul>
+<li><p>Epigenomics &amp; Environmental Adaptation: Studies have shown that DNA methylation plays a key role in how oysters respond to stress, such as changes in salinity and temperature. This suggests that breeding for resilience might not just be about genetics but also about harnessing heritable epigenetic modifications.</p></li>
+<li><p>Transcriptomics &amp; Disease Resistance: RNA sequencing has revealed that oysters activate specific immune pathways when exposed to pathogens like Perkinsus marinus (which causes Dermo disease). Understanding these pathways helps identify candidate genes for selective breeding.</p></li>
+<li><p>Microbiomics &amp; Shellfish Health: The microbial communities living on and inside shellfish significantly impact their growth and survival. Some studies suggest that manipulating the oyster microbiome could enhance disease resistance.</p></li>
+</ul>
+<ol start="3" type="1">
+<li>Genomic Selection &amp; Breeding Programs</li>
+</ol>
+<p>Traditional shellfish breeding has relied on mass selection or family-based selection, which can be slow and inefficient. Genomic selection—where DNA markers are used to predict an individual’s breeding value—has revolutionized selective breeding in finfish and livestock, and now it is being applied to shellfish.</p>
+<ul>
+<li><p>The use of genomic selection in oysters is improving survival rates in low-salinity environments, a crucial trait given the increasing frequency of extreme weather events that introduce large freshwater inputs into coastal farming areas.</p></li>
+<li><p>Marker-assisted selection (MAS) is being employed to accelerate breeding for traits like shell strength, which is vital for both consumer preference and post-harvest handling.</p></li>
+<li><p>Researchers are also exploring CRISPR and other gene-editing technologies to validate gene function, though regulatory challenges remain.</p></li>
+</ul>
+<ol start="4" type="1">
+<li>Overcoming Challenges: From Research to Industry Application</li>
+</ol>
+<p>Despite these advancements, challenges remain in translating genomic discoveries into tangible benefits for shellfish farmers.</p>
+<ul>
+<li><p>Cost &amp; Accessibility: While sequencing costs are declining, implementing genomic selection on a commercial scale still requires investment in infrastructure, training, and data management.</p></li>
+<li><p>Regulatory Landscape: The potential application of gene-editing technologies in aquaculture is still subject to regulatory scrutiny. While some countries are moving toward acceptance, others remain cautious.</p></li>
+<li><p>Data Integration: The vast amount of genomic and phenotypic data generated requires sophisticated bioinformatics tools for analysis. Efforts like AquaMine (a genomic database for aquaculture species) are helping streamline this process ￼.</p></li>
+</ul>
+</section>
+<section id="looking-ahead-the-future-of-shellfish-aquaculture" class="level2">
+<h2 class="anchored" data-anchor-id="looking-ahead-the-future-of-shellfish-aquaculture">Looking Ahead: The Future of Shellfish Aquaculture</h2>
+<p>The next decade of shellfish aquaculture will be defined by how well the industry can harness the power of genomics. As sequencing technology becomes more affordable and bioinformatics tools become more accessible, we are likely to see:</p>
+<ul>
+<li><p>More refined and efficient breeding programs using genomic selection.</p></li>
+<li><p>Greater adoption of multi-omics approaches to understand complex traits like disease resistance and stress tolerance.</p></li>
+<li><p>The potential emergence of gene-edited shellfish with enhanced resilience to climate change.</p></li>
+</ul>
+<p>By integrating these tools into aquaculture operations, we can ensure that shellfish farming remains a sustainable and resilient industry—one that continues to provide ecological and economic benefits to coastal communities while supporting global food security.</p>
+</section>
+<section id="final-thoughts" class="level2">
+<h2 class="anchored" data-anchor-id="final-thoughts">Final Thoughts</h2>
+<p><a href="https://doi.org/10.1186/s12864-025-11247-z">The review by Andersen et al.&nbsp;(2025)</a> highlights an exciting and rapidly evolving field. Shellfish may not have received as much genomic attention as salmon or tilapia in the past, but that is changing. With continued investment in research, training, and industry partnerships, shellfish aquaculture is poised to become a model for sustainable, high-tech food production in the 21st century.</p>
+
+
+<!-- -->
+
+</section>
+
+ ]]></description>
+  <category>aquaculture</category>
+  <category>epigenetics</category>
+  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-genomics/</guid>
+  <pubDate>Fri, 21 Feb 2025 08:00:00 GMT</pubDate>
+  <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Advancing_genetic_improvement_in_the_omics_era_status_and_priorities_for_United_States_aquaculture__BMC_Genomics__Full_Text_2025-02-21_12-15-32.png" medium="image" type="image/png"/>
+</item>
 <item>
   <title>Cracking the Code of Pacific Cod</title>
   <dc:creator>Laura Spencer</dc:creator>
@@ -258,58 +335,6 @@
   <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-usda-report/</guid>
   <pubDate>Fri, 30 Aug 2024 07:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Monosnap_2024-08-29_13-10-49.png" medium="image" type="image/png"/>
-</item>
-<item>
-  <title>Hatchery Field Day at Point Whitney</title>
-  <link>https://faculty.washington.edu/sr320/posts/frontpage/ariana-hatchery/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>On May 6, 2024, Dr.&nbsp;Ariana Huffmyer, an NSF Ocean Sciences Postdoctoral Fellow from the University of Rhode Island and University of Washington, shared insights from a field day at Point Whitney. This comprehensive post revealed the detailed process of managing and monitoring oyster growth and stress testing, providing a clear framework for hatchery management.</p>
-<div class="callout callout-style-default callout-important callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Link to Full Notebook Post
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p><a href="https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/Hatchery-field-day-at-Point-Whitney-May-6-2024/" class="uri">https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/Hatchery-field-day-at-Point-Whitney-May-6-2024/</a></p>
-</div>
-</div>
-<p><strong>Overview of Field Day Activities</strong> The objective was to monitor the health and stress responses of oyster cohorts at the hatchery. Key activities included calibrating monitoring equipment, feeding the oysters, and assessing the impacts of temperature and freshwater stress.</p>
-<ol type="1">
-<li><p><strong>Monitoring Equipment Calibration:</strong> Dr.&nbsp;Huffmyer set up and calibrated an Orion Star A325 probe to measure pH, temperature, and conductivity. By using buffers of varying pH and a conductivity solution, she ensured accurate measurements. The pH was measured on the NBS scale, considered sufficient since ocean acidification experiments weren’t being conducted.</p></li>
-<li><p><strong>Feeding Protocol:</strong> The oysters were pulse-fed, where approximately 1/3 of a 5-gallon bucket was distributed among the tanks. This ensured that the animals received sufficient nutrition.</p></li>
-<li><p><strong>Fluorometry and Physiochemical Measurements:</strong> Fluorometry measurements were conducted before and after feeding, providing data on oyster metabolic activity. Additionally, pH, temperature, and conductivity were measured across different tanks, offering valuable weekly insights into water quality.</p></li>
-<li><p><strong>Stress Testing Regimen:</strong> Dr.&nbsp;Huffmyer conducted a 30-minute stress test for specific oyster cohorts using freshwater and elevated temperature exposures. Animals were subjected to 25°C temperature and freshwater immersion, replicating environmental stressors they might face. Trays were labeled and organized by stressor type.</p></li>
-<li><p><strong>Growth Characterization:</strong> Size measurements were taken using a waterproof digital caliper. Cohorts were categorized based on their respective stressors, creating a comprehensive understanding of their growth patterns.</p></li>
-<li><p><strong>Ploidy Testing Preparations:</strong> A selection of oysters from different cohorts was collected for ploidy testing to distinguish between diploid and triploid oysters. They were stored in mesh bags, and the testing results would provide critical information for future breeding programs.</p></li>
-</ol>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Hatchery_field_day_at_Point_Whitney_May_6_2024__Ariana_S_Huffmyer__NSF_Ocean_Sciences_Postdoctoral_Fellow_University_of_Rhod_2024-05-11_14-51-46.png" class="img-fluid figure-img"></p>
-<figcaption>heath-tray</figcaption>
-</figure>
-</div>
-<p><strong>Takeaways for Hatchery Science</strong> Dr.&nbsp;Huffmyer’s systematic approach highlights the significance of precise monitoring and stress testing in hatchery science. Understanding oyster resilience to environmental stressors is crucial for aquaculture sustainability. Her work at Point Whitney offers a detailed protocol that could be replicated or adapted by other researchers to monitor and improve hatchery operations.</p>
-<p>The future of hatchery management will depend heavily on such frameworks, where real-time data collection and analysis enable researchers to respond promptly to environmental changes.</p>
-
-
-<!-- -->
-
-
- ]]></description>
-  <category>methods</category>
-  <category>tools</category>
-  <guid>https://faculty.washington.edu/sr320/posts/frontpage/ariana-hatchery/</guid>
-  <pubDate>Mon, 06 May 2024 07:00:00 GMT</pubDate>
-  <media:content url="https://faculty.washington.edu/sr320/img/bucket.png" medium="image" type="image/png" height="145" width="144"/>
 </item>
 </channel>
 </rss>

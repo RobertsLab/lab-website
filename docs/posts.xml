@@ -10,7 +10,84 @@
 <atom:link href="https://faculty.washington.edu/sr320/posts.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.6.40</generator>
-<lastBuildDate>Thu, 20 Feb 2025 08:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 21 Feb 2025 08:00:00 GMT</lastBuildDate>
+<item>
+  <title>Unlocking the Future of Shellfish Aquaculture Through Genomics</title>
+  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-genomics/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Aquaculture is undergoing a revolution. The integration of cutting-edge genomic tools into breeding programs is transforming the industry, allowing for enhanced growth rates, disease resistance, and environmental adaptability in farmed species. While finfish often take center stage in discussions about genomic innovation, shellfish—particularly oysters, clams, and other bivalves—stand to benefit tremendously from these advancements. A recent review by <a href="https://doi.org/10.1186/s12864-025-11247-z">Andersen et al.&nbsp;(2025), published in BMC Genomics</a>, outlines the progress and future priorities for U.S. aquaculture genomics, with significant implications for shellfish industries.</p>
+<section id="why-genomics-matters-for-shellfish" class="level2">
+<h2 class="anchored" data-anchor-id="why-genomics-matters-for-shellfish">Why Genomics Matters for Shellfish</h2>
+<p>Shellfish farming is a cornerstone of coastal economies, providing a sustainable protein source while contributing to water filtration and habitat structure. However, challenges such as disease outbreaks, climate change-driven stressors (e.g., ocean acidification, salinity fluctuations), and genetic bottlenecks in breeding programs pose significant hurdles. The integration of genomics and multi-omics approaches is helping researchers and industry stakeholders address these issues head-on.</p>
+<ol type="1">
+<li>Advancing Reference Genomes for Shellfish</li>
+</ol>
+<p>One of the key priorities identified in the review is the need for high-quality genome assemblies for shellfish species. Reference genomes serve as blueprints for breeding programs, guiding selective breeding efforts toward desirable traits such as disease resistance, growth efficiency, and stress tolerance.</p>
+<p>For instance:</p>
+<ul>
+<li><p>The Pacific oyster (Magallana gigas) and Eastern oyster (Crassostrea virginica) now have improved genome assemblies, which are crucial for mapping genes associated with disease resilience.</p></li>
+<li><p>Structural variations in oyster genomes have been linked to breeding success, helping hatcheries refine their selection of broodstock.</p></li>
+<li><p>Functional annotation efforts, like those undertaken by the international FAANG (Functional Annotation of ANimal Genomes) initiative, are improving our understanding of how genes are regulated in response to environmental stressors.</p></li>
+</ul>
+<ol start="2" type="1">
+<li>Multi-Omics Approaches: Beyond the Genome</li>
+</ol>
+<p>While genomic sequencing provides a foundational understanding of shellfish biology, integrating other “omics” layers—epigenomics, transcriptomics, and microbiomics—adds depth to the picture.</p>
+<ul>
+<li><p>Epigenomics &amp; Environmental Adaptation: Studies have shown that DNA methylation plays a key role in how oysters respond to stress, such as changes in salinity and temperature. This suggests that breeding for resilience might not just be about genetics but also about harnessing heritable epigenetic modifications.</p></li>
+<li><p>Transcriptomics &amp; Disease Resistance: RNA sequencing has revealed that oysters activate specific immune pathways when exposed to pathogens like Perkinsus marinus (which causes Dermo disease). Understanding these pathways helps identify candidate genes for selective breeding.</p></li>
+<li><p>Microbiomics &amp; Shellfish Health: The microbial communities living on and inside shellfish significantly impact their growth and survival. Some studies suggest that manipulating the oyster microbiome could enhance disease resistance.</p></li>
+</ul>
+<ol start="3" type="1">
+<li>Genomic Selection &amp; Breeding Programs</li>
+</ol>
+<p>Traditional shellfish breeding has relied on mass selection or family-based selection, which can be slow and inefficient. Genomic selection—where DNA markers are used to predict an individual’s breeding value—has revolutionized selective breeding in finfish and livestock, and now it is being applied to shellfish.</p>
+<ul>
+<li><p>The use of genomic selection in oysters is improving survival rates in low-salinity environments, a crucial trait given the increasing frequency of extreme weather events that introduce large freshwater inputs into coastal farming areas.</p></li>
+<li><p>Marker-assisted selection (MAS) is being employed to accelerate breeding for traits like shell strength, which is vital for both consumer preference and post-harvest handling.</p></li>
+<li><p>Researchers are also exploring CRISPR and other gene-editing technologies to validate gene function, though regulatory challenges remain.</p></li>
+</ul>
+<ol start="4" type="1">
+<li>Overcoming Challenges: From Research to Industry Application</li>
+</ol>
+<p>Despite these advancements, challenges remain in translating genomic discoveries into tangible benefits for shellfish farmers.</p>
+<ul>
+<li><p>Cost &amp; Accessibility: While sequencing costs are declining, implementing genomic selection on a commercial scale still requires investment in infrastructure, training, and data management.</p></li>
+<li><p>Regulatory Landscape: The potential application of gene-editing technologies in aquaculture is still subject to regulatory scrutiny. While some countries are moving toward acceptance, others remain cautious.</p></li>
+<li><p>Data Integration: The vast amount of genomic and phenotypic data generated requires sophisticated bioinformatics tools for analysis. Efforts like AquaMine (a genomic database for aquaculture species) are helping streamline this process ￼.</p></li>
+</ul>
+</section>
+<section id="looking-ahead-the-future-of-shellfish-aquaculture" class="level2">
+<h2 class="anchored" data-anchor-id="looking-ahead-the-future-of-shellfish-aquaculture">Looking Ahead: The Future of Shellfish Aquaculture</h2>
+<p>The next decade of shellfish aquaculture will be defined by how well the industry can harness the power of genomics. As sequencing technology becomes more affordable and bioinformatics tools become more accessible, we are likely to see:</p>
+<ul>
+<li><p>More refined and efficient breeding programs using genomic selection.</p></li>
+<li><p>Greater adoption of multi-omics approaches to understand complex traits like disease resistance and stress tolerance.</p></li>
+<li><p>The potential emergence of gene-edited shellfish with enhanced resilience to climate change.</p></li>
+</ul>
+<p>By integrating these tools into aquaculture operations, we can ensure that shellfish farming remains a sustainable and resilient industry—one that continues to provide ecological and economic benefits to coastal communities while supporting global food security.</p>
+</section>
+<section id="final-thoughts" class="level2">
+<h2 class="anchored" data-anchor-id="final-thoughts">Final Thoughts</h2>
+<p><a href="https://doi.org/10.1186/s12864-025-11247-z">The review by Andersen et al.&nbsp;(2025)</a> highlights an exciting and rapidly evolving field. Shellfish may not have received as much genomic attention as salmon or tilapia in the past, but that is changing. With continued investment in research, training, and industry partnerships, shellfish aquaculture is poised to become a model for sustainable, high-tech food production in the 21st century.</p>
+
+
+<!-- -->
+
+</section>
+
+ ]]></description>
+  <category>aquaculture</category>
+  <category>epigenetics</category>
+  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-genomics/</guid>
+  <pubDate>Fri, 21 Feb 2025 08:00:00 GMT</pubDate>
+  <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Advancing_genetic_improvement_in_the_omics_era_status_and_priorities_for_United_States_aquaculture__BMC_Genomics__Full_Text_2025-02-21_12-15-32.png" medium="image" type="image/png"/>
+</item>
 <item>
   <title>Cracking the Code of Pacific Cod</title>
   <dc:creator>Laura Spencer</dc:creator>
@@ -721,7 +798,7 @@ Quote
 </item>
 <item>
   <title>Hatchery Field Day at Point Whitney</title>
-  <link>https://faculty.washington.edu/sr320/posts/frontpage/ariana-hatchery/</link>
+  <link>https://faculty.washington.edu/sr320/posts/ariana-hatchery/</link>
   <description><![CDATA[ 
 
 
@@ -767,7 +844,7 @@ Link to Full Notebook Post
  ]]></description>
   <category>methods</category>
   <category>tools</category>
-  <guid>https://faculty.washington.edu/sr320/posts/frontpage/ariana-hatchery/</guid>
+  <guid>https://faculty.washington.edu/sr320/posts/ariana-hatchery/</guid>
   <pubDate>Mon, 06 May 2024 07:00:00 GMT</pubDate>
   <media:content url="https://faculty.washington.edu/sr320/img/bucket.png" medium="image" type="image/png" height="145" width="144"/>
 </item>
@@ -1001,148 +1078,6 @@ Katherine Silliman and others, Epigenetic and Genetic Population Structure is Co
   <guid>https://faculty.washington.edu/sr320/posts/sr320-cod/</guid>
   <pubDate>Wed, 17 Jan 2024 08:00:00 GMT</pubDate>
   <media:content url="https://faculty.washington.edu/sr320/img/cod.png" medium="image" type="image/png" height="139" width="144"/>
-</item>
-<item>
-  <title>Clam Gonad RNAseq Analysis</title>
-  <dc:creator>Megan Ewing</dc:creator>
-  <link>https://faculty.washington.edu/sr320/posts/megan-rna/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>Write up for <a href="https://github.com/RobertsLab/resources/issues/1748">this github issue</a></p>
-<p>Github repo available <a href="https://github.com/meganewing/clamgonads-macsamples">here</a> but each step’s chunk is also linked in workflow write up.</p>
-<section id="the-data" class="level1">
-<h1>The Data</h1>
-<p>The RNA-seq data that was analyzed for this issue was from manila clam (<em>Ruditapes philippinarum</em>) samples of a control and treatment group. There were 15 control samples and 15 treatment samples, each with 2 reads. Each fasta file had the naming scheme <code>M-?-###_R#_001</code> where <code>?</code> = C (control) or T(treatment), <code>###</code> = sample number, and <code>R#</code> = R1 (read 1) or R2 (read 2). Raw files can be found <a href="https://gannet.fish.washington.edu/mewing0/Man_clam_raw/">here</a>.</p>
-</section>
-<section id="the-workflow" class="level1">
-<h1>The Workflow</h1>
-<section id="retrieving-files-from-gannet" class="level3">
-<h3 class="anchored" data-anchor-id="retrieving-files-from-gannet">Retrieving Files From Gannet</h3>
-<p>To start the analysis, I retrieved the raw reads from gannet using wget.</p>
-<p><a href="https://github.com/meganewing/clamgonads-macsamples/blob/main/code/01-RNAseq.Rmd">Code on Github</a></p>
-</section>
-<section id="checking-file-integrity-via-md5sums" class="level3">
-<h3 class="anchored" data-anchor-id="checking-file-integrity-via-md5sums">Checking File Integrity via MD5sums</h3>
-<p>Typically, the next step would be to check the file integrity by comparing the md5sums of the downloaded files with those on the remote server (gannet). However, the directory containing our reads did not have a text file of the md5sums for me to run <code>md5sum</code> on. So we skipped this step.</p>
-<p><a href="https://github.com/meganewing/clamgonads-macsamples/blob/main/code/02-md5sums.Rmd">Code on Github</a></p>
-</section>
-<section id="fastqc-and-multiqc" class="level3">
-<h3 class="anchored" data-anchor-id="fastqc-and-multiqc">FastQC and MultiQC</h3>
-<p>The next step was to evaluate the quality of our sequences using FastQC and MultiQC. I generated a FastQC file for each of the reads, and then combined all of those using MultiQC to look at the quality of all of our reads together. The MultiQC report can be found <a href="https://github.com/meganewing/clamgonads-macsamples/blob/main/output/fastQC-output/multiqc_report.html">here</a> (note to view the “pretty version” you will need to download the html file and open the local file since github just shows the raw). Here’s some of the results from that:</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://faculty.washington.edu/sr320/posts/megan-rna/images/fastqc_sequence_counts_plot.png" class="img-fluid figure-img"></p>
-<figcaption><img src="https://faculty.washington.edu/sr320/posts/megan-rna/images/fastqc_per_base_sequence_quality_plot.png" class="img-fluid figure-img"></figcaption>
-</figure>
-</div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://faculty.washington.edu/sr320/posts/megan-rna/images/fastqc_per_sequence_quality_scores_plot.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
-</figure>
-</div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://faculty.washington.edu/sr320/posts/megan-rna/images/fastqc_per_sequence_gc_content_plot.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
-</figure>
-</div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://faculty.washington.edu/sr320/posts/megan-rna/images/fastqc_per_base_n_content_plot.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
-</figure>
-</div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://faculty.washington.edu/sr320/posts/megan-rna/images/fastqc_sequence_duplication_levels_plot.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
-</figure>
-</div>
-<p><img src="https://faculty.washington.edu/sr320/posts/megan-rna/images/fastqc_overrepresented_sequences_plot.png" class="img-fluid"></p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://faculty.washington.edu/sr320/posts/megan-rna/images/Screen Shot 2024-01-04 at 3.16.31 PM.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
-</figure>
-</div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://faculty.washington.edu/sr320/posts/megan-rna/images/fastqc-status-check-heatmap.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
-</figure>
-</div>
-<p>Software Used:</p>
-<ul>
-<li>FastQC (v0.12.1)</li>
-</ul>
-<p><a href="https://github.com/meganewing/clamgonads-macsamples/blob/main/code/03-fastqc_multiqc.Rmd">Code on Github</a></p>
-</section>
-<section id="psuedo-alignment-with-kallisto" class="level3">
-<h3 class="anchored" data-anchor-id="psuedo-alignment-with-kallisto">Psuedo Alignment with Kallisto</h3>
-<p>Next I pseudo aligned the reads and quantified expression using Kallisto. I did not trim prior to this as it is not wholly necessary for pseudo alignment. An index for alignment and quantification was created using a <a href="https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_026571515.1/">reference transcriptome for <em>Ruditapes philippinarum</em></a> (note: ensure to select for RNA file)<em>.</em> Paired end reads for each sample were then aligned and quantified against this index.</p>
-<p>Following pseudo alignment and quantification, a trinity matrix was created with the Kallisto output to build an abundance matrix.</p>
-<p>Software Used:</p>
-<ul>
-<li><p>Kallisto (Linux)(v0.50.1)</p></li>
-<li><p>TrinityRNAseq (v2.12.0)</p></li>
-</ul>
-<p><a href="https://github.com/meganewing/clamgonads-macsamples/blob/main/code/05-kallisto.Rmd">Code on Github</a></p>
-</section>
-<section id="differential-expression-and-visualization-with-deseq2" class="level3">
-<h3 class="anchored" data-anchor-id="differential-expression-and-visualization-with-deseq2">Differential Expression and Visualization with DESeq2</h3>
-<p>Using the quantification in the trinity matrix created, I ran DESeq2 to show deferentially expressed genes, and filtering for those who’s expression showed a difference with a p value &lt;= 0.05. Differential expression was also visualized via a volcano plot and heatmap of the top 25 deferentially expressed genes)</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://faculty.washington.edu/sr320/posts/megan-rna/images/volcanoplot-01.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
-</figure>
-</div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://faculty.washington.edu/sr320/posts/megan-rna/images/heatmap.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
-</figure>
-</div>
-<p>Along with the visualzations, I created a dataframe with the differentially expressed genes and associated statistics (base mean, log 2fold change, lfcSE, stat, pvalue, padj) and saved as a tab file for the next steps.</p>
-<p>Software used:</p>
-<ul>
-<li><p>BiocManager (v1.30.22)</p></li>
-<li><p>DESeq2 (v1.38.3)</p></li>
-<li><p>pheatmap (v1.0.12)</p></li>
-</ul>
-<p><a href="https://github.com/meganewing/clamgonads-macsamples/blob/main/code/06-deseq2.Rmd">Code on GitHub</a></p>
-</section>
-<section id="identifying-deg-functions-with-blastx" class="level3">
-<h3 class="anchored" data-anchor-id="identifying-deg-functions-with-blastx">Identifying DEG Functions with Blastx</h3>
-<p>Once we had a tab file with differentially expressed genes, we could run blast on our <a href="https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_026571515.1/">reference genome</a> (note: be sure to select for RNA file). Doing this creates a list of all of the genes (and gene short names) in our reference genome for us to get the names of our DEGs in the next step.</p>
-<p>Software used:</p>
-<ul>
-<li>NCBI Blast (v2.11.0)</li>
-</ul>
-<p><a href="https://github.com/meganewing/clamgonads-macsamples/blob/main/code/07-blast.Rmd">Code on Github</a></p>
-</section>
-<section id="joining-deg-with-blast-results-and-uniprot-gene-ontology-annotations" class="level3">
-<h3 class="anchored" data-anchor-id="joining-deg-with-blast-results-and-uniprot-gene-ontology-annotations">Joining DEG with Blast Results and UniProt Gene Ontology Annotations</h3>
-<p>Using the file created from the reference genome Blast, I combined the Blast results with the DEG file by the common gene names. This dataframe contained the gene ID, gene short name, base mean, log 2fold change, pvalue, and padj. I isolated the UniProt IDs from the gene short names in order to retrieve the gene ontology (GO) annotations of interest.</p>
-<p>I looked up the annotations on <a href="https://www.uniprot.org/id-mapping">UniProt’s web interface</a> and saved the output as a tab file. Finally, I merged the Blast/DEG data frame with the GO data frame by the common UniProt ID’s/Entries to get a file of our GO annotations for the significantly deferentially expressed genes. The annotation file is available <a href="https://github.com/meganewing/clamgonads-macsamples/blob/main/output/clam_GO_annotations.csv">here</a>.</p>
-<p><a href="08-join_annotations.Rmd">Code on Github</a></p>
-</section>
-<section id="general-non-step-specific-software-and-hardware-info" class="level3">
-<h3 class="anchored" data-anchor-id="general-non-step-specific-software-and-hardware-info">General (non-step specific) software and hardware info:</h3>
-<p>Computer: 2016 MacBook Pro 8GB 13” with macOS Big Sur (v11.2)</p>
-<p>IDE: R Studio (v4.2.3)(via raven)</p>
-
-
-<!-- -->
-
-</section>
-</section>
-
- ]]></description>
-  <category>rnaseq</category>
-  <category>aquaculture</category>
-  <category>clam</category>
-  <category>stress</category>
-  <guid>https://faculty.washington.edu/sr320/posts/megan-rna/</guid>
-  <pubDate>Thu, 04 Jan 2024 08:00:00 GMT</pubDate>
-  <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_mewing-notebook_-_Clam_Gonad_RNAseq_Analysis_2024-01-06_07-25-10.png" medium="image" type="image/png"/>
 </item>
 </channel>
 </rss>

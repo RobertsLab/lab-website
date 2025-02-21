@@ -1,0 +1,33 @@
+---
+title: "Advancing genetic improvement in the omics era: status and priorities for United States aquaculture"
+type: "article"
+author: "Andersen, L.K., Thompson, N.F., Abernathy, J.W. et al."
+year: "2025"
+publication: "BMC Genomics"
+preprint: ""
+doi: "https://doi.org/10.1186/s12864-025-11247-z"
+materials: ""
+eprint: ""
+toc: FALSE
+categories:
+  - aquaculture
+  - genomics
+---
+
+## Citation
+
+\>Andersen, L.K., Thompson, N.F., Abernathy, J.W. *et al.* Advancing genetic improvement in the omics era: status and priorities for United States aquaculture. *BMC Genomics* **26**, 155 (2025). https://doi.org/10.1186/s12864-025-11247-z
+
+## **Abstract**
+
+### Background
+
+The innovations of the “Omics Era” have ushered in significant advancements in genetic improvement of agriculturally important animal species through transforming genetics, genomics and breeding strategies. These advancements were often coordinated, in part, by support provided over 30 years through the 1993–2023 National Research Support Project 8 (NRSP8, National Animal Genome Research Program, NAGRP) and affiliate projects focused on enabling genomic discoveries in livestock, poultry, and aquaculture species. These significant and parallel advances demand strategic planning of future research priorities. This paper, as an output from the May 2023 Aquaculture Genomics, Genetics, and Breeding Workshop, provides an updated status of genomic resources for United States aquaculture species, highlighting major achievements and emerging priorities.
+
+### Main text
+
+Finfish and shellfish genome and omics resources enhance our understanding of genetic architecture and heritability of performance and production traits. The 2023 Workshop identified present aims for aquaculture genomics/omics research to build on this progress: (1) advancing reference genome assembly quality; (2) integrating multi-omics data to enhance analysis of production and performance traits; (3) developing resources for the collection and integration of phenomics data; (4) creating pathways for applying and integrating genomics information across animal industries; and (5) providing training, extension, and outreach to support the application of genome to phenome. Research focuses should emphasize phenomics data collection, artificial intelligence, identifying causative relationships between genotypes and phenotypes, establishing pathways to apply genomic information and tools across aquaculture industries, and an expansion of training programs for the next-generation workforce to facilitate integration of genomic sciences into aquaculture operations to enhance productivity, competitiveness, and sustainability.
+
+### Conclusion
+
+This collective vision of applying genomics to aquaculture breeding with focus on the highlighted priorities is intended to facilitate the continued advancement of the United States aquaculture genomics, genetics and breeding research community and industries. Critical challenges ahead include the practical application of genomic tools and analytical frameworks beyond academic and research communities that require collaborative partnerships between academia, government, and industry. The scope of this review encompasses the use of omics tools and applications in the study of aquatic animals cultivated for human consumption in aquaculture settings throughout their life-cycle.

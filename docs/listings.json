@@ -2,6 +2,7 @@
   {
     "listing": "/posts.html",
     "items": [
+      "/posts/frontpage/sr320-genomics/index.html",
       "/posts/frontpage/sr320-cod2/index.html",
       "/posts/frontpage/sr320-WSG/index.html",
       "/posts/frontpage/ariana-paper/index.html",
@@ -15,7 +16,7 @@
       "/posts/sr320-lice/index.html",
       "/posts/sr320-altsplice/index.html",
       "/posts/sr320-enrich/index.html",
-      "/posts/frontpage/ariana-hatchery/index.html",
+      "/posts/ariana-hatchery/index.html",
       "/posts/sr320-oyster_stage/index.html",
       "/posts/ostrea/index.html",
       "/posts/sr320-prep/index.html",
@@ -38,6 +39,7 @@
   {
     "listing": "/publications.html",
     "items": [
+      "/publications/articles/andersen2025.html",
       "/publications/articles/huffmyer2024.html",
       "/publications/articles/venkataraman2024.html",
       "/publications/articles/valenzuela2024.html",
@@ -98,12 +100,12 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/frontpage/sr320-genomics/index.html",
       "/posts/frontpage/sr320-cod2/index.html",
       "/posts/frontpage/sr320-WSG/index.html",
       "/posts/frontpage/ariana-paper/index.html",
       "/posts/frontpage/sr320-boundless/index.html",
-      "/posts/frontpage/sr320-usda-report/index.html",
-      "/posts/frontpage/ariana-hatchery/index.html"
+      "/posts/frontpage/sr320-usda-report/index.html"
     ]
   },
   {
