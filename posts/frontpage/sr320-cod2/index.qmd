@@ -1,0 +1,68 @@
+---
+title: "Cracking the Code of Pacific Cod"
+description: "How Genetics and Climate Shape the Future of Our Oceans"
+author:
+  name: Laura Spencer
+  #url: https://sr320.github.io/
+  #orcid: 0000-0001-8302-1138
+  affiliation: Postdoctoral Research Associate - Alaska Fisheries Science Center / UW SAFS
+  #affiliation-url: https://robertslab.info
+date: "2025-02-20"
+categories: [cod, Alaska] # self-defined categories
+image: http://gannet.fish.washington.edu/seashell/snaps/2025-02-17_09-15-38.png # finding a good image
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+
+format:
+  html:
+    code-fold: true
+    code-tools: true
+    code-copy: true
+    highlight-style: github
+    code-overflow: wrap
+---
+
+What if the future of an entire fish population hinged on tiny changes in their DNA? In the frigid waters of the North Pacific, juvenile Pacific cod are facing an uncertain future as ocean temperatures rise. Our research is uncovering how these fish respond to warming waters---at the molecular level---and what that means for their survival.
+
+**The Science Behind Survival**
+
+At first glance, Pacific cod might seem like just another fish. But beneath the surface, their genetic makeup holds clues to how they adapt---or struggle---when faced with environmental stress. In our latest study, we're diving deep into the connection between a cod's genes and its ability to thrive in different temperatures.
+
+We analyzed DNA and gene activity (transcriptomics) in young Pacific cod exposed to a range of temperatures, from icy 0°C to a heatwave-like 16°C. By combining this "genome-to-phenome" data---essentially linking genetic information to physical traits---we're beginning to see which fish have the genetic tools to survive in a warming world.
+
+**A Genetic Blueprint for Resilience**
+
+One of the most intriguing findings comes from a process called **Genome-Wide Association Studies (GWAS)**, where we scan the entire genome for small genetic differences linked to key traits. One of the most revealing traits we studied is the **hepatosomatic index (HSI)**---a measure of how much energy a fish stores in its liver. Since fat storage is critical for surviving harsh winters, understanding which fish can accumulate liver lipids under stress is essential.
+
+![](http://gannet.fish.washington.edu/seashell/snaps/2025-02-17_09-17-29.png)
+
+Our data revealed **specific genetic variants linked to liver size**, some of which are connected to genes regulating appetite and metabolism. One gene in particular, likely involved in serotonin signaling (which affects hunger), seems to influence whether a juvenile cod stores enough fat when temperatures rise.
+
+**Can Genes Predict Performance?**
+
+Beyond genetics, we also examined how **gene expression (RNA activity) relates to fish growth and condition**. We identified a set of genes that are highly active in the strongest, most resilient fish under warm conditions. This genetic "signature" could help scientists predict which fish populations are best suited to handle climate shifts.
+
+![](http://gannet.fish.washington.edu/seashell/snaps/2025-02-17_09-18-11.png)
+
+By looking at **composite performance indices (CPI)**---which combine growth rate, body condition, and liver fat content---we found a distinct pattern: some fish are naturally equipped to thrive in warming seas, while others may struggle.
+
+**A Look to the Past---and the Future**
+
+To understand if these genetic traits have changed over time, we're also analyzing historical samples from Pacific cod collected near Kodiak, Alaska, dating back to 2008. This will help us determine if recent marine heatwaves have already begun shaping the genetic makeup of young cod. If we find shifts in key genes over time, it could be a sign that natural selection is at work---favoring fish that can cope with temperature extremes.
+
+**Next Steps: From Lab to Ocean Conservation**
+
+Right now, we're fine-tuning our analyses and comparing our results with other research teams, including NOAA scientists studying broader environmental factors. Our goal? To pinpoint the most critical genetic regions that influence temperature tolerance---and ultimately, to inform fisheries management strategies that support the resilience of Pacific cod populations.
+
+As marine heatwaves become more frequent, understanding these genetic adaptations is more than just an academic pursuit. It's about safeguarding a vital species in the face of climate change---ensuring that Pacific cod, and the people who depend on them, have a future in our warming oceans.
+
+#### Products this period: 
+
+-   Methods and preliminary results were presented by Laura Spencer at the NOAA NWFSC Manchester Research Station monthly meeting on December 11th, 2025, [link to slides](https://github.com/RobertsLab/project-cod-temperature/blob/main/reports/Manchester-Presentation-Dec2024.pdf). 
+
+-   Methods and preliminary results were presented by Laura Spencer at the NOAA AFSC groundfish seminar on December 17th, 2024, [link to recording](https://bcove.video/3DxO7xy), [link to slides](https://github.com/RobertsLab/project-cod-temperature/blob/main/reports/Groundfish%20Seminar%2C%202024.pdf).
+
+-   Methods and preliminary results were presented by Laura Spencer during the poster session of the Alaska Marine Science Symposium on January 27th, 2025 in Anchorage, AK, [link to poster](https://github.com/RobertsLab/project-cod-temperature/blob/main/reports/Spencer%2CLH_Poster-AMSS-2025-final.pdf).
+
+-   Laura Spenccer's lab notebook updates on analyses, lab work, and products, [link to notebook](https://laurahspencer.github.io/LabNotebook/).
+
+-   [Technical Report](https://d.pr/f/Cq3nsF).

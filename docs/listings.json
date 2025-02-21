@@ -2,10 +2,11 @@
   {
     "listing": "/posts.html",
     "items": [
+      "/posts/frontpage/sr320-cod2/index.html",
       "/posts/frontpage/sr320-WSG/index.html",
       "/posts/frontpage/ariana-paper/index.html",
       "/posts/frontpage/sr320-boundless/index.html",
-      "/posts/frontpage/sr320-cod/index.html",
+      "/posts/posts/index.html",
       "/posts/sr320-handbook/index.html",
       "/posts/frontpage/sr320-usda-report/index.html",
       "/posts/sr320-lsamp/index.html",
@@ -97,10 +98,10 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/frontpage/sr320-cod2/index.html",
       "/posts/frontpage/sr320-WSG/index.html",
       "/posts/frontpage/ariana-paper/index.html",
       "/posts/frontpage/sr320-boundless/index.html",
-      "/posts/frontpage/sr320-cod/index.html",
       "/posts/frontpage/sr320-usda-report/index.html",
       "/posts/frontpage/ariana-hatchery/index.html"
     ]

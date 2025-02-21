@@ -10,7 +10,56 @@
 <atom:link href="https://faculty.washington.edu/sr320/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.6.40</generator>
-<lastBuildDate>Mon, 10 Feb 2025 08:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 20 Feb 2025 08:00:00 GMT</lastBuildDate>
+<item>
+  <title>Cracking the Code of Pacific Cod</title>
+  <dc:creator>Laura Spencer</dc:creator>
+  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-cod2/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>What if the future of an entire fish population hinged on tiny changes in their DNA? In the frigid waters of the North Pacific, juvenile Pacific cod are facing an uncertain future as ocean temperatures rise. Our research is uncovering how these fish respond to warming waters—at the molecular level—and what that means for their survival.</p>
+<p><strong>The Science Behind Survival</strong></p>
+<p>At first glance, Pacific cod might seem like just another fish. But beneath the surface, their genetic makeup holds clues to how they adapt—or struggle—when faced with environmental stress. In our latest study, we’re diving deep into the connection between a cod’s genes and its ability to thrive in different temperatures.</p>
+<p>We analyzed DNA and gene activity (transcriptomics) in young Pacific cod exposed to a range of temperatures, from icy 0°C to a heatwave-like 16°C. By combining this “genome-to-phenome” data—essentially linking genetic information to physical traits—we’re beginning to see which fish have the genetic tools to survive in a warming world.</p>
+<p><strong>A Genetic Blueprint for Resilience</strong></p>
+<p>One of the most intriguing findings comes from a process called <strong>Genome-Wide Association Studies (GWAS)</strong>, where we scan the entire genome for small genetic differences linked to key traits. One of the most revealing traits we studied is the <strong>hepatosomatic index (HSI)</strong>—a measure of how much energy a fish stores in its liver. Since fat storage is critical for surviving harsh winters, understanding which fish can accumulate liver lipids under stress is essential.</p>
+<p><img src="http://gannet.fish.washington.edu/seashell/snaps/2025-02-17_09-17-29.png" class="img-fluid"></p>
+<p>Our data revealed <strong>specific genetic variants linked to liver size</strong>, some of which are connected to genes regulating appetite and metabolism. One gene in particular, likely involved in serotonin signaling (which affects hunger), seems to influence whether a juvenile cod stores enough fat when temperatures rise.</p>
+<p><strong>Can Genes Predict Performance?</strong></p>
+<p>Beyond genetics, we also examined how <strong>gene expression (RNA activity) relates to fish growth and condition</strong>. We identified a set of genes that are highly active in the strongest, most resilient fish under warm conditions. This genetic “signature” could help scientists predict which fish populations are best suited to handle climate shifts.</p>
+<p><img src="http://gannet.fish.washington.edu/seashell/snaps/2025-02-17_09-18-11.png" class="img-fluid"></p>
+<p>By looking at <strong>composite performance indices (CPI)</strong>—which combine growth rate, body condition, and liver fat content—we found a distinct pattern: some fish are naturally equipped to thrive in warming seas, while others may struggle.</p>
+<p><strong>A Look to the Past—and the Future</strong></p>
+<p>To understand if these genetic traits have changed over time, we’re also analyzing historical samples from Pacific cod collected near Kodiak, Alaska, dating back to 2008. This will help us determine if recent marine heatwaves have already begun shaping the genetic makeup of young cod. If we find shifts in key genes over time, it could be a sign that natural selection is at work—favoring fish that can cope with temperature extremes.</p>
+<p><strong>Next Steps: From Lab to Ocean Conservation</strong></p>
+<p>Right now, we’re fine-tuning our analyses and comparing our results with other research teams, including NOAA scientists studying broader environmental factors. Our goal? To pinpoint the most critical genetic regions that influence temperature tolerance—and ultimately, to inform fisheries management strategies that support the resilience of Pacific cod populations.</p>
+<p>As marine heatwaves become more frequent, understanding these genetic adaptations is more than just an academic pursuit. It’s about safeguarding a vital species in the face of climate change—ensuring that Pacific cod, and the people who depend on them, have a future in our warming oceans.</p>
+<section id="products-this-period" class="level4">
+<h4 class="anchored" data-anchor-id="products-this-period">Products this period:&nbsp;</h4>
+<ul>
+<li><p>Methods and preliminary results were presented by Laura Spencer at the NOAA NWFSC Manchester Research Station monthly meeting on December 11th, 2025, <a href="https://github.com/RobertsLab/project-cod-temperature/blob/main/reports/Manchester-Presentation-Dec2024.pdf">link to slides</a>.&nbsp;</p></li>
+<li><p>Methods and preliminary results were presented by Laura Spencer at the NOAA AFSC groundfish seminar on December 17th, 2024, <a href="https://bcove.video/3DxO7xy">link to recording</a>, <a href="https://github.com/RobertsLab/project-cod-temperature/blob/main/reports/Groundfish%20Seminar%2C%202024.pdf">link to slides</a>.</p></li>
+<li><p>Methods and preliminary results were presented by Laura Spencer during the poster session of the Alaska Marine Science Symposium on January 27th, 2025 in Anchorage, AK, <a href="https://github.com/RobertsLab/project-cod-temperature/blob/main/reports/Spencer%2CLH_Poster-AMSS-2025-final.pdf">link to poster</a>.</p></li>
+<li><p>Laura Spenccer’s lab notebook updates on analyses, lab work, and products, <a href="https://laurahspencer.github.io/LabNotebook/">link to notebook</a>.</p></li>
+<li><p><a href="https://d.pr/f/Cq3nsF">Technical Report</a>.</p></li>
+</ul>
+
+
+<!-- -->
+
+</section>
+
+ ]]></description>
+  <category>cod</category>
+  <category>Alaska</category>
+  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-cod2/</guid>
+  <pubDate>Thu, 20 Feb 2025 08:00:00 GMT</pubDate>
+  <media:content url="http://gannet.fish.washington.edu/seashell/snaps/2025-02-17_09-15-38.png" medium="image" type="image/png"/>
+</item>
 <item>
   <title>Harnessing Shellfish Environmental Memory for a Resilient Future</title>
   <dc:creator>Steven Roberts</dc:creator>
@@ -136,41 +185,6 @@
   <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-boundless/</guid>
   <pubDate>Fri, 08 Nov 2024 08:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/2024-11-07_12-56-13.png" medium="image" type="image/png"/>
-</item>
-<item>
-  <title>Exploring Pacific Cod Resilience in a Warming Ocean</title>
-  <dc:creator>Laura Spencer</dc:creator>
-  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-cod/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>In our latest update on the Pacific cod juvenile temperature study, we've gained deeper insights into how these remarkable fish respond to different temperatures. This research is part of a larger effort to understand the resilience of marine species in changing environments.</p>
-<p><strong>Genetic Insights Reveal Population Origins</strong></p>
-<p>We began with genetic analyses, using data from thousands of genetic markers to determine the origin of our experimental fish. All our test fish were linked to the spawning grounds in the western Gulf of Alaska (wGOA) and the Eastern Bering Sea (EBS). This finding allows us to focus on the thermal resilience of cod from this particular region, which is vital as they face shifts in temperature in their natural habitats.</p>
-<p><img src="http://gannet.fish.washington.edu/seashell/snaps/2024-11-06_15-00-51.png" class="img-fluid"></p>
-<p><strong>Temperature's Role in Energy and Lipid Storage</strong></p>
-<p>Our collaborator Louise Copement analyzed liver lipids in these juvenile cod, focusing on triglycerides and other key lipid types that are crucial for overwinter survival. The results showed a clear trend: energy storage, primarily in the form of triglycerides, peaked at 9°C, then dropped sharply at higher temperatures, especially at 16°C. This suggests that extreme warmth could deplete essential energy reserves, reducing the fish's survival prospects in the cold winter months.</p>
-<p><img src="http://gannet.fish.washington.edu/seashell/snaps/2024-11-06_15-01-47.png" class="img-fluid"></p>
-<p><strong>Optimal Growth Temperatures and Physiological Responses</strong></p>
-<p>We also observed that juvenile cod exhibit optimal growth at approximately 12.3°C, slightly higher than previous findings. With higher temperatures, growth rates plateau or decline, mirroring the energy storage patterns. Interestingly, the gene expression data from liver tissues revealed significant temperature-driven shifts, especially in energy production, lipid metabolism, and immune response genes. This molecular data adds a new layer to our understanding of temperature tolerance.</p>
-<p><img src="http://gannet.fish.washington.edu/seashell/snaps/2024-11-06_15-01-22.png" class="img-fluid"></p>
-<p><strong>Integrated Data: A Pathway to Genomic Resilience Markers</strong></p>
-<p>Combining growth, lipid, and gene expression data, we've started identifying genes that correlate with enhanced resilience at specific temperatures. This approach could spotlight genetic markers for thermal resilience, offering clues about cod populations best suited to future ocean conditions.</p>
-<p>In summary, this research underscores the delicate balance juvenile Pacific cod must maintain in their energy reserves and growth under variable temperatures. These findings will help guide conservation and management efforts as we work to protect Pacific cod populations in a warming world.</p>
-
-
-<!-- -->
-
-
- ]]></description>
-  <category>cod</category>
-  <category>Alaska</category>
-  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-cod/</guid>
-  <pubDate>Wed, 06 Nov 2024 08:00:00 GMT</pubDate>
-  <media:content url="http://gannet.fish.washington.edu/seashell/snaps/2024-11-06_13-57-57.png" medium="image" type="image/png"/>
 </item>
 <item>
   <title>Hatchery-based Environmental Conditioning Activities</title>
