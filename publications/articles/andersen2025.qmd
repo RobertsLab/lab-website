@@ -7,7 +7,7 @@ publication: "BMC Genomics"
 preprint: ""
 doi: "https://doi.org/10.1186/s12864-025-11247-z"
 materials: ""
-eprint: ""
+eprint: "https://bmcgenomics.biomedcentral.com/counter/pdf/10.1186/s12864-025-11247-z.pdf"
 toc: FALSE
 categories:
   - aquaculture
