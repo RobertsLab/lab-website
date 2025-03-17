@@ -24,7 +24,6 @@ Specifically we strive to\
 
 ![](img/lab-photo-20250213-edited-SJW-01.JPG)
 
-
 ### Actionable Steps
 
 In our effort to continue growing and learning we
@@ -41,12 +40,9 @@ Several current and former students are integrating these values in their core a
 
 We invite those including current and prospective collaborators, and the wider scientific community, to join us in actively cultivating an environment where every individual is provided the opportunity to be successful.
 
+## Podcast
 
-## Podcast 
-
-We are experimenting with a podcast to share our experiences and learnings. You should be able to add to your favorite podcast app by adding the url: `https://genefish.wordpress.com/category/podcast/feed` 
-
-See episodes on the web [here](https://genefish.wordpress.com/category/podcast/).
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/gene-pooling/id1802677296"></iframe>
 
 
 ## Featured Articles
