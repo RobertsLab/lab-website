@@ -251,7 +251,7 @@ Gavery, M., & Roberts, S. (2018). [Genetics & Epigenetics in Life History and Re
 
 # Preprints
 
-Huffmyer AS, KH Wong, DM Becker, E Strand, T Mass, HM Putnam. (2025) Metabolic dynamics of the coral-algal symbiosis from fertilization to settlement identify critical coral energetic vulnerabilities. **bioRxiv**. https://doi.org/10.1101/2023.03.20.533475. 
+Huffmyer AS, KH Wong, DM Becker, E Strand, T Mass, HM Putnam. (2025) Metabolic dynamics of the coral-algal symbiosis from fertilization to settlement identify critical coral energetic vulnerabilities. **bioRxiv**. https://doi.org/10.1101/2023.03.20.533475.
 
 Shelly A Wanamaker , Kaitlyn R Mitchell, Rhonda Elliott Thompson, Benoit Eudeline, Brent Vadopalas, Emma B Timmins-Schiffman, Steven B Roberts (2020). Temporal proteomic profiling reveals insight into critical devleopmental processes and temperature-influenced physiological response differences in a bivalve mollusc. **bioRxiv**. https://doi.org/10.1101/2020.06.05.137059
 
@@ -338,7 +338,7 @@ Characterizing the effects of ocean acidification in larval and juvenile Manila 
 # Notebooks
 
 | Person | Notebook | Commitment |
-|---------------|------------------------|----------------------------------|
+|----|----|----|
 | Steven Roberts | [sr320.github.io](https://sr320.github.io/tumbling-oysters/) | ![GitHub last commit](https://img.shields.io/github/last-commit/sr320/tumbling-oysters) |
 | Sam White | [robertslab.github.io](https://robertslab.github.io/sams-notebook/) | ![GitHub last commit](https://img.shields.io/github/last-commit/RobertsLab/sams-notebook) |
 | Matt George | [mattgeorgephd.github.io](https://mattgeorgephd.github.io/notebook/) | ![GitHub last commit](https://img.shields.io/github/last-commit/mattgeorgephd/mattgeorgephd.github.io) |
@@ -350,14 +350,16 @@ Characterizing the effects of ocean acidification in larval and juvenile Manila 
 | Grace Crandall | [grace-ac.github.io](https://grace-ac.github.io/) | ![GitHub last commit](https://img.shields.io/github/last-commit/grace-ac/grace-ac.github.io) |
 | Kathleen Durkin | [shedurkin.github.io](https://shedurkin.github.io/Roberts-LabNotebook/) | ![GitHub last commit](https://img.shields.io/github/last-commit/shedurkin/Roberts-LabNotebook) |
 | Megan Ewing | [mewing-notebook](https://meganewing.github.io/mewing-notebook/) | ![GitHub last commit](https://img.shields.io/github/last-commit/meganewing/mewing-notebook) |
+
 ------------------------------------------------------------------------
 
 # Recent Presentations
 
 #### 2025
-- [IMPROVING OYSTER AQUACULTURE WITH RESILIENCE BIOMARKERS FROM OMICS META-ANALYSIS](https://github.com/Resilience-Biomarkers-for-Aquaculture/Resilience-Biomarkers-for-Aquaculture.github.io/blob/master/docs/AQ_2025/20250310_AQ25_SAW.pptx). Shelly Wanamaker. Aquaculture 2025. New Orleans, LA. March 10, 2025. 
 
--  [Exploring functional roles of non-coding RNA in stony corals](https://github.com/shedurkin/Roberts-LabNotebook/blob/master/presentations/Durkin_SICB_2025.pptx). Kathleen Durkin. Society of Integrative and Comparative Biology. Atlanta, GA. January, 2025
+-   [IMPROVING OYSTER AQUACULTURE WITH RESILIENCE BIOMARKERS FROM OMICS META-ANALYSIS](https://github.com/Resilience-Biomarkers-for-Aquaculture/Resilience-Biomarkers-for-Aquaculture.github.io/blob/master/docs/AQ_2025/20250310_AQ25_SAW.pptx). Shelly Wanamaker. Aquaculture 2025. New Orleans, LA. March 10, 2025.
+
+-   [Exploring functional roles of non-coding RNA in stony corals](https://github.com/shedurkin/Roberts-LabNotebook/blob/master/presentations/Durkin_SICB_2025.pptx). Kathleen Durkin. Society of Integrative and Comparative Biology. Atlanta, GA. January, 2025
 
 #### 2024
 
