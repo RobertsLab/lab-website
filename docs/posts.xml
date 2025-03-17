@@ -237,7 +237,7 @@
 </item>
 <item>
   <title>Turning the tide</title>
-  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-boundless/</link>
+  <link>https://faculty.washington.edu/sr320/posts/sr320-boundless/</link>
   <description><![CDATA[ 
 
 
@@ -259,7 +259,7 @@
  ]]></description>
   <category>dna</category>
   <category>education</category>
-  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-boundless/</guid>
+  <guid>https://faculty.washington.edu/sr320/posts/sr320-boundless/</guid>
   <pubDate>Fri, 08 Nov 2024 08:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/2024-11-07_12-56-13.png" medium="image" type="image/png"/>
 </item>
@@ -849,6 +849,58 @@ Link to Full Notebook Post
   <media:content url="https://faculty.washington.edu/sr320/img/bucket.png" medium="image" type="image/png" height="145" width="144"/>
 </item>
 <item>
+  <title>Exploring the Non-Coding RNA Landscape in Reef-Building Corals</title>
+  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-lncRNA-rep/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Coral reefs are among the most biodiverse ecosystems on the planet, yet they are increasingly threatened by climate change and human activities. Understanding the molecular mechanisms that govern coral resilience is crucial for their conservation. A <a href="https://doi.org/10.1101/2025.03.15.643469.">new study by Ashey et al.&nbsp;(2025)</a> provides a groundbreaking look into the non-coding RNA (ncRNA) repertoire of reef-building corals, shedding light on how these regulatory molecules contribute to coral gene expression and environmental adaptability.</p>
+<section id="why-non-coding-rnas-matter" class="level3">
+<h3 class="anchored" data-anchor-id="why-non-coding-rnas-matter"><strong>Why Non-Coding RNAs Matter</strong></h3>
+<p>Long dismissed as “junk” DNA, ncRNAs have emerged as vital regulators of gene expression across all domains of life. Unlike protein-coding genes, ncRNAs do not translate into proteins but instead play critical roles in controlling genetic pathways, chromatin organization, and stress responses. In corals, these molecules could be key players in their ability to withstand environmental stressors such as rising ocean temperatures and pollution.</p>
+</section>
+<section id="the-study-a-comprehensive-analysis-of-coral-ncrnas" class="level3">
+<h3 class="anchored" data-anchor-id="the-study-a-comprehensive-analysis-of-coral-ncrnas"><strong>The Study: A Comprehensive Analysis of Coral ncRNAs</strong></h3>
+<p>Ashey et al.&nbsp;conducted the first large-scale characterization of ncRNAs in three ecologically significant coral species from Mo’orea, French Polynesia:&nbsp;<em>Acropora pulchra</em>,&nbsp;<em>Pocillopora tuahiniensis</em>, and&nbsp;<em>Porites evermanni</em>. These species exhibit diverse physiological traits and symbiotic relationships, making them excellent models for studying ncRNA variation.</p>
+<section id="key-findings" class="level4">
+<h4 class="anchored" data-anchor-id="key-findings"><strong>Key Findings:</strong></h4>
+<ul>
+<li><p><strong>Diverse ncRNA Repertoires:</strong>&nbsp;The study identified a broad array of ncRNAs, including long non-coding RNAs (lncRNAs), microRNAs (miRNAs), and piwi-interacting RNAs (piRNAs), indicating that corals possess a complex ncRNA regulatory system.</p></li>
+<li><p><strong>Limited Conservation Across Species:</strong>&nbsp;While a few miRNAs (such as&nbsp;<em>mir-100</em>) were conserved across all three species, most lncRNAs and other ncRNAs exhibited high evolutionary turnover, suggesting species-specific adaptations.</p></li>
+<li><p><strong>Functional Insights:</strong>&nbsp;Many ncRNAs were associated with immune regulation, stress response, and genomic stability. For example, lncRNAs were often found near immune-related genes, while piRNAs were enriched in transposable element regions, which are crucial for maintaining genomic integrity.</p></li>
+<li><p><strong>miRNA-Target Interactions:</strong>&nbsp;The study predicted miRNA targets involved in immune response pathways and cellular stress mechanisms, providing new insights into how corals regulate gene expression in response to environmental changes.</p></li>
+</ul>
+</section>
+</section>
+<section id="implications-for-coral-resilience" class="level3">
+<h3 class="anchored" data-anchor-id="implications-for-coral-resilience"><strong>Implications for Coral Resilience</strong></h3>
+<p>These findings underscore the importance of ncRNAs in coral biology. By regulating gene expression and protecting genome stability, ncRNAs may influence corals’ ability to acclimate to shifting environmental conditions. This research also sets the stage for future studies on the role of ncRNAs in coral bleaching, symbiosis dynamics, and adaptation.</p>
+</section>
+<section id="future-directions" class="level3">
+<h3 class="anchored" data-anchor-id="future-directions"><strong>Future Directions</strong></h3>
+<p>Given the rapid decline of coral reefs worldwide, understanding the molecular underpinnings of coral resilience is more critical than ever. Further investigations into ncRNA functions across additional coral species and environmental conditions will enhance our ability to predict and mitigate the impacts of climate change on these vital ecosystems.</p>
+</section>
+<section id="final-thoughts" class="level3">
+<h3 class="anchored" data-anchor-id="final-thoughts"><strong>Final Thoughts</strong></h3>
+<p>The study by Ashey et al.&nbsp;provides a significant step forward in coral molecular biology, revealing how ncRNAs contribute to the complex regulatory networks that sustain coral health. As researchers continue to explore these molecular mechanisms, such insights could inform conservation strategies aimed at preserving coral reefs in a warming world.</p>
+<p>For more details, the full study is available on bioRxiv:&nbsp;<a href="https://doi.org/10.1101/2025.03.15.643469" class="uri">https://doi.org/10.1101/2025.03.15.643469</a>.</p>
+
+
+<!-- -->
+
+</section>
+
+ ]]></description>
+  <category>coral</category>
+  <category>lncRNA</category>
+  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-lncRNA-rep/</guid>
+  <pubDate>Sun, 17 Mar 2024 07:00:00 GMT</pubDate>
+  <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_httpswww.biorxiv.orgcontent10.11012025.03.15.643469v1.full.pdf_2025-03-17_08-01-04.png" medium="image" type="image/png"/>
+</item>
+<item>
   <title>Hardening in oysters drives increased growth</title>
   <link>https://faculty.washington.edu/sr320/posts/sr320-oyster_stage/</link>
   <description><![CDATA[ 
@@ -1048,36 +1100,6 @@ Katherine Silliman and others, Epigenetic and Genetic Population Structure is Co
   <guid>https://faculty.washington.edu/sr320/posts/sr320-asi/</guid>
   <pubDate>Fri, 19 Jan 2024 08:00:00 GMT</pubDate>
   <media:content url="https://faculty.washington.edu/sr320/img/asi.png" medium="image" type="image/png" height="144" width="144"/>
-</item>
-<item>
-  <title>Exploring the Impact of Marine Heatwaves on Pacific Cod</title>
-  <link>https://faculty.washington.edu/sr320/posts/sr320-cod/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>In recent years, the Northeastern Pacific has been hit by a series of unprecedented marine heatwaves, notably “The Blob” from 2014-2016 and another in 2019, causing significant ecological disruptions. A compelling article titled “Beyond the Blob: Pinpointing the Mechanisms of Pacific Cod Population Decline” by the CICOES staff, delves into the alarming decline of Pacific cod populations in the Gulf of Alaska, a critical concern given the species’ ecological and economic significance.</p>
-<p>The Pacific cod, a vital component of Alaska’s groundfish fishery, generating over $100 million annually, faced a dramatic 71% reduction in population between 2015 and 2017 surveys. This decline coincides with the marine heatwaves, raising urgent questions about the survival of early life stages of Pacific cod in a rapidly changing climate.</p>
-<p>Researchers from CICOES, the University of Washington’s School of Aquatic and Fishery Sciences, Oregon State University, and NOAA are collaborating to unravel how increased temperatures impact Pacific cod. Their focus is on the vulnerable early life stages – developing eggs, larvae, and juveniles. Intriguingly, higher temperatures, while accelerating growth, also diminish liver size and alter key metabolic enzymes in young Pacific cod, hinting at deeper metabolic disruptions.</p>
-<p>One innovative approach used by these researchers is RNA-Seq, a next-generation sequencing technology. It allows for a comprehensive analysis of gene activity, shedding light on how warming affects Pacific cod at a molecular level. Initial findings suggest that high temperatures during larval rearing disrupt lipid metabolism processes, potentially reducing energy availability, a crucial resource during this stage.</p>
-<p>The ultimate goal of these studies is to identify the mechanisms driving the mortality of Pacific cod post marine heatwaves. If these mechanisms are more clearly understood, it could lead to the identification of populations or individuals with a better genetic and physiological predisposition to withstand warmer conditions.</p>
-<p>For anyone interested in marine biology, climate change impacts, or fisheries management, this article is a must-read. It not only provides a deep dive into the challenges faced by Pacific cod but also highlights the cutting-edge research being conducted to safeguard these vital marine populations. To explore this topic further and understand the intricacies of this crucial research, I highly recommend reading the full article in the CICOES Magazine 2023 issue. <a href="../../img/CICOES.pdf"><em>Read the full article</em></a> <em>below</em> to gain a deeper understanding of the interplay between marine heatwaves and marine life.</p>
-<p><object data="/img/CICOES.pdf" type="application/pdf" width="600" height="400"><p>Unable to display PDF file. <a href="../../img/CICOES.pdf">Download</a> instead.</p></object></p>
-
-
-<!-- -->
-
-
- ]]></description>
-  <category>cod</category>
-  <category>genomics</category>
-  <category>epigenetics</category>
-  <category>rna-seq</category>
-  <guid>https://faculty.washington.edu/sr320/posts/sr320-cod/</guid>
-  <pubDate>Wed, 17 Jan 2024 08:00:00 GMT</pubDate>
-  <media:content url="https://faculty.washington.edu/sr320/img/cod.png" medium="image" type="image/png" height="139" width="144"/>
 </item>
 </channel>
 </rss>

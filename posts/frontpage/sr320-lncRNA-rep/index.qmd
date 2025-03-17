@@ -1,0 +1,56 @@
+---
+title: "Exploring the Non-Coding RNA Landscape in Reef-Building Corals"
+description: "New Preprint Drops"
+#author:
+  # - name: Steven Roberts
+  #   url: https://sr320.github.io/
+  #   orcid: 0000-0001-8302-1138
+  #   affiliation: Professor, UW - School of Aquatic and Fishery Sciences
+  #   affiliation-url: https://robertslab.info
+date: 03-17-2024
+categories: [coral, lncRNA] # self-defined categories
+image: http://gannet.fish.washington.edu/seashell/snaps/Monosnap_httpswww.biorxiv.orgcontent10.11012025.03.15.643469v1.full.pdf_2025-03-17_08-01-04.png # finding a good image
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+
+format:
+  html:
+    code-fold: true
+    code-tools: true
+    code-copy: true
+    highlight-style: github
+    code-overflow: wrap
+---
+
+Coral reefs are among the most biodiverse ecosystems on the planet, yet they are increasingly threatened by climate change and human activities. Understanding the molecular mechanisms that govern coral resilience is crucial for their conservation. A [new study by Ashey et al. (2025)](https://doi.org/10.1101/2025.03.15.643469.) provides a groundbreaking look into the non-coding RNA (ncRNA) repertoire of reef-building corals, shedding light on how these regulatory molecules contribute to coral gene expression and environmental adaptability.
+
+### **Why Non-Coding RNAs Matter**
+
+Long dismissed as “junk” DNA, ncRNAs have emerged as vital regulators of gene expression across all domains of life. Unlike protein-coding genes, ncRNAs do not translate into proteins but instead play critical roles in controlling genetic pathways, chromatin organization, and stress responses. In corals, these molecules could be key players in their ability to withstand environmental stressors such as rising ocean temperatures and pollution.
+
+### **The Study: A Comprehensive Analysis of Coral ncRNAs**
+
+Ashey et al. conducted the first large-scale characterization of ncRNAs in three ecologically significant coral species from Mo’orea, French Polynesia: *Acropora pulchra*, *Pocillopora tuahiniensis*, and *Porites evermanni*. These species exhibit diverse physiological traits and symbiotic relationships, making them excellent models for studying ncRNA variation.
+
+#### **Key Findings:**
+
+-   **Diverse ncRNA Repertoires:** The study identified a broad array of ncRNAs, including long non-coding RNAs (lncRNAs), microRNAs (miRNAs), and piwi-interacting RNAs (piRNAs), indicating that corals possess a complex ncRNA regulatory system.
+
+-   **Limited Conservation Across Species:** While a few miRNAs (such as *mir-100*) were conserved across all three species, most lncRNAs and other ncRNAs exhibited high evolutionary turnover, suggesting species-specific adaptations.
+
+-   **Functional Insights:** Many ncRNAs were associated with immune regulation, stress response, and genomic stability. For example, lncRNAs were often found near immune-related genes, while piRNAs were enriched in transposable element regions, which are crucial for maintaining genomic integrity.
+
+-   **miRNA-Target Interactions:** The study predicted miRNA targets involved in immune response pathways and cellular stress mechanisms, providing new insights into how corals regulate gene expression in response to environmental changes.
+
+### **Implications for Coral Resilience**
+
+These findings underscore the importance of ncRNAs in coral biology. By regulating gene expression and protecting genome stability, ncRNAs may influence corals' ability to acclimate to shifting environmental conditions. This research also sets the stage for future studies on the role of ncRNAs in coral bleaching, symbiosis dynamics, and adaptation.
+
+### **Future Directions**
+
+Given the rapid decline of coral reefs worldwide, understanding the molecular underpinnings of coral resilience is more critical than ever. Further investigations into ncRNA functions across additional coral species and environmental conditions will enhance our ability to predict and mitigate the impacts of climate change on these vital ecosystems.
+
+### **Final Thoughts**
+
+The study by Ashey et al. provides a significant step forward in coral molecular biology, revealing how ncRNAs contribute to the complex regulatory networks that sustain coral health. As researchers continue to explore these molecular mechanisms, such insights could inform conservation strategies aimed at preserving coral reefs in a warming world.
+
+For more details, the full study is available on bioRxiv: <https://doi.org/10.1101/2025.03.15.643469>.
