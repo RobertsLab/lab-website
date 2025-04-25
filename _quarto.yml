@@ -1,7 +1,8 @@
 project:
   type: website
   output-dir: docs
-
+  resources:
+    - resources/Template_CV.docx
 
 website:
   open-graph: true
