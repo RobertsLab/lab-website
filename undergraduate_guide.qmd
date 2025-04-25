@@ -7,7 +7,7 @@ toc: true
 
 We have developed this guide to undergraduate research to provide resources for undergraduates interested in conducting research in a lab. This guide includes general recommendations and tips and tricks to help you find a lab and research opportunities that supports your goals. We are continually updating this guide, so check back for new resources and information! 
 
-Contact us [here ](https://robertslab.github.io/resources/contact.html) if you have any questions or suggestions for additional resources. 
+Contact us [here ](https://robertslab.github.io/lab-website/contact.html) if you have any questions or suggestions for additional resources. 
 
 ## Why do you want to participate in research? 
 
@@ -90,7 +90,7 @@ Thank you for your time,
 
 We have developed a template CV/resume that you can use to build your own! 
 
-**Download a .docx format of our CV/resume template** [on our website here!](publications/undergraduate_guide/Template_CV.docx).  
+**Download a .docx format of our CV/resume template** [on our website here!](undergraduate_guide/Template_CV.docx).  
 
 ## Managing and setting expectations - Mythbusting! 
 
