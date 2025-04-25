@@ -68,7 +68,7 @@ We have developed a **template email (see below)** for you that you can use to h
 - What is your timeline for participating in research and your general weekly schedule? 
 - Ask for a meeting to talk about opportunities that might be available. 
 
-If you have not heard a response after 2 weeks, send a follow up email.   
+If you have not heard a response after 2 weeks, send a follow up email.
 
 ## Template inquiry email 
 
@@ -90,7 +90,7 @@ Thank you for your time,
 
 We have developed a template CV/resume that you can use to build your own! 
 
-**Download a .docx format of our CV/resume template** [on our website here!](https://github.com/RobertsLab/lab-website/publications/undergraduate_guide/Template_CV.docx).  
+**Download a .docx format of our CV/resume template** [on our website here!](publications/undergraduate_guide/Template_CV.docx).  
 
 ## Managing and setting expectations - Mythbusting! 
 
