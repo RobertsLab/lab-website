@@ -1,0 +1,209 @@
+---
+title: "Guide for Undergraduate Research"
+title-block-banner: true
+toc: true
+
+---
+
+We have developed this guide to undergraduate research to provide resources for undergraduates interested in conducting research in a lab. This guide includes general recommendations and tips and tricks to help you find a lab and research opportunities that supports your goals. We are continually updating this guide, so check back for new resources and information! 
+
+Contact us [here ](https://robertslab.github.io/resources/contact.html) if you have any questions or suggestions for additional resources. 
+
+## Why do you want to participate in research? 
+
+Conducting undergraduate research is an exciting and valuable experience. To make the most of your experience, think about your interests and goals for your research. We recommend that you consider the following questions and write down a list of your answers: 
+
+- *What do you want to get out of working in a lab? What do you hope to learn?* 
+
+For example, you may want to gain scientific knowledge and experience, build skills for particular jobs/careers/internships, explore topics that interest you, or explore research as a potential career. 
+
+- *What skills do you want to build in your research experience? Are there specific skills you are interested in?*
+
+You may wish to design an experimental project, conduct hands-on lab and/or field work, collect and analyze data, explore specific research topics, or learn how science is practiced in a lab setting - or all of these! 
+
+- *What are your current capabilities and skill sets?*
+
+Think about your current set of skills and capabilities. This might include organization and time management, teamwork and communication, running a specific piece of equipment or performing a particular protocol, or working in a particular programming language. 
+
+Once you have considered these questions, use your goals and interests to help guide you in contacting labs and working with research mentors to find opportunities that best suit your goals and skills. 
+
+## Contacting a lab 
+
+Finding a lab is the first step in participating in undergraduate research. How do you find labs that you may be interested in?  
+
+- If you’re looking for research opportunities at your institution, check your university’s department websites to see what each professor specializes in. 
+- Utilize your network! Contacting your TA’s and/or professors is a great way to connect with research groups on campus. You could talk to your TA or professor in person during your classes, or you can use the email template we created below to reach out. They may be looking for undergraduate research assistants, or they may be able to introduce you to labs in your field(s) of interest.
+- Engage with department/university programming related to undergraduate research. For example, UW hosts an annual Undergraduate Research Symposium, where students present their work. This could be an excellent opportunity to see what kind of work is available to undergrads and to connect with labs of interest.
+
+
+Directly emailing the lab you are interested in working with is a great way to reach out to lab groups. You can find the email addresses of professors, postdocs, and graduate students on the university department websites. 
+
+*Who do you send an email to?* 
+
+- Principal Investigators (PI) and professors
+- Postdocs/Research staff 
+- Graduate students
+
+Look for the professor’s web page on the university departments websites. Each professor’s contact information will have a page with their research areas and links to further information including lab websites. The lab websites are a great place to learn about the lab’s research and some labs will post information on available undergraduate research opportunities. 
+iv.	Here are some examples of contact information for the School of Aquatic and Fisheries Sciences. 
+
+1.	[SAFS Faculty](https://fish.uw.edu/faculty-research/)   
+2.	[SAFS postdocs](https://fish.uw.edu/faculty-research/research/postdoctoralscholars/)   
+3.	[SAFS research staff](https://fish.uw.edu/faculty-research/research/research-staff/)  
+
+*Write a concise email!*  
+
+Your email to a prospective lab should be short and to the point and contain the information required for the lab to understand how your interests align with the current projects.  
+
+We have developed a **template email (see below)** for you that you can use to help write your emails to prospective labs!   
+*Here are the things to include in your email:*  
+
+- Address the correct person and ensure you state their name correctly. On the first email, address a professor as “Professor” or “Dr.” The professor may say you can address them by their first name later on. 
+- Who you are, your undergraduate degree program, and what you are seeking from the lab
+- Include how you found out about the lab 
+- What work being done in the lab interests you and why? 
+- What are you hoping to learn or get out of a research experience? 
+- What skills are you hoping to learn? 
+- What are your current capabilities and skills sets? 
+- What is your timeline for participating in research and your general weekly schedule? 
+- Ask for a meeting to talk about opportunities that might be available. 
+
+If you have not heard a response after 2 weeks, send a follow up email.   
+
+## Template inquiry email 
+
+Subject Line: Inquiry from prospective undergraduate research assistant
+
+"Dear [Dr./Professor] [Last Name]
+
+My name is [NAME] and I am a [YEAR]-year student at the University of Washington studying [MAJOR], with a focus on [RELEVANT SUBFIELD(S) OF INTEREST], and I’m interested in joining the Roberts Lab as an undergraduate assistant. I’ve read through [“your lab website”/EXAMPLE PUBLICATIONS] and your work investigating [TALK ABOUT WHAT ON THE SITE INTERESTS YOU] is very exciting! I am interested in conducting research in [INSERT QUARTER/TIMELINE] and am available [INSERT GENERAL WEEKLY AVAILABILITY].
+
+To give you a better sense of my background and research interests, I’ve included a copy of my resume/CV below. I’d love to set up a meeting to discuss your lab and any projects for which you are accepting undergraduate assistants!
+
+Thank you for your time,
+[YOUR NAME]
+[YOUR EMAIL]"
+
+*Attach your resume or CV as a PDF to your email.*  
+
+## Template CV/Resume 
+
+We have developed a template CV/resume that you can use to build your own! 
+
+**Download a .docx format of our CV/resume template** [on our website here!](https://github.com/RobertsLab/lab-website/publications/undergraduate_guide/Template_CV.docx).  
+
+## Managing and setting expectations - Mythbusting! 
+
+Once you have contacted a lab and set up a meeting, it is important to set expectations for your research experience. Here are some things to consider. When joining a lab, consider who you'll be working with (PI, postdocs, or graduate students) and whether you'll participate in existing projects, be assigned one, or pursue independent research—each offers different experiences. Labs vary in flexibility, workload, and expectations, so be open to diverse tasks, even if they aren't your ideal project, as they help build skills and explore interests. Science often involves repetitive tasks, and research experience is more about skill development than a specific topic. You don’t always need prior experience, and labs may say no—but keep trying, seek new opportunities, and ask for recommendations. Prioritize coursework, know your boundaries, and don’t hesitate to decline opportunities that don’t align with your goals. Lastly, be open to trying new fields—changes in research interests are common in science!   
+
+## What types of opportunities are available? 
+
+Depending on the lab you work with, the projects, and the timeline, you may find multiple types of opportunities available to you. Talk with the professor of the lab about these options and consider whether you are interested in volunteering, working in the lab for course credit, or are looking for a paid opportunity. 
+
+Here are some different types of opportunities to consider:  
+
+- **Volunteering in a lab:** Volunteering in a lab may include helping with ongoing research, assisting graduate students or postdoctoral researchers, and working on a variety of projects. Activities will be specific to each lab. 
+
+- **Working for course credit:** Departments may offer course credit opportunities that you can complete under the supervision of a professor. The nature of the project and your role in the project will vary depending on your timeline, research in the lab, and your skills and interests. For example, see FSH 479.  
+
+- **Paid opportunities:** Some labs may offer paid opportunities for undergraduate research assistants. These opportunities vary by lab with pay, time, and tasks dependent on the specific project.
+
+- **Capstone projects:** Capstone projects provide an excellent opportunity to pursue independent research under the guidance of professors in their labs. The specific requirements of a capstone will vary by department. Check out this [website for an example of capstone projects](https://fish.uw.edu/students/undergraduate-program/bachelor-of-science/undergraduate-capstone-project/)in SAFS. 
+
+- **Summer/internship research:** In some cases, research in the lab can transition into summer research and work in the lab. Talk with the professor of the lab about potential opportunities to continue working in the lab over the summer as an undergraduate research assistant. As you participate in research, you will grow your professional network and may learn about other labs doing work that interests you! Your professor and research mentors can help you make connections to other groups and expand your network. 
+
+## Summer/internship experiences outside your university
+
+Summer research experiences outside your university can be a great way to gain experience and build your resume. These opportunities may include internships, summer research programs, or other research experiences. Summer experiences outside of your university are available through a number of institutions. Museums, government agencies, non-profits, and other universities offer current undergrads an opportunity to do research over the summer. A common option is NSF’s Research Experiences for Undergraduates. If there is an institution you’re interested in working with, keep an eye out for internship opportunities on their website.
+
+*Here are some things to think about:*  
+
+- You should keep an eye out for summer opportunities starting in the fall. Many of these positions have applications due in the winter and early spring.
+- You will likely be asked to provide reference letters from people you have worked with. Typically, letters from faculty/professors are the most effective.
+- Think about the feasibility of opportunities for you. Is the opportunity paid? Is housing provided? What about transportation? If an opportunity doesn’t work for you and your life, focus your energy on other applications.
+- Feel free to ask questions before you apply! Most opportunities will provide contact for further questions. Just make sure to ask your questions a week or more before the application deadline if possible. 
+- See the Letters of Recommendation section below for help asking for letters of rec from your research experience. 
+
+Here is a list of some of the agencies and organization that may host summer experiences:    
+
+- [UCLA](https://qcb.ucla.edu/big-summer/)
+- [NASA DEVELOP](https://appliedsciences.nasa.gov/what-we-do/capacity-building/develop)
+- [Amgen](https://amgenscholars.com/us-program/)
+- [Broad Institute](https://www.broadinstitute.org/bsrp/broad-summer-research-program-bsrp)
+- [Dauphin Island Sea Lab](https://www.disl.edu/about/internships/)
+- [Perry Institute of Marine Science](https://www.perryinstitute.org/internships/)
+- [Pacific Shellfish Institute](https://www.pacshell.org/students.asp)
+- [NSF REUs](https://www.nsf.gov/funding/initiatives/reu) 
+
+The U.S. National Science Foundation Research Experiences for Undergraduates (NSF REU) program supports intensive research by undergraduate students in any area of research funded by NSF. Undergraduates (college and university students) can apply directly to REU Sites to participate in research projects across the United States and the world. REU-supported students receive stipends and in many cases assistance with housing, meals and travel. (For additional research opportunities, explore the Information for Undergraduates page.)
+
+## Identifying research projects 
+
+Find Lab websites by looking up the PI’s name or finding links through the department website and see what kind of work they do - there should be a “Research” or “Projects” or something similar section to their website.	If you’ve taken a class in a topic that interests you and the instructor is in that field, ask them what kind of projects they have. Follow departments’ social media accounts - they often will highlight current research happening in the different labs. Finally, sign up for department email listservs - if someone needs volunteers or have research opportunities, they sometimes will advertise for them there.  
+
+## Letters of recommendation
+
+Letters of recommendation are an important part of the application process for internships, summer research opportunities, graduate school, and jobs. A strong letter of recommendation can help you stand out from other applicants and provide insight into your skills and qualifications. Participating in a research laboratory is an excellent way to build your professional network. Your research mentor can be a reference letter writer for you as you pursue future opportunities including graduate school, internships, jobs, or other research opportunities.  
+
+Here are our tips for asking for letters of recommendations.  
+
+- Check out the [UW guidance](https://sas.uaa.uw.edu/husky-experience/make-your-way/asking-for-a-reference-or-recommendation/)   
+- Ask for a letter of recommendation well in advance of the deadline (MINIMUM 2 weeks, more if possible). 
+- When you ask for a letter, you can use phrasing such as, *“Will you be able to write a strong letter of recommendation on my behalf for [INSERT OPPORTUNITY HERE] by [INSERT DEADLINE HERE]?"*. 
+
+When you ask for a letter of recommendation, we recommend that you include the following: 
+
+- A description of the program/opportunity you are applying for and any websites or information available that will help your recommender learn about the opportunity. 
+- Your CV or resume. See the template linked above. 
+- A list of 3-8 skills and qualifications that you want your recommender to include in their letter. Tailor these points to best suite the opportunity you are applying for.
+- In some cases, recommenders may ask you to write a draft letter yourself - this can be a great exercise in learning how to articulate your qualifications. 
+- Include a list of what you did with the recommender (e.g., conducted research in their lab during Spring quarter, volunteered to assist their graduate student with their research, performed XYZ assays) to help them write the letter and draw specific examples of your work. 
+- Here is a [sample list of questions](https://math.hmc.edu/jacobsen/recommendation-letter-qs/) for you to help you provide your reference with relevant information. 
+- How should they submit their letter? Will they need to upload it to an online system, send it to you directly, or email to the program directly?
+- Check in with your recommender 1-2 weeks before the deadline to ensure they will be able to submit a letter on your behalf. 
+
+## Things to ask your research mentor/supervisor  
+
+To ensure you have a positive and productive research experience, we recommend having an early conversation with your prospecitve or current research mentor that covers the following topics:  
+
+- Working expectations
+- Supervision/mentorship style 
+- When to expect feedback from your mentor 
+- Methods of communication - email? Slack? 
+- Work schedules and timelines 
+- Opportunities to develop skills and growth outside of research project 
+- Ability to learn specific skills you are interested in 
+- What skills does the mentor expect you to have coming into the experience
+- Potential for flexibility in your schedule - as an undergraduate, you have a lot of other commitments with your coursework, ask if they would be willing to allow for flexible time commitments during big weeks like finals
+- What are the lab’s expectations
+
+Check out these additional resources:  
+
+[UW mentoring resources](https://www.washington.edu/undergradresearch/mentors/mentoring-resources/)   
+[UW Oceanography mentoring](https://www.ocean.washington.edu/story/Mentoring_our_Undergraduate_Students)    
+
+## The fun part - doing research! 
+
+Conducting research is a valuable and exciting experience. Here are some things to consider as you begin your research experience:  
+
+*Meet lab expectations and safety/documentation requirements:*  
+
+- May include trainings and onboarding protocols 
+- [Mary Gates Research Resource](https://www.washington.edu/undergradresearch/ )
+- [College of the Environment resources](https://environment.uw.edu/students/current-students/get-involved/undergraduate-research/) 
+- Consider lab culture and group norm expectations   
+
+*Follow best practices:*  
+
+Starting research in a biology lab can be exciting and a bit overwhelming, but following a few best practices will help you succeed. Good research begins with curiosity and clear questions—before running an experiment, take time to understand the scientific background and the goals of the study. When designing experiments, think carefully about your controls, variables, and sample size to ensure your results will be reliable and meaningful. In the lab, stay organized, label everything clearly, and keep detailed notes in your lab notebook—good records are essential for tracking progress and troubleshooting. If you're doing molecular work, precision and cleanliness are key: always follow protocols carefully, use sterile techniques to avoid contamination, and double-check your steps before moving forward. If you're involved in fieldwork, planning and flexibility are equally important—prepare for the unexpected, record environmental conditions, and handle samples carefully to preserve their quality. Whether in the lab or the field, follow safety protocols, respect shared spaces and equipment, and don't be afraid to ask questions or seek feedback. Finally, approach research with honesty, patience, and a willingness to learn—good science thrives on integrity, collaboration, and curiosity.  
+
+*Scientific writing :* 
+
+Writing your first scientific paper can feel intimidating, but it’s really just a way of telling the story of your research in a clear, logical, and honest way. Start by understanding the standard structure—Introduction, Methods, Results, and Discussion—and how each section serves a different purpose. The Introduction sets the stage: explain what’s already known, what question you asked, and why it matters. In the Methods, describe what you did in enough detail that someone else could repeat your experiment. The Results section presents your data without interpretation—use clear figures or tables, and keep it focused. The Discussion is where you interpret your findings, compare them to other studies, and suggest what they might mean or what could be done next. Start drafting even if you don’t feel ready—it’s easier to revise a rough draft than a blank page. Ask your mentor or lab mates for examples of past student papers to see how others have structured their work. And remember, writing is a process: give yourself time to revise, get feedback, and learn as you go. The most important thing is to communicate your work clearly and honestly—science writing is about sharing knowledge, not sounding fancy.
+
+Here are a few resources that might be helpful:  
+
+- [University of Wisconson - Madison writing guide](https://writing.wisc.edu/handbook/sciencereport/)   
+- [Writing guide from Fish 270: Aquatic Ecophysiology](https://docs.google.com/document/d/1sI1M1x71KJZGiOOWtlvHLi6WsmwTlak2/edit?usp=sharing&ouid=100447722247914237565&rtpof=true&sd=true)
+
+

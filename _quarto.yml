@@ -5,12 +5,12 @@ project:
 
 website:
   open-graph: true
-  announcement: 
-    icon: info-circle
-    dismissable: true
-    content: "**Get in Touch!** - Use the [contact form](https://faculty.washington.edu/sr320/contact.html) to reach out to us with any questions or comments."
-    type: primary
-    position: above-navbar
+#  announcement: 
+#    icon: info-circle
+#    dismissable: true
+#    content: "**Get in Touch!** - Use the [contact form](https://faculty.washington.edu/sr320/contact.html) to reach out to us with any questions or comments."
+#    type: primary
+#    position: above-navbar
   repo-url: https://github.com/Robertslab/lab-website
   #repo-actions: [edit, issue]
   #page-footer: "© 2025 Roberts Lab, University of Washington"
@@ -107,6 +107,8 @@ website:
     - courses.qmd
     - text: "News"
       file: posts.qmd
+    - text: "Undergraduate research guide"
+      file: undergraduate_guide.qmd
     
     
     
