@@ -1,5 +1,6 @@
 ---
-pagetitle: "Publications | Roberts Lab"
+title: "Publications"
+title-block-banner: true
 listing:
   - id: articles
     contents: "publications/articles/**.qmd"
@@ -16,7 +17,7 @@ listing:
       year: "Year"
 ---
 
-# Publications
+# 
 
 See the table of contents at the right to jump to [book chapters](https://faculty.washington.edu/sr320/publications.html#book-chapters), preprints, [theses](https://faculty.washington.edu/sr320/publications.html#theses), [notebooks](https://faculty.washington.edu/sr320/publications.html#notebooks), and [recent presentations](https://faculty.washington.edu/sr320/publications.html#recent-presentations). Search the entire website using the search icon in top right menu.
 
@@ -31,7 +32,9 @@ Recent papers can be searched by sorting and/or using filter function. Filter fu
 
 # Podcast
 
-<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/gene-pooling/id1802677296"></iframe>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/gene-pooling/id1802677296">
+
+</iframe>
 
 # Less Recent Papers (2020 and older)
 
@@ -342,7 +345,7 @@ Characterizing the effects of ocean acidification in larval and juvenile Manila 
 # Notebooks
 
 | Person | Notebook | Commitment |
-|-----------------|-----------------------|--------------------------------|
+|------------------|-----------------------|-------------------------------|
 | Steven Roberts | [sr320.github.io](https://sr320.github.io/tumbling-oysters/) | ![GitHub last commit](https://img.shields.io/github/last-commit/sr320/tumbling-oysters) |
 | Sam White | [robertslab.github.io](https://robertslab.github.io/sams-notebook/) | ![GitHub last commit](https://img.shields.io/github/last-commit/RobertsLab/sams-notebook) |
 | Matt George | [mattgeorgephd.github.io](https://mattgeorgephd.github.io/notebook/) | ![GitHub last commit](https://img.shields.io/github/last-commit/mattgeorgephd/mattgeorgephd.github.io) |
