@@ -95,6 +95,7 @@ website:
   sidebar:
     style: "docked"
     search: true
+    collapse-level: 0
     #footer: "_some pages listed above are still in active development_"
     contents:
     - text: "Projects"
@@ -105,10 +106,9 @@ website:
     - text: "News"
       file: posts.qmd
     - section: "About us"
-      collapse: true
-      open: false
       contents:
-        - file: people.qmd
+        - text: "People"
+          file: people.qmd
         - text: "Outreach"
           file: dei.qmd
         - text: "Undergrad Guide"
