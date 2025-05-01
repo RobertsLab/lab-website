@@ -101,15 +101,18 @@ website:
       file: projects.qmd
     - text: "Publications"
       file: publications.qmd
-    - text: "About us"
-      file: people.qmd
-    - text: "Outreach"
-      file: dei.qmd
     - courses.qmd
     - text: "News"
       file: posts.qmd
-    - text: "Undergraduate research guide"
-      file: undergraduate_guide.qmd
+    - section: "About us"
+      collapse: true
+      open: false
+      contents:
+        - file: people.qmd
+        - text: "Outreach"
+          file: dei.qmd
+        - text: "Undergrad Guide"
+          file: undergraduate_guide.qmd
     
     
     
