@@ -10,7 +10,35 @@
 <atom:link href="https://faculty.washington.edu/sr320/posts.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.6.40</generator>
-<lastBuildDate>Mon, 17 Mar 2025 07:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 07 May 2025 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Environmental Priming in Practice</title>
+  <dc:creator>Steven Roberts</dc:creator>
+  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-lewis-smith/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>We're proud to share a new publication by former lab member <strong>Connor Lewis-Smith</strong>, now a Social Scientist with NOAA's Northwest Fisheries Science Center. His article, <em>"Navigating ocean acidification in shellfish aquaculture: Stakeholder perspectives of developing strategies in the U.S. Pacific Region"</em>, was just released in <em>Aquaculture Reports</em> and offers an in-depth look at how shellfish growers across the U.S. Pacific Coast are responding to ocean acidification and related environmental stressors.</p>
+<p>The study draws on structured interviews with producers from Washington, Oregon, California, Alaska, and Hawaii to capture evolving perceptions of ocean acidification and industry interest in emerging adaptation strategies. Notably, concern about ocean acidification appears to have declined in the past decade, as growers increasingly focus on intersecting threats such as harmful algal blooms, disease, and rising temperatures.</p>
+<p>The paper explores two adaptation strategies under development: <strong>parental priming</strong>—a technique involving exposure of broodstock to stressful conditions to enhance offspring resilience—and <strong>native species portfolio expansion</strong>. While industry support for both strategies was mixed and often contingent on further scientific validation, the study emphasizes the importance of early engagement between researchers and growers to co-develop viable solutions.</p>
+<p>Importantly, this research aligns directly with <strong>ongoing environmental priming work in our lab</strong>, where we are experimentally testing how exposure to low pH and high temperature conditions in adult shellfish can influence offspring performance. By integrating physiological, transcriptomic, and lipidomic data, our current NOAA-funded work seeks to identify the mechanisms underlying carryover effects and inform hatchery practices that enhance larval resilience under future ocean conditions.</p>
+<p>Connor's collaboration with our group helped build the interdisciplinary foundation for this kind of applied science—where social, biological, and ecological factors intersect to shape adaptation in real-world settings. We're excited to see how his work complements and extends our efforts to support a more resilient shellfish aquaculture sector.</p>
+<p>Read the full article <a href="https://doi.org/10.1016/j.aqrep.2025.102858">here</a>.</p>
+
+
+<!-- -->
+
+
+ ]]></description>
+  <category>aquaculture</category>
+  <category>stress</category>
+  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-lewis-smith/</guid>
+  <pubDate>Wed, 07 May 2025 07:00:00 GMT</pubDate>
+  <media:content url="http://gannet.fish.washington.edu/seashell/snaps/2025-05-07_11-42-09.png" medium="image" type="image/png"/>
+</item>
 <item>
   <title>Exploring the Non-Coding RNA Landscape in Reef-Building Corals</title>
   <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-lncRNA-rep/</link>
@@ -513,7 +541,7 @@
 <item>
   <title>Hatchery-based Environmental Conditioning Activities</title>
   <dc:creator>Steven Roberts</dc:creator>
-  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-usda-report/</link>
+  <link>https://faculty.washington.edu/sr320/posts/sr320-usda-report/</link>
   <description><![CDATA[ 
 
 
@@ -579,7 +607,7 @@
  ]]></description>
   <category>oyster</category>
   <category>stress</category>
-  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-usda-report/</guid>
+  <guid>https://faculty.washington.edu/sr320/posts/sr320-usda-report/</guid>
   <pubDate>Fri, 30 Aug 2024 07:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Monosnap_2024-08-29_13-10-49.png" medium="image" type="image/png"/>
 </item>
@@ -1036,70 +1064,6 @@ Katherine Silliman and others, Epigenetic and Genetic Population Structure is Co
   <guid>https://faculty.washington.edu/sr320/posts/sr320-prep/</guid>
   <pubDate>Fri, 02 Feb 2024 08:00:00 GMT</pubDate>
   <media:content url="https://faculty.washington.edu/sr320/img/prep.png" medium="image" type="image/png" height="105" width="144"/>
-</item>
-<item>
-  <title>Sharing the Good Word of Marine Epigenetics</title>
-  <link>https://faculty.washington.edu/sr320/posts/sr320-asi/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>The University of Concepción recently offered an eye-opening course that dove deep into the realms of climate change, epigenetics, and marine biology. Titled “<a href="https://sr320.github.io/course-ASI-2024/">Epigenetic Phenomena Connecting Climate Change and Coastal Marine Species</a>,” this graduate-level course provided an intensive one-week journey into the fascinating interplay between our changing climate and the genetic mechanisms of marine invertebrates.</p>
-<section id="unraveling-the-mysteries-of-marine-invertebrates" class="level3">
-<h3 class="anchored" data-anchor-id="unraveling-the-mysteries-of-marine-invertebrates">Unraveling the Mysteries of Marine Invertebrates</h3>
-<p>The course, designed for students with a foundational understanding of genetics and climate science, began by establishing a strong base in epigenetics, climate change, and marine invertebrate physiology. The highlight was on the often-overlooked role of marine invertebrates in coastal ecosystems, emphasizing their ecological importance and responses to climate change at an epigenetic level.</p>
-</section>
-<section id="real-world-applications-and-functional-genomics" class="level3">
-<h3 class="anchored" data-anchor-id="real-world-applications-and-functional-genomics">Real-World Applications and Functional Genomics</h3>
-<p>A significant focus of the course was the application of functional genomics. Students explored how climate change leads to alterations in epigenetic mechanisms of various coastal marine invertebrates through real-world examples. This approach helped in understanding the broader implications of these changes for marine ecosystems.</p>
-</section>
-<section id="comprehensive-course-objectives" class="level3">
-<h3 class="anchored" data-anchor-id="comprehensive-course-objectives">Comprehensive Course Objectives</h3>
-<p>The course had three primary objectives:</p>
-<ol type="1">
-<li><strong>Understanding Climate Change and Epigenetics</strong>: Gaining a comprehensive understanding of how climate change impacts marine invertebrates’ physiological processes through an epigenetic lens.</li>
-<li><strong>Proficiency in Functional Genomics</strong>: Learning about genomic techniques and their applications in studying epigenetic changes in marine invertebrates due to climate stressors.</li>
-<li><strong>Analyzing Scientific Research</strong>: Developing skills to critically analyze and evaluate scientific literature in marine invertebrate epigenetics and climate change.</li>
-</ol>
-</section>
-<section id="course-content-a-rich-blend-of-science-and-research" class="level3">
-<h3 class="anchored" data-anchor-id="course-content-a-rich-blend-of-science-and-research">Course Content: A Rich Blend of Science and Research</h3>
-<p>The course content was diverse and in-depth:</p>
-<ul>
-<li><strong>Basics of Epigenetics and Climate Change</strong>: Introduced the intersection of these fields and the concept of environmental epigenetics.</li>
-<li><strong>Physiology of Marine Invertebrates</strong>: Covered essential aspects like feeding, digestion, reproduction, and stress response.</li>
-<li><strong>Impact of Climate Change on Physiology</strong>: Explored the specific impacts of climate factors on marine invertebrates.</li>
-<li><strong>Functional Genomics and Epigenetics</strong>: Delved into genomic methodologies and applications.</li>
-<li><strong>Case Studies and Current Research</strong>: Involved critical examination of recent research studies, emphasizing practical understanding.</li>
-</ul>
-</section>
-<section id="methodology-interactive-and-engaging" class="level3">
-<h3 class="anchored" data-anchor-id="methodology-interactive-and-engaging">Methodology: Interactive and Engaging</h3>
-<p>The course used a mix of lectures, discussions, and interactive data analysis. It emphasized hands-on learning, particularly in the afternoons, where students engaged in data analysis using R and bash, providing a practical edge to the theoretical knowledge gained.</p>
-</section>
-<section id="scholarly-contributions-a-rich-bibliography" class="level3">
-<h3 class="anchored" data-anchor-id="scholarly-contributions-a-rich-bibliography">Scholarly Contributions: A Rich Bibliography</h3>
-<p>The course drew from a rich bibliography, featuring works by renowned researchers like Grace Crandall, Steven B. Roberts, and Cristian Gallardo-Escárate. These publications covered various aspects, from the proteomic responses of Pacific Oysters to the genomic assembly of the Blue Mussel, offering students a comprehensive view of current research in the field.</p>
-</section>
-<section id="conclusion-a-step-forward-in-marine-biology-education" class="level3">
-<h3 class="anchored" data-anchor-id="conclusion-a-step-forward-in-marine-biology-education">Conclusion: A Step Forward in Marine Biology Education</h3>
-<p>This course at the University of Concepción marked a significant step in educating the next generation of marine biologists, geneticists, and climate scientists. By bridging the gap between climate change and epigenetic phenomena in marine species, it not only enhanced understanding but also prepared students to contribute meaningfully to marine conservation efforts in the face of global climate challenges.</p>
-
-
-<!-- -->
-
-</section>
-
- ]]></description>
-  <category>course</category>
-  <category>genomics</category>
-  <category>methods</category>
-  <category>website</category>
-  <guid>https://faculty.washington.edu/sr320/posts/sr320-asi/</guid>
-  <pubDate>Fri, 19 Jan 2024 08:00:00 GMT</pubDate>
-  <media:content url="https://faculty.washington.edu/sr320/img/asi.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 </channel>
 </rss>

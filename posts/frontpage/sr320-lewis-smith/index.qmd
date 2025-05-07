@@ -1,0 +1,34 @@
+---
+title: "Environmental Priming in Practice"
+description: "Former Lab Member Publishes Insightful Study on Aquaculture Resilience"
+author:
+  - name: Steven Roberts
+    url: https://sr320.github.io/
+    orcid: 0000-0001-8302-1138
+    affiliation: Professor, UW - School of Aquatic and Fishery Sciences
+    affiliation-url: https://robertslab.info
+date: 05-07-2025
+categories: [aquaculture, stress] # self-defined categories
+image: http://gannet.fish.washington.edu/seashell/snaps/2025-05-07_11-42-09.png # finding a good image
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+
+format:
+  html:
+    code-fold: true
+    code-tools: true
+    code-copy: true
+    highlight-style: github
+    code-overflow: wrap
+---
+
+We\'re proud to share a new publication by former lab member **Connor Lewis-Smith**, now a Social Scientist with NOAA\'s Northwest Fisheries Science Center. His article, *\"Navigating ocean acidification in shellfish aquaculture: Stakeholder perspectives of developing strategies in the U.S. Pacific Region\"*, was just released in *Aquaculture Reports* and offers an in-depth look at how shellfish growers across the U.S. Pacific Coast are responding to ocean acidification and related environmental stressors.
+
+The study draws on structured interviews with producers from Washington, Oregon, California, Alaska, and Hawaii to capture evolving perceptions of ocean acidification and industry interest in emerging adaptation strategies. Notably, concern about ocean acidification appears to have declined in the past decade, as growers increasingly focus on intersecting threats such as harmful algal blooms, disease, and rising temperatures.
+
+The paper explores two adaptation strategies under development: **parental priming**---a technique involving exposure of broodstock to stressful conditions to enhance offspring resilience---and **native species portfolio expansion**. While industry support for both strategies was mixed and often contingent on further scientific validation, the study emphasizes the importance of early engagement between researchers and growers to co-develop viable solutions.
+
+Importantly, this research aligns directly with **ongoing environmental priming work in our lab**, where we are experimentally testing how exposure to low pH and high temperature conditions in adult shellfish can influence offspring performance. By integrating physiological, transcriptomic, and lipidomic data, our current NOAA-funded work seeks to identify the mechanisms underlying carryover effects and inform hatchery practices that enhance larval resilience under future ocean conditions.
+
+Connor\'s collaboration with our group helped build the interdisciplinary foundation for this kind of applied science---where social, biological, and ecological factors intersect to shape adaptation in real-world settings. We\'re excited to see how his work complements and extends our efforts to support a more resilient shellfish aquaculture sector.
+
+Read the full article [here](https://doi.org/10.1016/j.aqrep.2025.102858).

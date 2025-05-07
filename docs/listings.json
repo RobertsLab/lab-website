@@ -2,6 +2,7 @@
   {
     "listing": "/posts.html",
     "items": [
+      "/posts/frontpage/sr320-lewis-smith/index.html",
       "/posts/frontpage/sr320-lncRNA-rep/index.html",
       "/posts/frontpage/sr320-genomics/index.html",
       "/posts/frontpage/sr320-cod2/index.html",
@@ -10,7 +11,7 @@
       "/posts/sr320-boundless/index.html",
       "/posts/posts/index.html",
       "/posts/sr320-handbook/index.html",
-      "/posts/frontpage/sr320-usda-report/index.html",
+      "/posts/sr320-usda-report/index.html",
       "/posts/sr320-lsamp/index.html",
       "/posts/sr320-intertidal/index.html",
       "/posts/sr320-ostras/index.html",
@@ -101,12 +102,12 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/frontpage/sr320-lewis-smith/index.html",
       "/posts/frontpage/sr320-lncRNA-rep/index.html",
       "/posts/frontpage/sr320-genomics/index.html",
       "/posts/frontpage/sr320-cod2/index.html",
       "/posts/frontpage/sr320-WSG/index.html",
-      "/posts/frontpage/ariana-paper/index.html",
-      "/posts/frontpage/sr320-usda-report/index.html"
+      "/posts/frontpage/ariana-paper/index.html"
     ]
   },
   {
