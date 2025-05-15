@@ -10,7 +10,47 @@
 <atom:link href="https://faculty.washington.edu/sr320/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.6.40</generator>
-<lastBuildDate>Wed, 07 May 2025 07:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 15 May 2025 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>🌟 Undergraduate Research Highlight</title>
+  <dc:creator>Steven Roberts</dc:creator>
+  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-baird/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>We’re excited to share that <strong>Madeline Baird</strong>, an undergraduate researcher in the Roberts Lab, will present her research at the <strong>2025 Mary Gates Undergraduate Research Symposium</strong>.</p>
+<p>Her poster presentation, titled</p>
+<p><strong>“Application of Metabolic Assays to Characterize Thermal Tolerance in Pacific Oyster (Magallana gigas) Early Life Stages,”</strong></p>
+<div class="text-center">
+<p><img src="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_UWURS_Oyster_Poster.pdf_2025-05-15_09-17-36.png" class="img-fluid" style="width: 75%;"></p>
+</div>
+<p>investigates how parental immune priming affects offspring resilience in a changing ocean. Collaborating with the <strong>Jamestown Shellfish Hatchery</strong>, Madeline reared juvenile oysters from immune-challenged parents and assessed growth, survival, and metabolism under a wide range of temperatures.</p>
+<p>Using high-throughput <strong>resazurin metabolic assays</strong>, she found that immune-primed offspring showed greater thermal tolerance—especially between 36°C and 40°C—highlighting a potentially important role of <strong>metabolic flexibility</strong> in inherited stress resilience.</p>
+<blockquote class="blockquote">
+<p>🔬 These findings support the idea that <strong>non-genetic inheritance</strong> may help oysters adapt to increasing marine heatwaves—an insight with valuable implications for aquaculture and conservation.</p>
+</blockquote>
+<p>Madeline’s work was supported by the <strong>USDA</strong>, <strong>Washington Sea Grant</strong>, and the <strong>UW Population Health Initiative</strong>, which recognized her with a <strong>2025 Population Health Recognition Award</strong>.</p>
+<video width="640" controls="">
+<source src="http://gannet.fish.washington.edu/seashell/snaps/OysterLabworkVideo.MOV" type="video/quicktime">
+<p>Your browser does not support the video tag. </p>
+<p>We’re proud to support Madeline’s research and scientific growth, and we look forward to seeing where her work leads next!</p>
+<p>🧪 View her research, lab notebook, and more:</p>
+<p>👉 <a href="https://linktr.ee/madsmarine" class="uri">https://linktr.ee/madsmarine</a></p>
+
+
+<!-- -->
+
+
+</video> ]]></description>
+  <category>aquaculture</category>
+  <category>stress</category>
+  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-baird/</guid>
+  <pubDate>Thu, 15 May 2025 07:00:00 GMT</pubDate>
+  <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_UWURS_Oyster_Poster.pdf_2025-05-15_07-34-59.png" medium="image" type="image/png"/>
+</item>
 <item>
   <title>Environmental Priming in Practice</title>
   <dc:creator>Steven Roberts</dc:creator>

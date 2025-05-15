@@ -10,7 +10,47 @@
 <atom:link href="https://faculty.washington.edu/sr320/posts.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.6.40</generator>
-<lastBuildDate>Wed, 07 May 2025 07:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 15 May 2025 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>🌟 Undergraduate Research Highlight</title>
+  <dc:creator>Steven Roberts</dc:creator>
+  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-baird/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>We’re excited to share that <strong>Madeline Baird</strong>, an undergraduate researcher in the Roberts Lab, will present her research at the <strong>2025 Mary Gates Undergraduate Research Symposium</strong>.</p>
+<p>Her poster presentation, titled</p>
+<p><strong>“Application of Metabolic Assays to Characterize Thermal Tolerance in Pacific Oyster (Magallana gigas) Early Life Stages,”</strong></p>
+<div class="text-center">
+<p><img src="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_UWURS_Oyster_Poster.pdf_2025-05-15_09-17-36.png" class="img-fluid" style="width: 75%;"></p>
+</div>
+<p>investigates how parental immune priming affects offspring resilience in a changing ocean. Collaborating with the <strong>Jamestown Shellfish Hatchery</strong>, Madeline reared juvenile oysters from immune-challenged parents and assessed growth, survival, and metabolism under a wide range of temperatures.</p>
+<p>Using high-throughput <strong>resazurin metabolic assays</strong>, she found that immune-primed offspring showed greater thermal tolerance—especially between 36°C and 40°C—highlighting a potentially important role of <strong>metabolic flexibility</strong> in inherited stress resilience.</p>
+<blockquote class="blockquote">
+<p>🔬 These findings support the idea that <strong>non-genetic inheritance</strong> may help oysters adapt to increasing marine heatwaves—an insight with valuable implications for aquaculture and conservation.</p>
+</blockquote>
+<p>Madeline’s work was supported by the <strong>USDA</strong>, <strong>Washington Sea Grant</strong>, and the <strong>UW Population Health Initiative</strong>, which recognized her with a <strong>2025 Population Health Recognition Award</strong>.</p>
+<video width="640" controls="">
+<source src="http://gannet.fish.washington.edu/seashell/snaps/OysterLabworkVideo.MOV" type="video/quicktime">
+<p>Your browser does not support the video tag. </p>
+<p>We’re proud to support Madeline’s research and scientific growth, and we look forward to seeing where her work leads next!</p>
+<p>🧪 View her research, lab notebook, and more:</p>
+<p>👉 <a href="https://linktr.ee/madsmarine" class="uri">https://linktr.ee/madsmarine</a></p>
+
+
+<!-- -->
+
+
+</video> ]]></description>
+  <category>aquaculture</category>
+  <category>stress</category>
+  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-baird/</guid>
+  <pubDate>Thu, 15 May 2025 07:00:00 GMT</pubDate>
+  <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_UWURS_Oyster_Poster.pdf_2025-05-15_07-34-59.png" medium="image" type="image/png"/>
+</item>
 <item>
   <title>Environmental Priming in Practice</title>
   <dc:creator>Steven Roberts</dc:creator>
@@ -1033,37 +1073,6 @@ Katherine Silliman and others, Epigenetic and Genetic Population Structure is Co
   <guid>https://faculty.washington.edu/sr320/posts/ostrea/</guid>
   <pubDate>Thu, 29 Feb 2024 08:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_httpswww.biorxiv.orgcontent10.11012023.09.08.556443v1.full.pdf_2024-03-09_15-20-38.png" medium="image" type="image/png"/>
-</item>
-<item>
-  <title>Are you really prepared?</title>
-  <link>https://faculty.washington.edu/sr320/posts/sr320-prep/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p><a href="https://faculty.washington.edu/sr320/people.html#ariana-s.-huffmyer-phd">Ariana</a> lead a great tutorial on being prepared and planning for science. The narrative underscored the importance of thorough preparation and planning, including considering alternative uses for collected data, planning for potential pitfalls, and ensuring that experimental designs are robust against unforeseen challenges. This includes the practical aspects of laboratory work, field studies, and data analysis, emphasizing the value of learning from past experiences and being flexible in research approaches.</p>
-<div class="quarto-video"><video id="video_shortcode_videojs_video1" class="video-js vjs-default-skin vjs-fluid" controls="" preload="auto" data-setup="{}" title=""><source src="http://gannet.fish.washington.edu/seashell/snaps/Exp_prep.mov"></video></div>
-<p>Designing scientific experiments requires extensive planning to ensure projects run smoothly and yield meaningful results. Here are some important aspects to consider when preparing for research:</p>
-<p><strong>Clearly Define Your Hypothesis and Objectives</strong>: Having a clear hypothesis drives your experimental design and analysis approach. Define what you aim to test upfront.</p>
-<p><strong>Prepare Detailed Protocols</strong>: Write step-by-step protocols for all procedures well before starting. Practice techniques on mock datasets to work out kinks.</p>
-<p><strong>Plan Your Data Collection</strong>: Design data sheets, name conventions, and metadata standards early. Consider sample sizes and ensure you collect the right data to answer your questions.</p>
-<p><strong>Schedule Carefully</strong>: Block out experiment timelines, factoring permitting needs and collaborator availability. Leave buffer time for unexpected issues.</p>
-<p><strong>Create Organizational Systems</strong>: Use checklists, spreadsheets, and visual aids to track tasks and ensure all preparation steps are completed thoroughly.</p>
-<p><strong>Anticipate Challenges</strong>: Brainstorm potential pitfalls and have contingency plans. Run test analyses to flag problems before using real data.</p>
-<p>Proper preparation is key to running successful, high-quality experiments that yield meaningful scientific insights. Taking the time to carefully plan experimental design and logistics pays off in efficient, productive research.</p>
-
-
-<!-- -->
-
-
- ]]></description>
-  <category>methods</category>
-  <category>tools</category>
-  <guid>https://faculty.washington.edu/sr320/posts/sr320-prep/</guid>
-  <pubDate>Fri, 02 Feb 2024 08:00:00 GMT</pubDate>
-  <media:content url="https://faculty.washington.edu/sr320/img/prep.png" medium="image" type="image/png" height="105" width="144"/>
 </item>
 </channel>
 </rss>

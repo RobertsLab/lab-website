@@ -2,6 +2,7 @@
   {
     "listing": "/posts.html",
     "items": [
+      "/posts/frontpage/sr320-baird/index.html",
       "/posts/frontpage/sr320-lewis-smith/index.html",
       "/posts/frontpage/sr320-lncRNA-rep/index.html",
       "/posts/frontpage/sr320-genomics/index.html",
@@ -102,6 +103,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/frontpage/sr320-baird/index.html",
       "/posts/frontpage/sr320-lewis-smith/index.html",
       "/posts/frontpage/sr320-lncRNA-rep/index.html",
       "/posts/frontpage/sr320-genomics/index.html",

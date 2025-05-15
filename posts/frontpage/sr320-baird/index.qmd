@@ -1,0 +1,52 @@
+---
+title: "🌟 Undergraduate Research Highlight"
+description: "Madeline Baird Presents at UW Symposium"
+author:
+  - name: Steven Roberts
+    url: https://sr320.github.io/
+    orcid: 0000-0001-8302-1138
+    affiliation: Professor, UW - School of Aquatic and Fishery Sciences
+    affiliation-url: https://robertslab.info
+date: 05-15-2025
+categories: [aquaculture, stress] # self-defined categories
+image: http://gannet.fish.washington.edu/seashell/snaps/Monosnap_UWURS_Oyster_Poster.pdf_2025-05-15_07-34-59.png # finding a good image
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+
+format:
+  html:
+    code-fold: true
+    code-tools: true
+    code-copy: true
+    highlight-style: github
+    code-overflow: wrap
+---
+
+We’re excited to share that **Madeline Baird**, an undergraduate researcher in the Roberts Lab, will present her research at the **2025 Mary Gates Undergraduate Research Symposium**.
+
+Her poster presentation, titled
+
+**“Application of Metabolic Assays to Characterize Thermal Tolerance in Pacific Oyster (Magallana gigas) Early Life Stages,”**
+
+<div class="text-center">
+  <img src="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_UWURS_Oyster_Poster.pdf_2025-05-15_09-17-36.png" class="img-fluid" style="width: 75%;">
+</div>
+
+
+investigates how parental immune priming affects offspring resilience in a changing ocean. Collaborating with the **Jamestown Shellfish Hatchery**, Madeline reared juvenile oysters from immune-challenged parents and assessed growth, survival, and metabolism under a wide range of temperatures.
+
+Using high-throughput **resazurin metabolic assays**, she found that immune-primed offspring showed greater thermal tolerance—especially between 36°C and 40°C—highlighting a potentially important role of **metabolic flexibility** in inherited stress resilience.
+
+> 🔬 These findings support the idea that **non-genetic inheritance** may help oysters adapt to increasing marine heatwaves—an insight with valuable implications for aquaculture and conservation.
+
+Madeline’s work was supported by the **USDA**, **Washington Sea Grant**, and the **UW Population Health Initiative**, which recognized her with a **2025 Population Health Recognition Award**.
+
+<video width="640" controls>
+  <source src="http://gannet.fish.washington.edu/seashell/snaps/OysterLabworkVideo.MOV" type="video/quicktime">
+  Your browser does not support the video tag.
+</video>
+
+We’re proud to support Madeline’s research and scientific growth, and we look forward to seeing where her work leads next!
+
+🧪 View her research, lab notebook, and more:
+
+👉 <https://linktr.ee/madsmarine>

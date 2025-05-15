@@ -320,6 +320,8 @@ Thompson R and Roberts SB (**preprint**) Influence of carbon dioxide-induced aci
 
 # Theses
 
+Causes of Infection and Disease Progression of *Hematodinium sp*. in the Tanner crab, *Chionoecetes bairdi.* Aspen Coyle 2024. <https://hdl.handle.net/1773/52794>
+
 Developing Tools and Resources for Maturation Control in Bivalvia. Olivia Cattau. 2023 <http://hdl.handle.net/1773/50826>
 
 Patterns, dynamics, and potential roles of DNA methylation in reef corals and their allies. James Dimond. 2019 <http://hdl.handle.net/1773/44815>
@@ -345,7 +347,7 @@ Characterizing the effects of ocean acidification in larval and juvenile Manila 
 # Notebooks
 
 | Person | Notebook | Commitment |
-|------------------|-----------------------|-------------------------------|
+|----|----|----|
 | Steven Roberts | [sr320.github.io](https://sr320.github.io/tumbling-oysters/) | ![GitHub last commit](https://img.shields.io/github/last-commit/sr320/tumbling-oysters) |
 | Sam White | [robertslab.github.io](https://robertslab.github.io/sams-notebook/) | ![GitHub last commit](https://img.shields.io/github/last-commit/RobertsLab/sams-notebook) |
 | Matt George | [mattgeorgephd.github.io](https://mattgeorgephd.github.io/notebook/) | ![GitHub last commit](https://img.shields.io/github/last-commit/mattgeorgephd/mattgeorgephd.github.io) |
