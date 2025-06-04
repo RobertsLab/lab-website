@@ -6,7 +6,7 @@
       "/posts/frontpage/sr320-lewis-smith/index.html",
       "/posts/frontpage/sr320-lncRNA-rep/index.html",
       "/posts/frontpage/sr320-genomics/index.html",
-      "/posts/frontpage/sr320-cod2/index.html",
+      "/posts/sr320-cod2/index.html",
       "/posts/frontpage/sr320-WSG/index.html",
       "/posts/frontpage/ariana-paper/index.html",
       "/posts/sr320-boundless/index.html",
@@ -43,6 +43,7 @@
     "listing": "/publications.html",
     "items": [
       "/publications/articles/andersen2025.html",
+      "/publications/articles/lewis-smith2025.html",
       "/publications/articles/huffmyer2024.html",
       "/publications/articles/venkataraman2024.html",
       "/publications/articles/valenzuela2024.html",
@@ -107,7 +108,6 @@
       "/posts/frontpage/sr320-lewis-smith/index.html",
       "/posts/frontpage/sr320-lncRNA-rep/index.html",
       "/posts/frontpage/sr320-genomics/index.html",
-      "/posts/frontpage/sr320-cod2/index.html",
       "/posts/frontpage/sr320-WSG/index.html",
       "/posts/frontpage/ariana-paper/index.html"
     ]

@@ -1,0 +1,34 @@
+---
+title: "Navigating ocean acidification in shellfish aquaculture: Stakeholder perspectives of developing strategies in the U.S. Pacific Region"
+type: "article"
+author: "Connor Lewis-Smith, Karma Norman, Larken Root, Ryan Crim, Steven Roberts, Mackenzie Gavery,"
+year: "2025"
+publication: "Aquaculture Reports"
+preprint: ""
+doi: "https://doi.org/10.1016/j.aqrep.2025.102858"
+materials: ""
+eprint: "http://gannet.fish.washington.edu/seashell/snaps/YaYtTO-1-s2.0-S2352513425002443-main.pdf"
+toc: FALSE
+categories:
+  - aquaculture
+  - acidification
+  - priming
+---
+
+## Citation
+
+\>Lewis‐Smith, C., Norman, K., Root, L., Crim, R., Roberts, S., & Gavery, M. (2025). Navigating ocean acidification in shellfish aquaculture: stakeholder perspectives of developing strategies in the u.s. pacific region. Aquaculture Reports, 42, 102858. https://doi.org/10.1016/j.aqrep.2025.102858
+
+## Highlights
+
+-   Aquaculture ocean acidification threat perceptions declined over the last decade.
+
+-   Shellfish industry interviews can guide adaptive strategy co-production.
+
+-   Native species portfolio diversification met more skepticism than parental priming.
+
+-   Enhanced environmental monitoring is a high research priority across respondents
+
+## Abstract
+
+The marine shellfish aquaculture industry across the U.S. Pacific region faces escalating ocean acidification and its associated challenges. This study examines industry participant perceptions and experiences regarding ocean acidification, additional threats, and future research needs, finding a notable decrease in perceived concern regarding ocean acidification over the past decade. Through structured interviews, broad industry perspectives are explored regarding current practices and two specific ocean acidification adaptation strategies under development: parental priming and native species portfolio expansion. While parental priming garnered cautious support contingent on scientific validation, perceptions of native species expansion were polarized, driven by skepticism about regulatory barriers, economic viability, and scalability. Enhanced environmental monitoring emerged as the most widely supported adaptation measure, underscoring its importance in addressing multiple stressors in addition to ocean acidification. By considering industry and operation characteristics while examining potential decision-making biases, this study provides unique insights for co-producing relevant adaptation strategies. Additionally, the critical role of collaboration between stakeholders, researchers, and policymakers in fostering resilience is emphasized.
