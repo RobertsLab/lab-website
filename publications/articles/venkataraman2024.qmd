@@ -3,11 +3,11 @@ title: "DNA methylation correlates with transcriptional noise in response to ele
 type: "article"
 author: "Yaamini R. Venkataraman, Ariana S. Huffmyer, Samuel J. White, Alan Downey-Wall, Jill Ashey, Danielle M. Becker, Zachary Bengtsson, Hollie M. Putnam, Emma Strand, Javier A. Rodríguez-Casariego, Shelly A. Wanamaker, Kathleen E. Lotterhos, Steven B. Roberts"
 year: "2024"
-publication: "bioRxiv"
+publication: "Environmental Epigenetics"
 preprint: "https://www.biorxiv.org/content/10.1101/2024.04.04.588108v2"
-doi: ""
-materials: ""
-eprint: ""
+doi: "https://doi.org/10.1093/eep/dvae018"
+materials: "https://github.com/sr320/ceabigr"
+eprint: "http://gannet.fish.washington.edu/seashell/snaps/dvae018.pdf"
 toc: FALSE
 categories:
   - methylation
@@ -18,11 +18,7 @@ categories:
 
 ## Citation
 
-> DNA methylation correlates with transcriptional noise in response to elevated pCO~2~ in the eastern oyster (*Crassostrea virginica*)
->
-> Yaamini R. Venkataraman, Ariana S. Huffmyer, Samuel J. White, Alan Downey-Wall, JillAshey, Danielle M. Becker, Zachary Bengtsson, Hollie M. Putnam, Emma Strand, Javier A. Rodríguez-Casariego, Shelly A. Wanamaker, Kathleen E. Lotterhos, Steven B. Roberts
->
-> bioRxiv 2024.04.04.588108; doi: https://doi.org/10.1101/2024.04.04.588108
+> Venkataraman, Yaamini R., Ariana S. Huffmyer, Samuel J. White, Alan M. Downey‐Wall, Jill Ashey, Danielle M. Becker, Zachary Bengtsson et al., 2024. "Dna methylation correlates with transcriptional noise in response to elevated pco2 in the eastern oyster (crassostrea virginica)", Environmental Epigenetics(1), 10. https://doi.org/10.1093/eep/dvae018
 
 ## Abstract
 
