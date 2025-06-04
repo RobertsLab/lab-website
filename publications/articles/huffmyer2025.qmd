@@ -1,0 +1,27 @@
+---
+title: "Shifts and critical periods in coral metabolism reveal energetic vulnerability during development"
+type: "article"
+author: "Huffmyer, A.S., Wong, K.H., Becker, D.M., Strand, E., Mass, T., Putnam, H.M."
+year: "2025"
+publication: "Current Biology"
+preprint: ""
+doi: "https://doi.org/10.1016/j.cub.2025.05.013"
+materials: ""
+eprint: "https://www.cell.com/current-biology/fulltext/S0960-9822(25)00588-3"
+toc: FALSE
+categories:
+  - coral
+  - development
+  - tagseq
+  - metabolomics
+  - physiology
+  - symbiosis
+---
+
+## Citation
+
+Huffmyer AS, KH Wong, DM Becker, E Strand, T Mass, HM Putnam. (2025) Shifts and critical periods in coral metabolism reveal energetic vulnerability during development. *Current Biology*. 10.1016/j.cub.2025.05.013 
+
+## **Abstract**
+
+Climate change accelerates coral reef decline and jeopardizes recruitment essential for ecosystem recovery. Adult corals rely on a vital nutritional exchange with their symbiotic algae (Symbiodiniaceae), but the dynamics of reliance from fertilization to recruitment are understudied. We investigated the physiological, metabolomic, and transcriptomic changes across 13 developmental stages of Montipora capitata, a coral in Hawaiʻi that inherits symbionts from parent to egg. We found that embryonic development depends on maternally provisioned mRNAs and lipids, with a rapid shift to symbiont-derived nutrition in late developmental stages. Symbiont density and photosynthesis peak in swimming larvae to fuel pelagic dispersal. By contrast, respiratory demand increases significantly during metamorphosis and settlement, reflecting this energy-intensive morphological reorganization. Symbiont proliferation is driven by symbiont ammonium assimilation in larval stages with little evidence of nitrogen metabolism in the coral host. As development progresses, the host enhances nitrogen sequestration, regulating symbiont populations, and ensuring the transfer of fixed carbon to support metamorphosis, with both metabolomic and transcriptomic indicators of increased carbohydrate availability. Although algal symbiont community composition remained stable, bacterial communities shifted with ontogeny, associated with holobiont metabolic reorganization. Our study reveals extensive metabolic changes during development with increasing reliance on symbiont nutrition. Metamorphosis and settlement emerge as critical periods of energetic vulnerability to projected climate scenarios that destabilize symbiosis. This highly detailed characterization of symbiotic nutritional exchange during sensitive early life stages provides essential knowledge for understanding and forecasting the function of nutritional symbioses and, specifically, coral survival and recruitment in a future of climate change.
