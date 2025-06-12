@@ -10,7 +10,68 @@
 <atom:link href="https://faculty.washington.edu/sr320/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.6.40</generator>
-<lastBuildDate>Thu, 15 May 2025 07:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 11 Jun 2025 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Decoding Marine Memory</title>
+  <dc:creator>Steven Roberts</dc:creator>
+  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-epimar/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>At EPIMAR2025 in Barcelona, a gathering of global marine scientists illuminated the hidden world of epigenetic regulation in marine invertebrates. These tiny organisms, often overlooked in genomic studies, are now at the forefront of revealing how life beneath the waves adapts, survives, and thrives in rapidly changing oceans.</p>
+<p>In this post, we highlight key presentations that explored how DNA methylation, RNA modifications, and chromatin remodeling influence invertebrate development, stress response, and even intergenerational adaptation.</p>
+<hr>
+<section id="mussels-and-methylation-maps" class="level3">
+<h3 class="anchored" data-anchor-id="mussels-and-methylation-maps">Mussels and Methylation Maps</h3>
+<p><strong>Enrico D’Aniello</strong>&nbsp;and colleagues presented the first high-resolution DNA methylation map in the mussel&nbsp;<em>Mytilus galloprovincialis</em>. This map revealed key regulatory elements and tissue-specific methylation patterns, providing a baseline for understanding how gene expression is modulated in response to environmental shifts.</p>
+<hr>
+</section>
+<section id="modifications-in-oysters" class="level3">
+<h3 class="anchored" data-anchor-id="modifications-in-oysters">Modifications in Oysters</h3>
+<p>In&nbsp;<em>Crassostrea gigas</em>,&nbsp;<strong>Natacha Clairet</strong>&nbsp;demonstrated that m6A RNA methylation plays a pivotal role in neural development and transcript splicing. Her work showed that these epitranscriptomic changes are not only developmentally regulated but may also mediate environmental responses.</p>
+<p>Building on the oyster story,&nbsp;<strong>Guillaume Rivière</strong>&nbsp;showed that thermal stress leaves lasting epigenetic marks on oyster gill tissues. This “epigenetic memory” alters gene expression patterns in subsequent exposures, pointing to methylation as a resilience mechanism.</p>
+<p>Meanwhile,&nbsp;<strong>Sophie Valk</strong>&nbsp;examined oysters undergoing natural sex transitions, finding unique DNA methylation signatures in hermaphrodites. Her work hints at epigenetic regulation as a driver of reproductive plasticity.</p>
+<p><strong>Elyna Bouchereau</strong> from the University of Perpignan explored the methylome of <em>Vibrio aestuarianus</em>, a bacterial pathogen of oysters, revealing how epigenetic signatures may influence virulence and host interaction, while <strong>Amélie Dellong</strong> presented a multi-omics approach to decipher chromatin structure in <em>Magallana gigas</em>, offering new insight into the regulatory architecture of oyster genomes.</p>
+<p><strong>Marta Pascual</strong> presented a population epigenomics study of <em>Crassostrea gigas</em> along the Iberian Atlantic coast, showing that DNA methylation patterns vary significantly between wild and farmed populations, suggesting a potential role in local adaptation and domestication.</p>
+<p><strong>Lénaig Boulard</strong> investigated the epigenetic responses of Pacific oysters to ocean acidification, demonstrating methylation changes in genes associated with shell formation and oxidative stress defense.</p>
+<p><strong>Céline Cosseau</strong> explored transgenerational epigenetic inheritance in oysters, showing that environmental exposures in adult oysters can lead to stable methylation changes in offspring, particularly in stress-response genes.</p>
+<hr>
+</section>
+<section id="corals-and-the-code-of-light" class="level3">
+<h3 class="anchored" data-anchor-id="corals-and-the-code-of-light">Corals and the Code of Light</h3>
+<p>Reef-building corals were another highlight.&nbsp;<strong>Kathleen Durkin</strong>&nbsp;described how miRNAs and lncRNAs shape coral development and immunity under heat stress.&nbsp;<strong>Kelly Gómez-Campo</strong>&nbsp;added that light exposure during development can modulate DNA methylation patterns and downstream gene networks in corals, underscoring how tightly environment and epigenome are interlinked.<br>
+<strong>Hollie Putnam</strong> presented a comprehensive study on the spatial and temporal dynamics of epigenetic regulation in reef-building corals, while <strong>Jill Ashey</strong> highlighted the critical roles of non-coding RNAs during early coral development, particularly in mediating the maternal-to-zygotic transition.</p>
+<hr>
+</section>
+<section id="histone-modifications-in-sea-anemones" class="level3">
+<h3 class="anchored" data-anchor-id="histone-modifications-in-sea-anemones">Histone Modifications in Sea Anemones</h3>
+<p>In the heat-stressed sea anemone&nbsp;<em>Exaiptasia diaphana</em>,&nbsp;<strong>Mascha Dix</strong>&nbsp;presented findings on histone modifications (H3K27me3 and H3K4me3) as key players in regulating gene expression. These modifications allow rapid but reversible responses to changing thermal conditions.</p>
+<hr>
+</section>
+<section id="hypoxia-and-neural-epigenetics-in-sea-hares" class="level3">
+<h3 class="anchored" data-anchor-id="hypoxia-and-neural-epigenetics-in-sea-hares">Hypoxia and Neural Epigenetics in Sea Hares</h3>
+<p><strong>Javier Rodriguez-Casariego</strong>&nbsp;studied the sea hare&nbsp;<em>Aplysia californica</em>&nbsp;and showed that DNA methylation shifts in neural tissues under hypoxic conditions suggest a role for epigenetic plasticity in environmental stress tolerance.</p>
+<hr>
+</section>
+<section id="conclusion-epigenetics-as-a-unifying-language" class="level3">
+<h3 class="anchored" data-anchor-id="conclusion-epigenetics-as-a-unifying-language">Conclusion: Epigenetics as a Unifying Language</h3>
+<p>These studies collectively show that epigenetic mechanisms are not just molecular curiosities—they are central to how marine invertebrates sense, remember, and adapt to their environment. Whether through methylation, non-coding RNA, or histone marks, the language of the epigenome is being translated into actionable insights for conservation, aquaculture, and understanding evolution under climate change.</p>
+<p>EPIMAR2025 made one thing clear: the future of marine biology will be written in epigenetic code.</p>
+
+
+<!-- -->
+
+</section>
+
+ ]]></description>
+  <category>epigenetics</category>
+  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-epimar/</guid>
+  <pubDate>Wed, 11 Jun 2025 07:00:00 GMT</pubDate>
+  <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_EPIMAR_2025__Barcelona_Spain_-_May_27-30_2025-06-11_17-59-29.png" medium="image" type="image/png"/>
+</item>
 <item>
   <title>🌟 Undergraduate Research Highlight</title>
   <dc:creator>Steven Roberts</dc:creator>

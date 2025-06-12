@@ -10,7 +10,68 @@
 <atom:link href="https://faculty.washington.edu/sr320/posts.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.6.40</generator>
-<lastBuildDate>Thu, 15 May 2025 07:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 11 Jun 2025 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Decoding Marine Memory</title>
+  <dc:creator>Steven Roberts</dc:creator>
+  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-epimar/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>At EPIMAR2025 in Barcelona, a gathering of global marine scientists illuminated the hidden world of epigenetic regulation in marine invertebrates. These tiny organisms, often overlooked in genomic studies, are now at the forefront of revealing how life beneath the waves adapts, survives, and thrives in rapidly changing oceans.</p>
+<p>In this post, we highlight key presentations that explored how DNA methylation, RNA modifications, and chromatin remodeling influence invertebrate development, stress response, and even intergenerational adaptation.</p>
+<hr>
+<section id="mussels-and-methylation-maps" class="level3">
+<h3 class="anchored" data-anchor-id="mussels-and-methylation-maps">Mussels and Methylation Maps</h3>
+<p><strong>Enrico D’Aniello</strong>&nbsp;and colleagues presented the first high-resolution DNA methylation map in the mussel&nbsp;<em>Mytilus galloprovincialis</em>. This map revealed key regulatory elements and tissue-specific methylation patterns, providing a baseline for understanding how gene expression is modulated in response to environmental shifts.</p>
+<hr>
+</section>
+<section id="modifications-in-oysters" class="level3">
+<h3 class="anchored" data-anchor-id="modifications-in-oysters">Modifications in Oysters</h3>
+<p>In&nbsp;<em>Crassostrea gigas</em>,&nbsp;<strong>Natacha Clairet</strong>&nbsp;demonstrated that m6A RNA methylation plays a pivotal role in neural development and transcript splicing. Her work showed that these epitranscriptomic changes are not only developmentally regulated but may also mediate environmental responses.</p>
+<p>Building on the oyster story,&nbsp;<strong>Guillaume Rivière</strong>&nbsp;showed that thermal stress leaves lasting epigenetic marks on oyster gill tissues. This “epigenetic memory” alters gene expression patterns in subsequent exposures, pointing to methylation as a resilience mechanism.</p>
+<p>Meanwhile,&nbsp;<strong>Sophie Valk</strong>&nbsp;examined oysters undergoing natural sex transitions, finding unique DNA methylation signatures in hermaphrodites. Her work hints at epigenetic regulation as a driver of reproductive plasticity.</p>
+<p><strong>Elyna Bouchereau</strong> from the University of Perpignan explored the methylome of <em>Vibrio aestuarianus</em>, a bacterial pathogen of oysters, revealing how epigenetic signatures may influence virulence and host interaction, while <strong>Amélie Dellong</strong> presented a multi-omics approach to decipher chromatin structure in <em>Magallana gigas</em>, offering new insight into the regulatory architecture of oyster genomes.</p>
+<p><strong>Marta Pascual</strong> presented a population epigenomics study of <em>Crassostrea gigas</em> along the Iberian Atlantic coast, showing that DNA methylation patterns vary significantly between wild and farmed populations, suggesting a potential role in local adaptation and domestication.</p>
+<p><strong>Lénaig Boulard</strong> investigated the epigenetic responses of Pacific oysters to ocean acidification, demonstrating methylation changes in genes associated with shell formation and oxidative stress defense.</p>
+<p><strong>Céline Cosseau</strong> explored transgenerational epigenetic inheritance in oysters, showing that environmental exposures in adult oysters can lead to stable methylation changes in offspring, particularly in stress-response genes.</p>
+<hr>
+</section>
+<section id="corals-and-the-code-of-light" class="level3">
+<h3 class="anchored" data-anchor-id="corals-and-the-code-of-light">Corals and the Code of Light</h3>
+<p>Reef-building corals were another highlight.&nbsp;<strong>Kathleen Durkin</strong>&nbsp;described how miRNAs and lncRNAs shape coral development and immunity under heat stress.&nbsp;<strong>Kelly Gómez-Campo</strong>&nbsp;added that light exposure during development can modulate DNA methylation patterns and downstream gene networks in corals, underscoring how tightly environment and epigenome are interlinked.<br>
+<strong>Hollie Putnam</strong> presented a comprehensive study on the spatial and temporal dynamics of epigenetic regulation in reef-building corals, while <strong>Jill Ashey</strong> highlighted the critical roles of non-coding RNAs during early coral development, particularly in mediating the maternal-to-zygotic transition.</p>
+<hr>
+</section>
+<section id="histone-modifications-in-sea-anemones" class="level3">
+<h3 class="anchored" data-anchor-id="histone-modifications-in-sea-anemones">Histone Modifications in Sea Anemones</h3>
+<p>In the heat-stressed sea anemone&nbsp;<em>Exaiptasia diaphana</em>,&nbsp;<strong>Mascha Dix</strong>&nbsp;presented findings on histone modifications (H3K27me3 and H3K4me3) as key players in regulating gene expression. These modifications allow rapid but reversible responses to changing thermal conditions.</p>
+<hr>
+</section>
+<section id="hypoxia-and-neural-epigenetics-in-sea-hares" class="level3">
+<h3 class="anchored" data-anchor-id="hypoxia-and-neural-epigenetics-in-sea-hares">Hypoxia and Neural Epigenetics in Sea Hares</h3>
+<p><strong>Javier Rodriguez-Casariego</strong>&nbsp;studied the sea hare&nbsp;<em>Aplysia californica</em>&nbsp;and showed that DNA methylation shifts in neural tissues under hypoxic conditions suggest a role for epigenetic plasticity in environmental stress tolerance.</p>
+<hr>
+</section>
+<section id="conclusion-epigenetics-as-a-unifying-language" class="level3">
+<h3 class="anchored" data-anchor-id="conclusion-epigenetics-as-a-unifying-language">Conclusion: Epigenetics as a Unifying Language</h3>
+<p>These studies collectively show that epigenetic mechanisms are not just molecular curiosities—they are central to how marine invertebrates sense, remember, and adapt to their environment. Whether through methylation, non-coding RNA, or histone marks, the language of the epigenome is being translated into actionable insights for conservation, aquaculture, and understanding evolution under climate change.</p>
+<p>EPIMAR2025 made one thing clear: the future of marine biology will be written in epigenetic code.</p>
+
+
+<!-- -->
+
+</section>
+
+ ]]></description>
+  <category>epigenetics</category>
+  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-epimar/</guid>
+  <pubDate>Wed, 11 Jun 2025 07:00:00 GMT</pubDate>
+  <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_EPIMAR_2025__Barcelona_Spain_-_May_27-30_2025-06-11_17-59-29.png" medium="image" type="image/png"/>
+</item>
 <item>
   <title>🌟 Undergraduate Research Highlight</title>
   <dc:creator>Steven Roberts</dc:creator>
@@ -999,81 +1060,6 @@ Link to Full Notebook Post
   <guid>https://faculty.washington.edu/sr320/posts/sr320-oyster_stage/</guid>
   <pubDate>Fri, 08 Mar 2024 08:00:00 GMT</pubDate>
   <media:content url="https://faculty.washington.edu/sr320/img/pw.png" medium="image" type="image/png" height="124" width="144"/>
-</item>
-<item>
-  <title>Decoding the Olympia Oyster</title>
-  <link>https://faculty.washington.edu/sr320/posts/ostrea/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>The listed publications collectively contribute to the genomic characterization and conservation of <em>Ostrea lurida</em>, the Olympia oyster, through various research focuses and methodologies:<br>
-<br>
-1. **Timmins-Schiffman et al.&nbsp;(2013)**: This paper lays the groundwork for genomic resource development in shellfish, including Ostrea lurida. It emphasizes the importance of genomic tools in conservation efforts, offering a foundational approach for subsequent research in the species’ genetic characterization.<br>
-<br>
-2. **White et al.&nbsp;(2017)**: Focusing on genotype-by-sequencing, this study investigates genetic variations in three different populations of Olympia oysters. It contributes to understanding population-specific genetic structures, which is crucial for conservation strategies tailored to different geographic regions.<br>
-<br>
-3. **Hintz et al.&nbsp;(2017)**: This research presents a nonlethal method for studying Olympia oysters, enabling ongoing research without harming the organisms. Such methods are vital for conservation as they allow for repeated observations and analyses over time.<br>
-<br>
-4. **Heare et al.&nbsp;(2017)**: This paper provides evidence of population structure in Puget Sound’s Ostrea lurida. Understanding population structure is key to conservation as it helps in identifying genetically distinct groups that may require different management approaches.<br>
-<br>
-5. **Heare et al.&nbsp;(2018)**: This study examines the differential response to stress in Ostrea lurida using gene expression. Insights into stress responses are important for conservation, especially in the face of environmental changes and stressors.<br>
-<br>
-6. **Silliman et al.&nbsp;(2018)**: This research highlights consistent differences in fitness traits across Olympia oyster generations. Fitness traits are essential for understanding the adaptive potential of species, which informs conservation and restoration efforts.<br>
-<br>
-7. **Silliman (2019)**: This study on population structure, genetic connectivity, and adaptation provides comprehensive insights into the genetic makeup and adaptive responses of Olympia oysters along the west coast of North America. This contributes significantly to conservation genetics.<br>
-<br>
-8. **Spencer et al.&nbsp;(2020)**: Investigating the carryover effects of temperature and pCO2, this study provides important information on how climate change factors affect Olympia oysters. This is crucial for predicting and mitigating future impacts on oyster populations.<br>
-<br>
-9. **Becker et al.&nbsp;(2020)**: Focusing on the spatial and temporal distribution of early life stages, this research informs about critical developmental phases of the Olympia oyster, aiding in the understanding of population dynamics and effective conservation strategies.<br>
-<br>
-10. **Spencer et al.&nbsp;(2021)**: Examining the latent effects of winter warming on reproduction and larval viability, this study adds to the understanding of how climate change could impact the reproductive success and long-term viability of Olympia oysters.<br>
-<br>
-11. **Spencer, Roberts, Silliman (2023)**: This paper explores the population-specific effects of ocean acidification, adding to the body of knowledge about how different environmental stressors impact Ostrea lurida, which is critical for predicting and mitigating the impacts of ocean acidification.<br>
-<br>
-12. **Silliman et al.&nbsp;(2023)**: This study investigates the coupled epigenetic and genetic population structure, providing a nuanced understanding of how genetic and epigenetic factors contribute to the population dynamics of marine invertebrates, including Ostrea lurida.<br>
-<br>
-In summary, these publications cover a range of topics from genetic diversity, population structure, stress responses, effects of environmental changes, nonlethal research methods, and early life stage dynamics, all of which are essential for the effective conservation and management of the Olympia oyster, Ostrea lurida.</p>
-<p>REFERENCES</p>
-<p>Timmins-Schiffman EB, Friedman CS, Metzger DC, White SJ and Roberts SB. (**2013**) [Genomic resource development for shellfish of conservation concern](<a href="http://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12052/abstract" class="uri">http://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12052/abstract</a>) Molecular Ecology Resources. doi:10.1111/1755-0998.12052<br>
-<br>
-Samuel J. White, Brent Vadopalas, Katherine Silliman &amp; Steven B. Roberts (**2017**) [Genotoype-by-sequencing of three geographically distinct populations of Olympia oysters, _Ostrea lurida_](<a href="https://www.nature.com/articles/sdata2017130)Scientific" class="uri">https://www.nature.com/articles/sdata2017130)Scientific</a>&nbsp;Data 4, Article number: 170130 doi: 10.1038/sdata.2017.130<br>
-<br>
-Megan Hintz, Katherine Gratz, Bonnie Becker, Brent Vadopalas, and Steven Roberts (**2017**) [A Nonlethal Anesthesia Protocol for Accessing the Mantle Cavity of Olympia Oysters in the Laboratory or Field](<a href="https://doi.org/10.2983/035.036.0207" class="uri">https://doi.org/10.2983/035.036.0207</a>) Journal of Shellfish Research 2017 36 (2), 353-357 doi: 10.2983/035.036.0207<br>
-<br>
-Jake Emerson Heare, Brady Blake, Jonathan P Davis, Brent Vadopalas, Steven Roberts (**2017**) [Evidence of Ostrea lurida Carpenter, 1864 population structure in Puget Sound, WA](<a href="https://doi.org/10.1111/maec.12458" class="uri">https://doi.org/10.1111/maec.12458</a>) Marine Ecology 38:e12458 doi: 10.1111/maec.12458<br>
-<br>
-Heare JE, White SJ, Vadopalas B, Roberts SB. (**2018**) [Differential response to stress in _Ostrea lurida_ as measured by gene expression](<a href="https://doi.org/10.7717/peerj.4261" class="uri">https://doi.org/10.7717/peerj.4261</a>) PeerJ 6:e4261. doi: 10.7717/peerj.4261<br>
-<br>
-Silliman KE, Bowyer TK, Roberts SB. (**2018**) [Consistent differences in fitness traits across multiple generations of Olympia oysters](<a href="https://doi.org/10.1038/s41598-018-24455-3" class="uri">https://doi.org/10.1038/s41598-018-24455-3</a>) Scientific Reports volume 8, Article number:6080. doi:10.1038/s41598-018-24455-3<br>
-<br>
-Katherine Silliman. Population structure, genetic connectivity, and adaptation in the Olympia oyster<br>
-(Ostrea lurida) along the west coast of North America. Evolutionary Applications, 11:697, 2019. doi:<br>
-10.1111/eva.12766. GitHub Repo.<br>
-<br>
-Spencer, LH, Venkataraman, YR, Crim R, Ryan S, Horwith MJ, and Roberts SB (**2020**) [Carryover effects of temperature and pCO2 across multiple Olympia oyster populations](<a href="https://doi.org/10.1002/eap.2060" class="uri">https://doi.org/10.1002/eap.2060</a>). Ecological Applications 00( 00):e02060. doi:10.1002/eap.2060<br>
-<br>
-Bonnie J. Becker, Michael D. Behrens, Brian Allen, Megan Hintz, Hannah Parker, Michelle M. McCartha, and Sarah M. White (**2020**) [Spatial and Temporal Distribution of the Early Life History Stages of the Native Olympia Oyster Ostrea lurida (Carpenter, 1864) in a Restoration Site in Northern Puget Sound, Wa](<a href="http://doi.org/10.2983/035.039.0105" class="uri">http://doi.org/10.2983/035.039.0105</a>) Journal of Shellfish Research 39(1), 43-58. doi:/10.2983/035.039.0105<br>
-<br>
-Laura H. Spencer, Erin Horkan, Ryan Crim, Steven B. Roberts (2021) Latent effects of winter warming on Olympia oyster reproduction and larval viability Journal of Experimental Marine Biology and Ecology. doi:10.1016/j.jembe.2021.151604<br>
-<br>
-Population-specific effects of ocean acidification in the Olympia oyster Laura H Spencer, Steven B Roberts, Katherine Silliman bioRxiv 2023.09.08.556443; doi:&nbsp;<a href="https://doi.org/10.1101/2023.09.08.556443" class="uri">https://doi.org/10.1101/2023.09.08.556443</a><br>
-<br>
-Katherine Silliman and others, Epigenetic and Genetic Population Structure is Coupled in a Marine Invertebrate, Genome Biology and Evolution, Volume 15, Issue 2, February 2023, evad013,&nbsp;<a href="https://doi.org/10.1093/gbe/evad013" class="uri">https://doi.org/10.1093/gbe/evad013</a></p>
-
-
-<!-- -->
-
-
- ]]></description>
-  <category>genomics</category>
-  <category>oyster</category>
-  <category>conservation</category>
-  <guid>https://faculty.washington.edu/sr320/posts/ostrea/</guid>
-  <pubDate>Thu, 29 Feb 2024 08:00:00 GMT</pubDate>
-  <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_httpswww.biorxiv.orgcontent10.11012023.09.08.556443v1.full.pdf_2024-03-09_15-20-38.png" medium="image" type="image/png"/>
 </item>
 </channel>
 </rss>
