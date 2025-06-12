@@ -9,7 +9,7 @@ author:
     affiliation-url: https://robertslab.info
 date: 06-12-2025
 categories: [epigenetics, genetics, climate] # self-defined categories
-image: http://gannet.fish.washington.edu/seashell/snaps/Monosnap_EPIMAR_2025__Barcelona_Spain_-_May_27-30_2025-06-11_17-59-29.png # finding a good image
+image: http://gannet.fish.washington.edu/seashell/snaps/Monosnap_lab-photo-20250213-edited-SJW-01.JPG_36302626_pixels_2025-06-11_18-26-37.png # finding a good image
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 
 format:
@@ -22,6 +22,8 @@ format:
 ---
 
 We are proud to celebrate two exceptional students in our lab who have each recently received prestigious fellowships in recognition of their innovative research tackling the urgent challenges of climate change and biodiversity conservation.
+
+![photo of fellows](http://gannet.fish.washington.edu/seashell/snaps/Monosnap_lab-photo-20250213-edited-SJW-01.JPG_36302626_pixels_2025-06-11_18-26-37.png)
 
 ## Zachary Bengtsson – NW CASC Fellow
 
