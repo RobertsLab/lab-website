@@ -10,7 +10,46 @@
 <atom:link href="https://faculty.washington.edu/sr320/posts.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.6.40</generator>
-<lastBuildDate>Wed, 11 Jun 2025 07:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 12 Jun 2025 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Spotlight on Fellowship Success</title>
+  <dc:creator>Steven Roberts</dc:creator>
+  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-fellowships/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>We are proud to celebrate two exceptional students in our lab who have each recently received prestigious fellowships in recognition of their innovative research tackling the urgent challenges of climate change and biodiversity conservation.</p>
+<section id="zachary-bengtsson-nw-casc-fellow" class="level2">
+<h2 class="anchored" data-anchor-id="zachary-bengtsson-nw-casc-fellow">Zachary Bengtsson – NW CASC Fellow</h2>
+<p><a href="https://zbengt.github.io/notebook/">Zach</a> has been awarded a <strong>Northwest Climate Adaptation Science Center (NW CASC) Fellowship</strong>, joining a distinguished cohort of graduate researchers from institutions across the Northwest. His project, titled <em>Developing computational tools for genetic risk assessment of Olympia oyster (Ostrea lurida) populations in the Puget Sound</em>, focuses on advancing genetic tools that help guide the sustainable restoration of Washington’s native oyster.<br>
+</p>
+<p>Zach’s research integrates environmental drivers of local adaptation, hatchery management, and climate resilience to evaluate how restoration practices affect the genetic diversity of wild oyster populations. The selection committee praised his proposal for its clear relevance to stakeholder needs—highlighted by strong support from the Washington Department of Fish and Wildlife—and his deep commitment to co-produced, actionable science. His work will provide valuable tools for conservation managers as they balance ecological recovery with long-term resilience in Puget Sound estuaries.</p>
+</section>
+<section id="kathleen-durkin-smithsonian-fellow" class="level2">
+<h2 class="anchored" data-anchor-id="kathleen-durkin-smithsonian-fellow">Kathleen Durkin – Smithsonian Fellow</h2>
+<p><a href="https://shedurkin.github.io/Roberts-LabNotebook/">Kathleen</a> has received a fellowship to conduct groundbreaking research at the <strong>Smithsonian National Museum of Natural History</strong>, where she will pioneer the use of <strong>nanopore sequencing to map DNA methylation in archival coral specimens</strong>. Her project represents one of the first efforts to explore historical DNA methylation (hDNA) in invertebrates using museum collections.</p>
+<p>Drawing from coral samples that span over a century of collection history, Kathleen’s work will assess how epigenetic changes—particularly DNA methylation—can offer insights into coral stress responses and environmental resilience over time. By applying Oxford Nanopore Technology’s direct sequencing platform, she aims to overcome the limitations of traditional bisulfite sequencing in degraded DNA and establish a robust method for tracking historical epigenomic signatures.</p>
+<p>This innovative research will not only advance our understanding of coral adaptation during a period of unprecedented climate change but also expand the utility of natural history collections for modern genomic and conservation science.</p>
+<hr>
+<p>These fellowships reflect the drive and creativity that Zach and Kathleen bring to their work, and we are excited to watch their projects unfold over the coming year. Their success exemplifies the kind of interdisciplinary, forward-thinking science that will shape the future of marine conservation and climate adaptation.</p>
+<p>Please join us in congratulating Zachary and Kathleen on these outstanding achievements!</p>
+
+
+<!-- -->
+
+</section>
+
+ ]]></description>
+  <category>epigenetics</category>
+  <category>genetics</category>
+  <category>climate</category>
+  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-fellowships/</guid>
+  <pubDate>Thu, 12 Jun 2025 07:00:00 GMT</pubDate>
+  <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_EPIMAR_2025__Barcelona_Spain_-_May_27-30_2025-06-11_17-59-29.png" medium="image" type="image/png"/>
+</item>
 <item>
   <title>Decoding Marine Memory</title>
   <dc:creator>Steven Roberts</dc:creator>
@@ -373,7 +412,7 @@
 </item>
 <item>
   <title>Coral Larvae and Thermal Stress</title>
-  <link>https://faculty.washington.edu/sr320/posts/frontpage/ariana-paper/</link>
+  <link>https://faculty.washington.edu/sr320/posts/ariana-paper/</link>
   <description><![CDATA[ 
 
 
@@ -413,7 +452,7 @@
  ]]></description>
   <category>paper</category>
   <category>coral</category>
-  <guid>https://faculty.washington.edu/sr320/posts/frontpage/ariana-paper/</guid>
+  <guid>https://faculty.washington.edu/sr320/posts/ariana-paper/</guid>
   <pubDate>Sat, 08 Feb 2025 08:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Coral_larvae_increase_nitrogen_assimilation_to_stabilize_algal_symbiosis_and_combat_bleaching_under_increased_temperature__PLO_2025-02-08_12-36-36.png" medium="image" type="image/png"/>
 </item>
@@ -1029,37 +1068,6 @@ Link to Full Notebook Post
   <guid>https://faculty.washington.edu/sr320/posts/ariana-hatchery/</guid>
   <pubDate>Mon, 06 May 2024 07:00:00 GMT</pubDate>
   <media:content url="https://faculty.washington.edu/sr320/img/bucket.png" medium="image" type="image/png" height="145" width="144"/>
-</item>
-<item>
-  <title>Hardening in oysters drives increased growth</title>
-  <link>https://faculty.washington.edu/sr320/posts/sr320-oyster_stage/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>In the meticulously orchestrated world of marine science, a groundbreaking experiment has unfolded in the hands of <a href="https://eric-ess.github.io">Eric Essington</a>, casting the spotlight on an unlikely protagonist: the oyster. This narrative begins with the arrival of 235 adult oysters from Pacific Hybreed, their sizes ranging impressively from 40 to 100mm, and further complemented by a diverse younger contingent—120 juveniles, 120 seed, and approximately 120 spat, all courtesy of the USDA’s 2023 spawn.</p>
-<p>The experimental setup divided these oysters into two groups: one destined for a control tank, mirroring their natural aquatic environment at a serene 17ºC, and the other for a treatment tank, where conditions were significantly altered. The latter group was subjected to a deliberate increase in temperature, a gradual ascent of 2ºC per hour until the water reached a stress-inducing 26ºC, maintained for six hours daily over a seven-week span (began 10 2 2023, ended 11 21 2023). This thermal regimen aimed to simulate the increasingly erratic and harsh conditions wrought by climate change.</p>
-<p><img src="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Explanation_2024-03-08_15-17-47.png" class="img-fluid"></p>
-<p>Adding a layer of complexity, adults and juveniles were subjected to mechanical stress, an innovative use of a salad spinner for 15 minutes on selected dates (10/2/2023, 10/4/2023, 10/11/2023). This unusual methodology aimed to mimic the physical disturbances oysters might face in their natural habitats, from tumbling in currents to encounters with predators and debris.</p>
-<p>The culmination of this phase was marked by a meticulous sampling process on November 21, 2023. Selected groups of oysters were divided for detailed analysis, with some undergoing immediate tissue sampling for RNA and DNA analysis, while others faced an additional stress test—a 30-minute immersion in 32ºC water followed by a tumbling session in the salad spinner. This process was designed to simulate an acute stress event, allowing researchers to gauge the oysters’ physiological responses to compounded stressors.</p>
-<p>Several months later, on February 28, 2024, the experiment was revisited with a focused approach. This time, the younger generation of oysters was spotlighted, undergoing tissue sampling without the prior mechanical stress, to isolate the effects of thermal stress.</p>
-<p><img src="http://gannet.fish.washington.edu/seashell/snaps/growth.png" class="img-fluid"></p>
-<p><strong>Take-away to date</strong> - Stress hardening in spat in October and November resulted in increased growth compared to controls in February.</p>
-<p>This experiment is not merely an investigation into the resilience of oysters to thermal and mechanical stress; it’s a narrative about adaptation, survival, and the intricate dance of life beneath the waves.</p>
-<p>See <a href="https://eric-ess.github.io/data-explanation/">Eric’s Post</a> for more details.</p>
-
-
-<!-- -->
-
-
- ]]></description>
-  <category>oyster</category>
-  <category>aquaculture</category>
-  <guid>https://faculty.washington.edu/sr320/posts/sr320-oyster_stage/</guid>
-  <pubDate>Fri, 08 Mar 2024 08:00:00 GMT</pubDate>
-  <media:content url="https://faculty.washington.edu/sr320/img/pw.png" medium="image" type="image/png" height="124" width="144"/>
 </item>
 </channel>
 </rss>

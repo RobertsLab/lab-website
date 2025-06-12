@@ -2,6 +2,7 @@
   {
     "listing": "/posts.html",
     "items": [
+      "/posts/frontpage/sr320-fellowships/index.html",
       "/posts/frontpage/sr320-epimar/index.html",
       "/posts/frontpage/sr320-baird/index.html",
       "/posts/frontpage/sr320-lewis-smith/index.html",
@@ -9,7 +10,7 @@
       "/posts/frontpage/sr320-genomics/index.html",
       "/posts/sr320-cod2/index.html",
       "/posts/frontpage/sr320-WSG/index.html",
-      "/posts/frontpage/ariana-paper/index.html",
+      "/posts/ariana-paper/index.html",
       "/posts/sr320-boundless/index.html",
       "/posts/posts/index.html",
       "/posts/sr320-handbook/index.html",
@@ -106,13 +107,13 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/frontpage/sr320-fellowships/index.html",
       "/posts/frontpage/sr320-epimar/index.html",
       "/posts/frontpage/sr320-baird/index.html",
       "/posts/frontpage/sr320-lewis-smith/index.html",
       "/posts/frontpage/sr320-lncRNA-rep/index.html",
       "/posts/frontpage/sr320-genomics/index.html",
-      "/posts/frontpage/sr320-WSG/index.html",
-      "/posts/frontpage/ariana-paper/index.html"
+      "/posts/frontpage/sr320-WSG/index.html"
     ]
   },
   {

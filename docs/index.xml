@@ -10,7 +10,46 @@
 <atom:link href="https://faculty.washington.edu/sr320/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.6.40</generator>
-<lastBuildDate>Wed, 11 Jun 2025 07:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 12 Jun 2025 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Spotlight on Fellowship Success</title>
+  <dc:creator>Steven Roberts</dc:creator>
+  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-fellowships/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>We are proud to celebrate two exceptional students in our lab who have each recently received prestigious fellowships in recognition of their innovative research tackling the urgent challenges of climate change and biodiversity conservation.</p>
+<section id="zachary-bengtsson-nw-casc-fellow" class="level2">
+<h2 class="anchored" data-anchor-id="zachary-bengtsson-nw-casc-fellow">Zachary Bengtsson – NW CASC Fellow</h2>
+<p><a href="https://zbengt.github.io/notebook/">Zach</a> has been awarded a <strong>Northwest Climate Adaptation Science Center (NW CASC) Fellowship</strong>, joining a distinguished cohort of graduate researchers from institutions across the Northwest. His project, titled <em>Developing computational tools for genetic risk assessment of Olympia oyster (Ostrea lurida) populations in the Puget Sound</em>, focuses on advancing genetic tools that help guide the sustainable restoration of Washington’s native oyster.<br>
+</p>
+<p>Zach’s research integrates environmental drivers of local adaptation, hatchery management, and climate resilience to evaluate how restoration practices affect the genetic diversity of wild oyster populations. The selection committee praised his proposal for its clear relevance to stakeholder needs—highlighted by strong support from the Washington Department of Fish and Wildlife—and his deep commitment to co-produced, actionable science. His work will provide valuable tools for conservation managers as they balance ecological recovery with long-term resilience in Puget Sound estuaries.</p>
+</section>
+<section id="kathleen-durkin-smithsonian-fellow" class="level2">
+<h2 class="anchored" data-anchor-id="kathleen-durkin-smithsonian-fellow">Kathleen Durkin – Smithsonian Fellow</h2>
+<p><a href="https://shedurkin.github.io/Roberts-LabNotebook/">Kathleen</a> has received a fellowship to conduct groundbreaking research at the <strong>Smithsonian National Museum of Natural History</strong>, where she will pioneer the use of <strong>nanopore sequencing to map DNA methylation in archival coral specimens</strong>. Her project represents one of the first efforts to explore historical DNA methylation (hDNA) in invertebrates using museum collections.</p>
+<p>Drawing from coral samples that span over a century of collection history, Kathleen’s work will assess how epigenetic changes—particularly DNA methylation—can offer insights into coral stress responses and environmental resilience over time. By applying Oxford Nanopore Technology’s direct sequencing platform, she aims to overcome the limitations of traditional bisulfite sequencing in degraded DNA and establish a robust method for tracking historical epigenomic signatures.</p>
+<p>This innovative research will not only advance our understanding of coral adaptation during a period of unprecedented climate change but also expand the utility of natural history collections for modern genomic and conservation science.</p>
+<hr>
+<p>These fellowships reflect the drive and creativity that Zach and Kathleen bring to their work, and we are excited to watch their projects unfold over the coming year. Their success exemplifies the kind of interdisciplinary, forward-thinking science that will shape the future of marine conservation and climate adaptation.</p>
+<p>Please join us in congratulating Zachary and Kathleen on these outstanding achievements!</p>
+
+
+<!-- -->
+
+</section>
+
+ ]]></description>
+  <category>epigenetics</category>
+  <category>genetics</category>
+  <category>climate</category>
+  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-fellowships/</guid>
+  <pubDate>Thu, 12 Jun 2025 07:00:00 GMT</pubDate>
+  <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_EPIMAR_2025__Barcelona_Spain_-_May_27-30_2025-06-11_17-59-29.png" medium="image" type="image/png"/>
+</item>
 <item>
   <title>Decoding Marine Memory</title>
   <dc:creator>Steven Roberts</dc:creator>
@@ -321,52 +360,6 @@
   <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-WSG/</guid>
   <pubDate>Mon, 10 Feb 2025 08:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_2025-WSG-Roberts_2025-02-10_07-20-44.png" medium="image" type="image/png"/>
-</item>
-<item>
-  <title>Coral Larvae and Thermal Stress</title>
-  <link>https://faculty.washington.edu/sr320/posts/frontpage/ariana-paper/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>As climate change continues to drive rising ocean temperatures, coral reef ecosystems face an unprecedented crisis. Coral bleaching events, characterized by the breakdown of the mutualistic relationship between corals and their algal endosymbionts (Symbiodiniaceae), have become increasingly common, threatening the persistence of coral reefs worldwide. While much research has focused on adult corals, new studies are shedding light on how early life stages respond to thermal stress. <a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002875">A recent study by Huffmyer et al.&nbsp;(2024), published in&nbsp;<em>PLOS Biology</em></a>, provides novel insights into how coral larvae cope with increased temperatures by modifying nitrogen assimilation to stabilize symbiotic relationships and mitigate bleaching risk.</p>
-<section id="the-crucial-role-of-coral-larvae-in-reef-resilience" class="level3">
-<h3 class="anchored" data-anchor-id="the-crucial-role-of-coral-larvae-in-reef-resilience"><strong>The Crucial Role of Coral Larvae in Reef Resilience</strong></h3>
-<p>Reef-building corals rely on their symbionts to produce energy-rich photosynthates that fuel metabolic processes. However, when subjected to thermal stress, this delicate exchange can be disrupted, leading to the expulsion of symbionts and loss of critical energy sources. Understanding how coral larvae respond to environmental stress is particularly important, as their ability to establish symbiosis and successfully settle onto reefs determines the future of coral populations.</p>
-<p>The study focused on&nbsp;<em>Montipora capitata</em>, a dominant reef-building coral in Hawai‘i that vertically transmits Symbiodiniaceae to its offspring. The researchers subjected symbiotic larvae to a 2.5°C increase in temperature for three days and assessed metabolic responses, photosynthetic performance, and stable isotope-labeled metabolite exchange.</p>
-</section>
-<section id="key-findings-nitrogen-assimilation-as-a-protective-mechanism" class="level3">
-<h3 class="anchored" data-anchor-id="key-findings-nitrogen-assimilation-as-a-protective-mechanism"><strong>Key Findings: Nitrogen Assimilation as a Protective Mechanism</strong></h3>
-<p>Contrary to expectations, the study found that while larvae exhibited significant metabolic depression under high temperatures—indicated by a 19% reduction in respiration rates—they did not experience bleaching or a decline in survival and settlement rates. Photosynthetic activity remained stable, and the symbiont population density was maintained despite thermal stress.</p>
-<p>A crucial discovery was that coral larvae increased ammonium assimilation and urea metabolism while sequestering nitrogen into dipeptides. This shift suggests that larvae actively modulate nitrogen cycling to maintain symbiotic balance. By limiting nitrogen availability to the symbionts, the coral hosts may be promoting sustained photosynthate translocation, ensuring that energy supply remains uninterrupted under heat stress.</p>
-</section>
-<section id="metabolic-trade-offs-and-implications-for-coral-survival" class="level3">
-<h3 class="anchored" data-anchor-id="metabolic-trade-offs-and-implications-for-coral-survival"><strong>Metabolic Trade-offs and Implications for Coral Survival</strong></h3>
-<p>While glucose translocation from symbiont to host was maintained, the study revealed reduced metabolism of glucose through central carbon pathways such as glycolysis. This metabolic shift implies a trade-off: larvae prioritize nitrogen assimilation over carbohydrate breakdown, potentially conserving energy for essential physiological functions.</p>
-<p>The authors propose that nitrogen limitation imposed on Symbiodiniaceae encourages continued carbon transfer to the host, preventing the symbionts from hoarding fixed carbon, which could otherwise disrupt the mutualistic relationship. This mechanism highlights a potential resilience strategy in coral early life stages that may influence reef recovery following bleaching events.</p>
-</section>
-<section id="future-directions-and-conservation-implications" class="level3">
-<h3 class="anchored" data-anchor-id="future-directions-and-conservation-implications"><strong>Future Directions and Conservation Implications</strong></h3>
-<p>Understanding the physiological mechanisms that allow coral larvae to withstand heat stress has significant implications for reef conservation and restoration efforts. If coral larvae can naturally modulate nitrogen metabolism to maintain symbiosis, selective breeding or assisted evolution approaches may enhance these traits in vulnerable species.</p>
-<p>Additionally, further research should investigate whether similar nitrogen assimilation strategies are present in adult corals or if this is a life-stage-specific adaptation. Given the increasing frequency of marine heatwaves, identifying and promoting heat-resilient traits in corals could be a crucial component of future conservation strategies.</p>
-</section>
-<section id="conclusion" class="level3">
-<h3 class="anchored" data-anchor-id="conclusion"><strong>Conclusion</strong></h3>
-<p>Huffmyer et al.&nbsp;(2024) provide compelling evidence that coral larvae can mitigate thermal stress through nitrogen assimilation, maintaining stable symbiosis even under elevated temperatures. By uncovering this metabolic adaptation, the study advances our understanding of coral resilience mechanisms and underscores the importance of protecting early life stages in reef conservation efforts. As climate change accelerates, these insights may inform new strategies to support coral reef survival in a warming world.</p>
-
-
-<!-- -->
-
-</section>
-
- ]]></description>
-  <category>paper</category>
-  <category>coral</category>
-  <guid>https://faculty.washington.edu/sr320/posts/frontpage/ariana-paper/</guid>
-  <pubDate>Sat, 08 Feb 2025 08:00:00 GMT</pubDate>
-  <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Coral_larvae_increase_nitrogen_assimilation_to_stabilize_algal_symbiosis_and_combat_bleaching_under_increased_temperature__PLO_2025-02-08_12-36-36.png" medium="image" type="image/png"/>
 </item>
 </channel>
 </rss>

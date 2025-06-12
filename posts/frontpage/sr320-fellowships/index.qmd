@@ -1,0 +1,44 @@
+---
+title: "Spotlight on Fellowship Success"
+description: "Zachary Bengtsson and Kathleen Durkin Earn National Recognition for Climate Resilience Research"
+author:
+  - name: Steven Roberts
+    url: https://sr320.github.io/
+    orcid: 0000-0001-8302-1138
+    affiliation: Professor, UW - School of Aquatic and Fishery Sciences
+    affiliation-url: https://robertslab.info
+date: 06-12-2025
+categories: [epigenetics, genetics, climate] # self-defined categories
+image: http://gannet.fish.washington.edu/seashell/snaps/Monosnap_EPIMAR_2025__Barcelona_Spain_-_May_27-30_2025-06-11_17-59-29.png # finding a good image
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+
+format:
+  html:
+    code-fold: true
+    code-tools: true
+    code-copy: true
+    highlight-style: github
+    code-overflow: wrap
+---
+
+We are proud to celebrate two exceptional students in our lab who have each recently received prestigious fellowships in recognition of their innovative research tackling the urgent challenges of climate change and biodiversity conservation.
+
+## Zachary Bengtsson – NW CASC Fellow
+
+[Zach](https://zbengt.github.io/notebook/) has been awarded a **Northwest Climate Adaptation Science Center (NW CASC) Fellowship**, joining a distinguished cohort of graduate researchers from institutions across the Northwest. His project, titled *Developing computational tools for genetic risk assessment of Olympia oyster (Ostrea lurida) populations in the Puget Sound*, focuses on advancing genetic tools that help guide the sustainable restoration of Washington’s native oyster.\
+
+Zach’s research integrates environmental drivers of local adaptation, hatchery management, and climate resilience to evaluate how restoration practices affect the genetic diversity of wild oyster populations. The selection committee praised his proposal for its clear relevance to stakeholder needs—highlighted by strong support from the Washington Department of Fish and Wildlife—and his deep commitment to co-produced, actionable science. His work will provide valuable tools for conservation managers as they balance ecological recovery with long-term resilience in Puget Sound estuaries.
+
+## Kathleen Durkin – Smithsonian Fellow
+
+[Kathleen](https://shedurkin.github.io/Roberts-LabNotebook/) has received a fellowship to conduct groundbreaking research at the **Smithsonian National Museum of Natural History**, where she will pioneer the use of **nanopore sequencing to map DNA methylation in archival coral specimens**. Her project represents one of the first efforts to explore historical DNA methylation (hDNA) in invertebrates using museum collections.
+
+Drawing from coral samples that span over a century of collection history, Kathleen’s work will assess how epigenetic changes—particularly DNA methylation—can offer insights into coral stress responses and environmental resilience over time. By applying Oxford Nanopore Technology’s direct sequencing platform, she aims to overcome the limitations of traditional bisulfite sequencing in degraded DNA and establish a robust method for tracking historical epigenomic signatures.
+
+This innovative research will not only advance our understanding of coral adaptation during a period of unprecedented climate change but also expand the utility of natural history collections for modern genomic and conservation science.
+
+------------------------------------------------------------------------
+
+These fellowships reflect the drive and creativity that Zach and Kathleen bring to their work, and we are excited to watch their projects unfold over the coming year. Their success exemplifies the kind of interdisciplinary, forward-thinking science that will shape the future of marine conservation and climate adaptation.
+
+Please join us in congratulating Zachary and Kathleen on these outstanding achievements!
