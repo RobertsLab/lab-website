@@ -10,7 +10,49 @@
 <atom:link href="https://faculty.washington.edu/sr320/posts.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.6.40</generator>
-<lastBuildDate>Thu, 12 Jun 2025 07:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 16 Jun 2025 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Celebrating Undergraduate Research</title>
+  <dc:creator>Steven Roberts</dc:creator>
+  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-capstone/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>This spring, two outstanding undergraduate researchers in our lab—Genevieve Buchanan and Henry Berg—presented their senior capstone projects, showcasing months of hard work and scientific curiosity. Their research tackled critical questions related to marine invertebrate resilience in the face of environmental stress, and each presentation offered fresh insight into how shellfish species respond to changing ocean conditions.</p>
+<section id="genevieve-buchanan-thermal-tolerance-in-a-stressful-world" class="level2">
+<h2 class="anchored" data-anchor-id="genevieve-buchanan-thermal-tolerance-in-a-stressful-world">🦪 Genevieve Buchanan: Thermal Tolerance in a Stressful World</h2>
+<p>Genevieve’s project, “Effects of Salinity and Ocean Acidification Stress on Pacific Oyster (Magallana gigas) Thermal Tolerance”, examined how prior exposure to low salinity and acidic conditions influences oyster survival during subsequent heat stress. Pacific oysters are economically vital to aquaculture industries and ecologically foundational to coastal ecosystems, yet they face increasing threats from climate change-induced stressors.</p>
+<p>Through a carefully controlled experiment using oysters from the Point Whitney Shellfish Hatchery, Genevieve tested whether low pH or reduced salinity exposure would compound mortality under acute thermal stress. Her findings showed that, surprisingly, these prior stressors did not significantly impact thermal tolerance. This suggests that Pacific oysters may be energetically adapted to the variable conditions of the Pacific Northwest, offering a glimmer of hope for aquaculture resilience in the face of climate extremes.</p>
+<p>🔗 <a href="https://youtu.be/4Yz1z1yZRGQ">Watch Genevieve’s full presentation on YouTube</a></p>
+<p>📄 <a href="http://gannet.fish.washington.edu/seashell/snaps/Genevieve_Buchanan_-_Capstone_Presentation.pptx">Download Genevieve’s Presentation Slides (PPTX)</a></p>
+<p>⸻</p>
+</section>
+<section id="henry-berg-mussel-threads-and-climate-stress" class="level2">
+<h2 class="anchored" data-anchor-id="henry-berg-mussel-threads-and-climate-stress">🧵 Henry Berg: Mussel Threads and Climate Stress</h2>
+<p>Henry’s capstone, “Physiological Markers Associated with Byssus Attachment Following Environmental Perturbations in Marine Mussels”, focused on the byssal threads that mussels use to anchor themselves to surfaces—an essential trait for survival and aquaculture yield.</p>
+<p>Comparing Mytilus trossulus and Mytilus galloprovincialis, Henry exposed mussels to ocean acidification, warming, and hypoxia, then measured thread production and metabolic rates. His results were striking: ocean acidification increased thread production in both species, while warming favored M. galloprovincialis. Hypoxia, however, drastically reduced thread output, particularly in M. galloprovincialis. These species-specific responses highlight the complexity of climate resilience and point to potential physiological markers that could inform aquaculture site selection and selective breeding strategies.</p>
+<p>🔗 <a href="https://youtu.be/wkkv9eZpcik">Watch Henry’s full presentation on YouTube</a></p>
+<p>📄 <a href="http://gannet.fish.washington.edu/seashell/snaps/Marine_Mussels_Presentation.pptx">Download Henry’s Presentation Slides (PPTX)</a></p>
+<p>⸻</p>
+<p>A Proud Moment for Undergraduate Research</p>
+<p>Projects were conducted under the guidance of Ariana Huffmyer and Matt George, respectively, and reflect the high caliber of undergraduate research in our lab. We are incredibly proud of Genevieve and Henry—not only for their scientific contributions but also for their clarity, creativity, and commitment to advancing our understanding of marine organism resilience in a changing world.</p>
+<p>Please take a moment to view their presentations and join us in celebrating their accomplishments.</p>
+
+
+<!-- -->
+
+</section>
+
+ ]]></description>
+  <category>shellfish</category>
+  <category>capstone</category>
+  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-capstone/</guid>
+  <pubDate>Mon, 16 Jun 2025 07:00:00 GMT</pubDate>
+  <media:content url="http://gannet.fish.washington.edu/seashell/snaps/2025-06-16_10-44-13.png" medium="image" type="image/png"/>
+</item>
 <item>
   <title>Spotlight on Fellowship Success</title>
   <dc:creator>Steven Roberts</dc:creator>
@@ -1022,58 +1064,6 @@ Quote
   <guid>https://faculty.washington.edu/sr320/posts/sr320-enrich/</guid>
   <pubDate>Thu, 09 May 2024 07:00:00 GMT</pubDate>
   <media:content url="https://faculty.washington.edu/sr320/img/enrich.png" medium="image" type="image/png" height="105" width="144"/>
-</item>
-<item>
-  <title>Hatchery Field Day at Point Whitney</title>
-  <link>https://faculty.washington.edu/sr320/posts/ariana-hatchery/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>On May 6, 2024, Dr.&nbsp;Ariana Huffmyer, an NSF Ocean Sciences Postdoctoral Fellow from the University of Rhode Island and University of Washington, shared insights from a field day at Point Whitney. This comprehensive post revealed the detailed process of managing and monitoring oyster growth and stress testing, providing a clear framework for hatchery management.</p>
-<div class="callout callout-style-default callout-important callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Link to Full Notebook Post
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p><a href="https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/Hatchery-field-day-at-Point-Whitney-May-6-2024/" class="uri">https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/Hatchery-field-day-at-Point-Whitney-May-6-2024/</a></p>
-</div>
-</div>
-<p><strong>Overview of Field Day Activities</strong> The objective was to monitor the health and stress responses of oyster cohorts at the hatchery. Key activities included calibrating monitoring equipment, feeding the oysters, and assessing the impacts of temperature and freshwater stress.</p>
-<ol type="1">
-<li><p><strong>Monitoring Equipment Calibration:</strong> Dr.&nbsp;Huffmyer set up and calibrated an Orion Star A325 probe to measure pH, temperature, and conductivity. By using buffers of varying pH and a conductivity solution, she ensured accurate measurements. The pH was measured on the NBS scale, considered sufficient since ocean acidification experiments weren’t being conducted.</p></li>
-<li><p><strong>Feeding Protocol:</strong> The oysters were pulse-fed, where approximately 1/3 of a 5-gallon bucket was distributed among the tanks. This ensured that the animals received sufficient nutrition.</p></li>
-<li><p><strong>Fluorometry and Physiochemical Measurements:</strong> Fluorometry measurements were conducted before and after feeding, providing data on oyster metabolic activity. Additionally, pH, temperature, and conductivity were measured across different tanks, offering valuable weekly insights into water quality.</p></li>
-<li><p><strong>Stress Testing Regimen:</strong> Dr.&nbsp;Huffmyer conducted a 30-minute stress test for specific oyster cohorts using freshwater and elevated temperature exposures. Animals were subjected to 25°C temperature and freshwater immersion, replicating environmental stressors they might face. Trays were labeled and organized by stressor type.</p></li>
-<li><p><strong>Growth Characterization:</strong> Size measurements were taken using a waterproof digital caliper. Cohorts were categorized based on their respective stressors, creating a comprehensive understanding of their growth patterns.</p></li>
-<li><p><strong>Ploidy Testing Preparations:</strong> A selection of oysters from different cohorts was collected for ploidy testing to distinguish between diploid and triploid oysters. They were stored in mesh bags, and the testing results would provide critical information for future breeding programs.</p></li>
-</ol>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Hatchery_field_day_at_Point_Whitney_May_6_2024__Ariana_S_Huffmyer__NSF_Ocean_Sciences_Postdoctoral_Fellow_University_of_Rhod_2024-05-11_14-51-46.png" class="img-fluid figure-img"></p>
-<figcaption>heath-tray</figcaption>
-</figure>
-</div>
-<p><strong>Takeaways for Hatchery Science</strong> Dr.&nbsp;Huffmyer’s systematic approach highlights the significance of precise monitoring and stress testing in hatchery science. Understanding oyster resilience to environmental stressors is crucial for aquaculture sustainability. Her work at Point Whitney offers a detailed protocol that could be replicated or adapted by other researchers to monitor and improve hatchery operations.</p>
-<p>The future of hatchery management will depend heavily on such frameworks, where real-time data collection and analysis enable researchers to respond promptly to environmental changes.</p>
-
-
-<!-- -->
-
-
- ]]></description>
-  <category>methods</category>
-  <category>tools</category>
-  <guid>https://faculty.washington.edu/sr320/posts/ariana-hatchery/</guid>
-  <pubDate>Mon, 06 May 2024 07:00:00 GMT</pubDate>
-  <media:content url="https://faculty.washington.edu/sr320/img/bucket.png" medium="image" type="image/png" height="145" width="144"/>
 </item>
 </channel>
 </rss>

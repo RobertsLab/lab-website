@@ -1,0 +1,54 @@
+---
+title: "Celebrating Undergraduate Research"
+description: "Genevieve Buchanan and Henry Berg Present Their Capstone Projects"
+author:
+  - name: Steven Roberts
+    url: https://sr320.github.io/
+    orcid: 0000-0001-8302-1138
+    affiliation: Professor, UW - School of Aquatic and Fishery Sciences
+    affiliation-url: https://robertslab.info
+date: 06-16-2025
+categories: [shellfish, capstone] # self-defined categories
+image: http://gannet.fish.washington.edu/seashell/snaps/2025-06-16_10-44-13.png # finding a good image
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+
+format:
+  html:
+    code-fold: true
+    code-tools: true
+    code-copy: true
+    highlight-style: github
+    code-overflow: wrap
+---
+
+This spring, two outstanding undergraduate researchers in our lab—Genevieve Buchanan and Henry Berg—presented their senior capstone projects, showcasing months of hard work and scientific curiosity. Their research tackled critical questions related to marine invertebrate resilience in the face of environmental stress, and each presentation offered fresh insight into how shellfish species respond to changing ocean conditions.
+
+## 🦪 Genevieve Buchanan: Thermal Tolerance in a Stressful World
+
+Genevieve’s project, “Effects of Salinity and Ocean Acidification Stress on Pacific Oyster (Magallana gigas) Thermal Tolerance”, examined how prior exposure to low salinity and acidic conditions influences oyster survival during subsequent heat stress. Pacific oysters are economically vital to aquaculture industries and ecologically foundational to coastal ecosystems, yet they face increasing threats from climate change-induced stressors.
+
+Through a carefully controlled experiment using oysters from the Point Whitney Shellfish Hatchery, Genevieve tested whether low pH or reduced salinity exposure would compound mortality under acute thermal stress. Her findings showed that, surprisingly, these prior stressors did not significantly impact thermal tolerance. This suggests that Pacific oysters may be energetically adapted to the variable conditions of the Pacific Northwest, offering a glimmer of hope for aquaculture resilience in the face of climate extremes.
+
+🔗 [Watch Genevieve’s full presentation on YouTube](https://youtu.be/4Yz1z1yZRGQ)
+
+📄 [Download Genevieve’s Presentation Slides (PPTX)](http://gannet.fish.washington.edu/seashell/snaps/Genevieve_Buchanan_-_Capstone_Presentation.pptx)
+
+⸻
+
+## 🧵 Henry Berg: Mussel Threads and Climate Stress
+
+Henry’s capstone, “Physiological Markers Associated with Byssus Attachment Following Environmental Perturbations in Marine Mussels”, focused on the byssal threads that mussels use to anchor themselves to surfaces—an essential trait for survival and aquaculture yield.
+
+Comparing Mytilus trossulus and Mytilus galloprovincialis, Henry exposed mussels to ocean acidification, warming, and hypoxia, then measured thread production and metabolic rates. His results were striking: ocean acidification increased thread production in both species, while warming favored M. galloprovincialis. Hypoxia, however, drastically reduced thread output, particularly in M. galloprovincialis. These species-specific responses highlight the complexity of climate resilience and point to potential physiological markers that could inform aquaculture site selection and selective breeding strategies.
+
+🔗 [Watch Henry’s full presentation on YouTube](https://youtu.be/wkkv9eZpcik)
+
+📄 [Download Henry’s Presentation Slides (PPTX)](http://gannet.fish.washington.edu/seashell/snaps/Marine_Mussels_Presentation.pptx)
+
+⸻
+
+A Proud Moment for Undergraduate Research
+
+Projects were conducted under the guidance of Ariana Huffmyer and Matt George, respectively, and reflect the high caliber of undergraduate research in our lab. We are incredibly proud of Genevieve and Henry—not only for their scientific contributions but also for their clarity, creativity, and commitment to advancing our understanding of marine organism resilience in a changing world.
+
+Please take a moment to view their presentations and join us in celebrating their accomplishments.

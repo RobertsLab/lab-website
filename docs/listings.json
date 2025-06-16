@@ -2,6 +2,7 @@
   {
     "listing": "/posts.html",
     "items": [
+      "/posts/frontpage/sr320-capstone/index.html",
       "/posts/frontpage/sr320-fellowships/index.html",
       "/posts/frontpage/sr320-epimar/index.html",
       "/posts/frontpage/sr320-baird/index.html",
@@ -107,6 +108,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/frontpage/sr320-capstone/index.html",
       "/posts/frontpage/sr320-fellowships/index.html",
       "/posts/frontpage/sr320-epimar/index.html",
       "/posts/frontpage/sr320-baird/index.html",
