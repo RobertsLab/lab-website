@@ -34,6 +34,8 @@ website:
     tools:
       - icon: hdd-network
         menu:
+          - text: hyak-on-demand
+            url:  https://ondemand.hyak.uw.edu/pun/sys/dashboard/batch_connect/sys/hyak-rstudio/session_contexts/new          
           - text: raven
             url:  http://raven.fish.washington.edu:8787
           - text: gannet
