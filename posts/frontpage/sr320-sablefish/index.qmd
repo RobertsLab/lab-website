@@ -1,0 +1,62 @@
+---
+title: "Scientific Breakthrough in Sustainable Aquaculture"
+description: "New Sterility Induction Technique for Sablefish Shows Promise"
+author:
+  - name: Steven Roberts
+    url: https://sr320.github.io/
+    orcid: 0000-0001-8302-1138
+    affiliation: Professor, UW - School of Aquatic and Fishery Sciences
+    affiliation-url: http://robertslab.info
+date: 07-14-2025
+categories: [aquaculture, sterility] # self-defined categories
+image: http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Yanagitsuru_et_al_SterilityInduction_dnd_BathImmersion_SablefishProofOfConcept_2025.pdf_2025-07-20_13-09-45.png # finding a good image
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+
+format:
+  html:
+    code-fold: true
+    code-tools: true
+    code-copy: true
+    highlight-style: github
+    code-overflow: wrap
+---
+
+As global demand for seafood continues to rise, the aquaculture industry faces growing pressure to produce more while minimizing ecological impacts. A key concern in marine fish farming is the risk of escapees interbreeding with wild populations, leading to genetic introgression and reduced fitness in native fish stocks. Now, a recent study led by former University of Washington CICOES postdoctoral researcher Dr. Yuzo R. Yanagitsuru offers a promising solution.
+
+Published in *Aquaculture*, the study presents a **proof-of-concept for a non-GMO, bath immersion–based technique for inducing sterility in sablefish (Anoplopoma fimbria)**—an emerging high-value aquaculture species also known as black cod. The approach targets a gene essential for reproductive cell development and aims to prevent escaped farmed fish from reproducing in the wild.
+
+### **A Scalable, Gene-Silencing Alternative to Triploidy**
+
+While triploidization and genetic modification have been explored for sterility induction, both come with drawbacks—triploid fish can still be partially fertile, and GM fish face regulatory and public acceptance hurdles.
+
+Instead, Dr. Yanagitsuru and collaborators used a **Morpholino oligomer (MO)** attached to a **Vivo transporter** to silence the *dead end* (*dnd*) gene—a critical regulator of primordial germ cell formation. The innovation lies in delivering this compound through a **simple bath immersion**, rather than invasive microinjection or genetic alteration.
+
+### **Results: A Step Toward Sterile, Sustainable Farming**
+
+In controlled hatchery trials, sablefish eggs treated with the dnd-MO-Vivo compound before fertilization produced a subset of individuals that were completely sterile (8%) or had drastically reduced numbers of reproductive cells (18%). Importantly, sterile individuals developed normally in all other respects: they showed no major differences in growth, sex steroid hormone levels, or survival under semi-commercial rearing conditions.
+
+Key findings include:
+
+-   **Target specificity**: dnd expression was limited to gonads and unfertilized eggs, confirming its value as a marker for germ cell presence.
+
+-   **No adverse health effects**: Sterile fish were physiologically indistinguishable from fertile fish in terms of somatic growth and overall condition.
+
+-   **Higher efficacy pre-fertilization**: The sterility induction was more effective when the treatment was applied before fertilization, likely due to increased permeability of the egg chorion.
+
+### **Why It Matters**
+
+This method opens a new path for **scalable, publicly acceptable sterility induction in marine finfish aquaculture**. By eliminating the reproductive capability of escapees, it reduces ecological risk and helps safeguard the genetic integrity of wild populations—while also offering potential gains in growth efficiency and product quality for farmers.
+
+Sablefish, already known for its rich flavor and high omega-3 content, now also stands to become a model species for innovative, sustainable aquaculture practices.
+
+### **What’s Next?**
+
+The authors emphasize that **further optimization is needed** to improve sterility rates and ensure consistent results across large-scale operations. Future research will likely explore different concentrations, immersion times, and additional species to assess broader applicability.
+
+But for now, this work—driven by Dr. Yanagitsuru’s leadership—marks an important milestone in the development of non-GMO solutions to one of aquaculture’s biggest challenges.
+
+**Citation**:
+
+Yanagitsuru, Y.R., Hayman, E.S., Fairgrieve, W.T., Zohar, Y., Wong, T-T., & Luckenbach, J.A. (2025). *Proof-of-concept for sterility induction in sablefish (Anoplopoma fimbria) via a scalable immersion-based gene silencing approach*. *Aquaculture*, 609, 742945. <https://doi.org/10.1016/j.aquaculture.2025.742945>
+
+Podcast Episode featuring work: <https://podcasts.apple.com/us/podcast/gene-pooling/id1802677296?i=1000718173868>

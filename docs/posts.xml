@@ -10,7 +10,59 @@
 <atom:link href="https://faculty.washington.edu/sr320/posts.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.6.40</generator>
-<lastBuildDate>Mon, 16 Jun 2025 07:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 14 Jul 2025 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Scientific Breakthrough in Sustainable Aquaculture</title>
+  <dc:creator>Steven Roberts</dc:creator>
+  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-sablefish/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>As global demand for seafood continues to rise, the aquaculture industry faces growing pressure to produce more while minimizing ecological impacts. A key concern in marine fish farming is the risk of escapees interbreeding with wild populations, leading to genetic introgression and reduced fitness in native fish stocks. Now, a recent study led by former University of Washington CICOES postdoctoral researcher Dr.&nbsp;Yuzo R. Yanagitsuru offers a promising solution.</p>
+<p>Published in <em>Aquaculture</em>, the study presents a <strong>proof-of-concept for a non-GMO, bath immersion–based technique for inducing sterility in sablefish (Anoplopoma fimbria)</strong>—an emerging high-value aquaculture species also known as black cod. The approach targets a gene essential for reproductive cell development and aims to prevent escaped farmed fish from reproducing in the wild.</p>
+<section id="a-scalable-gene-silencing-alternative-to-triploidy" class="level3">
+<h3 class="anchored" data-anchor-id="a-scalable-gene-silencing-alternative-to-triploidy"><strong>A Scalable, Gene-Silencing Alternative to Triploidy</strong></h3>
+<p>While triploidization and genetic modification have been explored for sterility induction, both come with drawbacks—triploid fish can still be partially fertile, and GM fish face regulatory and public acceptance hurdles.</p>
+<p>Instead, Dr.&nbsp;Yanagitsuru and collaborators used a <strong>Morpholino oligomer (MO)</strong> attached to a <strong>Vivo transporter</strong> to silence the <em>dead end</em> (<em>dnd</em>) gene—a critical regulator of primordial germ cell formation. The innovation lies in delivering this compound through a <strong>simple bath immersion</strong>, rather than invasive microinjection or genetic alteration.</p>
+</section>
+<section id="results-a-step-toward-sterile-sustainable-farming" class="level3">
+<h3 class="anchored" data-anchor-id="results-a-step-toward-sterile-sustainable-farming"><strong>Results: A Step Toward Sterile, Sustainable Farming</strong></h3>
+<p>In controlled hatchery trials, sablefish eggs treated with the dnd-MO-Vivo compound before fertilization produced a subset of individuals that were completely sterile (8%) or had drastically reduced numbers of reproductive cells (18%). Importantly, sterile individuals developed normally in all other respects: they showed no major differences in growth, sex steroid hormone levels, or survival under semi-commercial rearing conditions.</p>
+<p>Key findings include:</p>
+<ul>
+<li><p><strong>Target specificity</strong>: dnd expression was limited to gonads and unfertilized eggs, confirming its value as a marker for germ cell presence.</p></li>
+<li><p><strong>No adverse health effects</strong>: Sterile fish were physiologically indistinguishable from fertile fish in terms of somatic growth and overall condition.</p></li>
+<li><p><strong>Higher efficacy pre-fertilization</strong>: The sterility induction was more effective when the treatment was applied before fertilization, likely due to increased permeability of the egg chorion.</p></li>
+</ul>
+</section>
+<section id="why-it-matters" class="level3">
+<h3 class="anchored" data-anchor-id="why-it-matters"><strong>Why It Matters</strong></h3>
+<p>This method opens a new path for <strong>scalable, publicly acceptable sterility induction in marine finfish aquaculture</strong>. By eliminating the reproductive capability of escapees, it reduces ecological risk and helps safeguard the genetic integrity of wild populations—while also offering potential gains in growth efficiency and product quality for farmers.</p>
+<p>Sablefish, already known for its rich flavor and high omega-3 content, now also stands to become a model species for innovative, sustainable aquaculture practices.</p>
+</section>
+<section id="whats-next" class="level3">
+<h3 class="anchored" data-anchor-id="whats-next"><strong>What’s Next?</strong></h3>
+<p>The authors emphasize that <strong>further optimization is needed</strong> to improve sterility rates and ensure consistent results across large-scale operations. Future research will likely explore different concentrations, immersion times, and additional species to assess broader applicability.</p>
+<p>But for now, this work—driven by Dr.&nbsp;Yanagitsuru’s leadership—marks an important milestone in the development of non-GMO solutions to one of aquaculture’s biggest challenges.</p>
+<p><strong>Citation</strong>:</p>
+<p>Yanagitsuru, Y.R., Hayman, E.S., Fairgrieve, W.T., Zohar, Y., Wong, T-T., &amp; Luckenbach, J.A. (2025). <em>Proof-of-concept for sterility induction in sablefish (Anoplopoma fimbria) via a scalable immersion-based gene silencing approach</em>. <em>Aquaculture</em>, 609, 742945. <a href="https://doi.org/10.1016/j.aquaculture.2025.742945" class="uri">https://doi.org/10.1016/j.aquaculture.2025.742945</a></p>
+<p>Podcast Episode featuring work: <a href="https://podcasts.apple.com/us/podcast/gene-pooling/id1802677296?i=1000718173868" class="uri">https://podcasts.apple.com/us/podcast/gene-pooling/id1802677296?i=1000718173868</a></p>
+
+
+<!-- -->
+
+</section>
+
+ ]]></description>
+  <category>aquaculture</category>
+  <category>sterility</category>
+  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-sablefish/</guid>
+  <pubDate>Mon, 14 Jul 2025 07:00:00 GMT</pubDate>
+  <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Yanagitsuru_et_al_SterilityInduction_dnd_BathImmersion_SablefishProofOfConcept_2025.pdf_2025-07-20_13-09-45.png" medium="image" type="image/png"/>
+</item>
 <item>
   <title>Celebrating Undergraduate Research</title>
   <dc:creator>Steven Roberts</dc:creator>
@@ -230,7 +282,7 @@
 </item>
 <item>
   <title>Exploring the Non-Coding RNA Landscape in Reef-Building Corals</title>
-  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-lncRNA-rep/</link>
+  <link>https://faculty.washington.edu/sr320/posts/sr320-lncRNA-rep/</link>
   <description><![CDATA[ 
 
 
@@ -276,7 +328,7 @@
  ]]></description>
   <category>coral</category>
   <category>lncRNA</category>
-  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-lncRNA-rep/</guid>
+  <guid>https://faculty.washington.edu/sr320/posts/sr320-lncRNA-rep/</guid>
   <pubDate>Mon, 17 Mar 2025 07:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_httpswww.biorxiv.orgcontent10.11012025.03.15.643469v1.full.pdf_2025-03-17_08-01-04.png" medium="image" type="image/png"/>
 </item>
@@ -1018,51 +1070,6 @@ Quote
   <category>tools</category>
   <guid>https://faculty.washington.edu/sr320/posts/sr320-altsplice/</guid>
   <pubDate>Sat, 25 May 2024 07:00:00 GMT</pubDate>
-  <media:content url="https://faculty.washington.edu/sr320/img/enrich.png" medium="image" type="image/png" height="105" width="144"/>
-</item>
-<item>
-  <title>Unraveling the Intricacies of Enrichment Analysis</title>
-  <link>https://faculty.washington.edu/sr320/posts/sr320-enrich/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>In our most recent lab meeting, we delved into the fascinating world of enrichment analysis. This statistical method is a cornerstone of our research, helping us identify significantly over-represented subsets of proteins or genes within our data.</p>
-<div class="quarto-video"><video id="video_shortcode_videojs_video1" class="video-js vjs-default-skin vjs-fluid" controls="" preload="auto" data-setup="{}" title=""><source src="http://gannet.fish.washington.edu/seashell/snaps/GMT20240509-195925_Recording_gallery_1920x1080.mp4"></video></div>
-<section id="the-power-of-enrichment-analysis" class="level2">
-<h2 class="anchored" data-anchor-id="the-power-of-enrichment-analysis">The Power of Enrichment Analysis</h2>
-<p>Enrichment analysis allows us to compare a small subset of genes or proteins to a larger set, identifying overrepresentation. This can provide valuable insights into the biological processes that are most relevant to our research.</p>
-</section>
-<section id="a-deep-dive-into-david" class="level2">
-<h2 class="anchored" data-anchor-id="a-deep-dive-into-david">A Deep Dive into David</h2>
-<p>One of the tools we use for enrichment analysis is David. During the meeting, we explored how to upload gene lists and backgrounds into David, and how to interpret the results it provides. This tool is invaluable in helping us understand the complex relationships and patterns within our data.</p>
-</section>
-<section id="the-reference-list-debate" class="level2">
-<h2 class="anchored" data-anchor-id="the-reference-list-debate">The Reference List Debate</h2>
-<p>An interesting discussion arose around what to use as a reference list in enrichment analysis. Should it be all the genes detected in the data set, or all genes in a reference genome? This question sparked a lively debate, highlighting the complexities and nuances of enrichment analysis.</p>
-</section>
-<section id="visualizing-gene-ontology-with-revigo" class="level2">
-<h2 class="anchored" data-anchor-id="visualizing-gene-ontology-with-revigo">Visualizing Gene Ontology with Revigo</h2>
-<p>To help us visualize gene ontology, we use a tool called Revigo. This tool provides a visual representation of the relationships between genes, making it easier to understand the complex data we work with.</p>
-</section>
-<section id="a-lighter-moment" class="level2">
-<h2 class="anchored" data-anchor-id="a-lighter-moment">A Lighter Moment</h2>
-<p>Amidst the serious scientific discussions, we also had a lighter moment when a team member shared a story about narrowly avoiding a parking ticket. It’s moments like these that remind us of the importance of camaraderie and humor in the lab.</p>
-<hr>
-<p>Our lab meetings are a crucial part of our research process, providing a space for us to discuss, debate, and learn together. Stay tuned for more insights from our lab meetings in future posts!</p>
-
-
-<!-- -->
-
-</section>
-
- ]]></description>
-  <category>methods</category>
-  <category>tools</category>
-  <guid>https://faculty.washington.edu/sr320/posts/sr320-enrich/</guid>
-  <pubDate>Thu, 09 May 2024 07:00:00 GMT</pubDate>
   <media:content url="https://faculty.washington.edu/sr320/img/enrich.png" medium="image" type="image/png" height="105" width="144"/>
 </item>
 </channel>
