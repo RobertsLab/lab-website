@@ -1,0 +1,66 @@
+---
+title: "SHELLFISH: Developing strategies to increase climate resilience in restoration and commercial shellfish aquaculture "
+code: ""
+status: "active"
+type: "grant"
+website: ""
+theme: "aquaculture resource development"
+agency: "NOAA"
+year: "2024"
+github: ""
+toc: FALSE
+categories:
+  - oyster
+  - acidification
+  - aquaculture
+  - 03-ARD
+  - open
+---
+
+## Collaborators
+
+Mackenzie Gavery
+
+## Summary
+
+Climate change and ocean acidification (OA) conditions will continue to threaten the viability of the shellfish industry in the Pacific Northwest. It is absolutely critical to understand how marine organisms, and industries that rely on them, will respond to these changing conditions. Arguably, it will be just as important to provide tools and best practices to mitigate these effects, and in the case of marine aquaculture – find solutions to increase sustainability of the sector broadly, to create resilience even in the face of environmental uncertainty. The overall goal of this research is to develop and test innovative solutions that the shellfish industry can use to increase the resilience of the industry in the face of rapidly changing environmental conditions.
+
+**Introduction and Statement of Problem:**
+
+Climate change and ocean acidification (OA) conditions will continue to threaten the viability of the shellfish industry in the Pacific Northwest. It is absolutely critical to understand how marine organisms, and industries that rely on them, will respond to these changing conditions. Arguably, it will be just as important to provide tools and best practices to mitigate these effects, and in the case of marine aquaculture – find solutions to increase sustainability of the sector broadly, to create resilience even in the face of environmental uncertainty. The overall goal of this research is to develop and test innovative solutions that the shellfish industry can use to increase the resilience of the industry in the face of rapidly changing environmental conditions. These solutions include explorations of alternative methods to produce sterile shellfish that may be more resilient to “summer mortality” and examining species diversification and environmental priming as two mitigation approaches that may increase the resilience of the industry in response to worsening OA conditions.  In this project, we will add capacity to collaborative research between partners at the University of Washington and the Northwest Fisheries Science Center, addressing objectives of key importance to the National Marine Fisheries Service mission.
+
+[Alternative methods to induce sterility to support shellfish aquaculture]{.underline}
+
+Reproductively sterile shellfish (i.e., those that cannot sexually mature and reproduce) are both a market driven need and an ecologically sustainable approach to mitigate concerns associated with genetic contamination of wild populations. Triploidy, the current method for reproductive control in shellfish, is costly in terms of both labor and time to develop selected lines, underdeveloped for many newer aquaculture species, and may have adverse effects on survival and performance. Concerningly, there have been increasing reports of “triploid mortalities” in the field, where triploid oysters experience high mortalities under multi-stressor conditions on farms.  A new method, with the potential to bypass the challenges associated with ploidy manipulation and enhance the ability to produce sterile shellfish is the induction of sterility by inactivating genes essential for germ cell formation and development, thus blocking gamete formation and fertility. This research will develop a means to produce sterile shellfish via germ cell elimination technologies.
+
+[OA mitigation strategies for shellfish aquaculture]{.underline}
+
+The aquaculture industry is already being threatened by climate change and ocean acidification (OA) in the Pacific Northwest. Two potential mitigation approaches exist that may allow the industry to remain viable in the face of worsening OA conditions. The first is to develop a portfolio of cultured species that includes those inherently resilient to OA and the second is to use husbandry practices that promote acclimation or adaptation of larvae via environmental priming of the parental generation. This research will explore both of these strategies through an investigation of OA sensitivity of the native littleneck clam (*Leukoma staminea*), whose OA sensitivity has not been thoroughly assessed. Additionally, this research will explore molecular mechanisms underlying parental carryover effects by comparing the transcriptional (gene expression) and lipid profiles of gametes collected from clam broodstock conditioned in high pCO2 versus control conditions. Not only will these activities allow for the assessment of littleneck clams as a potential novel, native species for culture, but will also provide integral data regarding the generalizability of parental carryover effects in response to OA broodstock exposures in bivalve shellfish.
+
+**Objectives**:
+
+1\. Develop new technologies to achieve sterility in cultured shellfish species.
+
+2\. Assess OA sensitivity of the native littleneck clam and identify molecular mechanisms underlying parental carryover effects by comparing the transcriptional (gene expression) and lipid profile of gametes.
+
+## Data Availability
+
+## Notes
+
+::: panel-tabset
+## Codes
+
+GR051223
+
+## Proposal ID
+
+UW CICOES [Task II Shellfish](https://d.pr/f/Dfs0MS)
+
+## Dates
+
+7/2024 -- 6/2026
+
+## Amount
+
+\$143,413
+:::

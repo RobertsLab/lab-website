@@ -87,22 +87,16 @@
     "listing": "/research.html",
     "items": [
       "/research/aquamine.html",
-      "/research/art.html",
       "/research/aust.html",
       "/research/cod.html",
       "/research/crabcod.html",
       "/research/e5.html",
       "/research/nrsp8.html",
-      "/research/psmfc.html",
-      "/research/safs.html",
+      "/research/shellfish.html",
       "/research/usda.html",
-      "/research/vernon.html",
       "/research/wsg-clam.html",
       "/research/wsg-ec.html",
-      "/research/ceabigr.html",
-      "/research/ffar.html",
-      "/research/nprb.html",
-      "/research/wsg-sc.html"
+      "/research/nprb.html"
     ]
   },
   {
