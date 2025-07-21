@@ -376,9 +376,15 @@ Characterizing the effects of ocean acidification in larval and juvenile Manila 
 
 -   [Parental Priming for Ocean Acidification Resilience in Manila Clams: Mechanistic Insights Gained Through Egg Transcriptome Analysis](https://meganewing.github.io/mewing-notebook/posts/2025-03/Aquaculture25_presentation.html). Megan Ewing. Aquaculture 2025. New Orleans, LA. March 10, 2025.
 
+-   [Molecular mechanisms of heatwave mortality in Pacific cod early life stages](https://github.com/RobertsLab/project-cod-temperature/blob/main/reports/Spencer%2CLH_Poster-AMSS-2025-final.pdf). Laura Spencer. Alaska Marine Science Symposium. Anchorage, AK. January 2025.
+
 -   [Exploring functional roles of non-coding RNA in stony corals](https://github.com/shedurkin/Roberts-LabNotebook/blob/master/presentations/Durkin_SICB_2025.pptx). Kathleen Durkin. Society of Integrative and Comparative Biology. Atlanta, GA. January, 2025
 
 #### 2024
+
+-   [Molecular indicators of performance in Pacific cod exposed to climate stressors](https://github.com/RobertsLab/project-cod-temperature/blob/main/reports/Groundfish%20Seminar%2C%202024.pdf). Laura Spencer. NOAA AFSC Groundfish Seminar. Seattle, WA. December 2024.
+
+-   [Molecular indicators of performance in a marine fish exposed to temperature stress](https://github.com/RobertsLab/project-cod-temperature/blob/main/reports/Manchester-Presentation-Dec2024.pdf). Laura Spencer. NOAA NWFSC Manchester Research Station. Manchester, WA. December 2024.
 
 -   [Comparing sea star species with varying susceptibility to sea star wasting disease](https://github.com/grace-ac/presentations/blob/main/2024/Crandall_WSN_2024.pptx). Grace Crandall. Western Society of Naturalists. Portland, OR. November 2024.
 
