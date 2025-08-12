@@ -32,6 +32,17 @@ website:
     #     file: posts.qmd
     #  
     tools:
+      - icon: globe
+        menu:
+          - text: Resazurin
+            url:  https://robertslab.github.io/resazurin-assay-development/
+          - text: DIVE
+            url:  https://urol-e5.github.io/deep-dive-genome-browser
+          - text: OCEAN
+            url:  https://oystergen.es
+          - text: SAFS-OA
+            url:  https://safsoa.wordpress.com
+     
       - icon: hdd-network
         menu:
           - text: hyak-on-demand

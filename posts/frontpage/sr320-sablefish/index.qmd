@@ -6,7 +6,7 @@ author:
     url: https://sr320.github.io/
     orcid: 0000-0001-8302-1138
     affiliation: Professor, UW - School of Aquatic and Fishery Sciences
-    affiliation-url: http://robertslab.info
+    #affiliation-url: http://robertslab.info
 date: 07-14-2025
 categories: [aquaculture, sterility] # self-defined categories
 image: http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Yanagitsuru_et_al_SterilityInduction_dnd_BathImmersion_SablefishProofOfConcept_2025.pdf_2025-07-20_13-09-45.png # finding a good image
