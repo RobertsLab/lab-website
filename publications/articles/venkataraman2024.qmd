@@ -13,7 +13,7 @@ categories:
   - methylation
   - acidification
   - oyster
-  - crassostrea
+  - Crassostrea
 ---
 
 ## Citation

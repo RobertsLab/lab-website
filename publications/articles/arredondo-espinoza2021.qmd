@@ -11,7 +11,7 @@ eprint: ""
 toc: FALSE
 categories:
   - oyster
-  - epigenetics
+  - epigenetic
   - temperature
 ---
 
