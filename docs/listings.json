@@ -1,5 +1,83 @@
 [
   {
+    "listing": "/dei.html",
+    "items": [
+      "/posts/sr320-lsamp/index.html",
+      "/posts/sr320-intertidal/index.html",
+      "/posts/sr320-LGBTQ/index.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/frontpage/sr320-sablefish/index.html",
+      "/posts/frontpage/sr320-capstone/index.html",
+      "/posts/frontpage/sr320-fellowships/index.html",
+      "/posts/frontpage/sr320-epimar/index.html",
+      "/posts/frontpage/sr320-baird/index.html",
+      "/posts/frontpage/sr320-lewis-smith/index.html",
+      "/posts/frontpage/sr320-genomics/index.html",
+      "/posts/frontpage/sr320-WSG/index.html"
+    ]
+  },
+  {
+    "listing": "/research.html",
+    "items": [
+      "/research/aquamine.html",
+      "/research/aust.html",
+      "/research/cod.html",
+      "/research/crabcod.html",
+      "/research/e5.html",
+      "/research/nrsp8.html",
+      "/research/shellfish.html",
+      "/research/usda.html",
+      "/research/wsg-clam.html",
+      "/research/wsg-ec.html",
+      "/research/nprb.html"
+    ]
+  },
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/research/e5.html",
+      "/research/cod.html",
+      "/research/usda.html",
+      "/research/wsg-ec.html"
+    ]
+  },
+  {
+    "listing": "/publications.html",
+    "items": [
+      "/publications/articles/andersen2025.html",
+      "/publications/articles/lewis-smith2025.html",
+      "/publications/articles/huffmyer2025.html",
+      "/publications/articles/huffmyer2024.html",
+      "/publications/articles/venkataraman2024.html",
+      "/publications/articles/valenzuela2024.html",
+      "/publications/articles/silliman-bogan2023.html",
+      "/publications/articles/buckley2023.html",
+      "/publications/articles/gallardo2023.html",
+      "/publications/articles/silliman2023.html",
+      "/publications/articles/spencer2023.html",
+      "/publications/articles/arredondo-espinoza2023.html",
+      "/publications/articles/george2023.html",
+      "/publications/articles/gurr2022.html",
+      "/publications/articles/crandall2022.html",
+      "/publications/articles/venkataraman2022.html",
+      "/publications/articles/putnam2022.html",
+      "/publications/articles/dang2022.html",
+      "/publications/articles/crandall2022b.html",
+      "/publications/articles/gurr2021.html",
+      "/publications/articles/gallardo2021.html",
+      "/publications/articles/timmins-schiffman2021.html",
+      "/publications/articles/dimond2021.html",
+      "/publications/articles/arredondo-espinoza2021.html",
+      "/publications/articles/trigg2021.html",
+      "/publications/articles/spencer2021.html",
+      "/publications/articles/rajan2021.html"
+    ]
+  },
+  {
     "listing": "/posts.html",
     "items": [
       "/posts/frontpage/sr320-sablefish/index.html",
@@ -41,84 +119,6 @@
       "/posts/sr320-spencer-paper/index.html",
       "/posts/sr320-george-paper/index.html",
       "/posts/cool-paper/index.html"
-    ]
-  },
-  {
-    "listing": "/publications.html",
-    "items": [
-      "/publications/articles/andersen2025.html",
-      "/publications/articles/lewis-smith2025.html",
-      "/publications/articles/huffmyer2025.html",
-      "/publications/articles/huffmyer2024.html",
-      "/publications/articles/venkataraman2024.html",
-      "/publications/articles/valenzuela2024.html",
-      "/publications/articles/silliman-bogan2023.html",
-      "/publications/articles/buckley2023.html",
-      "/publications/articles/gallardo2023.html",
-      "/publications/articles/silliman2023.html",
-      "/publications/articles/spencer2023.html",
-      "/publications/articles/arredondo-espinoza2023.html",
-      "/publications/articles/george2023.html",
-      "/publications/articles/gurr2022.html",
-      "/publications/articles/crandall2022.html",
-      "/publications/articles/venkataraman2022.html",
-      "/publications/articles/putnam2022.html",
-      "/publications/articles/dang2022.html",
-      "/publications/articles/crandall2022b.html",
-      "/publications/articles/gurr2021.html",
-      "/publications/articles/gallardo2021.html",
-      "/publications/articles/timmins-schiffman2021.html",
-      "/publications/articles/dimond2021.html",
-      "/publications/articles/arredondo-espinoza2021.html",
-      "/publications/articles/trigg2021.html",
-      "/publications/articles/spencer2021.html",
-      "/publications/articles/rajan2021.html"
-    ]
-  },
-  {
-    "listing": "/projects.html",
-    "items": [
-      "/research/e5.html",
-      "/research/cod.html",
-      "/research/usda.html",
-      "/research/wsg-ec.html"
-    ]
-  },
-  {
-    "listing": "/research.html",
-    "items": [
-      "/research/aquamine.html",
-      "/research/aust.html",
-      "/research/cod.html",
-      "/research/crabcod.html",
-      "/research/e5.html",
-      "/research/nrsp8.html",
-      "/research/shellfish.html",
-      "/research/usda.html",
-      "/research/wsg-clam.html",
-      "/research/wsg-ec.html",
-      "/research/nprb.html"
-    ]
-  },
-  {
-    "listing": "/index.html",
-    "items": [
-      "/posts/frontpage/sr320-sablefish/index.html",
-      "/posts/frontpage/sr320-capstone/index.html",
-      "/posts/frontpage/sr320-fellowships/index.html",
-      "/posts/frontpage/sr320-epimar/index.html",
-      "/posts/frontpage/sr320-baird/index.html",
-      "/posts/frontpage/sr320-lewis-smith/index.html",
-      "/posts/frontpage/sr320-genomics/index.html",
-      "/posts/frontpage/sr320-WSG/index.html"
-    ]
-  },
-  {
-    "listing": "/dei.html",
-    "items": [
-      "/posts/sr320-lsamp/index.html",
-      "/posts/sr320-intertidal/index.html",
-      "/posts/sr320-LGBTQ/index.html"
     ]
   }
 ]
