@@ -244,7 +244,7 @@ Roberts SB, Langenau DM, Goetz FW. (**2000**) [Isolation through cloning of fish
 
 Langenau DM, Goetz FW, Roberts SB. (**1999**) [The upregulation of messenger ribonucleic acids during 17a, 20b-dihydroxy-4-pregnen-3-one-induced ovulation in the perch ovary](http://jme.endocrinology-journals.org/content/23/2/137.long) Journal of Molecular Endocrinology 23(2):137-52.
 
-Roberts SB, Jackson LF, King WK, Taylor RG, Grier HJ, Sullivan CV. (**1999**) [Annual reproductive cycle of the common snook: Endocrine correlates of maturation]('http://www.tandfonline.com/doi/abs/10.1577/1548-8659(1999)128%3C0436%3AARCOTC%3E2.0.CO%3B2#preview') Transactions of the American Fisheries Society 128:426-445.
+Roberts SB, Jackson LF, King WK, Taylor RG, Grier HJ, Sullivan CV. (**1999**) [Annual reproductive cycle of the common snook: Endocrine correlates of maturation](http://www.tandfonline.com/doi/abs/10.1577/1548-8659(1999)128%3C0436%3AARCOTC%3E2.0.CO%3B2#preview) Transactions of the American Fisheries Society 128:426-445.
 
 ------------------------------------------------------------------------
 
@@ -260,7 +260,7 @@ Gavery, M., & Roberts, S. (2018). [Genetics & Epigenetics in Life History and Re
 
 Huffmyer AS, KH Wong, DM Becker, E Strand, T Mass, HM Putnam. (2025) Metabolic dynamics of the coral-algal symbiosis from fertilization to settlement identify critical coral energetic vulnerabilities. **bioRxiv**. https://doi.org/10.1101/2023.03.20.533475.
 
-Shelly A Wanamaker , Kaitlyn R Mitchell, Rhonda Elliott Thompson, Benoit Eudeline, Brent Vadopalas, Emma B Timmins-Schiffman, Steven B Roberts (2020). Temporal proteomic profiling reveals insight into critical devleopmental processes and temperature-influenced physiological response differences in a bivalve mollusc. **bioRxiv**. https://doi.org/10.1101/2020.06.05.137059
+Shelly A Wanamaker , Kaitlyn R Mitchell, Rhonda Elliott Thompson, Benoit Eudeline, Brent Vadopalas, Emma B Timmins-Schiffman, Steven B Roberts (2020). Temporal proteomic profiling reveals insight into critical developmental processes and temperature-influenced physiological response differences in a bivalve mollusc. **bioRxiv**. https://doi.org/10.1101/2020.06.05.137059
 
 Emma B. Timmins-Schiffman, Grace A. Crandall, Brent Vadopalas, Michael E. Riffle, Brook L. Nunn, Steven B. Roberts (2016) Integrating proteomics and selected reaction monitoring to develop a non-invasive assay for geoduck reproductive maturation. **bioRxiv** doi: <https://doi.org/10.1101/094615>
 
@@ -353,8 +353,8 @@ Characterizing the effects of ocean acidification in larval and juvenile Manila 
 | Matt George | [mattgeorgephd.github.io](https://mattgeorgephd.github.io/notebook/) | ![GitHub last commit](https://img.shields.io/github/last-commit/mattgeorgephd/mattgeorgephd.github.io) |
 | Aspen Coyle | [aspencoyle.github.io](https://aspencoyle.github.io) | ![GitHub last commit](https://img.shields.io/github/last-commit/aspencoyle/aspencoyle.github.io) |
 | Ariana Huffmyer | [ahuffmyer.github.io](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/) | ![GitHub last commit](https://img.shields.io/github/last-commit/AHuffmyer/ASH_Putnam_Lab_Notebook) |
-| Chris Mantegna | [chrismantegna.github.io](https://chrismantegna.github.io/cmlabsite/) | ![Github last commit](https://img.shields.io/github/last-commit/ChrisMantegna/cmlabsite) |
-| Zach Bengtsson | [zbengt.github.io](https://zbengt.github.io/notebook/) | ![Github last commit](https://img.shields.io/github/last-commit/zbengt/zbengt.github.io) |
+| Chris Mantegna | [chrismantegna.github.io](https://chrismantegna.github.io/cmlabsite/) | ![GitHub last commit](https://img.shields.io/github/last-commit/ChrisMantegna/cmlabsite) |
+| Zach Bengtsson | [zbengt.github.io](https://zbengt.github.io/notebook/) | ![GitHub last commit](https://img.shields.io/github/last-commit/zbengt/zbengt.github.io) |
 | Celeste Valdivia | [valeste.github.io](https://valeste.github.io/tough-tunicates/) | ![GitHub last commit](https://img.shields.io/github/last-commit/valeste/tough-tunicates) |
 | Grace Crandall | [grace-ac.github.io](https://grace-ac.github.io/) | ![GitHub last commit](https://img.shields.io/github/last-commit/grace-ac/grace-ac.github.io) |
 | Kathleen Durkin | [shedurkin.github.io](https://shedurkin.github.io/Roberts-LabNotebook/) | ![GitHub last commit](https://img.shields.io/github/last-commit/shedurkin/Roberts-LabNotebook) |
