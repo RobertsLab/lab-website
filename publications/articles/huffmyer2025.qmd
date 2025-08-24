@@ -12,7 +12,7 @@ toc: FALSE
 categories:
   - coral
   - development
-  - tagseq
+  - TagSeq
   - metabolomics
   - physiology
   - symbiosis

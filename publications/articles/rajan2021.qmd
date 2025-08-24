@@ -11,8 +11,8 @@ eprint: ""
 toc: FALSE
 categories:
   - oyster
-  - acidificaiton
-  - epigenetics
+  - acidification
+  - epigenetic
   - RNA-seq
 ---
 

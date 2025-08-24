@@ -11,7 +11,7 @@ eprint: "https://www.biorxiv.org/content/10.1101/2023.09.08.556443v1.full.pdf"
 toc: FALSE
 categories:
   - oyster
-  - Tag-seq
+  - TagSeq
   - Ostrea
 ---
 

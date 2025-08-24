@@ -14,7 +14,7 @@ categories:
   - geoduck
   - Panopea
   - TagSeq
-  - RNA-sea
+  - RNA-seq
 ---
 
 ## Citation
