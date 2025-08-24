@@ -5,7 +5,7 @@ author: "Connor Lewis-Smith, Karma Norman, Larken Root, Ryan Crim, Steven Robert
 year: "2025"
 publication: "Aquaculture Reports"
 preprint: ""
-doi: "https://doi.org/10.1016/j.aqrep.2025.102858"
+doi: "10.1016/j.aqrep.2025.102858"
 materials: ""
 eprint: "http://gannet.fish.washington.edu/seashell/snaps/YaYtTO-1-s2.0-S2352513425002443-main.pdf"
 toc: FALSE

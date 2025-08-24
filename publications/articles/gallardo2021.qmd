@@ -5,7 +5,7 @@ author: "Cristian Gallardo-Escárate, Valentina Valenzuela-Muñoz, Gustavo Nuñe
 year: "2021"
 publication: "Scientific Data"
 preprint: ""
-doi: "https://doi.org/10.1038/s41597-021-00842-w"
+doi: "10.1038/s41597-021-00842-w"
 materials: "https://figshare.com/articles/dataset/Additional_annotation_files_GenSAS/12847493"
 eprint: ""
 toc: FALSE
