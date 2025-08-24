@@ -170,594 +170,586 @@ format:
 
 # Principal Investigator
 
-::: {.person-card}
+:::::: person-card
 ![Steven Roberts](img/Roberts06.jpg){.person-image}
 
-::: {.person-content}
+::::: person-content
 ## Steven Roberts {.person-name}
 
-::: {.person-links}
+::: person-links
 [ORCID](https://orcid.org/0000-0001-8302-1138){.person-link}
 :::
 
-::: {.person-bio}
+::: person-bio
 Professor in the School of Aquatic and Fishery Sciences at the University of Washington where his research focuses on characterizing physiological response of aquatic species to environmental change with a particular focus on the relationship of transcriptomics, genetics, and epigenetic modifications. Current research efforts include characterizing genome to phenome processes in diverse aquatic species.
 :::
-:::
-:::
+:::::
+::::::
 
 # Graduate Students {.section-header}
 
-::: {.person-card}
+:::::: person-card
 ![Zach Bengtsson](https://avatars.githubusercontent.com/u/91245841?v=4){.person-image}
 
-::: {.person-content}
+::::: person-content
 ## Zach Bengtsson {.person-name}
 
-::: {.person-links}
-[Lab notebook](https://zbengt.github.io/){.person-link}
-[LinkedIn](https://www.linkedin.com/in/zachary-bengtsson/){.person-link}
-[Email](mailto:zbengt@uw.edu){.person-link}
+::: person-links
+[Lab notebook](https://zbengt.github.io/){.person-link} [LinkedIn](https://www.linkedin.com/in/zachary-bengtsson/){.person-link} [Email](mailto:zbengt@uw.edu){.person-link}
 :::
 
-::: {.person-bio}
+::: person-bio
 I grew up in the beautiful, landlocked city of Colorado Springs, CO, but I have always been fascinated by the ocean and marine life. In my undergraduate studies at Boston University, I developed a passion for marine invertebrates and studied coral epibionts living on mangrove prop roots in Belize. After graduating in 2015, I developed my skills in science and research through positions in medical molecular biology, seasonal environmental DNA work at The Nature Conservancy, and various environmental remote sensing roles in the NASA Earth Applied Sciences Program. I joined the Roberts Lab in Fall 2021, where I work on the [E5 Coral Project](https://e5coral.org/). My research focuses on assessing the response of corals to changing environmental conditions in Moorea using epigenetic techniques. I am also interested in incorporating remotely-sensed datasets as model inputs to better understand the relationship between environmental stressors and organismal response.
 :::
-:::
-:::
+:::::
+::::::
 
-::: {.person-card}
+:::::: person-card
 ![Chris Mantegna](https://avatars.githubusercontent.com/u/81385272?s=400&u=db9e68ce341c74ff870634cc398654e82d7aea73&v=4){.person-image}
 
-::: {.person-content}
+::::: person-content
 ## Chris Mantegna {.person-name}
 
-::: {.person-links}
-[Lab notebook](https://chrismantegna.github.io/cmlabsite/){.person-link}
-[Email](mailto:mantegna@uw.edu){.person-link}
+::: person-links
+[Lab notebook](https://chrismantegna.github.io/cmlabsite/){.person-link} [Email](mailto:mantegna@uw.edu){.person-link}
 :::
 
-::: {.person-bio}
+::: person-bio
 Chasing my love of Orcas, coffee, and grunge to the Pacific Northwest has yielded this Baltimore, MD transplant an opportunity to become a double University of Washington alumna. I graduated with my B.S. in Marine Biology in 2021 and am continuing my academic pursuits as a SAFS and NSF Graduate Fellow. I am currently using -omics techniques to evaluate the relationship between environmental influences, ecotoxins, and organism physiology in the Pacific Northwest using bivalves as the target organisms. Moving through my graduate work I'd like to expand into warmer waters and study those relationships with Syngnathids as the target organisms. When not working in the lab I happily pepper my daughter with dad jokes, build community as a member of [BWEEMS](https://www.bweems.org/) and [BIMS](https://www.blackinmarinescience.org/), and spend my free time moonlighting as a wannabe Chihuly in beginners glass blowing classes.
 :::
-:::
-:::
+:::::
+::::::
 
-::: {.person-card}
+:::::: person-card
 ![Celeste Valdivia](https://avatars.githubusercontent.com/u/114775924?s=400&u=ac323874acba109b05b1e5def35f43bd00a65fde&v=4){.person-image}
 
-::: {.person-content}
+::::: person-content
 ## Celeste Valdivia {.person-name}
 
-::: {.person-links}
-[Lab notebook](https://valeste.github.io/tough-tunicates/){.person-link}
-[Email](mailto:cvaldi@uw.edu){.person-link}
+::: person-links
+[Lab notebook](https://valeste.github.io/tough-tunicates/){.person-link} [Email](mailto:cvaldi@uw.edu){.person-link}
 :::
 
-::: {.person-bio}
+::: person-bio
 Although growing up in San Diego, CA meant that I spent many days of my youth out in the ocean, my scientific interest in the aquatic environment and its species wasn't fully realized until I began a position in 2018 as an undergraduate research assistant in an aquatic ecotoxicology lab at the University of California, Davis. During that time, I completed my undergraduate capstone project analyzing the effects of bifenthrin exposure on the behavior of the federally endangered Delta Smelt. After graduating with a bachelor of science in Animal Biology in 2020, I continued my research work in that same lab for an additional two years and further explored the developmental, behavioral, and reproductive impacts several commonly employed urban and agricultural pyrethroids had on native Californian estuarine fish species. In 2022, I dually joined the [Gardell Lab](https://gardell.ds.lib.uw.edu/) at the University of Washington, Tacoma and the Roberts Lab housed in the [School of Aquatic and Fishery Sciences](https://fish.uw.edu/) (SAFS) at the University of Washington, Seattle. As a graduate student at SAFS, I am now focused on identifying the constraints on *in vitro* cellular immortality in the marine model invertebrate, *Botryllus schlosseri*. This exploratory process will primarily involve the implementation of procedures for systematic primary cell culture optimization, stress-induced mutagenesis, and bioinformatic network analysis. In my free time I enjoy cooking, tending to my mini indoor garden, and playing guitar.
 :::
-:::
-:::
+:::::
+::::::
 
-::: {.person-card}
+:::::: person-card
 ![Grace Crandall](img/Crandall.JPG){.person-image}
 
-::: {.person-content}
+::::: person-content
 ## Grace Crandall {.person-name}
 
-::: {.person-links}
-[Lab Notebook](https://grace-ac.github.io/notebook/){.person-link}
-[Email](mailto:graceac9@uw.edu){.person-link}
+::: person-links
+[Lab Notebook](https://grace-ac.github.io/notebook/){.person-link} [Email](mailto:graceac9@uw.edu){.person-link}
 :::
 
-::: {.person-bio}
+::: person-bio
 I'm a returning student to the Roberts Lab, having previously received my BSc (2016) and MSc (2020) in this lab. I'm coming back to use -omics techniques to understand host response to pathogens. More specifically, I'll be continuing work that I've been part of since summer 2021 using transcriptomics to investigate the immune response of *Pycnopodia helianthoides* to sea star wasting disease. I will also be doing some research on eelgrass microbiomes in relation to eelgrass wasting disease and pathogens that cause illness in humans and animals. I've been working for Drew Harvell on the sea star project for the past three years and I am very excited to get to continue the work in a PhD program and to be back in the Roberts Lab!!! In my free time I like to go on walks, listen to music, go to concerts/out dancing, foster dogs, and am slowly teaching myself how to play guitar!
 :::
-:::
-:::
+:::::
+::::::
 
-::: {.person-card}
+:::::: person-card
 ![Kathleen Durkin](https://avatars.githubusercontent.com/u/89885240?v=4){.person-image}
 
-::: {.person-content}
+::::: person-content
 ## Kathleen Durkin {.person-name}
 
-::: {.person-links}
-[Lab Notebook](https://shedurkin.github.io/Roberts-LabNotebook/){.person-link}
-[Email](mailto:kdurkin1@uw.edu){.person-link}
+::: person-links
+[Lab Notebook](https://shedurkin.github.io/Roberts-LabNotebook/){.person-link} [Email](mailto:kdurkin1@uw.edu){.person-link}
 :::
 
-::: {.person-bio}
+::: person-bio
 I'm pursuing a PhD in Aquatic and Fishery Sciences, and am broadly interested in environmental response in marine invertebrates! I spent my undergraduate career studying soft coral taxonomy and population genetics using single- and multi-locus sequencing, and graduated from Harvey Mudd College in 2023 with a B.S. in Mathematical and Computational Biology. Since joining the Roberts Lab later that year, I've shifted my focus to epigenetics – molecular modifications that influence gene expression without affecting the DNA sequence. My current projects include the study of non-coding RNAs in corals and of multigenerational DNA methylation in Eastern oysters. You can learn more about my work through my publicly-available digital lab notebook, linked above. Outside of the lab I TA R-based biostatics classes, am learning Swedish, and like to spend my free time thrifting, crafting, and finding new shows to watch with my partner!
 :::
-:::
-:::
+:::::
+::::::
 
-::: {.person-card}
+:::::: person-card
 ![Megan Ewing](https://avatars.githubusercontent.com/u/66333757?v=4){.person-image}
 
-::: {.person-content}
+::::: person-content
 ## Megan Ewing {.person-name}
 
-::: {.person-links}
-[Lab Notebook](https://meganewing.github.io/mewing-notebook/){.person-link}
-[Email](mailto:mewing0@uw.edu){.person-link}
+::: person-links
+[Lab Notebook](https://meganewing.github.io/mewing-notebook/){.person-link} [Email](mailto:mewing0@uw.edu){.person-link}
 :::
 
-::: {.person-bio}
+::: person-bio
 I have been proud to call Washington home for most of my life, so I am thrilled to be able to conduct graduate research in the PNW as a part of the Roberts Lab. I graduated from UW's Marine Biology B.S. program in 2021, and went on to explore the aquatic sciences world outside of academia and research for a bit. Most of that time was spent working in education and non-profit spheres with Friends of the Issaquah Salmon Hatchery (FISH) where I was able to experience how the latest science and research is communicated to the public and advocated for with local, state, and federal legislators. In the background of this, I was also working on a manuscript for a project on invasive lionfish ecology that I started towards the end of my undergraduate career, so research was still heavily on my mind and I knew it was time to get back to it. I have been deeply fascinated in reproductive physiology and stress responses ever since I was first introduced to the topics, so the Roberts Lab seemed like the place to be. I am looking forward to my time with this group and getting to explore questions relating to stress and reproduction in the context of the ever changing climate of today's world. Outside of school and research, I spend most of my time on a board (snow/surf/skate), in dance halls, or climbing.
 :::
-:::
-:::
+:::::
+::::::
 
 # Postdoctoral Research Associates {.section-header}
 
-::: {.person-card}
+::::: person-card
 ![Laura H Spencer](https://github.com/RobertsLab/lab-website/blob/main/img/spencer,lh.jpg?raw=true){.person-image}
 
-::: {.person-content}
+:::: person-content
 ## Laura H Spencer, PhD {.person-name}
 
-::: {.person-bio}
+::: person-bio
 I am a postdoctoral researcher and NOAA Alaska Fishery Science Center Affiliate. Currently I study the response of Pacific cod and king crab species to temperature and acidification. Alaskan cod and crab populations crashed in recent years, coinciding with marine heatwaves and resulting in fisheries closures. I work with NOAA researchers conducting experiments on hatchery settings (Newport, OR and Kodiak, AK) to pair genomics data (RNASeq, lcWGS) with lab-based measurements for a deeper understanding of physiological responses and potential for adaptation. I also look for opportunities to develop genomics tools that generate data that is fundamental to fisheries management, aquaculture, and marine conservation.
 :::
-:::
-:::
+::::
+:::::
 
 # Research Scientists {.section-header}
 
-::: {.person-card}
+:::::: person-card
 ![Sam White](https://avatars.githubusercontent.com/u/4514104?s=400&u=4ca84a191a9207abf4a374cce575663b22f8e69a&v=4){.person-image}
 
-::: {.person-content}
+::::: person-content
 ## Sam White {.person-name}
 
-::: {.person-links}
-[Lab notebook](https://robertslab.github.io/sams-notebook/){.person-link}
-[Email](mailto:samwhite@uw.edu){.person-link}
+::: person-links
+[Lab notebook](https://robertslab.github.io/sams-notebook/){.person-link} [Email](mailto:samwhite@uw.edu){.person-link}
 :::
 
-::: {.person-bio}
-I am a research scientist in the lab since the lab's inception in 2007 and am jack-of-all-trades lab member. I dabble in all aspects of helping the lab run efficiently (bioinformatics, computer/server maintenance, training new personnel, purchasing/reconciliation, safety documentation/training, etc), but as a molecular biologist by training (B.S. Univ. of Illinois @ Urbana-Champaign - Plant Biology; M.S. Arizona State University - Plant Biology), I excel at bench work. Outside of lab-related work, I dig playing video games and listening to Phish (and, to placate the haters, I also like other good bands/musicians like Queens of the Stone Age, Uriah Heep, and Kacey Musgraves). I guess I also enjoy spending time with my spouse, kid, and dog, too.
+::: person-bio
+I am a research scientist in the lab since the lab's inception in 2007 and am jack-of-all-trades lab member. I dabble in all aspects of helping the lab run efficiently (bioinformatics, computer/server maintenance, training new personnel, purchasing/reconciliation, safety documentation/training, etc), but as a molecular biologist by training (B.S. Univ. of Illinois \@ Urbana-Champaign - Plant Biology; M.S. Arizona State University - Plant Biology), I excel at bench work. Outside of lab-related work, I dig playing video games and listening to Phish (and, to placate the haters, I also like other good bands/musicians like Queens of the Stone Age, Uriah Heep, and Kacey Musgraves). I guess I also enjoy spending time with my spouse, kid, and dog, too.
 :::
-:::
-:::
+:::::
+::::::
 
-::: {.person-card}
+:::::: person-card
 ![Ariana S. Huffmyer](https://github.com/AHuffmyer/ASH_Putnam_Lab_Notebook/blob/master/images/Ariana_Huffmyer.jpeg?raw=true){.person-image}
 
-::: {.person-content}
+::::: person-content
 ## Ariana S. Huffmyer, PhD {.person-name}
 
-::: {.person-links}
-[Lab notebook](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/){.person-link}
-[LinkTree](https://linktr.ee/ashuffmyer){.person-link}
-[Email](mailto:ashuff@uw.edu){.person-link}
+::: person-links
+[Lab notebook](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/){.person-link} [LinkTree](https://linktr.ee/ashuffmyer){.person-link} [Email](mailto:ashuff@uw.edu){.person-link}
 :::
 
-::: {.person-bio}
+::: person-bio
 I am a Research Scientist at the University of Washington studying the effects of climate change on marine invertebrate early life history, with a particular interest in tolerance and resilience to stress in reef-building corals and bivalves. My current research interests are in understanding how climate change affects coral performance and survival using multi-omic approaches. Increased frequency and severity of marine heat waves are causing coral bleaching - the breakdown of the nutritional symbiosis between tropical corals and their algal endosymbionts. My research investigates the formation of symbiosis between corals and their algal symbionts during early development in coral species in Hawaii, USA, and Moorea, French Polynesia by utilizing physiological, metabolomic, and transcriptomic approaches. Our work also investigates the capacity for aquaculture species (e.g., the Pacific oysters) to increase thermal tolerance and growth through stress hardening. We work in collaboration with aquaculture growers and hatcheries throughout Western Washington. I use [online notebooks](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/) and [GitHub](https://github.com/AHuffmyer) to publicly share my data and analyses. Outside the lab, I enjoy hiking, mountain biking, fly fishing, and exploring with my two dogs the Pacific Northwest.
 :::
-:::
-:::
+:::::
+::::::
 
-::: {.person-card}
-::: {.person-content}
+::::: person-card
+:::: person-content
 ## Lauren Vanderpaas {.person-name}
 
-::: {.person-bio}
+::: person-bio
 *Information coming soon...*
 :::
-:::
-:::
+::::
+:::::
 
 # Undergraduate Students {.section-header}
 
-::: {.alumni-grid}
-::: {.alumni-card}
-::: {.alumni-name}
+::::::::::::: alumni-grid
+:::: alumni-card
+::: alumni-name
 Madeline Baird
 :::
-:::
+::::
 
-::: {.alumni-card}
-::: {.alumni-name}
+:::: alumni-card
+::: alumni-name
 Genevieve Buchanan
 :::
-:::
+::::
 
-::: {.alumni-card}
-::: {.alumni-name}
+:::: alumni-card
+::: alumni-name
 Noah Ozguner
 :::
-:::
+::::
 
-::: {.alumni-card}
-::: {.alumni-name}
+:::: alumni-card
+::: alumni-name
 Noah Krebs
 :::
-:::
+::::
 
-::: {.alumni-card}
-::: {.alumni-name}
+:::: alumni-card
+::: alumni-name
 [Henry Berg](https://henryberg03.github.io/notebook/)
 :::
-:::
-:::
+::::
+:::::::::::::
 
 # Alumni {.section-header}
 
 ## Postdoctoral Research Associates
 
-::: {.alumni-grid}
-::: {.alumni-card}
-::: {.alumni-name}
+::::::::::: alumni-grid
+:::: alumni-card
+::: alumni-name
 Larken Root
 :::
-:::
+::::
 
-::: {.alumni-card}
-::: {.alumni-name}
+:::: alumni-card
+::: alumni-name
 [Matt George](https://mattgeorgephd.github.io/)
 :::
-:::
+::::
 
-::: {.alumni-card}
-::: {.alumni-name}
+:::: alumni-card
+::: alumni-name
 [Shelly Wanamaker](https://shellywanamaker.github.io)
 :::
-:::
+::::
 
-::: {.alumni-card}
-::: {.alumni-name}
+:::: alumni-card
+::: alumni-name
 Hollie Putnam
 :::
-:::
-:::
+::::
+:::::::::::
 
 ## Research Scientists
 
-::: {.alumni-grid}
-::: {.alumni-card}
-::: {.alumni-name}
+::::::::::::: alumni-grid
+:::: alumni-card
+::: alumni-name
 Brent Vadopalas
 :::
-:::
+::::
 
-::: {.alumni-card}
-::: {.alumni-name}
+:::: alumni-card
+::: alumni-name
 Giles Goetz
 :::
-:::
+::::
 
-::: {.alumni-card}
-::: {.alumni-name}
+:::: alumni-card
+::: alumni-name
 Delaney Lawson
 :::
-:::
+::::
 
-::: {.alumni-card}
-::: {.alumni-name}
+:::: alumni-card
+::: alumni-name
 Kaitlyn Mitchell
 :::
-:::
+::::
 
-::: {.alumni-card}
-::: {.alumni-name}
+:::: alumni-card
+::: alumni-name
 Crystal Simchick
 :::
-:::
-:::
+::::
+:::::::::::::
 
 ## Graduate Students
 
-::: {.alumni-grid}
-::: {.alumni-card}
-::: {.alumni-name}
+::::::::::::::::::::::::::::::::::: alumni-grid
+:::: alumni-card
+::: alumni-name
 [Aspen Coyle](https://aspencoyle.github.io/)
 :::
-:::
+::::
 
-::: {.alumni-card}
-::: {.alumni-name}
+:::: alumni-card
+::: alumni-name
 Olivia Cattau
 :::
-:::
+::::
 
-::: {.alumni-card}
-::: {.alumni-name}
+:::: alumni-card
+::: alumni-name
 [Yaamini Venkataraman](https://yaaminiv.github.io)
 :::
-:::
+::::
 
-::: {.alumni-card}
-::: {.alumni-name}
+:::: alumni-card
+::: alumni-name
 [Laura Spencer](https://laurahspencer.github.io/LabNotebook/)
 :::
-:::
+::::
 
-::: {.alumni-card}
-::: {.alumni-name}
-[Grace Crandall](https://grace-ac.github.io) *[Previous work]*
+:::: alumni-card
+::: alumni-name
+[Grace Crandall](https://grace-ac.github.io) *\[Previous work\]*
 :::
-:::
+::::
 
-::: {.alumni-card}
-::: {.alumni-name}
+:::: alumni-card
+::: alumni-name
 [Jay Dimond](https://wp.wwu.edu/jldimond/)
 :::
-:::
+::::
 
-::: {.alumni-card}
-::: {.alumni-name}
+:::: alumni-card
+::: alumni-name
 [Megan Hintz](https://www.lummi-nsn.gov/Website.php?PageID=846)
 :::
-:::
+::::
 
-::: {.alumni-card}
-::: {.alumni-name}
+:::: alumni-card
+::: alumni-name
 Rhonda Elliot
 :::
-:::
+::::
 
-::: {.alumni-card}
-::: {.alumni-name}
+:::: alumni-card
+::: alumni-name
 Jake Heare
 :::
-:::
+::::
 
-::: {.alumni-card}
-::: {.alumni-name}
+:::: alumni-card
+::: alumni-name
 Andy Jasonowicz
 :::
-:::
+::::
 
-::: {.alumni-card}
-::: {.alumni-name}
+:::: alumni-card
+::: alumni-name
 Claire Olson
 :::
-:::
+::::
 
-::: {.alumni-card}
-::: {.alumni-name}
+:::: alumni-card
+::: alumni-name
 Mackenzie Gavery
 :::
-:::
+::::
 
-::: {.alumni-card}
-::: {.alumni-name}
+:::: alumni-card
+::: alumni-name
 [Emma Timmins-Schiffman](http://emmatimminsschiffman.weebly.com)
 :::
-:::
+::::
 
-::: {.alumni-card}
-::: {.alumni-name}
+:::: alumni-card
+::: alumni-name
 Doug Immerman
 :::
-:::
+::::
 
-::: {.alumni-card}
-::: {.alumni-name}
+:::: alumni-card
+::: alumni-name
 Caroline Storer
 :::
-:::
+::::
 
-::: {.alumni-card}
-::: {.alumni-name}
+:::: alumni-card
+::: alumni-name
 Dave Metzger
 :::
-:::
-:::
+::::
+:::::::::::::::::::::::::::::::::::
 
 ## Undergraduate Alumni
 
-::: {.alumni-grid}
-::: {.alumni-card}
-::: {.alumni-name}
+::::::::::::::::::::::::::::::::::::::: alumni-grid
+::::: alumni-card
+::: alumni-name
 [Eric Essington](https://Eric-Ess.github.io/notebook/)
 :::
-::: {.alumni-category}
+
+::: alumni-category
 Recent Graduate
 :::
-:::
+:::::
 
-::: {.alumni-card}
-::: {.alumni-name}
+:::: alumni-card
+::: alumni-name
 Dorothy Lartey
 :::
-:::
+::::
 
-::: {.alumni-card}
-::: {.alumni-name}
+::::: alumni-card
+::: alumni-name
 Delaney Lawson (2022)
 :::
-::: {.alumni-links}
-[proposal](https://docs.google.com/document/d/1eC47B3HlVMkbWwHj7mGXQNNOS2X0rbl6YhE2z1lLmR0/edit?usp=sharing){.alumni-link}
-[paper](https://docs.google.com/document/d/1yW3u7tCCBXVSf8YxZFtwRDIPVgnKMnvMCjVoaKXl7qw/edit?usp=sharing){.alumni-link}
-[presentation](https://drive.google.com/file/d/1xELKSJINDtCFiOOR4NQTJV7J6yU7a1dm/view?usp=sharing){.alumni-link}
-:::
-:::
 
-::: {.alumni-card}
-::: {.alumni-name}
+::: alumni-links
+[proposal](https://docs.google.com/document/d/1eC47B3HlVMkbWwHj7mGXQNNOS2X0rbl6YhE2z1lLmR0/edit?usp=sharing){.alumni-link} [paper](https://docs.google.com/document/d/1yW3u7tCCBXVSf8YxZFtwRDIPVgnKMnvMCjVoaKXl7qw/edit?usp=sharing){.alumni-link} [presentation](https://drive.google.com/file/d/1xELKSJINDtCFiOOR4NQTJV7J6yU7a1dm/view?usp=sharing){.alumni-link}
+:::
+:::::
+
+:::: alumni-card
+::: alumni-name
 Hana Ra (2020)
 :::
-:::
+::::
 
-::: {.alumni-card}
-::: {.alumni-name}
+:::: alumni-card
+::: alumni-name
 Ronit (pre-college) (2019)
 :::
-:::
+::::
 
-::: {.alumni-card}
-::: {.alumni-name}
+:::: alumni-card
+::: alumni-name
 Alanna Greene (2019)
 :::
-:::
+::::
 
-::: {.alumni-card}
-::: {.alumni-name}
+::::: alumni-card
+::: alumni-name
 Grace Crandall (2016)
 :::
-::: {.alumni-links}
-[proposal](https://docs.google.com/document/d/1JfGHW-ou-9uNA5Ty8yz3eh2lTRMwnazGAGJQry16AOc/edit?usp=sharing){.alumni-link}
-[paper](https://docs.google.com/document/d/1y-tYILgL0CJXYl1REl67167CPA0nK3sP4WabVMaeOP0/edit?usp=sharing){.alumni-link}
-[slides](https://docs.google.com/presentation/d/1iOL7psop59XczsrTr-hOIKJuxNpCivmh3rIZjdIvuC0/edit?usp=sharing){.alumni-link}
-[presentation](https://drive.google.com/file/d/0B9V_gF766XZAUUg2dTV1a2RMNVk/view?usp=sharing){.alumni-link}
-:::
-:::
 
-::: {.alumni-card}
-::: {.alumni-name}
+::: alumni-links
+[proposal](https://docs.google.com/document/d/1JfGHW-ou-9uNA5Ty8yz3eh2lTRMwnazGAGJQry16AOc/edit?usp=sharing){.alumni-link} [paper](https://docs.google.com/document/d/1y-tYILgL0CJXYl1REl67167CPA0nK3sP4WabVMaeOP0/edit?usp=sharing){.alumni-link} [slides](https://docs.google.com/presentation/d/1iOL7psop59XczsrTr-hOIKJuxNpCivmh3rIZjdIvuC0/edit?usp=sharing){.alumni-link} [presentation](https://drive.google.com/file/d/0B9V_gF766XZAUUg2dTV1a2RMNVk/view?usp=sharing){.alumni-link}
+:::
+:::::
+
+::::: alumni-card
+::: alumni-name
 Jonathan Allen UW (2016)
 :::
-::: {.alumni-links}
-[proposal](https://docs.google.com/document/d/1Nde23goE2X2Vv9Cidrc02dmYxw5_RZjb9cHNjR4Q8N4/edit?usp=sharing){.alumni-link}
-[paper](https://docs.google.com/document/d/1w5mecAsBgYUB-ZdbeTpg0TGzXOHr_ZoxaJl_r7y3cac/edit?usp=sharing){.alumni-link}
-[slides](https://drive.google.com/file/d/0B9V_gF766XZAU2tDSjQ2UWpxZ0E/view?usp=sharing){.alumni-link}
-[presentation](https://drive.google.com/file/d/0B9V_gF766XZAY01LSnJ3UU8yMWs/view?usp=sharing){.alumni-link}
-[notebook](http://jda26.blogspot.com/){.alumni-link}
-:::
-:::
 
-::: {.alumni-card}
-::: {.alumni-name}
+::: alumni-links
+[proposal](https://docs.google.com/document/d/1Nde23goE2X2Vv9Cidrc02dmYxw5_RZjb9cHNjR4Q8N4/edit?usp=sharing){.alumni-link} [paper](https://docs.google.com/document/d/1w5mecAsBgYUB-ZdbeTpg0TGzXOHr_ZoxaJl_r7y3cac/edit?usp=sharing){.alumni-link} [slides](https://drive.google.com/file/d/0B9V_gF766XZAU2tDSjQ2UWpxZ0E/view?usp=sharing){.alumni-link} [presentation](https://drive.google.com/file/d/0B9V_gF766XZAY01LSnJ3UU8yMWs/view?usp=sharing){.alumni-link} [notebook](http://jda26.blogspot.com/){.alumni-link}
+:::
+:::::
+
+::::: alumni-card
+::: alumni-name
 Mrunmayee Manohar Shete (2015)
 :::
-::: {.alumni-links}
+
+::: alumni-links
 [notebook](http://onsnetwork.org/mrunmayee/page/3/){.alumni-link}
 :::
-:::
+:::::
 
-::: {.alumni-card}
-::: {.alumni-name}
+:::: alumni-card
+::: alumni-name
 Katie Jackson UW SAFS (2015)
 :::
-:::
+::::
 
-::: {.alumni-card}
-::: {.alumni-name}
+:::: alumni-card
+::: alumni-name
 Joelle Blaise UW SAFS (2014)
 :::
-:::
+::::
 
-::: {.alumni-card}
-::: {.alumni-name}
+::::: alumni-card
+::: alumni-name
 Hannah Wear UW SAFS (2013-2014)
 :::
-::: {.alumni-links}
-[proposal](https://docs.google.com/document/d/1mW8bMd3AWPGF9euY1Ck6h4MQ_TOZLBXnJyeQc6wKd2Q/edit){.alumni-link}
-[paper](https://docs.google.com/document/d/1w-AcodhwPoMyW96W9Oik81lbZJZqaQ5cLjl46l9sW7Y/pub){.alumni-link}
-[poster](http://figshare.com/articles/Differential_Gene_Expression_in_the_Male_and_Female_Olympia_Oyster/1019944){.alumni-link}
-:::
-:::
 
-::: {.alumni-card}
-::: {.alumni-name}
+::: alumni-links
+[proposal](https://docs.google.com/document/d/1mW8bMd3AWPGF9euY1Ck6h4MQ_TOZLBXnJyeQc6wKd2Q/edit){.alumni-link} [paper](https://docs.google.com/document/d/1w-AcodhwPoMyW96W9Oik81lbZJZqaQ5cLjl46l9sW7Y/pub){.alumni-link} [poster](http://figshare.com/articles/Differential_Gene_Expression_in_the_Male_and_Female_Olympia_Oyster/1019944){.alumni-link}
+:::
+:::::
+
+::::: alumni-card
+::: alumni-name
 Charles Duber UW SAFS (2013-2014)
 :::
-::: {.alumni-links}
-[proposal](https://docs.google.com/document/d/1ghXmH85LJlohpopaWs9jD8Lw1VcN4ZVMjUbzpV28R-0/edit){.alumni-link}
-[paper](https://docs.google.com/document/d/1MOC9FTrbURgqKs1_sA-c6mda0S9-4Gs1xi-jm4wphjg/pub){.alumni-link}
-[slides](https://docs.google.com/presentation/d/1IhEipEdYuHja7EIruawfrdxeRbO5xqqs6Us6wubeqsI/pub?start=false&loop=false&delayms=3000){.alumni-link}
-:::
-:::
 
-::: {.alumni-card}
-::: {.alumni-name}
+::: alumni-links
+[proposal](https://docs.google.com/document/d/1ghXmH85LJlohpopaWs9jD8Lw1VcN4ZVMjUbzpV28R-0/edit){.alumni-link} [paper](https://docs.google.com/document/d/1MOC9FTrbURgqKs1_sA-c6mda0S9-4Gs1xi-jm4wphjg/pub){.alumni-link} [slides](https://docs.google.com/presentation/d/1IhEipEdYuHja7EIruawfrdxeRbO5xqqs6Us6wubeqsI/pub?start=false&loop=false&delayms=3000){.alumni-link}
+:::
+:::::
+
+::::: alumni-card
+::: alumni-name
 Jessica Blanchette UW SAFS (2013-2014)
 :::
-::: {.alumni-links}
-[proposal](https://docs.google.com/document/d/12TBVhJFzyUVG3ZkHLFtQIqDR3rFMDxgIVLkVL2Upqj0/edit){.alumni-link}
-[paper](https://docs.google.com/document/d/12nb-nepY0VGAjGzpQO4Ni20yLjssj-rP0Ohrv7q8LQc/pub){.alumni-link}
-[slides](https://www.dropbox.com/s/w9at6mhduthozih/Blanchette%20Capstone.pptx){.alumni-link}
+
+::: alumni-links
+[proposal](https://docs.google.com/document/d/12TBVhJFzyUVG3ZkHLFtQIqDR3rFMDxgIVLkVL2Upqj0/edit){.alumni-link} [paper](https://docs.google.com/document/d/12nb-nepY0VGAjGzpQO4Ni20yLjssj-rP0Ohrv7q8LQc/pub){.alumni-link} [slides](https://www.dropbox.com/s/w9at6mhduthozih/Blanchette%20Capstone.pptx){.alumni-link}
 :::
-:::
-:::
+:::::
+:::::::::::::::::::::::::::::::::::::::
 
 ## Visiting Scientists
 
-::: {.alumni-grid}
-::: {.alumni-card}
-::: {.alumni-name}
+:::::::::::::::::::::::::::::: alumni-grid
+::::: alumni-card
+::: alumni-name
 Shanelle Haughton
 :::
-::: {.alumni-category}
+
+::: alumni-category
 PhD student, University of Maryland Eastern Shore (2021)
 :::
-:::
+:::::
 
-::: {.alumni-card}
-::: {.alumni-name}
+::::: alumni-card
+::: alumni-name
 Javier A. Rodriguez-Casariego
 :::
-::: {.alumni-category}
+
+::: alumni-category
 Florida International University (August 2019)
 :::
-:::
+:::::
 
-::: {.alumni-card}
-::: {.alumni-name}
+::::: alumni-card
+::: alumni-name
 Roberto Carlos Arredondo Espinoza
 :::
-::: {.alumni-category}
+
+::: alumni-category
 Mexico (Spring 2019)
 :::
-:::
+:::::
 
-::: {.alumni-card}
-::: {.alumni-name}
+::::: alumni-card
+::: alumni-name
 Marcos Espinel
 :::
-::: {.alumni-category}
+
+::: alumni-category
 Universidad Científica del Sur, Peru (April 2017)
 :::
-:::
+:::::
 
-::: {.alumni-card}
-::: {.alumni-name}
+::::: alumni-card
+::: alumni-name
 Dr. Cristian Gallardo
 :::
-::: {.alumni-category}
+
+::: alumni-category
 University of Concepcion (Autumn 2016)
 :::
-:::
+:::::
 
-::: {.alumni-card}
-::: {.alumni-name}
+::::: alumni-card
+::: alumni-name
 Dr. Hollie Putnam
 :::
-::: {.alumni-category}
+
+::: alumni-category
 Research Associate (Autumn 2016)
 :::
-:::
+:::::
 
-::: {.alumni-card}
-::: {.alumni-name}
+::::: alumni-card
+::: alumni-name
 Jose Angel Hidalgo de la Toba
 :::
-::: {.alumni-category}
+
+::: alumni-category
 CIBNOR PhD student (April 2016)
 :::
-:::
+:::::
 
-::: {.alumni-card}
-::: {.alumni-name}
+::::: alumni-card
+::: alumni-name
 Timothy Green
 :::
-::: {.alumni-category}
+
+::: alumni-category
 University of Queensland
 :::
-:::
+:::::
 
-::: {.alumni-card}
-::: {.alumni-name}
+::::: alumni-card
+::: alumni-name
 Adelaide Rhodes
 :::
-::: {.alumni-category}
+
+::: alumni-category
 Visiting Scholar
 :::
-:::
-:::
+:::::
+::::::::::::::::::::::::::::::
