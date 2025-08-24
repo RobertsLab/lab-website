@@ -14,7 +14,7 @@ listing:
   categories: FALSE
 ---
 
-We assert that the diversity of our community, inclusive of various ethnicity, genders, sexual orientations, and social backgrounds, is key the impact of our research. We recognize that diverse perspectives lead to novel solutions and that inclusion cultivates an environment where members are valued, supported, and encouraged to succeed.
+We assert that the diversity of our community, inclusive of various ethnicity, genders, sexual orientations, and social backgrounds, is key to the impact of our research. We recognize that diverse perspectives lead to novel solutions and that inclusion cultivates an environment where members are valued, supported, and encouraged to succeed.
 
 Specifically we strive to\
 - Recognize our differences as strengths\
