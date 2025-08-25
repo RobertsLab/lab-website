@@ -5,7 +5,7 @@ author: "Chandra Rajan, K., Yuan, M., Yu, Z., Roberts, S.B. and Thiyagarajan, V.
 year: "2021"
 publication: "Global Change Biology"
 preprint: ""
-doi: "https://doi.org/10.1111/gcb.15675"
+doi: "10.1111/gcb.15675"
 materials: ""
 eprint: ""
 toc: FALSE

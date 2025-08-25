@@ -5,7 +5,7 @@ author: "Laura H. Spencer, Erin Horkan, Ryan Crim, Steven B. Roberts"
 year: "2021"
 publication: "Journal of Experimental Marine Biology and Ecology"
 preprint: ""
-doi: "https://dx.doi.org/10.1016/j.jembe.2021.151604"
+doi: "10.1016/j.jembe.2021.151604"
 materials: "https://doi.org/10.6084/m9.figshare.14066498.v3"
 eprint: ""
 toc: FALSE

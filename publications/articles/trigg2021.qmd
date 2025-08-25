@@ -5,7 +5,7 @@ author: "Shelly A. Wanamaker , Yaamini R. Venkataraman, Mackenzie R. Gavery, Ste
 year: "2021"
 publication: "Molecular Ecology Resources"
 preprint: "https://www.biorxiv.org/content/10.1101/2021.03.29.437539v2"
-doi: "https://dx.doi.org/10.1111/1755-0998.13542"
+doi: "10.1111/1755-0998.13542"
 materials: "http://doi.org/10.17605/OSF.IO/X5WAZ"
 eprint: "https://d.pr/f/LqAVdC"
 toc: FALSE

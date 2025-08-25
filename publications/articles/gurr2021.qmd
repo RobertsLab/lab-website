@@ -5,7 +5,7 @@ author: "Samuel J. Gurr, Shelly A. Wanamaker , Brent Vadopalas, Steven B. Robert
 year: "2022"
 publication: "Journal of Experimental Biology"
 preprint: ""
-doi: "https://doi.org/10.1242/jeb.233932"
+doi: "10.1242/jeb.233932"
 materials: "http://doi.org/10.5281/zenodo.3903019"
 eprint: "https://journals.biologists.com/jeb/article-pdf/224/13/jeb233932/2421297/jeb233932.pdf"
 toc: FALSE

@@ -5,7 +5,7 @@ author: "Arredondo-Espinoza Roberto, Ibarra Ana M., Roberts B. Steven, Sicard-Go
 year: "2021"
 publication: "Aquaculture"
 preprint: ""
-doi: "https://doi.org/10.1016/j.aquaculture.2021.736923"
+doi: "10.1016/j.aquaculture.2021.736923"
 materials: ""
 eprint: ""
 toc: FALSE

@@ -5,7 +5,7 @@ author: "Dang, X., Lim, Y.-K., Li, Y., Roberts, S. B., Li, L., & Thiyagarajan, V
 year: "2022"
 publication: "Molecular Ecology"
 preprint: 
-doi: "https://dx.doi.org/10.1111/mec.16751"
+doi: "10.1111/mec.16751"
 materials: 
 eprint: "https://onlinelibrary.wiley.com/doi/pdf/10.1111/mec.16751" 
 toc: FALSE
