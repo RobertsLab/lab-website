@@ -1,0 +1,20 @@
+---
+title: "The *Caligus rogercresseyi* miRNome: Discovery and transcriptome profiling during the sea lice ontogeny"
+type: "article"
+author: "C. Gallardo-Escárate V. Valenzuela-Muñoz S. Boltaña G. Nuñez-Acuña D. Valenzuela-Miranda A.T. Gonçalves C. Détrée E. Tarifeño-Saldivia R. Farlora S. Roberts H.M. Putnam"
+year: "2017"
+publication: "AgriGene"
+preprint: ""
+doi: "http://dx.doi.org/10.1016/j.aggene.2017.03.002"
+materials: ""
+eprint: ""
+toc: FALSE
+---
+
+## Citation
+
+> C. Gallardo-Escárate V. Valenzuela-Muñoz S. Boltaña G. Nuñez-Acuña D. Valenzuela-Miranda A.T. Gonçalves C. Détrée E. Tarifeño-Saldivia R. Farlora S. Roberts H.M. Putnam (2017) The *Caligus rogercresseyi* miRNome: Discovery and transcriptome profiling during the sea lice ontogeny. AgriGene. doi:http://dx.doi.org/10.1016/j.aggene.2017.03.002
+
+## Abstract
+
+*Abstract not available*

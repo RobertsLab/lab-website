@@ -1,0 +1,22 @@
+---
+title: "Catching the complexity of salmon-louse interactions"
+type: "article"
+author: "Gallardo-Escárate C, Valenzuela-Muñoz V, Núñez-Acuña , Carrera C, Gonçalves AT, Valenzuela-Miranda D, Benavente BP, Roberts SB"
+year: "2019"
+publication: "Fish & Shellfish Immunology"
+preprint: ""
+doi: "https://doi.org/10.1016/j.fsi.2019.04.065"
+materials: ""
+eprint: ""
+toc: FALSE
+categories:
+  - fish
+---
+
+## Citation
+
+> Gallardo-Escárate C, Valenzuela-Muñoz V, Núñez-Acuña , Carrera C, Gonçalves AT, Valenzuela-Miranda D, Benavente BP, Roberts SB (2019) Catching the complexity of salmon-louse interactions. Fish & Shellfish Immunology. doi:10.1016/j.fsi.2019.04.065
+
+## Abstract
+
+*Abstract not available*

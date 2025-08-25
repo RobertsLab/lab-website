@@ -1,0 +1,20 @@
+---
+title: "A genetic basis for the phenotypic differentiation between siscowet and lean lake trout (*Salvelinus namaycush*)"
+type: "article"
+author: "Goetz FW, Rosauer D, Sitar S, Goetz G, Simchick C, Roberts SB, Johnson R, Murphy C, Bronte C, and Mackenzie S"
+year: "2010"
+publication: "Molecular Ecology 19 176--196"
+preprint: ""
+doi: ""
+materials: ""
+eprint: ""
+toc: FALSE
+---
+
+## Citation
+
+> Goetz FW, Rosauer D, Sitar S, Goetz G, Simchick C, Roberts SB, Johnson R, Murphy C, Bronte C, and Mackenzie S (2010) A genetic basis for the phenotypic differentiation between siscowet and lean lake trout (*Salvelinus namaycush*). Molecular Ecology 19 176--196. 
+
+## Abstract
+
+*Abstract not available*

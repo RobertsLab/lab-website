@@ -1,0 +1,22 @@
+---
+title: "Genotoype-by-sequencing of three geographically distinct populations of Olympia oysters, *Ostrea lurida*"
+type: "article"
+author: "Samuel J. White, Brent Vadopalas, Katherine Silliman & Steven B. Roberts"
+year: "2017"
+publication: "Scientific Data 4, Article number: 170130"
+preprint: ""
+doi: ""
+materials: ""
+eprint: ""
+toc: FALSE
+categories:
+  - oyster
+---
+
+## Citation
+
+> Samuel J. White, Brent Vadopalas, Katherine Silliman & Steven B. Roberts (2017) Genotoype-by-sequencing of three geographically distinct populations of Olympia oysters, *Ostrea lurida*. Scientific Data 4, Article number: 170130. 
+
+## Abstract
+
+*Abstract not available*

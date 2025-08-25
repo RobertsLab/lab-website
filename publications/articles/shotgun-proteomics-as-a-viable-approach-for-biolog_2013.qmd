@@ -1,0 +1,22 @@
+---
+title: "Shotgun proteomics as a viable approach for biological discovery in the Pacific oyster"
+type: "article"
+author: "Timmins-Schiffman EB, Nunn BL, Goodlett DR and Roberts SB"
+year: "2013"
+publication: "Conservation Physiology"
+preprint: ""
+doi: "https://doi.org/10.1093/conphys/cot009"
+materials: ""
+eprint: ""
+toc: FALSE
+categories:
+  - oyster
+---
+
+## Citation
+
+> Timmins-Schiffman EB, Nunn BL, Goodlett DR and Roberts SB (2013) Shotgun proteomics as a viable approach for biological discovery in the Pacific oyster. Conservation Physiology. doi:10.1093/conphys/cot009
+
+## Abstract
+
+*Abstract not available*

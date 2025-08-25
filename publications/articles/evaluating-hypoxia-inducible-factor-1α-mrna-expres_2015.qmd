@@ -1,0 +1,22 @@
+---
+title: "Evaluating hypoxia-inducible factor-1α mRNA expression in a pelagic fish, Pacific herring *Clupea pallasii*, as a biomarker for hypoxia exposure"
+type: "article"
+author: "Froehlich HE, Roberts SB, Essington TE"
+year: "2015"
+publication: ""
+preprint: ""
+doi: "https://doi.org/10.1016/j.cbpa.2015.07.016"
+materials: ""
+eprint: ""
+toc: FALSE
+categories:
+  - fish
+---
+
+## Citation
+
+> Froehlich HE, Roberts SB, Essington TE (2015) Evaluating hypoxia-inducible factor-1α mRNA expression in a pelagic fish, Pacific herring *Clupea pallasii*, as a biomarker for hypoxia exposure. . doi:10.1016/j.cbpa.2015.07.016
+
+## Abstract
+
+*Abstract not available*

@@ -1,0 +1,23 @@
+---
+title: "Ocean Acidification Induces Subtle Shifts in Gene Expression and DNA Methylation in Mantle Tissue of the Eastern Oyster (*Crassostrea virginica*)"
+type: "article"
+author: "Downey-Wall Alan M., Cameron Louise P., Ford Brett M., McNally Elise M., Venkataraman Yaamini R., Roberts Steven B., Ries Justin B., Lotterhos Katie E"
+year: "2020"
+publication: "Frontiers in Marine Science v7 p828"
+preprint: ""
+doi: "https://doi.org/10.3389/fmars.2020.566419"
+materials: ""
+eprint: ""
+toc: FALSE
+categories:
+  - oyster
+  - methylation
+---
+
+## Citation
+
+> Downey-Wall Alan M., Cameron Louise P., Ford Brett M., McNally Elise M., Venkataraman Yaamini R., Roberts Steven B., Ries Justin B., Lotterhos Katie E (2020) Ocean Acidification Induces Subtle Shifts in Gene Expression and DNA Methylation in Mantle Tissue of the Eastern Oyster (*Crassostrea virginica*). Frontiers in Marine Science v7 p828. doi:10.3389/fmars.2020.566419
+
+## Abstract
+
+*Abstract not available*

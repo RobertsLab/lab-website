@@ -1,0 +1,20 @@
+---
+title: "Development of a real-time quantitative PCR assay for the hard clam pathogen, Quahog Parasite Unknown (QPX)"
+type: "article"
+author: "Lyons MM\*, Smolowitz R, Dungan C, and Roberts SB"
+year: "2006"
+publication: "Diseases of Aquatic Organisms 72(1):45-52"
+preprint: ""
+doi: ""
+materials: ""
+eprint: ""
+toc: FALSE
+---
+
+## Citation
+
+> Lyons MM\*, Smolowitz R, Dungan C, and Roberts SB (2006) Development of a real-time quantitative PCR assay for the hard clam pathogen, Quahog Parasite Unknown (QPX). Diseases of Aquatic Organisms 72(1):45-52. 
+
+## Abstract
+
+*Abstract not available*

@@ -1,0 +1,22 @@
+---
+title: "Evidence for distributed light sensing in the skin of cuttlefish, *Sepia officinalis*"
+type: "article"
+author: "Mathger L, Roberts SB, and Hanlon R"
+year: "2010"
+publication: "Biology Letters"
+preprint: ""
+doi: ""
+materials: ""
+eprint: ""
+toc: FALSE
+categories:
+  - fish
+---
+
+## Citation
+
+> Mathger L, Roberts SB, and Hanlon R (2010) Evidence for distributed light sensing in the skin of cuttlefish, *Sepia officinalis*. Biology Letters. 
+
+## Abstract
+
+*Abstract not available*

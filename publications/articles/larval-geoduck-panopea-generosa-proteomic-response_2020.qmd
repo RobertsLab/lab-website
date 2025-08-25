@@ -1,0 +1,22 @@
+---
+title: "Larval Geoduck (*Panopea generosa*) Proteomic Response to Ciliates"
+type: "article"
+author: "Emma Timmins-Schiffman, José M. Guzmán, Rhonda Elliott Thompson, Brent Vadopalas, Benoit Eudeline and Steven B. Roberts"
+year: "2020"
+publication: "Scientific Reports 10, 6042"
+preprint: ""
+doi: "https://doi.org/10.1038/s41598-020-63218-x"
+materials: ""
+eprint: ""
+toc: FALSE
+categories:
+  - geoduck
+---
+
+## Citation
+
+> Emma Timmins-Schiffman, José M. Guzmán, Rhonda Elliott Thompson, Brent Vadopalas, Benoit Eudeline and Steven B. Roberts (2020) Larval Geoduck (*Panopea generosa*) Proteomic Response to Ciliates. Scientific Reports 10, 6042. doi:10.1038/s41598-020-63218-x
+
+## Abstract
+
+*Abstract not available*

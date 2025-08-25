@@ -1,0 +1,20 @@
+---
+title: "Temporal proteomic profiling reveals insight into critical developmental processes and temperature-influenced physiological response differences in a bivalve mollusc"
+type: "article"
+author: "Shelly A. Wanamaker , Kaitlyn R. Mitchell, Rhonda Elliott Thompson, Benoit Eudeline, Brent Vadopalas, Emma B. Timmins-Schiffman & Steven B. Roberts"
+year: "2020"
+publication: "BMC Genomics 21, 723"
+preprint: ""
+doi: "https://doi.org/10.1186/s12864-020-07127-3"
+materials: ""
+eprint: ""
+toc: FALSE
+---
+
+## Citation
+
+> Shelly A. Wanamaker , Kaitlyn R. Mitchell, Rhonda Elliott Thompson, Benoit Eudeline, Brent Vadopalas, Emma B. Timmins-Schiffman & Steven B. Roberts (2020) Temporal proteomic profiling reveals insight into critical developmental processes and temperature-influenced physiological response differences in a bivalve mollusc. BMC Genomics 21, 723. doi:10.1186/s12864-020-07127-3
+
+## Abstract
+
+*Abstract not available*

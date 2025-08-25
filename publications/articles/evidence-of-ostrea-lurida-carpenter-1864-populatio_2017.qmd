@@ -1,0 +1,22 @@
+---
+title: "Evidence of Ostrea lurida Carpenter, 1864 population structure in Puget Sound, WA"
+type: "article"
+author: "Jake Emerson Heare, Brady Blake, Jonathan P Davis, Brent Vadopalas, Steven Roberts"
+year: "2017"
+publication: "Marine Ecology 38:e12458"
+preprint: ""
+doi: "https://doi.org/10.1111/maec.12458"
+materials: ""
+eprint: ""
+toc: FALSE
+categories:
+  - oyster
+---
+
+## Citation
+
+> Jake Emerson Heare, Brady Blake, Jonathan P Davis, Brent Vadopalas, Steven Roberts (2017) Evidence of Ostrea lurida Carpenter, 1864 population structure in Puget Sound, WA. Marine Ecology 38:e12458. doi:10.1111/maec.12458
+
+## Abstract
+
+*Abstract not available*

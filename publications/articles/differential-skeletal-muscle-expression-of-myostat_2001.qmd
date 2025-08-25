@@ -1,0 +1,20 @@
+---
+title: "Differential skeletal muscle expression of myostatin across teleost species, and the isolation of multiple myostatin isoforms"
+type: "article"
+author: "Roberts SB, Goetz FW"
+year: "2001"
+publication: "FEBS Letters Vol 49:3,212-216"
+preprint: ""
+doi: ""
+materials: ""
+eprint: ""
+toc: FALSE
+---
+
+## Citation
+
+> Roberts SB, Goetz FW (2001) Differential skeletal muscle expression of myostatin across teleost species, and the isolation of multiple myostatin isoforms. FEBS Letters Vol 49:3,212-216. 
+
+## Abstract
+
+*Abstract not available*

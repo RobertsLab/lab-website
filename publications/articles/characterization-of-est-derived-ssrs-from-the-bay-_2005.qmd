@@ -1,0 +1,20 @@
+---
+title: "Characterization of EST derived SSRs from the bay scallop, *Argopectens irradians*"
+type: "article"
+author: "Roberts SB, Romano C, and Gerlach G"
+year: "2005"
+publication: "Molecular Ecology Notes 5: 567-568"
+preprint: ""
+doi: ""
+materials: ""
+eprint: ""
+toc: FALSE
+---
+
+## Citation
+
+> Roberts SB, Romano C, and Gerlach G (2005) Characterization of EST derived SSRs from the bay scallop, *Argopectens irradians*. Molecular Ecology Notes 5: 567-568. 
+
+## Abstract
+
+*Abstract not available*

@@ -1,0 +1,20 @@
+---
+title: "Myostatin protein and mRNA transcript levels in adult and developing brook trout"
+type: "article"
+author: "Roberts SB, Goetz FW"
+year: "2003"
+publication: ""
+preprint: ""
+doi: ""
+materials: ""
+eprint: ""
+toc: FALSE
+---
+
+## Citation
+
+> Roberts SB, Goetz FW (2003) Myostatin protein and mRNA transcript levels in adult and developing brook trout. . 
+
+## Abstract
+
+*Abstract not available*

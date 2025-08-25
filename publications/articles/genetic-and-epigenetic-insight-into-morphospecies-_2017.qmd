@@ -1,0 +1,23 @@
+---
+title: "Genetic and epigenetic insight into morphospecies in a reef coral"
+type: "article"
+author: "Dimond JL, Gamblewood SK, Roberts SB"
+year: "2017"
+publication: "Molecular Ecology. 00:1--12"
+preprint: ""
+doi: "http://dx.doi.org/10.1111/mec.14252"
+materials: ""
+eprint: ""
+toc: FALSE
+categories:
+  - methylation
+  - coral
+---
+
+## Citation
+
+> Dimond JL, Gamblewood SK, Roberts SB (2017) Genetic and epigenetic insight into morphospecies in a reef coral. Molecular Ecology. 00:1--12. doi:http://dx.doi.org/10.1111/mec.14252
+
+## Abstract
+
+*Abstract not available*

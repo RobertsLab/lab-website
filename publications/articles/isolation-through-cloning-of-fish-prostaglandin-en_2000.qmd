@@ -1,0 +1,22 @@
+---
+title: "Isolation through cloning of fish prostaglandin endoperoxide synthase (cyclooxygenase)"
+type: "article"
+author: "Roberts SB, Langenau DM, Goetz FW"
+year: "2000"
+publication: ""
+preprint: ""
+doi: ""
+materials: ""
+eprint: ""
+toc: FALSE
+categories:
+  - fish
+---
+
+## Citation
+
+> Roberts SB, Langenau DM, Goetz FW (2000) Isolation through cloning of fish prostaglandin endoperoxide synthase (cyclooxygenase). . 
+
+## Abstract
+
+*Abstract not available*

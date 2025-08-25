@@ -1,0 +1,23 @@
+---
+title: "Convergence of DNA Methylation Profiles of the Reef Coral *Porites astreoides* in a Novel Environment"
+type: "article"
+author: "Dimond JL and Roberts SB"
+year: "2020"
+publication: "Frontiers in Marine Science. vol 6"
+preprint: ""
+doi: "https://doi.org/10.3389/fmars.2019.00792"
+materials: ""
+eprint: ""
+toc: FALSE
+categories:
+  - methylation
+  - coral
+---
+
+## Citation
+
+> Dimond JL and Roberts SB (2020) Convergence of DNA Methylation Profiles of the Reef Coral *Porites astreoides* in a Novel Environment. Frontiers in Marine Science. vol 6. doi:10.3389/fmars.2019.00792
+
+## Abstract
+
+*Abstract not available*

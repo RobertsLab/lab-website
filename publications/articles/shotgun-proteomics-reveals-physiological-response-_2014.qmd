@@ -1,0 +1,22 @@
+---
+title: "Shotgun proteomics reveals physiological response to ocean acidification in *Crassostrea gigas*"
+type: "article"
+author: "Timmins-Schiffman E, Coffey WD, Hua W, Nunn BL, Dickinson GH and Roberts SB"
+year: "2014"
+publication: "BMC Genomics 2014, 15:951"
+preprint: ""
+doi: "https://doi.org/10.1186/1471-2164-15-951"
+materials: ""
+eprint: ""
+toc: FALSE
+categories:
+  - oyster
+---
+
+## Citation
+
+> Timmins-Schiffman E, Coffey WD, Hua W, Nunn BL, Dickinson GH and Roberts SB (2014) Shotgun proteomics reveals physiological response to ocean acidification in *Crassostrea gigas*. BMC Genomics 2014, 15:951. doi:10.1186/1471-2164-15-951
+
+## Abstract
+
+*Abstract not available*

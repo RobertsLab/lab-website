@@ -1,0 +1,20 @@
+---
+title: "Aquaculture genomics, genetics and breeding in the United States: current status, challenges, and priorities for future research"
+type: "article"
+author: "The Aquaculture Genomics, Genetics and Breeding Workshop"
+year: "2017"
+publication: "BMC Genomics 18:191"
+preprint: ""
+doi: ""
+materials: ""
+eprint: ""
+toc: FALSE
+---
+
+## Citation
+
+> The Aquaculture Genomics, Genetics and Breeding Workshop (2017) Aquaculture genomics, genetics and breeding in the United States: current status, challenges, and priorities for future research. BMC Genomics 18:191. 
+
+## Abstract
+
+*Abstract not available*

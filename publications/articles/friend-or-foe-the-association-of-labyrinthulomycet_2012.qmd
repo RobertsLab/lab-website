@@ -1,0 +1,20 @@
+---
+title: "Friend or foe: the association of Labyrinthulomycetes with the Caribbean sea fan, *Gorgonia ventalina*"
+type: "article"
+author: "Burge CA, Douglas N, Conti-Jerpe I, Weil E, Roberts SB, Friedman CS and CD Harvell"
+year: "2012"
+publication: "Diseases of Aquatic Organisms 101:1-12"
+preprint: ""
+doi: "https://doi.org/10.3354/dao02487"
+materials: ""
+eprint: ""
+toc: FALSE
+---
+
+## Citation
+
+> Burge CA, Douglas N, Conti-Jerpe I, Weil E, Roberts SB, Friedman CS and CD Harvell (2012) Friend or foe: the association of Labyrinthulomycetes with the Caribbean sea fan, *Gorgonia ventalina*. Diseases of Aquatic Organisms 101:1-12. doi:10.3354/dao02487
+
+## Abstract
+
+*Abstract not available*

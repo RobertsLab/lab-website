@@ -1,0 +1,22 @@
+---
+title: "Analysis of genes isolated from plated hemocytes of the Pacific Oyster, *Crassostrea gigas*"
+type: "article"
+author: "Roberts SB, Goetz G, White S, and Goetz F"
+year: "2009"
+publication: "Marine Biotechnology 11:24-44"
+preprint: ""
+doi: ""
+materials: ""
+eprint: ""
+toc: FALSE
+categories:
+  - oyster
+---
+
+## Citation
+
+> Roberts SB, Goetz G, White S, and Goetz F (2009) Analysis of genes isolated from plated hemocytes of the Pacific Oyster, *Crassostrea gigas*. Marine Biotechnology 11:24-44. 
+
+## Abstract
+
+*Abstract not available*

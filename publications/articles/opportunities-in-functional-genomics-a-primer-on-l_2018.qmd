@@ -1,0 +1,20 @@
+---
+title: "Opportunities in Functional Genomics: A Primer on Lab and Computational Aspects"
+type: "article"
+author: "Roberts SB, Gavery MR"
+year: "2018"
+publication: "Journal of Shellfish Research 37(4):747-754"
+preprint: ""
+doi: "https://doi.org/10.2983/035.037.0406"
+materials: ""
+eprint: ""
+toc: FALSE
+---
+
+## Citation
+
+> Roberts SB, Gavery MR (2018) Opportunities in Functional Genomics: A Primer on Lab and Computational Aspects. Journal of Shellfish Research 37(4):747-754. doi:10.2983/035.037.0406
+
+## Abstract
+
+*Abstract not available*

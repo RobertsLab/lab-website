@@ -1,0 +1,20 @@
+---
+title: "Lack of growth enhancement by exogenous growth hormone treatment in yellow perch in four separate experiments"
+type: "article"
+author: "Jentoft S, Topp N, Seeliger M, Malison JA, Barry TP, Held JA, Roberts SB, and Goetz FW"
+year: "2005"
+publication: "Aquaculture 250:471-479"
+preprint: ""
+doi: ""
+materials: ""
+eprint: ""
+toc: FALSE
+---
+
+## Citation
+
+> Jentoft S, Topp N, Seeliger M, Malison JA, Barry TP, Held JA, Roberts SB, and Goetz FW (2005) Lack of growth enhancement by exogenous growth hormone treatment in yellow perch in four separate experiments. Aquaculture 250:471-479. 
+
+## Abstract
+
+*Abstract not available*

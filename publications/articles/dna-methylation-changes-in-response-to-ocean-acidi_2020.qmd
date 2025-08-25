@@ -1,0 +1,23 @@
+---
+title: "DNA methylation changes in response to ocean acidification at the time of larval metamorphosis in the edible oyster, *Crassostrea hongkongensis*"
+type: "article"
+author: "Yong-Kian Lim, Khan Cheung, Xin Dang, Steven B. Roberts, Xiaotong Wang, Vengatesen Thiyagarajan"
+year: "2020"
+publication: "Marine Environmental Research, Volume 163"
+preprint: ""
+doi: "https://doi.org/10.1016/j.marenvres.2020.105214"
+materials: ""
+eprint: ""
+toc: FALSE
+categories:
+  - oyster
+  - methylation
+---
+
+## Citation
+
+> Yong-Kian Lim, Khan Cheung, Xin Dang, Steven B. Roberts, Xiaotong Wang, Vengatesen Thiyagarajan (2020) DNA methylation changes in response to ocean acidification at the time of larval metamorphosis in the edible oyster, *Crassostrea hongkongensis*. Marine Environmental Research, Volume 163. doi:10.1016/j.marenvres.2020.105214
+
+## Abstract
+
+*Abstract not available*

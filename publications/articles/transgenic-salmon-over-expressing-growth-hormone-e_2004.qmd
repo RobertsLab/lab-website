@@ -1,0 +1,22 @@
+---
+title: "Transgenic salmon over-expressing growth hormone exhibit decreased myostatin transcript and protein expression"
+type: "article"
+author: "Roberts SB, McCauley LAR, Devlin RH, Goetz FW"
+year: "2004"
+publication: "Journal of Experimental Biology 207(Pt 21):3741-8"
+preprint: ""
+doi: ""
+materials: ""
+eprint: ""
+toc: FALSE
+categories:
+  - fish
+---
+
+## Citation
+
+> Roberts SB, McCauley LAR, Devlin RH, Goetz FW (2004) Transgenic salmon over-expressing growth hormone exhibit decreased myostatin transcript and protein expression. Journal of Experimental Biology 207(Pt 21):3741-8. 
+
+## Abstract
+
+*Abstract not available*

@@ -1,0 +1,20 @@
+---
+title: "Single-nucleotide polymorphism (SNP) discovery and applications of SNP genotyping in nonmodel organisms"
+type: "article"
+author: "Seeb JE, Carvalho G, Hauser L, Naish K, Roberts SB and Seeb LW"
+year: "2011"
+publication: "Molecular Ecology Resources 11 1--8"
+preprint: ""
+doi: "https://doi.org/10.1111/j.1755-0998.2010.02979.x"
+materials: ""
+eprint: ""
+toc: FALSE
+---
+
+## Citation
+
+> Seeb JE, Carvalho G, Hauser L, Naish K, Roberts SB and Seeb LW (2011) Single-nucleotide polymorphism (SNP) discovery and applications of SNP genotyping in nonmodel organisms. Molecular Ecology Resources 11 1--8. doi:10.1111/j.1755-0998.2010.02979.x
+
+## Abstract
+
+*Abstract not available*

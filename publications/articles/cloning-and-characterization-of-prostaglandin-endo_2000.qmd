@@ -1,0 +1,20 @@
+---
+title: "Cloning and characterization of prostaglandin endoperoxide synthase-1 and -2 from the brook trout ovary"
+type: "article"
+author: "Roberts SB, Langenau DM, Goetz FW"
+year: "2000"
+publication: ""
+preprint: ""
+doi: ""
+materials: ""
+eprint: ""
+toc: FALSE
+---
+
+## Citation
+
+> Roberts SB, Langenau DM, Goetz FW (2000) Cloning and characterization of prostaglandin endoperoxide synthase-1 and -2 from the brook trout ovary. . 
+
+## Abstract
+
+*Abstract not available*

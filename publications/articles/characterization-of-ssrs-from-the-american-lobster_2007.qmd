@@ -1,0 +1,20 @@
+---
+title: "Characterization of SSRs from the American lobster, *Homarus americanus*"
+type: "article"
+author: "Hodgins-Davis A\*, Roberts SB, Cowan D, Atema J, Avolio C, Defaveri J, and Gerlach G"
+year: "2007"
+publication: "Molecular Ecology Notes 7:330-332"
+preprint: ""
+doi: ""
+materials: ""
+eprint: ""
+toc: FALSE
+---
+
+## Citation
+
+> Hodgins-Davis A\*, Roberts SB, Cowan D, Atema J, Avolio C, Defaveri J, and Gerlach G (2007) Characterization of SSRs from the American lobster, *Homarus americanus*. Molecular Ecology Notes 7:330-332. 
+
+## Abstract
+
+*Abstract not available*

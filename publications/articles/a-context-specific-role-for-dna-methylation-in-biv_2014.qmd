@@ -1,0 +1,22 @@
+---
+title: "A context specific role for DNA methylation in bivalves"
+type: "article"
+author: "Gavery MR and Roberts SB"
+year: "2014"
+publication: "Briefings in Functional Genomics"
+preprint: ""
+doi: "https://doi.org/10.1093/bfgp/elt054"
+materials: ""
+eprint: ""
+toc: FALSE
+categories:
+  - methylation
+---
+
+## Citation
+
+> Gavery MR and Roberts SB (2014) A context specific role for DNA methylation in bivalves. Briefings in Functional Genomics. doi:10.1093/bfgp/elt054
+
+## Abstract
+
+*Abstract not available*

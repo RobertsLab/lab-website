@@ -1,0 +1,20 @@
+---
+title: "Immune response of the Caribbean sea fan, Gorgonia ventalina, exposed to an *Aplanochytrium parasite* as revealed by transcriptome sequencing"
+type: "article"
+author: "Burge CA, Mouchka ME, Harvell CD and Roberts SB"
+year: "2013"
+publication: "Frontiers in Physiology 4:180"
+preprint: ""
+doi: "https://doi.org/10.3389/fphys.2013.00180"
+materials: ""
+eprint: ""
+toc: FALSE
+---
+
+## Citation
+
+> Burge CA, Mouchka ME, Harvell CD and Roberts SB (2013) Immune response of the Caribbean sea fan, Gorgonia ventalina, exposed to an *Aplanochytrium parasite* as revealed by transcriptome sequencing. Frontiers in Physiology 4:180. doi:10.3389/fphys.2013.00180
+
+## Abstract
+
+*Abstract not available*

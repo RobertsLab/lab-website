@@ -1,0 +1,22 @@
+---
+title: "Characterizing short read sequencing for gene discovery and RNA-Seq analysis in Crassostrea gigas"
+type: "article"
+author: "Gavery MR and Roberts SB"
+year: "2012"
+publication: ""
+preprint: ""
+doi: "https://doi.org/10.1016/j.cbd.2011.12.003"
+materials: ""
+eprint: ""
+toc: FALSE
+categories:
+  - oyster
+---
+
+## Citation
+
+> Gavery MR and Roberts SB (2012) Characterizing short read sequencing for gene discovery and RNA-Seq analysis in Crassostrea gigas. . doi:10.1016/j.cbd.2011.12.003
+
+## Abstract
+
+*Abstract not available*

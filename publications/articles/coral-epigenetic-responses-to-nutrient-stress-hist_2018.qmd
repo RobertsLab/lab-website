@@ -1,0 +1,23 @@
+---
+title: "Coral epigenetic responses to nutrient stress: Histone H2A.X phosphorylation dynamics and DNA methylation in the staghorn coral *Acropora cervicornis*"
+type: "article"
+author: "Javier A. Rodriguez‐Casariego, Mark C. Ladd, Andrew A. Shantz, Christian Lopes, Manjinder S. Cheema, Bohyun Kim, Steven B. Roberts, James W. Fourqurean, Juan Ausio, Deron E. Burkepile, and Jose M. Eirin‐Lopez"
+year: "2018"
+publication: "Ecol Evol. 2018;00:1--15"
+preprint: ""
+doi: "https://doi.org/10.1002/ece3.4678"
+materials: ""
+eprint: ""
+toc: FALSE
+categories:
+  - methylation
+  - coral
+---
+
+## Citation
+
+> Javier A. Rodriguez‐Casariego, Mark C. Ladd, Andrew A. Shantz, Christian Lopes, Manjinder S. Cheema, Bohyun Kim, Steven B. Roberts, James W. Fourqurean, Juan Ausio, Deron E. Burkepile, and Jose M. Eirin‐Lopez (2018) Coral epigenetic responses to nutrient stress: Histone H2A.X phosphorylation dynamics and DNA methylation in the staghorn coral *Acropora cervicornis*. Ecol Evol. 2018;00:1--15. doi:10.1002/ece3.4678
+
+## Abstract
+
+*Abstract not available*

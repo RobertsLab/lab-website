@@ -1,0 +1,22 @@
+---
+title: "Transcriptomic and metabolic response to chronic and acute thermal exposure of juvenile geoduck clams *Panopea globosa*"
+type: "article"
+author: "Juárez, O., Lafarga-De la Cruz, F., Leyva-Valencia, I., López-Landavery, E., García-Esquivel, Z., Díaz, F., Re-Araujo, D., Vadopalas, B., and C. Galindo-Sánchez"
+year: "2018"
+publication: "Marine Genomics"
+preprint: ""
+doi: "https://doi.org/10.1016/j.margen.2018.09.003"
+materials: ""
+eprint: ""
+toc: FALSE
+categories:
+  - geoduck
+---
+
+## Citation
+
+> Juárez, O., Lafarga-De la Cruz, F., Leyva-Valencia, I., López-Landavery, E., García-Esquivel, Z., Díaz, F., Re-Araujo, D., Vadopalas, B., and C. Galindo-Sánchez (2018) Transcriptomic and metabolic response to chronic and acute thermal exposure of juvenile geoduck clams *Panopea globosa*. Marine Genomics. doi:10.1016/j.margen.2018.09.003
+
+## Abstract
+
+*Abstract not available*

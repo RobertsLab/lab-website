@@ -1,0 +1,22 @@
+---
+title: "The activation and cryopreservation of sablefish (*Anoplopoma fimbria*) sperm"
+type: "article"
+author: "Immerman DA and Goetz FW"
+year: "2014"
+publication: "Aquaculture"
+preprint: ""
+doi: "https://doi.org/10.1016/j.aquaculture.2014.04.010"
+materials: ""
+eprint: ""
+toc: FALSE
+categories:
+  - fish
+---
+
+## Citation
+
+> Immerman DA and Goetz FW (2014) The activation and cryopreservation of sablefish (*Anoplopoma fimbria*) sperm. Aquaculture. doi:10.1016/j.aquaculture.2014.04.010
+
+## Abstract
+
+*Abstract not available*

@@ -1,0 +1,22 @@
+---
+title: "The isolation, characterization, and expression of a novel GDF11 gene and a second myostatin form in zebrafish, Danio rerio</a>. Comparative Biochemistry and Physiology"
+type: "article"
+author: "Biga PR, Roberts SB, Iliev DB, McCauley LA, Moon JS, Collodi P, and Goetz FW"
+year: "2005"
+publication: ""
+preprint: ""
+doi: ""
+materials: ""
+eprint: ""
+toc: FALSE
+categories:
+  - fish
+---
+
+## Citation
+
+> Biga PR, Roberts SB, Iliev DB, McCauley LA, Moon JS, Collodi P, and Goetz FW (2005) The isolation, characterization, and expression of a novel GDF11 gene and a second myostatin form in zebrafish, Danio rerio</a>. Comparative Biochemistry and Physiology. . 
+
+## Abstract
+
+*Abstract not available*

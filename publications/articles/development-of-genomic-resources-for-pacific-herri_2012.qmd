@@ -1,0 +1,20 @@
+---
+title: "Development of genomic resources for Pacific herring through targeted transcriptome pyrosequencing"
+type: "article"
+author: "Roberts SB, Hauser L, Seeb LW and Seeb JE"
+year: "2012"
+publication: "PLoS ONE 7(2): e30908"
+preprint: ""
+doi: "https://doi.org/10.1371/journal.pone.0030908"
+materials: ""
+eprint: ""
+toc: FALSE
+---
+
+## Citation
+
+> Roberts SB, Hauser L, Seeb LW and Seeb JE (2012) Development of genomic resources for Pacific herring through targeted transcriptome pyrosequencing. PLoS ONE 7(2): e30908. doi:10.1371/journal.pone.0030908
+
+## Abstract
+
+*Abstract not available*

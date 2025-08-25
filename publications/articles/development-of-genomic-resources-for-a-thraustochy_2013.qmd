@@ -1,0 +1,20 @@
+---
+title: "Development of Genomic Resources for a thraustochytrid Pathogen and Investigation of Temperature Influences on Gene Expression"
+type: "article"
+author: "Garcia-Vedrenne AE, Groner M, Page-Karjian A, Siegmund G-F, Singhal S, Sziklay J and Roberts SB"
+year: "2013"
+publication: "PLoS ONE 8(9): e74196"
+preprint: ""
+doi: "https://doi.org/10.1371/journal.pone.0074196"
+materials: ""
+eprint: ""
+toc: FALSE
+---
+
+## Citation
+
+> Garcia-Vedrenne AE, Groner M, Page-Karjian A, Siegmund G-F, Singhal S, Sziklay J and Roberts SB (2013) Development of Genomic Resources for a thraustochytrid Pathogen and Investigation of Temperature Influences on Gene Expression. PLoS ONE 8(9): e74196. doi:10.1371/journal.pone.0074196
+
+## Abstract
+
+*Abstract not available*

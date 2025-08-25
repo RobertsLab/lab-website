@@ -1,0 +1,22 @@
+---
+title: "Spatial and Temporal Distribution of the Early Life History Stages of the Native Olympia Oyster Ostrea lurida (Carpenter, 1864) in a Restoration Site in Northern Puget Sound, Wa"
+type: "article"
+author: "Bonnie J. Becker, Michael D. Behrens, Brian Allen, Megan Hintz, Hannah Parker, Michelle M. McCartha, and Sarah M. White"
+year: "2020"
+publication: "Journal of Shellfish Research 39(1), 43-58"
+preprint: ""
+doi: "https://doi.org//10.2983/035.039.0105"
+materials: ""
+eprint: ""
+toc: FALSE
+categories:
+  - oyster
+---
+
+## Citation
+
+> Bonnie J. Becker, Michael D. Behrens, Brian Allen, Megan Hintz, Hannah Parker, Michelle M. McCartha, and Sarah M. White (2020) Spatial and Temporal Distribution of the Early Life History Stages of the Native Olympia Oyster Ostrea lurida (Carpenter, 1864) in a Restoration Site in Northern Puget Sound, Wa. Journal of Shellfish Research 39(1), 43-58. doi:/10.2983/035.039.0105
+
+## Abstract
+
+*Abstract not available*

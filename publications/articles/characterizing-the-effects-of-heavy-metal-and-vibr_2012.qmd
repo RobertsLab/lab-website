@@ -1,0 +1,22 @@
+---
+title: "Characterizing the effects of heavy metal and *Vibrio* exposure on hsp70 expression in *Crassostrea gigas* gill tissue"
+type: "article"
+author: "Metzger DC, Pratt P and Roberts SB"
+year: "2012"
+publication: "Journal of Shellfish Research 31(3):627-630"
+preprint: ""
+doi: "https://doi.org/10.2983/035.031.0305"
+materials: ""
+eprint: ""
+toc: FALSE
+categories:
+  - oyster
+---
+
+## Citation
+
+> Metzger DC, Pratt P and Roberts SB (2012) Characterizing the effects of heavy metal and *Vibrio* exposure on hsp70 expression in *Crassostrea gigas* gill tissue. Journal of Shellfish Research 31(3):627-630. doi:10.2983/035.031.0305
+
+## Abstract
+
+*Abstract not available*

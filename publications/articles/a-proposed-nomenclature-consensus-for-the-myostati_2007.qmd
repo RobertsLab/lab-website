@@ -1,0 +1,20 @@
+---
+title: "A Proposed Nomenclature Consensus for the Myostatin Gene Family"
+type: "article"
+author: "Rodgers BD, Roalson EH, Weber GM, Roberts SB, Goetz FW"
+year: "2007"
+publication: ""
+preprint: ""
+doi: ""
+materials: ""
+eprint: ""
+toc: FALSE
+---
+
+## Citation
+
+> Rodgers BD, Roalson EH, Weber GM, Roberts SB, Goetz FW (2007) A Proposed Nomenclature Consensus for the Myostatin Gene Family. . 
+
+## Abstract
+
+*Abstract not available*

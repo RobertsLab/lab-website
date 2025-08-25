@@ -1,0 +1,22 @@
+---
+title: "Immune response and mechanical stress susceptibility in diseased oysters, *Crassostrea virginica*"
+type: "article"
+author: "Roberts SB, Sunila I, and Wikfors G"
+year: "2011"
+publication: "Journal of Comparative Physiology B 182:1 41-48"
+preprint: ""
+doi: "https://doi.org/10.1007/s00360-011-0605-z"
+materials: ""
+eprint: ""
+toc: FALSE
+categories:
+  - oyster
+---
+
+## Citation
+
+> Roberts SB, Sunila I, and Wikfors G (2011) Immune response and mechanical stress susceptibility in diseased oysters, *Crassostrea virginica*. Journal of Comparative Physiology B 182:1 41-48. doi:10.1007/s00360-011-0605-z
+
+## Abstract
+
+*Abstract not available*

@@ -1,0 +1,22 @@
+---
+title: "Transcriptome sequencing and high-resolution melt analysis advance single nucleotidepolymorphism discovery in duplicated salmonids"
+type: "article"
+author: "Seeb JE, Pascal CE, Graue ED, Seeb LW, Templin WD, Harkins T and Roberts SB"
+year: "2010"
+publication: "Molecular Ecology Resources"
+preprint: ""
+doi: ""
+materials: ""
+eprint: ""
+toc: FALSE
+categories:
+  - fish
+---
+
+## Citation
+
+> Seeb JE, Pascal CE, Graue ED, Seeb LW, Templin WD, Harkins T and Roberts SB (2010) Transcriptome sequencing and high-resolution melt analysis advance single nucleotidepolymorphism discovery in duplicated salmonids. Molecular Ecology Resources. 
+
+## Abstract
+
+*Abstract not available*

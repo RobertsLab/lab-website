@@ -1,0 +1,22 @@
+---
+title: "Elevated pCO2 causes developmental delay in early larval Pacific oysters, *Crassostrea gigas*"
+type: "article"
+author: "Timmins-Schiffman EB, O'Donnell M, Friedman CS, and Roberts SB"
+year: "2012"
+publication: "Marine Biology"
+preprint: ""
+doi: "https://doi.org/10.1007/s00227-012-2055-x"
+materials: ""
+eprint: ""
+toc: FALSE
+categories:
+  - oyster
+---
+
+## Citation
+
+> Timmins-Schiffman EB, O'Donnell M, Friedman CS, and Roberts SB (2012) Elevated pCO2 causes developmental delay in early larval Pacific oysters, *Crassostrea gigas*. Marine Biology. doi:10.1007/s00227-012-2055-x
+
+## Abstract
+
+*Abstract not available*
