@@ -124,8 +124,6 @@ website:
       contents:
         - text: "People"
           file: people.qmd
-        - text: "Collaborators"
-          file: collaborators.qmd
         - text: "Outreach"
           file: dei.qmd
         - text: "Undergrad Guide"
