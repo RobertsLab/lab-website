@@ -1,0 +1,20 @@
+---
+title: "Characterization of new SSR-EST markers in cod, *Gadus morhua*"
+type: "article"
+author: "Weiss E, Bennie M, Hodgins-Davis A, Roberts SB, and Gerlach G"
+year: "2007"
+publication: "Molecular Ecology Notes 7: 866--867"
+preprint: ""
+doi: ""
+materials: ""
+eprint: ""
+toc: FALSE
+---
+
+## Citation
+
+> Weiss E, Bennie M, Hodgins-Davis A, Roberts SB, and Gerlach G (2007) Characterization of new SSR-EST markers in cod, *Gadus morhua*. Molecular Ecology Notes 7: 866--867. 
+
+## Abstract
+
+*Abstract not available*

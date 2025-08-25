@@ -1,0 +1,22 @@
+---
+title: "Genomic resource development for shellfish of conservation concern"
+type: "article"
+author: "Timmins-Schiffman EB, Friedman CS, Metzger DC, White SJ and Roberts SB"
+year: "2013"
+publication: "Molecular Ecology Resources"
+preprint: ""
+doi: "https://doi.org/10.1111/1755-0998.12052"
+materials: ""
+eprint: ""
+toc: FALSE
+categories:
+  - fish
+---
+
+## Citation
+
+> Timmins-Schiffman EB, Friedman CS, Metzger DC, White SJ and Roberts SB (2013) Genomic resource development for shellfish of conservation concern. Molecular Ecology Resources. doi:10.1111/1755-0998.12052
+
+## Abstract
+
+*Abstract not available*

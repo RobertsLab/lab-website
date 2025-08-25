@@ -1,0 +1,20 @@
+---
+title: "Rank and Order: Evaluating the Performance of SNPs for Individual Assignment in a Non-Model Organism"
+type: "article"
+author: "Storer CG, Pascal CE, Roberts SB, Templin WD, Seeb LW and Seeb JE"
+year: "2012"
+publication: "PLoS ONE 7(11): e49018"
+preprint: ""
+doi: "https://doi.org/10.1371/journal.pone.0049018"
+materials: ""
+eprint: ""
+toc: FALSE
+---
+
+## Citation
+
+> Storer CG, Pascal CE, Roberts SB, Templin WD, Seeb LW and Seeb JE (2012) Rank and Order: Evaluating the Performance of SNPs for Individual Assignment in a Non-Model Organism. PLoS ONE 7(11): e49018. doi:10.1371/journal.pone.0049018
+
+## Abstract
+
+*Abstract not available*

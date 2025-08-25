@@ -1,0 +1,20 @@
+---
+title: "RNA-Seq reveals an integrated immune response in nucleated erythrocytes"
+type: "article"
+author: "Morera D, Roher N, Ribas L, Balasch JC, Doñate C, Callol A, Boltaña A, Roberts SB, Goetz G, Goetz FW and Mackenzie SA"
+year: "2011"
+publication: "PLoS ONE 6(10): e26998"
+preprint: ""
+doi: "https://doi.org/10.1371/journal.pone.0026998"
+materials: ""
+eprint: ""
+toc: FALSE
+---
+
+## Citation
+
+> Morera D, Roher N, Ribas L, Balasch JC, Doñate C, Callol A, Boltaña A, Roberts SB, Goetz G, Goetz FW and Mackenzie SA (2011) RNA-Seq reveals an integrated immune response in nucleated erythrocytes. PLoS ONE 6(10): e26998. doi:10.1371/journal.pone.0026998
+
+## Abstract
+
+*Abstract not available*

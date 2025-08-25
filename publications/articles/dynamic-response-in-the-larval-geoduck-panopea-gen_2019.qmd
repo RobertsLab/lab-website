@@ -1,0 +1,22 @@
+---
+title: "Dynamic response in the larval geoduck (*Panopea generosa*) proteome to elevated pCO2"
+type: "article"
+author: "Timmins‐Schiffman E, Guzmán JM, Elliott Thompson R, Vadopalas B, Eudeline B, Roberts SB"
+year: "2019"
+publication: "Ecol Evol.00: 1-- 13"
+preprint: ""
+doi: "https://doi.org/10.1002/ece3.5885"
+materials: ""
+eprint: ""
+toc: FALSE
+categories:
+  - geoduck
+---
+
+## Citation
+
+> Timmins‐Schiffman E, Guzmán JM, Elliott Thompson R, Vadopalas B, Eudeline B, Roberts SB (2019) Dynamic response in the larval geoduck (*Panopea generosa*) proteome to elevated pCO2. Ecol Evol.00: 1-- 13. doi:10.1002/ece3.5885
+
+## Abstract
+
+*Abstract not available*

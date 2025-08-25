@@ -1,0 +1,22 @@
+---
+title: "Pacific geoduck (*Panopea generosa*) resilience to natural pH variation"
+type: "article"
+author: "Spencer LH, Horwith M, Lowe AT, Venkataraman YR, Timmins-Schiffman E, Nunn BL, Roberts SB"
+year: "2019"
+publication: ""
+preprint: ""
+doi: "https://doi.org/10.1016/j.cbd.2019.01.010"
+materials: ""
+eprint: ""
+toc: FALSE
+categories:
+  - geoduck
+---
+
+## Citation
+
+> Spencer LH, Horwith M, Lowe AT, Venkataraman YR, Timmins-Schiffman E, Nunn BL, Roberts SB (2019) Pacific geoduck (*Panopea generosa*) resilience to natural pH variation. . doi:10.1016/j.cbd.2019.01.010
+
+## Abstract
+
+*Abstract not available*

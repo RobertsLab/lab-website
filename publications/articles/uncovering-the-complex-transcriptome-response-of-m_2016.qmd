@@ -1,0 +1,22 @@
+---
+title: "Uncovering the Complex Transcriptome Response of Mytilus chilensis against Saxitoxin: Implications of Harmful Algal Blooms on Mussel Populations"
+type: "article"
+author: "Detree C, Núñez-Acuña G, Roberts S, Gallardo-Escárate C"
+year: "2016"
+publication: "PLoS ONE 11(10): e0165231"
+preprint: ""
+doi: "https://doi.org/10.1371/journal.pone.0165231"
+materials: ""
+eprint: ""
+toc: FALSE
+categories:
+  - mussel
+---
+
+## Citation
+
+> Detree C, Núñez-Acuña G, Roberts S, Gallardo-Escárate C (2016) Uncovering the Complex Transcriptome Response of Mytilus chilensis against Saxitoxin: Implications of Harmful Algal Blooms on Mussel Populations. PLoS ONE 11(10): e0165231. doi:10.1371/journal.pone.0165231
+
+## Abstract
+
+*Abstract not available*

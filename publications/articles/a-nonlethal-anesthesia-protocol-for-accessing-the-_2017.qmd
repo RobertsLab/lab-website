@@ -1,0 +1,22 @@
+---
+title: "A Nonlethal Anesthesia Protocol for Accessing the Mantle Cavity of Olympia Oysters in the Laboratory or Field"
+type: "article"
+author: "Megan Hintz, Katherine Gratz, Bonnie Becker, Brent Vadopalas, and Steven Roberts"
+year: "2017"
+publication: "Journal of Shellfish Research 2017 36 (2), 353-357"
+preprint: ""
+doi: "https://doi.org/10.2983/035.036.0207"
+materials: ""
+eprint: ""
+toc: FALSE
+categories:
+  - oyster
+---
+
+## Citation
+
+> Megan Hintz, Katherine Gratz, Bonnie Becker, Brent Vadopalas, and Steven Roberts (2017) A Nonlethal Anesthesia Protocol for Accessing the Mantle Cavity of Olympia Oysters in the Laboratory or Field. Journal of Shellfish Research 2017 36 (2), 353-357. doi:10.2983/035.036.0207
+
+## Abstract
+
+*Abstract not available*

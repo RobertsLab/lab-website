@@ -1,0 +1,22 @@
+---
+title: "Metabolic recovery and compensatory shell growth of juvenile Pacific geoduck *Panopea generosa* following short-term exposure to acidified seawater"
+type: "article"
+author: "Gurr SJ, Vadopalas B, Roberts SB, Putnam HM"
+year: "2020"
+publication: "Conservation Physiology, Volume 8, Issue 1, coaa024"
+preprint: ""
+doi: "https://doi.org/10.1093/conphys/coaa024"
+materials: ""
+eprint: ""
+toc: FALSE
+categories:
+  - geoduck
+---
+
+## Citation
+
+> Gurr SJ, Vadopalas B, Roberts SB, Putnam HM (2020) Metabolic recovery and compensatory shell growth of juvenile Pacific geoduck *Panopea generosa* following short-term exposure to acidified seawater. Conservation Physiology, Volume 8, Issue 1, coaa024. doi:10.1093/conphys/coaa024
+
+## Abstract
+
+*Abstract not available*

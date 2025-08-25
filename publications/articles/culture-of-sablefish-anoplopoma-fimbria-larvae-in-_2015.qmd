@@ -1,0 +1,22 @@
+---
+title: "Culture of sablefish (*Anoplopoma fimbria*) larvae in four experimental tank designs"
+type: "article"
+author: "Cook MA, Massee KC, Wade TH, Oden SM, Jensen C, Jasonowicz A, Immerman DA, Goetz FW"
+year: "2015"
+publication: "Aquacultural Engineering"
+preprint: ""
+doi: "https://doi.org/10.1016/j.aquaeng.2015.09.003"
+materials: ""
+eprint: ""
+toc: FALSE
+categories:
+  - fish
+---
+
+## Citation
+
+> Cook MA, Massee KC, Wade TH, Oden SM, Jensen C, Jasonowicz A, Immerman DA, Goetz FW (2015) Culture of sablefish (*Anoplopoma fimbria*) larvae in four experimental tank designs. Aquacultural Engineering. doi:10.1016/j.aquaeng.2015.09.003
+
+## Abstract
+
+*Abstract not available*

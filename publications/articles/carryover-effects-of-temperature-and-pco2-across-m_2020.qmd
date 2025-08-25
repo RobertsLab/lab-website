@@ -1,0 +1,22 @@
+---
+title: "Carryover effects of temperature and pCO2 across multiple Olympia oyster populations"
+type: "article"
+author: "Spencer, LH, Venkataraman, YR, Crim R, Ryan S, Horwith MJ, and Roberts SB"
+year: "2020"
+publication: "Ecological Applications 00( 00):e02060"
+preprint: ""
+doi: "https://doi.org/10.1002/eap.2060"
+materials: ""
+eprint: ""
+toc: FALSE
+categories:
+  - oyster
+---
+
+## Citation
+
+> Spencer, LH, Venkataraman, YR, Crim R, Ryan S, Horwith MJ, and Roberts SB (2020) Carryover effects of temperature and pCO2 across multiple Olympia oyster populations. Ecological Applications 00( 00):e02060. doi:10.1002/eap.2060
+
+## Abstract
+
+*Abstract not available*
