@@ -5,7 +5,7 @@ author: "Crandall G, Elliott Thompson R, Eudeline B, Vadopalas B, Timmins-Schiff
 year: "2022"
 publication: "PeerJ"
 preprint: ""
-doi: "https://doi.org/10.7717/peerj.14158"
+doi: "10.7717/peerj.14158"
 materials: "https://doi.org/10.5281/zenodo.5708415"
 eprint: ""
 toc: FALSE

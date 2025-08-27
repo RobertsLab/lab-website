@@ -5,7 +5,7 @@ author: "Ariana S. Huffmyer, Jill Ashey, Emma Strand, Eric Chiles, Xiaoyang Su, 
 year: "2024"
 publication: "PLoS Biology"
 preprint: ""
-doi: "https://doi.org/10.1371/journal.pbio.3002875"
+doi: "10.1371/journal.pbio.3002875"
 materials: ""
 eprint: ""
 toc: FALSE

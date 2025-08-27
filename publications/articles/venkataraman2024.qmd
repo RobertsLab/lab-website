@@ -5,7 +5,7 @@ author: "Yaamini R. Venkataraman, Ariana S. Huffmyer, Samuel J. White, Alan Down
 year: "2024"
 publication: "Environmental Epigenetics"
 preprint: "https://www.biorxiv.org/content/10.1101/2024.04.04.588108v2"
-doi: "https://doi.org/10.1093/eep/dvae018"
+doi: "10.1093/eep/dvae018"
 materials: "https://github.com/sr320/ceabigr"
 eprint: "http://gannet.fish.washington.edu/seashell/snaps/dvae018.pdf"
 toc: FALSE
