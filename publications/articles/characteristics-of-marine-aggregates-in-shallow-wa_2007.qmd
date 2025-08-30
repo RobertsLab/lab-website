@@ -1,7 +1,7 @@
 ---
 title: "Characteristics of marine aggregates in shallow-water ecosystems: Implications for disease ecology"
 type: "article"
-author: "Lyons MM\*, Lau Y-T, Carden WE, Ward JE, Roberts SB, Smolowitz R, Vallino J, and Allam B"
+author: "Lyons MM, Lau Y-T, Carden WE, Ward JE, Roberts SB, Smolowitz R, Vallino J, and Allam B"
 year: "2007"
 publication: "EcoHealth 4, 406--420"
 preprint: ""
@@ -13,7 +13,7 @@ toc: FALSE
 
 ## Citation
 
-> Lyons MM\*, Lau Y-T, Carden WE, Ward JE, Roberts SB, Smolowitz R, Vallino J, and Allam B (2007) Characteristics of marine aggregates in shallow-water ecosystems: Implications for disease ecology. EcoHealth 4, 406--420. 
+> Lyons MM, Lau Y-T, Carden WE, Ward JE, Roberts SB, Smolowitz R, Vallino J, and Allam B (2007) Characteristics of marine aggregates in shallow-water ecosystems: Implications for disease ecology. EcoHealth 4, 406--420. 
 
 ## Abstract
 

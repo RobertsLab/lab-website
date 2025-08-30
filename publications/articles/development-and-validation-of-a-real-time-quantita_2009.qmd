@@ -1,7 +1,7 @@
 ---
 title: "Development and validation of a real-time quantitative PCR assay for the detection and quantification of *Perkinsus marinus* in the Eastern oyster, *Crassostrea virginica*"
 type: "article"
-author: "Defaveri J\*, Smolowitz R, and Roberts S"
+author: "Defaveri J, Smolowitz R, and Roberts S"
 year: "2009"
 publication: ""
 preprint: ""
@@ -15,7 +15,7 @@ categories:
 
 ## Citation
 
-> Defaveri J\*, Smolowitz R, and Roberts S (2009) Development and validation of a real-time quantitative PCR assay for the detection and quantification of *Perkinsus marinus* in the Eastern oyster, *Crassostrea virginica*. . 
+> Defaveri J, Smolowitz R, and Roberts S (2009) Development and validation of a real-time quantitative PCR assay for the detection and quantification of *Perkinsus marinus* in the Eastern oyster, *Crassostrea virginica*. .
 
 ## Abstract
 
