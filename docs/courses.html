@@ -372,17 +372,8 @@ gtag('config', 'G-CVEKGK5BS0', { 'anonymize_ip': true});
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#uw-10-week-courses" id="toc-uw-10-week-courses" class="nav-link active" data-scroll-target="#uw-10-week-courses">UW 10-week courses</a>
-  <ul class="collapse">
-  <li><a href="#fish-441541-integrative-environmental-physiology" id="toc-fish-441541-integrative-environmental-physiology" class="nav-link" data-scroll-target="#fish-441541-integrative-environmental-physiology">FISH 441/541 Integrative Environmental Physiology</a></li>
-  <li><a href="#fish-546-bioinformatics-for-environmental-sciences" id="toc-fish-546-bioinformatics-for-environmental-sciences" class="nav-link" data-scroll-target="#fish-546-bioinformatics-for-environmental-sciences">FISH 546 Bioinformatics for Environmental Sciences</a></li>
-  <li><a href="#fish-274-introduction-to-data-analysis-for-aquatic-sciences" id="toc-fish-274-introduction-to-data-analysis-for-aquatic-sciences" class="nav-link" data-scroll-target="#fish-274-introduction-to-data-analysis-for-aquatic-sciences">FISH 274 <strong>Introduction to Data Analysis for Aquatic Sciences</strong></a></li>
-  <li><a href="#fish-521-proposal-writing-and-professional-development-for-graduate-students" id="toc-fish-521-proposal-writing-and-professional-development-for-graduate-students" class="nav-link" data-scroll-target="#fish-521-proposal-writing-and-professional-development-for-graduate-students">FISH 521 Proposal Writing and Professional Development for Graduate Students</a></li>
-  </ul></li>
-  <li><a href="#one-week-courses" id="toc-one-week-courses" class="nav-link" data-scroll-target="#one-week-courses">One Week Courses</a>
-  <ul class="collapse">
-  <li><a href="#epigenetic-phenomena-connecting-climate-change-and-coastal-marine-species" id="toc-epigenetic-phenomena-connecting-climate-change-and-coastal-marine-species" class="nav-link" data-scroll-target="#epigenetic-phenomena-connecting-climate-change-and-coastal-marine-species">Epigenetic Phenomena Connecting Climate Change and Coastal Marine Species</a></li>
-  </ul></li>
+  <li><a href="#uw-10-week-courses" id="toc-uw-10-week-courses" class="nav-link active" data-scroll-target="#uw-10-week-courses">UW 10-week courses</a></li>
+  <li><a href="#one-week-courses" id="toc-one-week-courses" class="nav-link" data-scroll-target="#one-week-courses">One Week Courses</a></li>
   <li><a href="#other-educational-content" id="toc-other-educational-content" class="nav-link" data-scroll-target="#other-educational-content">Other educational content</a></li>
   </ul>
 </nav>
@@ -394,47 +385,190 @@ gtag('config', 'G-CVEKGK5BS0', { 'anonymize_ip': true});
 
 
 
+<style>
+.course-card {
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  padding: 1.5rem;
+  margin-bottom: 2rem;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.course-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+}
+
+.course-title {
+  color: #2c5282;
+  font-size: 1.4rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+
+.course-description {
+  color: #4a5568;
+  line-height: 1.6;
+  margin-bottom: 1rem;
+}
+
+.course-link {
+  background: #3182ce;
+  color: white;
+  padding: 0.5rem 1rem;
+  border-radius: 6px;
+  text-decoration: none;
+  font-size: 0.9rem;
+  display: inline-block;
+  transition: all 0.2s ease;
+}
+
+.course-link:hover {
+  background: #2c5282;
+  color: white;
+  text-decoration: none;
+}
+
+.section-header {
+  color: #2d3748;
+  border-bottom: 3px solid #3182ce;
+  padding-bottom: 0.5rem;
+  margin: 3rem 0 2rem 0;
+}
+
+.content-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1.5rem;
+  margin-top: 2rem;
+}
+
+.content-card {
+  background: #f7fafc;
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+  padding: 1.5rem;
+  transition: transform 0.2s ease;
+}
+
+.content-card:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.content-title {
+  font-weight: 600;
+  color: #2d3748;
+  margin-bottom: 0.5rem;
+}
+
+.content-link {
+  color: #3182ce;
+  text-decoration: none;
+  font-size: 0.9rem;
+  padding: 0.25rem 0.5rem;
+  border: 1px solid #bee3f8;
+  border-radius: 4px;
+  transition: all 0.2s ease;
+}
+
+.content-link:hover {
+  background: #3182ce;
+  color: white;
+  text-decoration: none;
+}
+
+@media (max-width: 768px) {
+  .content-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Dark mode support */
+@media (prefers-color-scheme: dark) {
+  .course-card {
+    background: #2d3748;
+    color: #e2e8f0;
+  }
+  
+  .content-card {
+    background: #4a5568;
+    border-color: #718096;
+    color: #e2e8f0;
+  }
+}
+</style>
 <p>We are involved in a variety of courses. Here are a few.</p>
-<section id="uw-10-week-courses" class="level1">
-<h1>UW 10-week courses</h1>
-<section id="fish-441541-integrative-environmental-physiology" class="level2">
-<h2 class="anchored" data-anchor-id="fish-441541-integrative-environmental-physiology">FISH 441/541 Integrative Environmental Physiology</h2>
+<section id="uw-10-week-courses" class="level1 section-header">
+<h1 class="section-header">UW 10-week courses</h1>
+<div class="course-card">
+<div class="course-title">
+<p>FISH 441/541 Integrative Environmental Physiology</p>
+</div>
+<div class="course-description">
 <p>Both freshwater and marine environments are continually changing in response to natural processes and human activities, putting stress on aquatic organisms from microbes to marine mammals. This course will explore the surprising similarities and unique differences in the physiological response organisms have to stress caused by factors as natural as tidal cycles, and as unnatural as excess pharmaceuticals. The course will take an integrative approach across disciplines linked to physiology, with an emphasis on molecular physiology and endocrinology; and assumes students have been introduced to basic physiological concepts in other coursework. The main focus will be on functional responses to system stressors; however, the course will also explore potential impacts at the population level, and the evolutionary implications of physiological response to environmental stress. Case studies and research papers will be used along with other readings.</p>
-<p>url: <a href="https://canvas.uw.edu/courses/1719428" class="uri">https://canvas.uw.edu/courses/1719428</a></p>
-</section>
-<section id="fish-546-bioinformatics-for-environmental-sciences" class="level2">
-<h2 class="anchored" data-anchor-id="fish-546-bioinformatics-for-environmental-sciences">FISH 546 Bioinformatics for Environmental Sciences</h2>
+</div>
+<p><a href="https://canvas.uw.edu/courses/1719428" class="course-link">Visit Course</a></p>
+</div>
+<div class="course-card">
+<div class="course-title">
+<p>FISH 546 Bioinformatics for Environmental Sciences</p>
+</div>
+<div class="course-description">
 <p>This course teaches core computing skills as well as project specific approaches. Each student will be developing and completing a research project targeting journal article submission by the end of the Quarter. There will be an emphasis on developing habits that increase automation which in turn will facilitate reproducibility. The primary course platform will be centered around GitHub, with each student creating their own repositories.</p>
-<p>url: <a href="https://sr320.github.io/course-fish546-2023/" class="uri">https://sr320.github.io/course-fish546-2023/</a></p>
-</section>
-<section id="fish-274-introduction-to-data-analysis-for-aquatic-sciences" class="level2">
-<h2 class="anchored" data-anchor-id="fish-274-introduction-to-data-analysis-for-aquatic-sciences">FISH 274 <strong>Introduction to Data Analysis for Aquatic Sciences</strong></h2>
+</div>
+<p><a href="https://sr320.github.io/course-fish546-2023/" class="course-link">Visit Course</a></p>
+</div>
+<div class="course-card">
+<div class="course-title">
+<p>FISH 274 Introduction to Data Analysis for Aquatic Sciences</p>
+</div>
+<div class="course-description">
 <p>Data management skills are needed for entering data without errors, storing it in a usable way, and extracting key aspects of the data for analysis. This course will provide an introduction to data management, manipulation, and analysis, with an emphasis on biological problems. Class will typically consist of short introductions or question &amp; answer sessions, followed by hands on computing exercises. The course will be taught using bash, R, and Jupyter Notebooks, but the concepts learned will easily apply to all other computational work. There will be an emphasis on reproducible research which includes the use of R markdown and version control. Students will need to come to class each week having completed the assigned readings. Once we learn how to import data, we will explore basic analysis procedures involving summarizing, gathering, spreading, filtering, separating, uniting, selecting, counting, random sampling, and performing basic arithmetic. The course will culminate in students identifying a data set, identifying a specific research question that can be answered with the data set, and communicate the findings in an effective visual manner. Work on these student projects will begin during week 6 of the course and students will present their work to the class during week 10.</p>
-<p>url: <a href="https://sr320.github.io/course-fish274-2022/" class="uri">https://sr320.github.io/course-fish274-2022/</a></p>
+</div>
+<p><a href="https://sr320.github.io/course-fish274-2022/" class="course-link">Visit Course</a></p>
+</div>
+<div class="course-card">
+<div class="course-title">
+<p>FISH 521 Proposal Writing and Professional Development for Graduate Students</p>
+</div>
+<div class="course-description">
+<p>This class was originally designed to help students prepare research proposals. It has undergone various modifications since its inception, as different instructors have been placed in charge of it, and as the needs of students have changed. The course still includes the development of scientific ideas into coherent proposals, but it now also addresses other forms of communication, and aspects of professional development to help graduate students during and after their time at the University of Washington. <em>Foremost, the current implementation of the course is primarily attributable to Dr.&nbsp;Mark Scheuerell who taught the course in 2022.</em></p>
+</div>
+<p><a href="https://sr320.github.io/course-fish521-2023/" class="course-link">Visit Course</a></p>
+</div>
 </section>
-<section id="fish-521-proposal-writing-and-professional-development-for-graduate-students" class="level2">
-<h2 class="anchored" data-anchor-id="fish-521-proposal-writing-and-professional-development-for-graduate-students">FISH 521 Proposal Writing and Professional Development for Graduate Students</h2>
-<p>This class was originally designed to help students prepare research proposals. It has undergone various modifications since its inception, as different instructors have been placed in charge of it, and as the needs of students have changed. The course still includes the development of scientific ideas into coherent proposals, but it now also addresses other forms of communication, and aspects of professional development to help graduate students during and after their time at the University of Washington.&nbsp;<em>Foremost, the current implementation of the course is primarily attributable to Dr.&nbsp;Mark Scheuerell who taught the course in 2022.</em></p>
-<p>url: <a href="https://sr320.github.io/course-fish521-2023/" class="uri">https://sr320.github.io/course-fish521-2023/</a></p>
-</section>
-</section>
-<section id="one-week-courses" class="level1">
-<h1>One Week Courses</h1>
-<section id="epigenetic-phenomena-connecting-climate-change-and-coastal-marine-species" class="level2">
-<h2 class="anchored" data-anchor-id="epigenetic-phenomena-connecting-climate-change-and-coastal-marine-species">Epigenetic Phenomena Connecting Climate Change and Coastal Marine Species</h2>
+<section id="one-week-courses" class="level1 section-header">
+<h1 class="section-header">One Week Courses</h1>
+<div class="course-card">
+<div class="course-title">
+<p>Epigenetic Phenomena Connecting Climate Change and Coastal Marine Species</p>
+</div>
+<div class="course-description">
 <p>This one-week intensive graduate-level course explores the intriguing intersection of climate change, epigenetics, and marine invertebrate physiology, with a significant emphasis on the application of functional genomics. The course aims to highlight the substantial yet often overlooked role of marine invertebrates in coastal ecosystems, underlining their ecological significance and their responses to climate change at an epigenetic level.</p>
 <p>The course starts by establishing a strong foundational understanding of epigenetics, climate change, and marine invertebrate physiology. Following this, students will delve into the intricate role of functional genomics in understanding these connections. Real-world examples will be extensively used to discuss how changes in climate directly and indirectly lead to alterations in the epigenetic mechanisms of various coastal marine invertebrates.</p>
 <p>By the end of the course, students should have a comprehensive understanding of how climate change can influence the epigenetics and physiology of coastal marine invertebrates and the potential broader implications for marine ecosystems. The course is suitable for students with a basic understanding of genetics and climate science, although students from all disciplines are welcome as the course starts from foundational principles.</p>
-<p>url: <a href="https://sr320.github.io/course-ASI-2024/" class="uri">https://sr320.github.io/course-ASI-2024/</a></p>
+</div>
+<p><a href="https://sr320.github.io/course-ASI-2024/" class="course-link">Visit Course</a></p>
+</div>
 </section>
-</section>
-<section id="other-educational-content" class="level1">
-<h1>Other educational content</h1>
-<ul>
-<li><p>Tusk (Things you should know) - <a href="https://robertslab.github.io/tusk/" class="uri">https://robertslab.github.io/tusk/</a></p></li>
-<li><p>Lab Handbook - <a href="https://robertslab.github.io/resources/" class="uri">https://robertslab.github.io/resources/</a></p></li>
-<li></li>
-</ul>
+<section id="other-educational-content" class="level1 section-header">
+<h1 class="section-header">Other educational content</h1>
+<div class="content-grid">
+<div class="content-card">
+<div class="content-title">
+<p>Tusk (Things you should know)</p>
+</div>
+<p><a href="https://robertslab.github.io/tusk/" class="content-link">Visit Resource</a></p>
+</div>
+<div class="content-card">
+<div class="content-title">
+<p>Lab Handbook</p>
+</div>
+<p><a href="https://robertslab.github.io/resources/" class="content-link">Visit Resource</a></p>
+</div>
+</div>
 
 
 </section>

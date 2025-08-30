@@ -5,7 +5,7 @@ author: "James L Dimond, Nhung Nguyen, Steven B Roberts"
 year: "2021"
 publication: "G3 Genes|Genomes|Genetics"
 preprint: ""
-doi: "https://dx.doi.org/10.1093/g3journal/jkab148"
+doi: "10.1093/g3journal/jkab148"
 materials: "https://doi.org/10.5281/zenodo.4677448"
 eprint: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8496274/pdf/jkab148.pdf"
 toc: FALSE
