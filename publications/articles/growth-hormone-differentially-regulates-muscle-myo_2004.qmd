@@ -1,0 +1,20 @@
+---
+title: "Growth hormone differentially regulates muscle myostatin1 and -2 and increases circulating cortisol in rainbow trout *Oncorhynchus mykiss*"
+type: "article"
+author: "Biga PR, Cain KD, Hardy RW, Schelling GT, Overturf K, Roberts SB, Goetz FW, Ott TL"
+year: "2004"
+publication: ""
+preprint: ""
+doi: ""
+materials: ""
+eprint: ""
+toc: FALSE
+---
+
+## Citation
+
+> Biga PR, Cain KD, Hardy RW, Schelling GT, Overturf K, Roberts SB, Goetz FW, Ott TL (2004) Growth hormone differentially regulates muscle myostatin1 and -2 and increases circulating cortisol in rainbow trout *Oncorhynchus mykiss*. . 
+
+## Abstract
+
+*Abstract not available*

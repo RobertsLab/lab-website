@@ -1,0 +1,20 @@
+---
+title: "The wastewater microbiome: A novel insight for COVID-19 surveillance"
+type: "article"
+author: "Cristian Gallardo-Escárate; Valentina Valenzuela-Muñoz; Gustavo Núñez-Acuña; Diego Valenzuela-Miranda; Bárbara P. Benaventel; Constanza Sáez-Vera; Homero Urrutia; Beatriz Novoa; Antonio Figueras; Steven Roberts; Paulina Assmann; Marta Bravo"
+year: "2020"
+publication: "Science of The Total Environment Page: 142867"
+preprint: ""
+doi: "https://doi.org/10.1016/j.scitotenv.2020.142867"
+materials: ""
+eprint: ""
+toc: FALSE
+---
+
+## Citation
+
+> Cristian Gallardo-Escárate; Valentina Valenzuela-Muñoz; Gustavo Núñez-Acuña; Diego Valenzuela-Miranda; Bárbara P. Benaventel; Constanza Sáez-Vera; Homero Urrutia; Beatriz Novoa; Antonio Figueras; Steven Roberts; Paulina Assmann; Marta Bravo (2020) The wastewater microbiome: A novel insight for COVID-19 surveillance. Science of The Total Environment Page: 142867. doi:10.1016/j.scitotenv.2020.142867
+
+## Abstract
+
+*Abstract not available*

@@ -1,0 +1,22 @@
+---
+title: "Quantitative PCR analysis used to characterize physiological changes in brain tissue of senescent sockeye salmon"
+type: "article"
+author: "Storer CS, Quinn TP and Roberts SB"
+year: "2013"
+publication: "Biogerontology"
+preprint: ""
+doi: "https://doi.org/10.1007/s10522-013-9448-1"
+materials: ""
+eprint: ""
+toc: FALSE
+categories:
+  - fish
+---
+
+## Citation
+
+> Storer CS, Quinn TP and Roberts SB (2013) Quantitative PCR analysis used to characterize physiological changes in brain tissue of senescent sockeye salmon. Biogerontology. doi:10.1007/s10522-013-9448-1
+
+## Abstract
+
+*Abstract not available*

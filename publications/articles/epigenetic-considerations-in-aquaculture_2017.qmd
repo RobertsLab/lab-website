@@ -1,0 +1,22 @@
+---
+title: "Epigenetic considerations in aquaculture"
+type: "article"
+author: "Gavery MR, Roberts SB"
+year: "2017"
+publication: "PeerJ 5:e4147"
+preprint: ""
+doi: "https://doi.org/10.7717/peerj.4147"
+materials: ""
+eprint: ""
+toc: FALSE
+categories:
+  - methylation
+---
+
+## Citation
+
+> Gavery MR, Roberts SB (2017) Epigenetic considerations in aquaculture. PeerJ 5:e4147. doi:10.7717/peerj.4147
+
+## Abstract
+
+*Abstract not available*

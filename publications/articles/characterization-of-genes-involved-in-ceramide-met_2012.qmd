@@ -1,0 +1,22 @@
+---
+title: "Characterization of genes involved in ceramide metabolism in the Pacific oyster *Crassostrea gigas*"
+type: "article"
+author: "Timmins-Schiffman EB and Roberts SB"
+year: "2012"
+publication: "BMC Research Notes 5:502"
+preprint: ""
+doi: "https://doi.org/10.1186/1756-0500-5-502"
+materials: ""
+eprint: ""
+toc: FALSE
+categories:
+  - oyster
+---
+
+## Citation
+
+> Timmins-Schiffman EB and Roberts SB (2012) Characterization of genes involved in ceramide metabolism in the Pacific oyster *Crassostrea gigas*. BMC Research Notes 5:502. doi:10.1186/1756-0500-5-502
+
+## Abstract
+
+*Abstract not available*

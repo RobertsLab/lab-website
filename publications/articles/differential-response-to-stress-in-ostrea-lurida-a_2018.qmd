@@ -1,0 +1,22 @@
+---
+title: "Differential response to stress in *Ostrea lurida* as measured by gene expression"
+type: "article"
+author: "Heare JE, White SJ, Vadopalas B, Roberts SB"
+year: "2018"
+publication: "PeerJ 6:e4261"
+preprint: ""
+doi: "https://doi.org/10.7717/peerj.4261"
+materials: ""
+eprint: ""
+toc: FALSE
+categories:
+  - oyster
+---
+
+## Citation
+
+> Heare JE, White SJ, Vadopalas B, Roberts SB (2018) Differential response to stress in *Ostrea lurida* as measured by gene expression. PeerJ 6:e4261. doi:10.7717/peerj.4261
+
+## Abstract
+
+*Abstract not available*

@@ -1,0 +1,20 @@
+---
+title: "The upregulation of messenger ribonucleic acids during 17a, 20b-dihydroxy-4-pregnen-3-one-induced ovulation in the perch ovary"
+type: "article"
+author: "Langenau DM, Goetz FW, Roberts SB"
+year: "1999"
+publication: ""
+preprint: ""
+doi: ""
+materials: ""
+eprint: ""
+toc: FALSE
+---
+
+## Citation
+
+> Langenau DM, Goetz FW, Roberts SB (1999) The upregulation of messenger ribonucleic acids during 17a, 20b-dihydroxy-4-pregnen-3-one-induced ovulation in the perch ovary. . 
+
+## Abstract
+
+*Abstract not available*

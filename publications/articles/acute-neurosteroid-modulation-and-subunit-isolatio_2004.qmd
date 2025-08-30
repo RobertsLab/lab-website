@@ -1,0 +1,20 @@
+---
+title: "Acute neurosteroid modulation and subunit isolation of the GABAa receptor in the bullfrog, *Rana catesbeiana*"
+type: "article"
+author: "Hollis DM, Goetz FW, Roberts SB, and Boyd SK"
+year: "2004"
+publication: ""
+preprint: ""
+doi: ""
+materials: ""
+eprint: ""
+toc: FALSE
+---
+
+## Citation
+
+> Hollis DM, Goetz FW, Roberts SB, and Boyd SK (2004) Acute neurosteroid modulation and subunit isolation of the GABAa receptor in the bullfrog, *Rana catesbeiana*. . 
+
+## Abstract
+
+*Abstract not available*

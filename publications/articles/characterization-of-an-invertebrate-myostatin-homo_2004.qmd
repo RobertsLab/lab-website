@@ -1,0 +1,20 @@
+---
+title: "Characterization of an invertebrate myostatin homologue from the bay scallop, *Argopecten irradians*"
+type: "article"
+author: "Kim H-W, Mykles DL, Goetz FW, Roberts SB"
+year: "2004"
+publication: ""
+preprint: ""
+doi: ""
+materials: ""
+eprint: ""
+toc: FALSE
+---
+
+## Citation
+
+> Kim H-W, Mykles DL, Goetz FW, Roberts SB (2004) Characterization of an invertebrate myostatin homologue from the bay scallop, *Argopecten irradians*. . 
+
+## Abstract
+
+*Abstract not available*

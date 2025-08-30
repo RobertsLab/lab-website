@@ -1,0 +1,22 @@
+---
+title: "Rapid accumulation of an interleukin 17 homolog transcript in *Crassostrea gigas* hemocytes following bacterial exposure"
+type: "article"
+author: "Roberts SB, Gueguen Y, de Lorgeril J, and Goetz F"
+year: "2008"
+publication: ""
+preprint: ""
+doi: ""
+materials: ""
+eprint: ""
+toc: FALSE
+categories:
+  - oyster
+---
+
+## Citation
+
+> Roberts SB, Gueguen Y, de Lorgeril J, and Goetz F (2008) Rapid accumulation of an interleukin 17 homolog transcript in *Crassostrea gigas* hemocytes following bacterial exposure. . 
+
+## Abstract
+
+*Abstract not available*

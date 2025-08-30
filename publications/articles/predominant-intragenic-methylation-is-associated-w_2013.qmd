@@ -1,0 +1,22 @@
+---
+title: "Predominant intragenic methylation is associated with gene expression characteristics in a bivalve mollusc"
+type: "article"
+author: "Gavery MR and Roberts SB"
+year: "2013"
+publication: "PeerJ 1:e215"
+preprint: ""
+doi: "https://doi.org/10.7717/peerj.215"
+materials: ""
+eprint: ""
+toc: FALSE
+categories:
+  - methylation
+---
+
+## Citation
+
+> Gavery MR and Roberts SB (2013) Predominant intragenic methylation is associated with gene expression characteristics in a bivalve mollusc. PeerJ 1:e215. doi:10.7717/peerj.215
+
+## Abstract
+
+*Abstract not available*

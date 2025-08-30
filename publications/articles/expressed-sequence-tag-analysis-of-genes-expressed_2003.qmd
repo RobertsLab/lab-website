@@ -1,0 +1,20 @@
+---
+title: "Expressed sequence tag analysis of genes expressed in the bay scallop, *Argopecten irradians*"
+type: "article"
+author: "Roberts SB, Goetz FW"
+year: "2003"
+publication: "Biological Bulletin 205: 227-228"
+preprint: ""
+doi: ""
+materials: ""
+eprint: ""
+toc: FALSE
+---
+
+## Citation
+
+> Roberts SB, Goetz FW (2003) Expressed sequence tag analysis of genes expressed in the bay scallop, *Argopecten irradians*. Biological Bulletin 205: 227-228. 
+
+## Abstract
+
+*Abstract not available*

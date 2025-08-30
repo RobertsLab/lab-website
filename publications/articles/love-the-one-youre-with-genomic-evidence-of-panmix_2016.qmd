@@ -1,0 +1,22 @@
+---
+title: "Love the one you're with: Genomic evidence of panmixia in the sablefish (*Anoplopoma fimbria*)"
+type: "article"
+author: "Jasonowicz AJ, Goetz FW, Goetz GW, Nichols KM"
+year: "2016"
+publication: ""
+preprint: ""
+doi: ""
+materials: ""
+eprint: ""
+toc: FALSE
+categories:
+  - fish
+---
+
+## Citation
+
+> Jasonowicz AJ, Goetz FW, Goetz GW, Nichols KM (2016) Love the one you're with: Genomic evidence of panmixia in the sablefish (*Anoplopoma fimbria*). . 
+
+## Abstract
+
+*Abstract not available*

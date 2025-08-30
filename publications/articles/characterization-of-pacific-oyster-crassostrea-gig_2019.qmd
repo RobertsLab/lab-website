@@ -1,0 +1,22 @@
+---
+title: "Characterization of Pacific oyster *Crassostrea gigas* proteomic response to natural environmental differences"
+type: "article"
+author: "Venkataraman YR, Timmins-Schiffman E, Horwith MJ, Lowe AT, Nunn B, Vadopalas B, Spencer LH, Roberts SB"
+year: "2019"
+publication: "Mar Ecol Prog Ser 610:65-81"
+preprint: ""
+doi: "https://doi.org/10.3354/meps12858"
+materials: ""
+eprint: ""
+toc: FALSE
+categories:
+  - oyster
+---
+
+## Citation
+
+> Venkataraman YR, Timmins-Schiffman E, Horwith MJ, Lowe AT, Nunn B, Vadopalas B, Spencer LH, Roberts SB (2019) Characterization of Pacific oyster *Crassostrea gigas* proteomic response to natural environmental differences. Mar Ecol Prog Ser 610:65-81. doi:10.3354/meps12858
+
+## Abstract
+
+*Abstract not available*

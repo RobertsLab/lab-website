@@ -1,0 +1,22 @@
+---
+title: "Larval Response to Parental Low pH Exposure in the Pacific Oyster *Crassostrea gigas*"
+type: "article"
+author: "Venkataraman YR, Spencer LH, Roberts SB"
+year: "2019"
+publication: "Journal of Shellfish Research, 38(3), 743-750"
+preprint: ""
+doi: "https://doi.org/10.2983/035.038.0325"
+materials: ""
+eprint: ""
+toc: FALSE
+categories:
+  - oyster
+---
+
+## Citation
+
+> Venkataraman YR, Spencer LH, Roberts SB (2019) Larval Response to Parental Low pH Exposure in the Pacific Oyster *Crassostrea gigas*. Journal of Shellfish Research, 38(3), 743-750. doi:10.2983/035.038.0325
+
+## Abstract
+
+*Abstract not available*

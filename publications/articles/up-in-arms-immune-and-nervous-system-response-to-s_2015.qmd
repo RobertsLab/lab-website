@@ -1,0 +1,20 @@
+---
+title: "Up in Arms: Immune and Nervous System Response To Sea Star Wasting Disease"
+type: "article"
+author: "Fuess LE, Eisenlord ME, Closek CJ, Tracy AM, Mauntz R, Gignoux-Wolfsohn S, Moritsch MM, Yoshioka R, Burge CA, Harvell CD, Friedman CS, Hewson I, Hershberger PK, Roberts SB"
+year: "2015"
+publication: "PLoS ONE"
+preprint: ""
+doi: "https://doi.org/10.1371/journal.pone.0133053"
+materials: ""
+eprint: ""
+toc: FALSE
+---
+
+## Citation
+
+> Fuess LE, Eisenlord ME, Closek CJ, Tracy AM, Mauntz R, Gignoux-Wolfsohn S, Moritsch MM, Yoshioka R, Burge CA, Harvell CD, Friedman CS, Hewson I, Hershberger PK, Roberts SB (2015) Up in Arms: Immune and Nervous System Response To Sea Star Wasting Disease. PLoS ONE. doi:10.1371/journal.pone.0133053
+
+## Abstract
+
+*Abstract not available*

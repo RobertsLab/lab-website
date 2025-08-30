@@ -1,0 +1,23 @@
+---
+title: "General DNA Methylation Patterns and Environmentally-Induced Differential Methylation in the Eastern Oyster (*Crassostrea virginica*)"
+type: "article"
+author: "Venkataraman Yaamini R., Downey-Wall Alan M., Ries Justin, Westfield Isaac, White Samuel J., Roberts Steven B., Lotterhos Kathleen E"
+year: "2020"
+publication: "Frontiers in Marine Science, Volume 7, Page 225"
+preprint: ""
+doi: "https://doi.org/10.3389/fmars.2020.00225"
+materials: ""
+eprint: ""
+toc: FALSE
+categories:
+  - oyster
+  - methylation
+---
+
+## Citation
+
+> Venkataraman Yaamini R., Downey-Wall Alan M., Ries Justin, Westfield Isaac, White Samuel J., Roberts Steven B., Lotterhos Kathleen E (2020) General DNA Methylation Patterns and Environmentally-Induced Differential Methylation in the Eastern Oyster (*Crassostrea virginica*). Frontiers in Marine Science, Volume 7, Page 225. doi:10.3389/fmars.2020.00225
+
+## Abstract
+
+*Abstract not available*

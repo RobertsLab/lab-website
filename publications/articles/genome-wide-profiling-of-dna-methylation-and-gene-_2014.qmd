@@ -1,0 +1,23 @@
+---
+title: "Genome-wide profiling of DNA methylation and gene expression in *Crassostrea gigas* male gametes"
+type: "article"
+author: "Olson CE and Roberts SB"
+year: "2014"
+publication: "Frontiers in Physiology. 5:224"
+preprint: ""
+doi: ""
+materials: ""
+eprint: ""
+toc: FALSE
+categories:
+  - oyster
+  - methylation
+---
+
+## Citation
+
+> Olson CE and Roberts SB (2014) Genome-wide profiling of DNA methylation and gene expression in *Crassostrea gigas* male gametes. Frontiers in Physiology. 5:224. 
+
+## Abstract
+
+*Abstract not available*

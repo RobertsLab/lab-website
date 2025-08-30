@@ -1,0 +1,23 @@
+---
+title: "DNA methylation patterns provide insight into epigenetic regulation in the Pacific oyster (*Crassostrea gigas*)"
+type: "article"
+author: "Gavery MR and Roberts SB"
+year: "2010"
+publication: "BMC Genomics 11:483"
+preprint: ""
+doi: "https://doi.org/10.1186/1471-2164-11-483"
+materials: ""
+eprint: ""
+toc: FALSE
+categories:
+  - oyster
+  - methylation
+---
+
+## Citation
+
+> Gavery MR and Roberts SB (2010) DNA methylation patterns provide insight into epigenetic regulation in the Pacific oyster (*Crassostrea gigas*). BMC Genomics 11:483. doi:10.1186/1471-2164-11-483
+
+## Abstract
+
+*Abstract not available*

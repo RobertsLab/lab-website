@@ -1,0 +1,22 @@
+---
+title: "What goes up must come down: Diel vertical migration in the deep-water sablefish (Anoplopoma fimbria) revealed by pop-up satellite archival tags"
+type: "article"
+author: "Goetz FW, Jasonowicz AJ, Roberts SB"
+year: "2017"
+publication: "Fish Oceanogr. 2017;00:1--16"
+preprint: ""
+doi: "https://doi.org/10.1111/fog.12239"
+materials: ""
+eprint: ""
+toc: FALSE
+categories:
+  - fish
+---
+
+## Citation
+
+> Goetz FW, Jasonowicz AJ, Roberts SB (2017) What goes up must come down: Diel vertical migration in the deep-water sablefish (Anoplopoma fimbria) revealed by pop-up satellite archival tags. Fish Oceanogr. 2017;00:1--16. doi:10.1111/fog.12239
+
+## Abstract
+
+*Abstract not available*

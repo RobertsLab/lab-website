@@ -1,0 +1,22 @@
+---
+title: "Consistent differences in fitness traits across multiple generations of Olympia oysters"
+type: "article"
+author: "Silliman KE, Bowyer TK, Roberts SB"
+year: "2018"
+publication: "Scientific Reports volume 8, Article number:6080"
+preprint: ""
+doi: "https://doi.org/10.1038/s41598-018-24455-3"
+materials: ""
+eprint: ""
+toc: FALSE
+categories:
+  - oyster
+---
+
+## Citation
+
+> Silliman KE, Bowyer TK, Roberts SB (2018) Consistent differences in fitness traits across multiple generations of Olympia oysters. Scientific Reports volume 8, Article number:6080. doi:10.1038/s41598-018-24455-3
+
+## Abstract
+
+*Abstract not available*

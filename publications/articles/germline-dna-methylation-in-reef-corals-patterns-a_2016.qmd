@@ -1,0 +1,23 @@
+---
+title: "Germline DNA methylation in reef corals: patterns and potential roles in response to environmental change"
+type: "article"
+author: "Dimond JL and Roberts SB"
+year: "2016"
+publication: "Molecular Ecology"
+preprint: ""
+doi: "https://doi.org/10.1111/mec.13414"
+materials: ""
+eprint: ""
+toc: FALSE
+categories:
+  - methylation
+  - coral
+---
+
+## Citation
+
+> Dimond JL and Roberts SB (2016) Germline DNA methylation in reef corals: patterns and potential roles in response to environmental change. Molecular Ecology. doi:10.1111/mec.13414
+
+## Abstract
+
+*Abstract not available*
