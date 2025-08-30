@@ -73,6 +73,7 @@ format:
 .person-bio {
   color: #4a5568;
   line-height: 1.6;
+  font-size: 0.9rem;
 }
 
 .section-header {
