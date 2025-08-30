@@ -5,7 +5,7 @@ author: "Bogan, S. N., Johns, J., Griffiths, J. S., Davenport, D., Smith, S. J.,
 year: "2023"
 publication: "Methods in Ecology and Evolution "
 preprint: ""
-doi: "https://doi.org/10.1111/2041-210X.14219"
+doi: "10.1111/2041-210X.14219"
 materials: "https://doi. org/10.5281/zenodo.8289843"
 eprint: "http://gannet.fish.washington.edu/seashell/snaps/17823668.pdf"
 toc: FALSE

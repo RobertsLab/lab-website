@@ -5,7 +5,7 @@ author: "Katherine Silliman, Laura H Spencer, Samuel J White, Steven B Roberts"
 year: "2023"
 publication: "Genome Biology and Evolution"
 preprint: "https://doi.org/10.1101/2022.03.23.485415"
-doi: "https://doi.org/10.1093%2Fgbe%2Fevad013"
+doi: "10.1093/gbe/evad013"
 materials: "https://doi.org/10.5281/zenodo.7083311"
 eprint: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10468963/pdf/evad013.pdf"
 toc: FALSE

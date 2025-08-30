@@ -5,7 +5,7 @@ author: "Yaamini Venkataraman, Samuel J White and Steven Roberts"
 year: "2022"
 publication: "BMC Genomics"
 preprint: "https://www.biorxiv.org/content/10.1101/2022.03.07.483338v1"
-doi: "https://dx.doi.org/10.1186/s12864-022-08781-5"
+doi: "10.1186/s12864-022-08781-5"
 materials: "http://10.0.68.197/OSF.IO/YGCTB"
 eprint: "https://bmcgenomics.biomedcentral.com/counter/pdf/10.1186/s12864-022-08781-5.pdf"
 toc: FALSE

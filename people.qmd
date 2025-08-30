@@ -73,6 +73,7 @@ format:
 .person-bio {
   color: #4a5568;
   line-height: 1.6;
+  font-size: 0.9rem;
 }
 
 .section-header {
@@ -177,7 +178,7 @@ format:
 ## Steven Roberts {.person-name}
 
 ::: person-links
-[ORCID](https://orcid.org/0000-0001-8302-1138){.person-link}
+[GitHub](https://github.com/sr320){.person-link} [ORCID](https://orcid.org/0000-0001-8302-1138){.person-link}
 :::
 
 ::: person-bio
