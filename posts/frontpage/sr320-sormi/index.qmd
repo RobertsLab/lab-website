@@ -1,0 +1,62 @@
+---
+title: "Building Resilient Oysters: Launching the SORMI Project"
+description: ""
+author:
+  - name: Steven Roberts
+    url: https://sr320.github.io/
+    orcid: 0000-0001-8302-1138
+    affiliation: Professor, UW - School of Aquatic and Fishery Sciences
+    affiliation-url: https://robertslab.info
+date: 09-05-2025
+categories: [aquaculture, stress] # self-defined categories
+image: http://gannet.fish.washington.edu/seashell/snaps/Monosnap_SR_PSI_WRAC_2025_Full_Proposal_Draft_2025-09-06_06-42-09.png # finding a good image
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+
+format:
+  html:
+    code-fold: true
+    code-tools: true
+    code-copy: true
+    highlight-style: github
+    code-overflow: wrap
+---
+
+We are excited to share that our proposal, *Development of SORMI (Summer Oyster Resilience and Mortality Index): A Quantitative Tool for Improving Field Survival*, has been funded through the Western Regional Aquaculture Center. This multi-institutional effort will address one of the most pressing challenges in shellfish aquaculture—**recurrent summer mortality in Pacific oysters**.
+
+### **The Challenge**
+
+For decades, oyster growers across the West Coast have faced sudden, large-scale summer die-offs linked to rising seawater temperatures, disease, and other stressors. These events threaten farm productivity and the economic stability of the shellfish industry. Despite years of research, a single cause has never been identified. Instead, we are taking a new approach: focusing on why oysters survive rather than why they die.
+
+### **What Is SORMI?**
+
+SORMI—the *Summer Oyster Resilience and Mortality Index*—will be a **generalized stress resilience index** for Pacific oysters. By integrating a suite of physiological and metabolic assays, the index will help predict which oyster families are most resilient under real-world conditions. This tool will directly support breeding programs and hatcheries, providing a practical way to select for survival and reduce the frequency of catastrophic summer mortality events .
+
+![](<http://gannet.fish.washington.edu/seashell/snaps/Monosnap_SR_PSI_WRAC_2025_Full_Proposal_Draft_2025-09-06_06-35-37.png>)
+
+### **Our Role at UW**
+
+At the Roberts Lab, our team will be leading development of innovative, high-throughput stress assays, including a new [**resazurin-based metabolic assay**](http://oyster.pink) we have been refining as a cost-effective, scalable way to measure oyster metabolism. We will also work closely with partners to analyze stress resilience across hundreds of oyster families and link these traits to field survival outcomes. Our focus is on providing growers and breeding programs with actionable, science-based tools that are accessible and easy to implement.
+
+### **Project Leadership and Partners**
+
+This project is led by **Bobbi Hudson**, Executive Director of the **Pacific Shellfish Institute (PSI)**. The collaborative team brings together expertise and resources from across the region, including:
+
+-   **University of Washington (Roberts Lab)** – stress physiology and assay development
+
+-   **USDA Agricultural Research Service (Neil Thompson, Pacific Oyster Genomic Selection project)** – breeding program integration and genetic analysis
+
+-   **NOAA Fisheries (Mackenzie Gavery)** – environmental physiology and genomics
+
+-   **California Sea Grant (Kevin Johnson, Cal Poly)** – aquaculture extension and grower engagement
+
+-   **Industry partners** – Goose Point Oyster Company (WA) and Hog Island Oyster Company (CA)
+
+This broad coalition ensures the project is grounded in industry needs while pushing forward fundamental science .
+
+![](<http://gannet.fish.washington.edu/seashell/snaps/Monosnap_SR_PSI_WRAC_2025_Full_Proposal_Draft_2025-09-06_06-36-23.png>)
+
+### **Implications for the Shellfish Industry**
+
+The ultimate goal of SORMI is to give oyster growers a **practical decision-making tool**. With a reliable index, farmers could anticipate when their stocks are stressed and take proactive measures—harvesting before a mortality event, adjusting management practices, or prioritizing resilient broodstock. For breeding programs, SORMI will add a measurable, heritable trait that can accelerate development of hardier oyster lines.
+
+In short, this project will help secure the future of West Coast oyster farming by **turning science into survival.**

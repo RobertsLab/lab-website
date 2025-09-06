@@ -9,13 +9,68 @@
 <link>https://faculty.washington.edu/sr320/posts.html</link>
 <atom:link href="https://faculty.washington.edu/sr320/posts.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.3.450</generator>
-<lastBuildDate>Mon, 14 Jul 2025 00:00:00 GMT</lastBuildDate>
+<generator>quarto-1.6.40</generator>
+<lastBuildDate>Fri, 05 Sep 2025 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Building Resilient Oysters: Launching the SORMI Project</title>
+  <dc:creator>Steven Roberts</dc:creator>
+  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-sormi/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>We are excited to share that our proposal, <em>Development of SORMI (Summer Oyster Resilience and Mortality Index): A Quantitative Tool for Improving Field Survival</em>, has been funded through the Western Regional Aquaculture Center. This multi-institutional effort will address one of the most pressing challenges in shellfish aquaculture—<strong>recurrent summer mortality in Pacific oysters</strong>.</p>
+<section id="the-challenge" class="level3">
+<h3 class="anchored" data-anchor-id="the-challenge"><strong>The Challenge</strong></h3>
+<p>For decades, oyster growers across the West Coast have faced sudden, large-scale summer die-offs linked to rising seawater temperatures, disease, and other stressors. These events threaten farm productivity and the economic stability of the shellfish industry. Despite years of research, a single cause has never been identified. Instead, we are taking a new approach: focusing on why oysters survive rather than why they die.</p>
+</section>
+<section id="what-is-sormi" class="level3">
+<h3 class="anchored" data-anchor-id="what-is-sormi"><strong>What Is SORMI?</strong></h3>
+<p>SORMI—the <em>Summer Oyster Resilience and Mortality Index</em>—will be a <strong>generalized stress resilience index</strong> for Pacific oysters. By integrating a suite of physiological and metabolic assays, the index will help predict which oyster families are most resilient under real-world conditions. This tool will directly support breeding programs and hatcheries, providing a practical way to select for survival and reduce the frequency of catastrophic summer mortality events .</p>
+<p><img src="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_SR_PSI_WRAC_2025_Full_Proposal_Draft_2025-09-06_06-35-37.png" class="img-fluid"></p>
+</section>
+<section id="our-role-at-uw" class="level3">
+<h3 class="anchored" data-anchor-id="our-role-at-uw"><strong>Our Role at UW</strong></h3>
+<p>At the Roberts Lab, our team will be leading development of innovative, high-throughput stress assays, including a new <a href="http://oyster.pink"><strong>resazurin-based metabolic assay</strong></a> we have been refining as a cost-effective, scalable way to measure oyster metabolism. We will also work closely with partners to analyze stress resilience across hundreds of oyster families and link these traits to field survival outcomes. Our focus is on providing growers and breeding programs with actionable, science-based tools that are accessible and easy to implement.</p>
+</section>
+<section id="project-leadership-and-partners" class="level3">
+<h3 class="anchored" data-anchor-id="project-leadership-and-partners"><strong>Project Leadership and Partners</strong></h3>
+<p>This project is led by <strong>Bobbi Hudson</strong>, Executive Director of the <strong>Pacific Shellfish Institute (PSI)</strong>. The collaborative team brings together expertise and resources from across the region, including:</p>
+<ul>
+<li><p><strong>University of Washington (Roberts Lab)</strong> – stress physiology and assay development</p></li>
+<li><p><strong>USDA Agricultural Research Service (Neil Thompson, Pacific Oyster Genomic Selection project)</strong> – breeding program integration and genetic analysis</p></li>
+<li><p><strong>NOAA Fisheries (Mackenzie Gavery)</strong> – environmental physiology and genomics</p></li>
+<li><p><strong>California Sea Grant (Kevin Johnson, Cal Poly)</strong> – aquaculture extension and grower engagement</p></li>
+<li><p><strong>Industry partners</strong> – Goose Point Oyster Company (WA) and Hog Island Oyster Company (CA)</p></li>
+</ul>
+<p>This broad coalition ensures the project is grounded in industry needs while pushing forward fundamental science .</p>
+<p><img src="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_SR_PSI_WRAC_2025_Full_Proposal_Draft_2025-09-06_06-36-23.png" class="img-fluid"></p>
+</section>
+<section id="implications-for-the-shellfish-industry" class="level3">
+<h3 class="anchored" data-anchor-id="implications-for-the-shellfish-industry"><strong>Implications for the Shellfish Industry</strong></h3>
+<p>The ultimate goal of SORMI is to give oyster growers a <strong>practical decision-making tool</strong>. With a reliable index, farmers could anticipate when their stocks are stressed and take proactive measures—harvesting before a mortality event, adjusting management practices, or prioritizing resilient broodstock. For breeding programs, SORMI will add a measurable, heritable trait that can accelerate development of hardier oyster lines.</p>
+<p>In short, this project will help secure the future of West Coast oyster farming by <strong>turning science into survival.</strong></p>
+
+
+<!-- -->
+
+</section>
+
+ ]]></description>
+  <category>aquaculture</category>
+  <category>stress</category>
+  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-sormi/</guid>
+  <pubDate>Fri, 05 Sep 2025 07:00:00 GMT</pubDate>
+  <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_SR_PSI_WRAC_2025_Full_Proposal_Draft_2025-09-06_06-42-09.png" medium="image" type="image/png"/>
+</item>
 <item>
   <title>Scientific Breakthrough in Sustainable Aquaculture</title>
   <dc:creator>Steven Roberts</dc:creator>
-  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-sablefish/index.html</link>
+  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-sablefish/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -58,15 +113,16 @@
  ]]></description>
   <category>aquaculture</category>
   <category>sterility</category>
-  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-sablefish/index.html</guid>
-  <pubDate>Mon, 14 Jul 2025 00:00:00 GMT</pubDate>
+  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-sablefish/</guid>
+  <pubDate>Mon, 14 Jul 2025 07:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Yanagitsuru_et_al_SterilityInduction_dnd_BathImmersion_SablefishProofOfConcept_2025.pdf_2025-07-20_13-09-45.png" medium="image" type="image/png"/>
 </item>
 <item>
   <title>Celebrating Undergraduate Research</title>
   <dc:creator>Steven Roberts</dc:creator>
-  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-capstone/index.html</link>
+  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-capstone/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -99,15 +155,16 @@
  ]]></description>
   <category>shellfish</category>
   <category>capstone</category>
-  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-capstone/index.html</guid>
-  <pubDate>Mon, 16 Jun 2025 00:00:00 GMT</pubDate>
+  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-capstone/</guid>
+  <pubDate>Mon, 16 Jun 2025 07:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/2025-06-16_10-44-13.png" medium="image" type="image/png"/>
 </item>
 <item>
   <title>Spotlight on Fellowship Success</title>
   <dc:creator>Steven Roberts</dc:creator>
-  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-fellowships/index.html</link>
+  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-fellowships/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -115,8 +172,8 @@
 <p>We are proud to celebrate two exceptional students in our lab who have each recently received prestigious fellowships in recognition of their innovative research tackling the urgent challenges of climate change and biodiversity conservation.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://faculty.washington.edu/sr320/posts/frontpage/sr320-fellowships/http:/gannet.fish.washington.edu/seashell/snaps/Monosnap_lab-photo-20250213-edited-SJW-01.JPG_36302626_pixels_2025-06-11_18-26-37.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">photo of fellows</figcaption>
+<p><img src="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_lab-photo-20250213-edited-SJW-01.JPG_36302626_pixels_2025-06-11_18-26-37.png" class="img-fluid figure-img"></p>
+<figcaption>photo of fellows</figcaption>
 </figure>
 </div>
 <section id="zachary-bengtsson-nw-casc-fellow" class="level2">
@@ -143,15 +200,16 @@
   <category>epigenetics</category>
   <category>genetics</category>
   <category>climate</category>
-  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-fellowships/index.html</guid>
-  <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
+  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-fellowships/</guid>
+  <pubDate>Thu, 12 Jun 2025 07:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_lab-photo-20250213-edited-SJW-01.JPG_36302626_pixels_2025-06-11_18-26-37.png" medium="image" type="image/png"/>
 </item>
 <item>
   <title>Decoding Marine Memory</title>
   <dc:creator>Steven Roberts</dc:creator>
-  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-epimar/index.html</link>
+  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-epimar/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -203,15 +261,16 @@
 
  ]]></description>
   <category>epigenetics</category>
-  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-epimar/index.html</guid>
-  <pubDate>Wed, 11 Jun 2025 00:00:00 GMT</pubDate>
+  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-epimar/</guid>
+  <pubDate>Wed, 11 Jun 2025 07:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_EPIMAR_2025__Barcelona_Spain_-_May_27-30_2025-06-11_17-59-29.png" medium="image" type="image/png"/>
 </item>
 <item>
   <title>🌟 Undergraduate Research Highlight</title>
   <dc:creator>Steven Roberts</dc:creator>
-  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-baird/index.html</link>
+  <link>https://faculty.washington.edu/sr320/posts/sr320-baird/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -220,7 +279,7 @@
 <p>Her poster presentation, titled</p>
 <p><strong>“Application of Metabolic Assays to Characterize Thermal Tolerance in Pacific Oyster (Magallana gigas) Early Life Stages,”</strong></p>
 <div class="text-center">
-<p><img src="https://faculty.washington.edu/sr320/posts/frontpage/sr320-baird/http:/gannet.fish.washington.edu/seashell/snaps/Monosnap_UWURS_Oyster_Poster.pdf_2025-05-15_09-17-36.png" class="img-fluid" style="width: 75%;"></p>
+<p><img src="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_UWURS_Oyster_Poster.pdf_2025-05-15_09-17-36.png" class="img-fluid" style="width: 75%;"></p>
 </div>
 <p>investigates how parental immune priming affects offspring resilience in a changing ocean. Collaborating with the <strong>Jamestown Shellfish Hatchery</strong>, Madeline reared juvenile oysters from immune-challenged parents and assessed growth, survival, and metabolism under a wide range of temperatures.</p>
 <p>Using high-throughput <strong>resazurin metabolic assays</strong>, she found that immune-primed offspring showed greater thermal tolerance—especially between 36°C and 40°C—highlighting a potentially important role of <strong>metabolic flexibility</strong> in inherited stress resilience.</p>
@@ -243,15 +302,16 @@
 </video> ]]></description>
   <category>aquaculture</category>
   <category>stress</category>
-  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-baird/index.html</guid>
-  <pubDate>Thu, 15 May 2025 00:00:00 GMT</pubDate>
+  <guid>https://faculty.washington.edu/sr320/posts/sr320-baird/</guid>
+  <pubDate>Thu, 15 May 2025 07:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_UWURS_Oyster_Poster.pdf_2025-05-15_07-34-59.png" medium="image" type="image/png"/>
 </item>
 <item>
   <title>Environmental Priming in Practice</title>
   <dc:creator>Steven Roberts</dc:creator>
-  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-lewis-smith/index.html</link>
+  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-lewis-smith/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -270,14 +330,15 @@
  ]]></description>
   <category>aquaculture</category>
   <category>stress</category>
-  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-lewis-smith/index.html</guid>
-  <pubDate>Wed, 07 May 2025 00:00:00 GMT</pubDate>
+  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-lewis-smith/</guid>
+  <pubDate>Wed, 07 May 2025 07:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/2025-05-07_11-42-09.png" medium="image" type="image/png"/>
 </item>
 <item>
   <title>Exploring the Non-Coding RNA Landscape in Reef-Building Corals</title>
-  <link>https://faculty.washington.edu/sr320/posts/sr320-lncRNA-rep/index.html</link>
+  <link>https://faculty.washington.edu/sr320/posts/sr320-lncRNA-rep/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -321,14 +382,15 @@
  ]]></description>
   <category>coral</category>
   <category>lncRNA</category>
-  <guid>https://faculty.washington.edu/sr320/posts/sr320-lncRNA-rep/index.html</guid>
-  <pubDate>Mon, 17 Mar 2025 00:00:00 GMT</pubDate>
+  <guid>https://faculty.washington.edu/sr320/posts/sr320-lncRNA-rep/</guid>
+  <pubDate>Mon, 17 Mar 2025 07:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_httpswww.biorxiv.orgcontent10.11012025.03.15.643469v1.full.pdf_2025-03-17_08-01-04.png" medium="image" type="image/png"/>
 </item>
 <item>
   <title>Unlocking the Future of Shellfish Aquaculture Through Genomics</title>
-  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-genomics/index.html</link>
+  <link>https://faculty.washington.edu/sr320/posts/sr320-genomics/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -397,15 +459,16 @@
  ]]></description>
   <category>aquaculture</category>
   <category>epigenetics</category>
-  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-genomics/index.html</guid>
-  <pubDate>Fri, 21 Feb 2025 00:00:00 GMT</pubDate>
+  <guid>https://faculty.washington.edu/sr320/posts/sr320-genomics/</guid>
+  <pubDate>Fri, 21 Feb 2025 08:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Advancing_genetic_improvement_in_the_omics_era_status_and_priorities_for_United_States_aquaculture__BMC_Genomics__Full_Text_2025-02-21_12-15-32.png" medium="image" type="image/png"/>
 </item>
 <item>
   <title>Cracking the Code of Pacific Cod</title>
   <dc:creator>Laura Spencer</dc:creator>
-  <link>https://faculty.washington.edu/sr320/posts/sr320-cod2/index.html</link>
+  <link>https://faculty.washington.edu/sr320/posts/sr320-cod2/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -416,11 +479,11 @@
 <p>We analyzed DNA and gene activity (transcriptomics) in young Pacific cod exposed to a range of temperatures, from icy 0°C to a heatwave-like 16°C. By combining this “genome-to-phenome” data—essentially linking genetic information to physical traits—we’re beginning to see which fish have the genetic tools to survive in a warming world.</p>
 <p><strong>A Genetic Blueprint for Resilience</strong></p>
 <p>One of the most intriguing findings comes from a process called <strong>Genome-Wide Association Studies (GWAS)</strong>, where we scan the entire genome for small genetic differences linked to key traits. One of the most revealing traits we studied is the <strong>hepatosomatic index (HSI)</strong>—a measure of how much energy a fish stores in its liver. Since fat storage is critical for surviving harsh winters, understanding which fish can accumulate liver lipids under stress is essential.</p>
-<p><img src="https://faculty.washington.edu/sr320/posts/sr320-cod2/http:/gannet.fish.washington.edu/seashell/snaps/2025-02-17_09-17-29.png" class="img-fluid"></p>
+<p><img src="http://gannet.fish.washington.edu/seashell/snaps/2025-02-17_09-17-29.png" class="img-fluid"></p>
 <p>Our data revealed <strong>specific genetic variants linked to liver size</strong>, some of which are connected to genes regulating appetite and metabolism. One gene in particular, likely involved in serotonin signaling (which affects hunger), seems to influence whether a juvenile cod stores enough fat when temperatures rise.</p>
 <p><strong>Can Genes Predict Performance?</strong></p>
 <p>Beyond genetics, we also examined how <strong>gene expression (RNA activity) relates to fish growth and condition</strong>. We identified a set of genes that are highly active in the strongest, most resilient fish under warm conditions. This genetic “signature” could help scientists predict which fish populations are best suited to handle climate shifts.</p>
-<p><img src="https://faculty.washington.edu/sr320/posts/sr320-cod2/http:/gannet.fish.washington.edu/seashell/snaps/2025-02-17_09-18-11.png" class="img-fluid"></p>
+<p><img src="http://gannet.fish.washington.edu/seashell/snaps/2025-02-17_09-18-11.png" class="img-fluid"></p>
 <p>By looking at <strong>composite performance indices (CPI)</strong>—which combine growth rate, body condition, and liver fat content—we found a distinct pattern: some fish are naturally equipped to thrive in warming seas, while others may struggle.</p>
 <p><strong>A Look to the Past—and the Future</strong></p>
 <p>To understand if these genetic traits have changed over time, we’re also analyzing historical samples from Pacific cod collected near Kodiak, Alaska, dating back to 2008. This will help us determine if recent marine heatwaves have already begun shaping the genetic makeup of young cod. If we find shifts in key genes over time, it could be a sign that natural selection is at work—favoring fish that can cope with temperature extremes.</p>
@@ -445,15 +508,16 @@
  ]]></description>
   <category>cod</category>
   <category>Alaska</category>
-  <guid>https://faculty.washington.edu/sr320/posts/sr320-cod2/index.html</guid>
-  <pubDate>Thu, 20 Feb 2025 00:00:00 GMT</pubDate>
+  <guid>https://faculty.washington.edu/sr320/posts/sr320-cod2/</guid>
+  <pubDate>Thu, 20 Feb 2025 08:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/2025-02-17_09-15-38.png" medium="image" type="image/png"/>
 </item>
 <item>
   <title>Harnessing Shellfish Environmental Memory for a Resilient Future</title>
   <dc:creator>Steven Roberts</dc:creator>
-  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-WSG/index.html</link>
+  <link>https://faculty.washington.edu/sr320/posts/sr320-WSG/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -496,14 +560,15 @@
  ]]></description>
   <category>wsg</category>
   <category>talk</category>
-  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-WSG/index.html</guid>
-  <pubDate>Mon, 10 Feb 2025 00:00:00 GMT</pubDate>
+  <guid>https://faculty.washington.edu/sr320/posts/sr320-WSG/</guid>
+  <pubDate>Mon, 10 Feb 2025 08:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_2025-WSG-Roberts_2025-02-10_07-20-44.png" medium="image" type="image/png"/>
 </item>
 <item>
   <title>Coral Larvae and Thermal Stress</title>
-  <link>https://faculty.washington.edu/sr320/posts/ariana-paper/index.html</link>
+  <link>https://faculty.washington.edu/sr320/posts/ariana-paper/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -541,14 +606,15 @@
  ]]></description>
   <category>paper</category>
   <category>coral</category>
-  <guid>https://faculty.washington.edu/sr320/posts/ariana-paper/index.html</guid>
-  <pubDate>Sat, 08 Feb 2025 00:00:00 GMT</pubDate>
+  <guid>https://faculty.washington.edu/sr320/posts/ariana-paper/</guid>
+  <pubDate>Sat, 08 Feb 2025 08:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Coral_larvae_increase_nitrogen_assimilation_to_stabilize_algal_symbiosis_and_combat_bleaching_under_increased_temperature__PLO_2025-02-08_12-36-36.png" medium="image" type="image/png"/>
 </item>
 <item>
   <title>Turning the tide</title>
-  <link>https://faculty.washington.edu/sr320/posts/sr320-boundless/index.html</link>
+  <link>https://faculty.washington.edu/sr320/posts/sr320-boundless/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -568,15 +634,16 @@
  ]]></description>
   <category>dna</category>
   <category>education</category>
-  <guid>https://faculty.washington.edu/sr320/posts/sr320-boundless/index.html</guid>
-  <pubDate>Fri, 08 Nov 2024 00:00:00 GMT</pubDate>
+  <guid>https://faculty.washington.edu/sr320/posts/sr320-boundless/</guid>
+  <pubDate>Fri, 08 Nov 2024 08:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/2024-11-07_12-56-13.png" medium="image" type="image/png"/>
 </item>
 <item>
   <title>Exploring Pacific Cod Resilience in a Warming Ocean</title>
   <dc:creator>Laura Spencer</dc:creator>
-  <link>https://faculty.washington.edu/sr320/posts/posts/index.html</link>
+  <link>https://faculty.washington.edu/sr320/posts/posts/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -584,13 +651,13 @@
 <p>In our latest update on the Pacific cod juvenile temperature study, we've gained deeper insights into how these remarkable fish respond to different temperatures. This research is part of a larger effort to understand the resilience of marine species in changing environments.</p>
 <p><strong>Genetic Insights Reveal Population Origins</strong></p>
 <p>We began with genetic analyses, using data from thousands of genetic markers to determine the origin of our experimental fish. All our test fish were linked to the spawning grounds in the western Gulf of Alaska (wGOA) and the Eastern Bering Sea (EBS). This finding allows us to focus on the thermal resilience of cod from this particular region, which is vital as they face shifts in temperature in their natural habitats.</p>
-<p><img src="https://faculty.washington.edu/sr320/posts/posts/http:/gannet.fish.washington.edu/seashell/snaps/2024-11-06_15-00-51.png" class="img-fluid"></p>
+<p><img src="http://gannet.fish.washington.edu/seashell/snaps/2024-11-06_15-00-51.png" class="img-fluid"></p>
 <p><strong>Temperature's Role in Energy and Lipid Storage</strong></p>
 <p>Our collaborator Louise Copement analyzed liver lipids in these juvenile cod, focusing on triglycerides and other key lipid types that are crucial for overwinter survival. The results showed a clear trend: energy storage, primarily in the form of triglycerides, peaked at 9°C, then dropped sharply at higher temperatures, especially at 16°C. This suggests that extreme warmth could deplete essential energy reserves, reducing the fish's survival prospects in the cold winter months.</p>
-<p><img src="https://faculty.washington.edu/sr320/posts/posts/http:/gannet.fish.washington.edu/seashell/snaps/2024-11-06_15-01-47.png" class="img-fluid"></p>
+<p><img src="http://gannet.fish.washington.edu/seashell/snaps/2024-11-06_15-01-47.png" class="img-fluid"></p>
 <p><strong>Optimal Growth Temperatures and Physiological Responses</strong></p>
 <p>We also observed that juvenile cod exhibit optimal growth at approximately 12.3°C, slightly higher than previous findings. With higher temperatures, growth rates plateau or decline, mirroring the energy storage patterns. Interestingly, the gene expression data from liver tissues revealed significant temperature-driven shifts, especially in energy production, lipid metabolism, and immune response genes. This molecular data adds a new layer to our understanding of temperature tolerance.</p>
-<p><img src="https://faculty.washington.edu/sr320/posts/posts/http:/gannet.fish.washington.edu/seashell/snaps/2024-11-06_15-01-22.png" class="img-fluid"></p>
+<p><img src="http://gannet.fish.washington.edu/seashell/snaps/2024-11-06_15-01-22.png" class="img-fluid"></p>
 <p><strong>Integrated Data: A Pathway to Genomic Resilience Markers</strong></p>
 <p>Combining growth, lipid, and gene expression data, we've started identifying genes that correlate with enhanced resilience at specific temperatures. This approach could spotlight genetic markers for thermal resilience, offering clues about cod populations best suited to future ocean conditions.</p>
 <p>In summary, this research underscores the delicate balance juvenile Pacific cod must maintain in their energy reserves and growth under variable temperatures. These findings will help guide conservation and management efforts as we work to protect Pacific cod populations in a warming world.</p>
@@ -602,14 +669,15 @@
  ]]></description>
   <category>cod</category>
   <category>Alaska</category>
-  <guid>https://faculty.washington.edu/sr320/posts/posts/index.html</guid>
-  <pubDate>Wed, 06 Nov 2024 00:00:00 GMT</pubDate>
+  <guid>https://faculty.washington.edu/sr320/posts/posts/</guid>
+  <pubDate>Wed, 06 Nov 2024 08:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/2024-11-06_13-57-57.png" medium="image" type="image/png"/>
 </item>
 <item>
   <title>Deep dive into the handbook</title>
-  <link>https://faculty.washington.edu/sr320/posts/sr320-handbook/index.html</link>
+  <link>https://faculty.washington.edu/sr320/posts/sr320-handbook/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -761,15 +829,16 @@
  ]]></description>
   <category>handbook</category>
   <category>audio</category>
-  <guid>https://faculty.washington.edu/sr320/posts/sr320-handbook/index.html</guid>
-  <pubDate>Sat, 14 Sep 2024 00:00:00 GMT</pubDate>
+  <guid>https://faculty.washington.edu/sr320/posts/sr320-handbook/</guid>
+  <pubDate>Sat, 14 Sep 2024 07:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Roberts_Lab_Handbook_2024-09-14_13-23-52.png" medium="image" type="image/png"/>
 </item>
 <item>
   <title>Hatchery-based Environmental Conditioning Activities</title>
   <dc:creator>Steven Roberts</dc:creator>
-  <link>https://faculty.washington.edu/sr320/posts/sr320-usda-report/index.html</link>
+  <link>https://faculty.washington.edu/sr320/posts/sr320-usda-report/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -777,8 +846,8 @@
 <p>During this past year a series of hatchery-based environmental conditioning activities (referred to as hardening) were completed with oysters out-planted onto three farms to evaluate performance. Additionally, climate resiliency was assessed in hardened oysters under controlled conditions.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://faculty.washington.edu/sr320/posts/sr320-usda-report/http:/gannet.fish.washington.edu/seashell/snaps/Monosnap_overview.png_2024-08-29_13-35-45.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Experimental Overview</figcaption>
+<p><img src="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_overview.png_2024-08-29_13-35-45.png" class="img-fluid figure-img"></p>
+<figcaption>Experimental Overview</figcaption>
 </figure>
 </div>
 <section id="farm-outplanting" class="level1">
@@ -786,8 +855,8 @@
 <p>Early in the season, a cohort of oysters were subject to (a) daily thermal hardening for approximately two weeks prior to out planting in hanging bags on a farm in Sequim Bay, alongside a control group. These oyster will be assessed in early Autumn 2024. Later in the season oysters were subjected to a more diverse series of hardening conditions with oyster split between two commercial farms, one located in Willapa Bay and a second in the San Juan Islands. The combination of age classes and hardening conditions were as follows: b) small seed / daily thermal hardening, c) adult / daily thermal hardening, d) small seed / weekly thermal hardening, e1) large seed / weekly thermal hardening, e2) large seed / weekly zero salinity hardening. These hardening activities spanned from several weeks to months. For all hardening efforts controls were also outplanted. Oysters out planted in Willapa Bay will be assessed for survival and growth in early September 2024. Oysters out planted in the San Juan Islands have be subject to more routine monitoring. At this site we are currently observing a trend where oysters subjected to the daily hardening regime are surviving better than controls.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://faculty.washington.edu/sr320/posts/sr320-usda-report/http:/gannet.fish.washington.edu/seashell/snaps/Monosnap_Monosnap_2024-08-29_13-37-09.png" class="img-fluid figure-img" width="300"></p>
-<figcaption class="figure-caption">Wescott Bay Outplanting</figcaption>
+<p><img src="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Monosnap_2024-08-29_13-37-09.png" class="img-fluid figure-img" width="300"></p>
+<figcaption>Wescott Bay Outplanting</figcaption>
 </figure>
 </div>
 </section>
@@ -796,34 +865,34 @@
 <p>To assess the effectiveness of hardening within a hatchery setting, four ages classes of oysters were examined: adults (40-100mm), juveniles (20-55mm), seed (6-15mm), and spat ()1-6mm). In order to assess hardening potential and environmental memory, oysters were subject to an initial chronic temperature stress, then subjected to a secondary stress to see if the response to secondary stress was impacted by initial exposure. During the chronic temperature stress period, oysters from each age class were exposed to a daily 25ºC temperature spike. This repeated for 14 days starting on October 1. Control oysters from each cohort were maintained at an ambient temperature of approximately 17ºC during the same time period.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://faculty.washington.edu/sr320/posts/sr320-usda-report/http:/gannet.fish.washington.edu/seashell/snaps/Monosnap_env_hardening..._-_Google_Slides_2024-08-29_13-38-28.png" class="img-fluid figure-img" width="500"></p>
-<figcaption class="figure-caption">Hardening and acute stress temperature timeline</figcaption>
+<p><img src="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_env_hardening..._-_Google_Slides_2024-08-29_13-38-28.png" class="img-fluid figure-img" width="500"></p>
+<figcaption>Hardening and acute stress temperature timeline</figcaption>
 </figure>
 </div>
 <p>Adult oysters in stress conditions were also subject to mechanical stress at day 1, 7, and 48, which was induced by 15 minutes. At day 147 (7 weeks after initial chronic stress), both stressed and non-stressed adult, juvenile, spat, and seed were subjected to a secondary stress of 30 minutes in 32ºC. Gill tissue was sampled immediately after and placed into RNAlater. Spat and seed that were too small to dissect gill tissue were sampled whole with all tissue used in gene expression assays. To date we have analyzed gene expression data from seed and spat. There was no mortality during this trial. Hardening increased growth (compared to controls) in spat. Further there was a reduced transcriptional response in spat. These data suggest temperature hardening of spat could result in a resiliency to later temperature stress whereby energy resources could favor growth.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://faculty.washington.edu/sr320/posts/sr320-usda-report/http:/gannet.fish.washington.edu/seashell/snaps/Monosnap_env_hardening..._-_Google_Slides_2024-08-29_13-39-30.png" class="img-fluid figure-img" width="500"></p>
-<figcaption class="figure-caption">Growth Performance</figcaption>
+<p><img src="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_env_hardening..._-_Google_Slides_2024-08-29_13-39-30.png" class="img-fluid figure-img" width="500"></p>
+<figcaption>Growth Performance</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://faculty.washington.edu/sr320/posts/sr320-usda-report/http:/gannet.fish.washington.edu/seashell/snaps/Monosnap_env_hardening..._-_Google_Slides_2024-08-29_13-40-09.png" class="img-fluid figure-img" width="500"></p>
-<figcaption class="figure-caption">Gene expression profiles (spat)</figcaption>
+<p><img src="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_env_hardening..._-_Google_Slides_2024-08-29_13-40-09.png" class="img-fluid figure-img" width="500"></p>
+<figcaption>Gene expression profiles (spat)</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://faculty.washington.edu/sr320/posts/sr320-usda-report/http:/gannet.fish.washington.edu/seashell/snaps/Monosnap_env_hardening..._-_Google_Slides_2024-08-29_13-40-54.png" class="img-fluid figure-img" width="500"></p>
-<figcaption class="figure-caption">Schematic physiology explanation when hardened spat are exposed to acute temperature stress.</figcaption>
+<p><img src="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_env_hardening..._-_Google_Slides_2024-08-29_13-40-54.png" class="img-fluid figure-img" width="500"></p>
+<figcaption>Schematic physiology explanation when hardened spat are exposed to acute temperature stress.</figcaption>
 </figure>
 </div>
 </section>
 <section id="physiological-assessment-2" class="level1">
 <h1>Physiological Assessment 2</h1>
 <p>In a second experimental regime, juvenile oysters were subjected to four hardening conditions 1) high temperature (35°C), 2) high temperature and freshwater, 3) freshwater, and 4) poly I:C immersion. These were exposures that occurred every other day for about 3 weeks. Approximately 1 month after hardening, oysters were brought to the lab and subjected to metabolic assessment using resazurin at 18°C and 42°C. Resazurin is a dye that is commonly used in cell viability, and it works by changing color as an organism consumes oxygen. Survival was assessed during the resazurin assay and 24 hours later. To date, our analysis suggests metabolic activity of the 42°C oysters was higher in the control oysters than previously hardened oysters. In the near future we will assess the relationship of metabolic activity and survival however it appears higher metabolic rate directly correlates with mortality. Taken together these sets of controlled experiments suggest hardening does have an impact on resiliency, though dependent on age, hardening duration, and subsequent environmental conditions.</p>
-<p><img src="https://faculty.washington.edu/sr320/posts/sr320-usda-report/http:/gannet.fish.washington.edu/seashell/snaps/Monosnap_logo-resazuring_2024-08-29_13-50-31.png" class="img-fluid" alt="Resazurin assay (4 hour / 2 temperatures) on hardened oysters"></p>
+<p><img src="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_logo-resazuring_2024-08-29_13-50-31.png" class="img-fluid" alt="Resazurin assay (4 hour / 2 temperatures) on hardened oysters"></p>
 
 
 <!-- -->
@@ -833,14 +902,15 @@
  ]]></description>
   <category>oyster</category>
   <category>stress</category>
-  <guid>https://faculty.washington.edu/sr320/posts/sr320-usda-report/index.html</guid>
-  <pubDate>Fri, 30 Aug 2024 00:00:00 GMT</pubDate>
+  <guid>https://faculty.washington.edu/sr320/posts/sr320-usda-report/</guid>
+  <pubDate>Fri, 30 Aug 2024 07:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Monosnap_2024-08-29_13-10-49.png" medium="image" type="image/png"/>
 </item>
 <item>
   <title>Assessing Oyster Viability Under Environmental Stress</title>
-  <link>https://faculty.washington.edu/sr320/posts/sr320-lsamp/index.html</link>
+  <link>https://faculty.washington.edu/sr320/posts/sr320-lsamp/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -855,8 +925,8 @@
 <p>Our research was driven by two pivotal questions: Can resazurin effectively measure metabolism in oysters, and does prior exposure to stress (stress hardening) alter their metabolic response to subsequent stressors? Through meticulously designed experiments, Colby led the charge in optimizing the assay conditions, ensuring the reliability and accuracy of our measurements.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://faculty.washington.edu/sr320/posts/sr320-lsamp/http:/gannet.fish.washington.edu/seashell/snaps/2024-08-21_11-33-23.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Colby presenting his research at the Summer Research Symposium</figcaption>
+<p><img src="http://gannet.fish.washington.edu/seashell/snaps/2024-08-21_11-33-23.png" class="img-fluid figure-img"></p>
+<figcaption>Colby presenting his research at the Summer Research Symposium</figcaption>
 </figure>
 </div>
 </section>
@@ -873,7 +943,7 @@
 <h3 class="anchored" data-anchor-id="gratitude-and-acknowledgments">Gratitude and Acknowledgments</h3>
 <p>This research was made possible through the support of the National Science Foundation. We are immensely proud of Colby and all associated researchers for their dedication and hard work.</p>
 <p><strong>Poster</strong> (<a href="http://gannet.fish.washington.edu/seashell/snaps/Colby_Poster_LSAMP.pdf">download hi-res pdf</a>)</p>
-<p><img src="https://faculty.washington.edu/sr320/posts/sr320-lsamp/http:/gannet.fish.washington.edu/seashell/snaps/2024-08-21_11-40-33.png" class="img-fluid"></p>
+<p><img src="http://gannet.fish.washington.edu/seashell/snaps/2024-08-21_11-40-33.png" class="img-fluid"></p>
 
 
 <!-- -->
@@ -883,21 +953,22 @@
  ]]></description>
   <category>oyster</category>
   <category>stress</category>
-  <guid>https://faculty.washington.edu/sr320/posts/sr320-lsamp/index.html</guid>
-  <pubDate>Thu, 22 Aug 2024 00:00:00 GMT</pubDate>
+  <guid>https://faculty.washington.edu/sr320/posts/sr320-lsamp/</guid>
+  <pubDate>Thu, 22 Aug 2024 07:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/2024-08-21_11-42-08.png" medium="image" type="image/png"/>
 </item>
 <item>
   <title>Intertidal Innovators</title>
-  <link>https://faculty.washington.edu/sr320/posts/sr320-intertidal/index.html</link>
+  <link>https://faculty.washington.edu/sr320/posts/sr320-intertidal/</link>
   <description><![CDATA[ 
 
 
 
 
-<p><img src="https://faculty.washington.edu/sr320/posts/sr320-intertidal/http:/gannet.fish.washington.edu/seashell/snaps/Monosnap_IMG_1373.png_2024-08-19_12-59-21.png" class="img-fluid"></p>
+
+<p><img src="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_IMG_1373.png_2024-08-19_12-59-21.png" class="img-fluid"></p>
 <p>On August 16, participants in the Intertidal Innovators program presented their work to the community. The program, which was a collaboration sponsored by the UW Earthlab program, provided students with the opportunity to learn about marine science and conservation through art.</p>
-<p><img src="https://faculty.washington.edu/sr320/posts/sr320-intertidal/http:/gannet.fish.washington.edu/seashell/snaps/Monosnap_Monosnap_2024-08-19_13-09-47.png" class="img-fluid"></p>
+<p><img src="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Monosnap_2024-08-19_13-09-47.png" class="img-fluid"></p>
 <div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -921,19 +992,20 @@ Quote
 
  ]]></description>
   <category>education</category>
-  <guid>https://faculty.washington.edu/sr320/posts/sr320-intertidal/index.html</guid>
-  <pubDate>Mon, 19 Aug 2024 00:00:00 GMT</pubDate>
+  <guid>https://faculty.washington.edu/sr320/posts/sr320-intertidal/</guid>
+  <pubDate>Mon, 19 Aug 2024 07:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_The_Golden_Hour_-_a_geolocated_audio_walk_by_Intertidal_Innovators_on_ECHOES_2024-08-19_12-50-25.png" medium="image" type="image/png"/>
 </item>
 <item>
   <title>Ostras en Chile</title>
-  <link>https://faculty.washington.edu/sr320/posts/sr320-ostras/index.html</link>
+  <link>https://faculty.washington.edu/sr320/posts/sr320-ostras/</link>
   <description><![CDATA[ 
 
 
 
 
-<p><img src="https://faculty.washington.edu/sr320/posts/sr320-ostras/http:/gannet.fish.washington.edu/seashell/snaps/Monosnap_IMG_6806.jpg_19801320_pixels_2024-08-14_11-49-59.png" class="img-fluid"></p>
+
+<p><img src="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_IMG_6806.jpg_19801320_pixels_2024-08-14_11-49-59.png" class="img-fluid"></p>
 <p>On August 6, 2024, approximately sixty participants gathered at the Professor Alamiro Robledo Auditorium of the Faculty of Physical and Mathematical Sciences at the University of Concepción. They were there to delve into the promising sector of oyster aquaculture in Chile during the seminar titled “Oysters in Chile: Opportunities and Challenges for Aquaculture Diversification.” This event was meticulously organized by the Interdisciplinary Center for Aquaculture Research (INCAR).</p>
 <p>The seminar showcased six presentations from both national and international experts, followed by a panel discussion. The diverse audience included academia, public and private sector representatives, producers, aquaculturists, industry leaders, professionals, and both secondary and postgraduate students. The gathering aimed to foster a comprehensive dialogue on the development of oyster aquaculture in the country.</p>
 <p>Manira Matamala, the regional director of the Undersecretary of Fisheries and Aquaculture (Subpesca) for Valparaíso, O’Higgins, and Maule, commended INCAR’s initiative. She highlighted the seminar’s focus on enhancing the genetic and genomic understanding of oysters, which is vital for promoting sustainable aquaculture practices.</p>
@@ -948,7 +1020,7 @@ Quote
 <li><p>Dr.&nbsp;Renato Quiñones, the director of Incar, emphasized the seminar’s role in bringing together experts from varied fields to create a multidimensional space for all stakeholders involved in oyster cultivation. This interaction is crucial for transforming scientific knowledge into a community and national heritage.</p></li>
 </ul>
 <p>The event concluded with a panel discussion moderated by Dr.&nbsp;Doris Soto, principal investigator at Incar, where experts discussed the multifaceted opportunities and challenges facing aquaculture diversification in Chile.</p>
-<p><img src="https://faculty.washington.edu/sr320/posts/sr320-ostras/http:/gannet.fish.washington.edu/seashell/snaps/Monosnap_Monosnap_2024-08-14_11-36-29.png" class="img-fluid"></p>
+<p><img src="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Monosnap_2024-08-14_11-36-29.png" class="img-fluid"></p>
 <p>This seminar not only highlighted the collaborative efforts required to advance oyster aquaculture but also showcased the commitment of INCAR to foster a sustainable and innovative aquaculture industry in Chile.</p>
 
 
@@ -958,14 +1030,15 @@ Quote
  ]]></description>
   <category>oyster</category>
   <category>presentation</category>
-  <guid>https://faculty.washington.edu/sr320/posts/sr320-ostras/index.html</guid>
-  <pubDate>Tue, 06 Aug 2024 00:00:00 GMT</pubDate>
+  <guid>https://faculty.washington.edu/sr320/posts/sr320-ostras/</guid>
+  <pubDate>Tue, 06 Aug 2024 07:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Monosnap_2024-08-14_11-33-39.png" medium="image" type="image/png"/>
 </item>
 <item>
   <title>Exploring How Environmental Conditions Impact Atlantic Salmon’s Defense Against Sea Lice</title>
-  <link>https://faculty.washington.edu/sr320/posts/sr320-lice/index.html</link>
+  <link>https://faculty.washington.edu/sr320/posts/sr320-lice/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -997,60 +1070,9 @@ Quote
  ]]></description>
   <category>salmon</category>
   <category>epigenetics</category>
-  <guid>https://faculty.washington.edu/sr320/posts/sr320-lice/index.html</guid>
-  <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+  <guid>https://faculty.washington.edu/sr320/posts/sr320-lice/</guid>
+  <pubDate>Mon, 01 Jul 2024 07:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Environmental_influence_on_the_Atlantic_salmon_transcriptome_and_methylome_during_sea_lice_infestations_-_ScienceDirect_2024-08-14_12-12-07.png" medium="image" type="image/png"/>
-</item>
-<item>
-  <title>Cmplexities of Gene Expression</title>
-  <link>https://faculty.washington.edu/sr320/posts/sr320-altsplice/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>In a recent meeting focused on gene expression analysis, we delved into the intricacies of examining expression at the exon level, a crucial but complex aspect of understanding gene function and regulation. The discussion provided deep insights into both the challenges and potential breakthroughs in the field of genomics. Here’s a detailed recap of the key points and future directions highlighted during the conversation.</p>
-<div class="quarto-video"><video id="video_shortcode_videojs_video1" class="video-js vjs-default-skin vjs-fluid" controls="" preload="auto" data-setup="{}" title=""><source src="https://gannet.fish.washington.edu/seashell/snaps/GMT20240523-195855_Recording.m4a"></video></div>
-<section id="emphasis-on-gene-expression-analysis" class="level4">
-<h4 class="anchored" data-anchor-id="emphasis-on-gene-expression-analysis">Emphasis on Gene Expression Analysis</h4>
-<p>Gene expression analysis remains a cornerstone of genomic studies, serving as a gateway to understanding the roles of genes in various biological processes and disease states. The meeting opened with a reaffirmation of the importance of mastering the techniques and tools that allow for such analysis, emphasizing that comprehensive understanding is necessary to advance research.</p>
-</section>
-<section id="workflow-and-tools" class="level4">
-<h4 class="anchored" data-anchor-id="workflow-and-tools">Workflow and Tools</h4>
-<p>A significant portion of the discussion revolved around the workflow used in the analysis. The researchers outlined their use of HiSat for alignment—a choice reflecting HiSat’s efficiency in handling high-throughput RNA-seq data. StringTie was then introduced as the tool for identifying transcript units, highlighting its capability to assemble transcripts effectively. The differential expression analysis was conducted using DC2, a tool favored for its robust statistical methods in handling variance among biological replicates.</p>
-</section>
-<section id="challenges-in-interpretation" class="level4">
-<h4 class="anchored" data-anchor-id="challenges-in-interpretation">Challenges in Interpretation</h4>
-<p>One of the central themes of the meeting was the challenge of interpreting results where genes do not show differential expression overall but do exhibit variations at the exon level. This scenario often leads to questions about alternative splicing or differential exon usage, which can have significant implications for gene function.</p>
-<p>The group discussed several hypothetical situations:<br>
-- <strong>Alternative Splicing</strong>: If only certain exons within a gene are differentially expressed, this might suggest alternative splicing, a process where the same gene can lead to different protein variants.<br>
-- <strong>Alternative Start Sites</strong>: Differentially expressed exons at the gene’s boundaries might indicate alternative transcription start sites, affecting how transcription is initiated.</p>
-</section>
-<section id="biological-implications-and-interpretation" class="level4">
-<h4 class="anchored" data-anchor-id="biological-implications-and-interpretation">Biological Implications and Interpretation</h4>
-<p>The biological implications of these findings are profound, potentially impacting everything from gene regulation to the development of therapeutic strategies. For example, alternative splicing can result in proteins with differing, sometimes antagonistic functions. Understanding these nuances is essential for the development of targeted therapies.</p>
-</section>
-<section id="the-role-of-visual-aids" class="level4">
-<h4 class="anchored" data-anchor-id="the-role-of-visual-aids">The Role of Visual Aids</h4>
-<p>A noteworthy suggestion from the meeting was the use of visual aids to better explain complex data and analysis. Presentations with graphical representations of data can facilitate a clearer understanding, aiding in the interpretation of intricate patterns of gene expression that might otherwise be overlooked in raw numerical data.</p>
-</section>
-<section id="future-directions" class="level4">
-<h4 class="anchored" data-anchor-id="future-directions">Future Directions</h4>
-<p>Looking to the future, the participants agreed on the need for more refined tools and methodologies to enhance the accuracy and granularity of exon-level expression analysis. They highlighted the potential for developing new computational tools that can integrate more complex layers of data, such as epigenetic modifications and non-coding RNA interactions, which could provide a more comprehensive view of gene regulation.</p>
-<p>The meeting concluded with a sense of optimism about the path forward, acknowledging that while challenges remain, the ongoing advancements in technology and methodology will continue to illuminate the complexities of the genome.</p>
-<p>This deep dive into exon-level analysis not only underscores the complexity inherent in genetic studies but also highlights the meticulous detail and sophisticated understanding required to truly grasp the implications of gene expression data. As researchers continue to unravel these complexities, each discussion and discovery adds a valuable piece to the puzzle of life sciences.</p>
-
-
-<!-- -->
-
-</section>
-
- ]]></description>
-  <category>methods</category>
-  <category>tools</category>
-  <guid>https://faculty.washington.edu/sr320/posts/sr320-altsplice/index.html</guid>
-  <pubDate>Sat, 25 May 2024 00:00:00 GMT</pubDate>
-  <media:content url="https://faculty.washington.edu/sr320/img/enrich.png" medium="image" type="image/png" height="105" width="144"/>
 </item>
 </channel>
 </rss>

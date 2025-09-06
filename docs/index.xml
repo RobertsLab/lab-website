@@ -6,16 +6,71 @@
       version="2.0">
 <channel>
 <title>robertslab.info</title>
-<link>https://faculty.washington.edu/sr320/index.html</link>
+<link>https://faculty.washington.edu/sr320/</link>
 <atom:link href="https://faculty.washington.edu/sr320/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.3.450</generator>
-<lastBuildDate>Mon, 14 Jul 2025 00:00:00 GMT</lastBuildDate>
+<generator>quarto-1.6.40</generator>
+<lastBuildDate>Fri, 05 Sep 2025 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Building Resilient Oysters: Launching the SORMI Project</title>
+  <dc:creator>Steven Roberts</dc:creator>
+  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-sormi/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>We are excited to share that our proposal, <em>Development of SORMI (Summer Oyster Resilience and Mortality Index): A Quantitative Tool for Improving Field Survival</em>, has been funded through the Western Regional Aquaculture Center. This multi-institutional effort will address one of the most pressing challenges in shellfish aquaculture—<strong>recurrent summer mortality in Pacific oysters</strong>.</p>
+<section id="the-challenge" class="level3">
+<h3 class="anchored" data-anchor-id="the-challenge"><strong>The Challenge</strong></h3>
+<p>For decades, oyster growers across the West Coast have faced sudden, large-scale summer die-offs linked to rising seawater temperatures, disease, and other stressors. These events threaten farm productivity and the economic stability of the shellfish industry. Despite years of research, a single cause has never been identified. Instead, we are taking a new approach: focusing on why oysters survive rather than why they die.</p>
+</section>
+<section id="what-is-sormi" class="level3">
+<h3 class="anchored" data-anchor-id="what-is-sormi"><strong>What Is SORMI?</strong></h3>
+<p>SORMI—the <em>Summer Oyster Resilience and Mortality Index</em>—will be a <strong>generalized stress resilience index</strong> for Pacific oysters. By integrating a suite of physiological and metabolic assays, the index will help predict which oyster families are most resilient under real-world conditions. This tool will directly support breeding programs and hatcheries, providing a practical way to select for survival and reduce the frequency of catastrophic summer mortality events .</p>
+<p><img src="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_SR_PSI_WRAC_2025_Full_Proposal_Draft_2025-09-06_06-35-37.png" class="img-fluid"></p>
+</section>
+<section id="our-role-at-uw" class="level3">
+<h3 class="anchored" data-anchor-id="our-role-at-uw"><strong>Our Role at UW</strong></h3>
+<p>At the Roberts Lab, our team will be leading development of innovative, high-throughput stress assays, including a new <a href="http://oyster.pink"><strong>resazurin-based metabolic assay</strong></a> we have been refining as a cost-effective, scalable way to measure oyster metabolism. We will also work closely with partners to analyze stress resilience across hundreds of oyster families and link these traits to field survival outcomes. Our focus is on providing growers and breeding programs with actionable, science-based tools that are accessible and easy to implement.</p>
+</section>
+<section id="project-leadership-and-partners" class="level3">
+<h3 class="anchored" data-anchor-id="project-leadership-and-partners"><strong>Project Leadership and Partners</strong></h3>
+<p>This project is led by <strong>Bobbi Hudson</strong>, Executive Director of the <strong>Pacific Shellfish Institute (PSI)</strong>. The collaborative team brings together expertise and resources from across the region, including:</p>
+<ul>
+<li><p><strong>University of Washington (Roberts Lab)</strong> – stress physiology and assay development</p></li>
+<li><p><strong>USDA Agricultural Research Service (Neil Thompson, Pacific Oyster Genomic Selection project)</strong> – breeding program integration and genetic analysis</p></li>
+<li><p><strong>NOAA Fisheries (Mackenzie Gavery)</strong> – environmental physiology and genomics</p></li>
+<li><p><strong>California Sea Grant (Kevin Johnson, Cal Poly)</strong> – aquaculture extension and grower engagement</p></li>
+<li><p><strong>Industry partners</strong> – Goose Point Oyster Company (WA) and Hog Island Oyster Company (CA)</p></li>
+</ul>
+<p>This broad coalition ensures the project is grounded in industry needs while pushing forward fundamental science .</p>
+<p><img src="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_SR_PSI_WRAC_2025_Full_Proposal_Draft_2025-09-06_06-36-23.png" class="img-fluid"></p>
+</section>
+<section id="implications-for-the-shellfish-industry" class="level3">
+<h3 class="anchored" data-anchor-id="implications-for-the-shellfish-industry"><strong>Implications for the Shellfish Industry</strong></h3>
+<p>The ultimate goal of SORMI is to give oyster growers a <strong>practical decision-making tool</strong>. With a reliable index, farmers could anticipate when their stocks are stressed and take proactive measures—harvesting before a mortality event, adjusting management practices, or prioritizing resilient broodstock. For breeding programs, SORMI will add a measurable, heritable trait that can accelerate development of hardier oyster lines.</p>
+<p>In short, this project will help secure the future of West Coast oyster farming by <strong>turning science into survival.</strong></p>
+
+
+<!-- -->
+
+</section>
+
+ ]]></description>
+  <category>aquaculture</category>
+  <category>stress</category>
+  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-sormi/</guid>
+  <pubDate>Fri, 05 Sep 2025 07:00:00 GMT</pubDate>
+  <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_SR_PSI_WRAC_2025_Full_Proposal_Draft_2025-09-06_06-42-09.png" medium="image" type="image/png"/>
+</item>
 <item>
   <title>Scientific Breakthrough in Sustainable Aquaculture</title>
   <dc:creator>Steven Roberts</dc:creator>
-  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-sablefish/index.html</link>
+  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-sablefish/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -58,15 +113,16 @@
  ]]></description>
   <category>aquaculture</category>
   <category>sterility</category>
-  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-sablefish/index.html</guid>
-  <pubDate>Mon, 14 Jul 2025 00:00:00 GMT</pubDate>
+  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-sablefish/</guid>
+  <pubDate>Mon, 14 Jul 2025 07:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Yanagitsuru_et_al_SterilityInduction_dnd_BathImmersion_SablefishProofOfConcept_2025.pdf_2025-07-20_13-09-45.png" medium="image" type="image/png"/>
 </item>
 <item>
   <title>Celebrating Undergraduate Research</title>
   <dc:creator>Steven Roberts</dc:creator>
-  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-capstone/index.html</link>
+  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-capstone/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -99,15 +155,16 @@
  ]]></description>
   <category>shellfish</category>
   <category>capstone</category>
-  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-capstone/index.html</guid>
-  <pubDate>Mon, 16 Jun 2025 00:00:00 GMT</pubDate>
+  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-capstone/</guid>
+  <pubDate>Mon, 16 Jun 2025 07:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/2025-06-16_10-44-13.png" medium="image" type="image/png"/>
 </item>
 <item>
   <title>Spotlight on Fellowship Success</title>
   <dc:creator>Steven Roberts</dc:creator>
-  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-fellowships/index.html</link>
+  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-fellowships/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -115,8 +172,8 @@
 <p>We are proud to celebrate two exceptional students in our lab who have each recently received prestigious fellowships in recognition of their innovative research tackling the urgent challenges of climate change and biodiversity conservation.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://faculty.washington.edu/sr320/posts/frontpage/sr320-fellowships/http:/gannet.fish.washington.edu/seashell/snaps/Monosnap_lab-photo-20250213-edited-SJW-01.JPG_36302626_pixels_2025-06-11_18-26-37.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">photo of fellows</figcaption>
+<p><img src="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_lab-photo-20250213-edited-SJW-01.JPG_36302626_pixels_2025-06-11_18-26-37.png" class="img-fluid figure-img"></p>
+<figcaption>photo of fellows</figcaption>
 </figure>
 </div>
 <section id="zachary-bengtsson-nw-casc-fellow" class="level2">
@@ -143,15 +200,16 @@
   <category>epigenetics</category>
   <category>genetics</category>
   <category>climate</category>
-  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-fellowships/index.html</guid>
-  <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
+  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-fellowships/</guid>
+  <pubDate>Thu, 12 Jun 2025 07:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_lab-photo-20250213-edited-SJW-01.JPG_36302626_pixels_2025-06-11_18-26-37.png" medium="image" type="image/png"/>
 </item>
 <item>
   <title>Decoding Marine Memory</title>
   <dc:creator>Steven Roberts</dc:creator>
-  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-epimar/index.html</link>
+  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-epimar/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -203,55 +261,16 @@
 
  ]]></description>
   <category>epigenetics</category>
-  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-epimar/index.html</guid>
-  <pubDate>Wed, 11 Jun 2025 00:00:00 GMT</pubDate>
+  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-epimar/</guid>
+  <pubDate>Wed, 11 Jun 2025 07:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_EPIMAR_2025__Barcelona_Spain_-_May_27-30_2025-06-11_17-59-29.png" medium="image" type="image/png"/>
-</item>
-<item>
-  <title>🌟 Undergraduate Research Highlight</title>
-  <dc:creator>Steven Roberts</dc:creator>
-  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-baird/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>We’re excited to share that <strong>Madeline Baird</strong>, an undergraduate researcher in the Roberts Lab, will present her research at the <strong>2025 Mary Gates Undergraduate Research Symposium</strong>.</p>
-<p>Her poster presentation, titled</p>
-<p><strong>“Application of Metabolic Assays to Characterize Thermal Tolerance in Pacific Oyster (Magallana gigas) Early Life Stages,”</strong></p>
-<div class="text-center">
-<p><img src="https://faculty.washington.edu/sr320/posts/frontpage/sr320-baird/http:/gannet.fish.washington.edu/seashell/snaps/Monosnap_UWURS_Oyster_Poster.pdf_2025-05-15_09-17-36.png" class="img-fluid" style="width: 75%;"></p>
-</div>
-<p>investigates how parental immune priming affects offspring resilience in a changing ocean. Collaborating with the <strong>Jamestown Shellfish Hatchery</strong>, Madeline reared juvenile oysters from immune-challenged parents and assessed growth, survival, and metabolism under a wide range of temperatures.</p>
-<p>Using high-throughput <strong>resazurin metabolic assays</strong>, she found that immune-primed offspring showed greater thermal tolerance—especially between 36°C and 40°C—highlighting a potentially important role of <strong>metabolic flexibility</strong> in inherited stress resilience.</p>
-<blockquote class="blockquote">
-<p>🔬 These findings support the idea that <strong>non-genetic inheritance</strong> may help oysters adapt to increasing marine heatwaves—an insight with valuable implications for aquaculture and conservation.</p>
-</blockquote>
-<p>Madeline’s work was supported by the <strong>USDA</strong>, <strong>Washington Sea Grant</strong>, and the <strong>UW Population Health Initiative</strong>, which recognized her with a <strong>2025 Population Health Recognition Award</strong>.</p>
-<p>We’re proud to support Madeline’s research and scientific growth, and we look forward to seeing where her work leads next!</p>
-<p>🧪 View her research, lab notebook, and more:</p>
-<p>👉 <a href="https://linktr.ee/madsmarine" class="uri">https://linktr.ee/madsmarine</a></p>
-<p>See her in in the lab!</p>
-<video width="640" controls="">
-<source src="http://gannet.fish.washington.edu/seashell/snaps/OysterLabworkVideo.MOV" type="video/quicktime">
-<p>Your browser does not support the video tag. </p>
-
-
-<!-- -->
-
-
-</video> ]]></description>
-  <category>aquaculture</category>
-  <category>stress</category>
-  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-baird/index.html</guid>
-  <pubDate>Thu, 15 May 2025 00:00:00 GMT</pubDate>
-  <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_UWURS_Oyster_Poster.pdf_2025-05-15_07-34-59.png" medium="image" type="image/png"/>
 </item>
 <item>
   <title>Environmental Priming in Practice</title>
   <dc:creator>Steven Roberts</dc:creator>
-  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-lewis-smith/index.html</link>
+  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-lewis-smith/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -270,136 +289,9 @@
  ]]></description>
   <category>aquaculture</category>
   <category>stress</category>
-  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-lewis-smith/index.html</guid>
-  <pubDate>Wed, 07 May 2025 00:00:00 GMT</pubDate>
+  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-lewis-smith/</guid>
+  <pubDate>Wed, 07 May 2025 07:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/2025-05-07_11-42-09.png" medium="image" type="image/png"/>
-</item>
-<item>
-  <title>Unlocking the Future of Shellfish Aquaculture Through Genomics</title>
-  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-genomics/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Aquaculture is undergoing a revolution. The integration of cutting-edge genomic tools into breeding programs is transforming the industry, allowing for enhanced growth rates, disease resistance, and environmental adaptability in farmed species. While finfish often take center stage in discussions about genomic innovation, shellfish—particularly oysters, clams, and other bivalves—stand to benefit tremendously from these advancements. A recent review by <a href="https://doi.org/10.1186/s12864-025-11247-z">Andersen et al.&nbsp;(2025), published in BMC Genomics</a>, outlines the progress and future priorities for U.S. aquaculture genomics, with significant implications for shellfish industries.</p>
-<section id="why-genomics-matters-for-shellfish" class="level2">
-<h2 class="anchored" data-anchor-id="why-genomics-matters-for-shellfish">Why Genomics Matters for Shellfish</h2>
-<p>Shellfish farming is a cornerstone of coastal economies, providing a sustainable protein source while contributing to water filtration and habitat structure. However, challenges such as disease outbreaks, climate change-driven stressors (e.g., ocean acidification, salinity fluctuations), and genetic bottlenecks in breeding programs pose significant hurdles. The integration of genomics and multi-omics approaches is helping researchers and industry stakeholders address these issues head-on.</p>
-<ol type="1">
-<li>Advancing Reference Genomes for Shellfish</li>
-</ol>
-<p>One of the key priorities identified in the review is the need for high-quality genome assemblies for shellfish species. Reference genomes serve as blueprints for breeding programs, guiding selective breeding efforts toward desirable traits such as disease resistance, growth efficiency, and stress tolerance.</p>
-<p>For instance:</p>
-<ul>
-<li><p>The Pacific oyster (Magallana gigas) and Eastern oyster (Crassostrea virginica) now have improved genome assemblies, which are crucial for mapping genes associated with disease resilience.</p></li>
-<li><p>Structural variations in oyster genomes have been linked to breeding success, helping hatcheries refine their selection of broodstock.</p></li>
-<li><p>Functional annotation efforts, like those undertaken by the international FAANG (Functional Annotation of ANimal Genomes) initiative, are improving our understanding of how genes are regulated in response to environmental stressors.</p></li>
-</ul>
-<ol start="2" type="1">
-<li>Multi-Omics Approaches: Beyond the Genome</li>
-</ol>
-<p>While genomic sequencing provides a foundational understanding of shellfish biology, integrating other “omics” layers—epigenomics, transcriptomics, and microbiomics—adds depth to the picture.</p>
-<ul>
-<li><p>Epigenomics &amp; Environmental Adaptation: Studies have shown that DNA methylation plays a key role in how oysters respond to stress, such as changes in salinity and temperature. This suggests that breeding for resilience might not just be about genetics but also about harnessing heritable epigenetic modifications.</p></li>
-<li><p>Transcriptomics &amp; Disease Resistance: RNA sequencing has revealed that oysters activate specific immune pathways when exposed to pathogens like Perkinsus marinus (which causes Dermo disease). Understanding these pathways helps identify candidate genes for selective breeding.</p></li>
-<li><p>Microbiomics &amp; Shellfish Health: The microbial communities living on and inside shellfish significantly impact their growth and survival. Some studies suggest that manipulating the oyster microbiome could enhance disease resistance.</p></li>
-</ul>
-<ol start="3" type="1">
-<li>Genomic Selection &amp; Breeding Programs</li>
-</ol>
-<p>Traditional shellfish breeding has relied on mass selection or family-based selection, which can be slow and inefficient. Genomic selection—where DNA markers are used to predict an individual’s breeding value—has revolutionized selective breeding in finfish and livestock, and now it is being applied to shellfish.</p>
-<ul>
-<li><p>The use of genomic selection in oysters is improving survival rates in low-salinity environments, a crucial trait given the increasing frequency of extreme weather events that introduce large freshwater inputs into coastal farming areas.</p></li>
-<li><p>Marker-assisted selection (MAS) is being employed to accelerate breeding for traits like shell strength, which is vital for both consumer preference and post-harvest handling.</p></li>
-<li><p>Researchers are also exploring CRISPR and other gene-editing technologies to validate gene function, though regulatory challenges remain.</p></li>
-</ul>
-<ol start="4" type="1">
-<li>Overcoming Challenges: From Research to Industry Application</li>
-</ol>
-<p>Despite these advancements, challenges remain in translating genomic discoveries into tangible benefits for shellfish farmers.</p>
-<ul>
-<li><p>Cost &amp; Accessibility: While sequencing costs are declining, implementing genomic selection on a commercial scale still requires investment in infrastructure, training, and data management.</p></li>
-<li><p>Regulatory Landscape: The potential application of gene-editing technologies in aquaculture is still subject to regulatory scrutiny. While some countries are moving toward acceptance, others remain cautious.</p></li>
-<li><p>Data Integration: The vast amount of genomic and phenotypic data generated requires sophisticated bioinformatics tools for analysis. Efforts like AquaMine (a genomic database for aquaculture species) are helping streamline this process ￼.</p></li>
-</ul>
-</section>
-<section id="looking-ahead-the-future-of-shellfish-aquaculture" class="level2">
-<h2 class="anchored" data-anchor-id="looking-ahead-the-future-of-shellfish-aquaculture">Looking Ahead: The Future of Shellfish Aquaculture</h2>
-<p>The next decade of shellfish aquaculture will be defined by how well the industry can harness the power of genomics. As sequencing technology becomes more affordable and bioinformatics tools become more accessible, we are likely to see:</p>
-<ul>
-<li><p>More refined and efficient breeding programs using genomic selection.</p></li>
-<li><p>Greater adoption of multi-omics approaches to understand complex traits like disease resistance and stress tolerance.</p></li>
-<li><p>The potential emergence of gene-edited shellfish with enhanced resilience to climate change.</p></li>
-</ul>
-<p>By integrating these tools into aquaculture operations, we can ensure that shellfish farming remains a sustainable and resilient industry—one that continues to provide ecological and economic benefits to coastal communities while supporting global food security.</p>
-</section>
-<section id="final-thoughts" class="level2">
-<h2 class="anchored" data-anchor-id="final-thoughts">Final Thoughts</h2>
-<p><a href="https://doi.org/10.1186/s12864-025-11247-z">The review by Andersen et al.&nbsp;(2025)</a> highlights an exciting and rapidly evolving field. Shellfish may not have received as much genomic attention as salmon or tilapia in the past, but that is changing. With continued investment in research, training, and industry partnerships, shellfish aquaculture is poised to become a model for sustainable, high-tech food production in the 21st century.</p>
-
-
-<!-- -->
-
-</section>
-
- ]]></description>
-  <category>aquaculture</category>
-  <category>epigenetics</category>
-  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-genomics/index.html</guid>
-  <pubDate>Fri, 21 Feb 2025 00:00:00 GMT</pubDate>
-  <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Advancing_genetic_improvement_in_the_omics_era_status_and_priorities_for_United_States_aquaculture__BMC_Genomics__Full_Text_2025-02-21_12-15-32.png" medium="image" type="image/png"/>
-</item>
-<item>
-  <title>Harnessing Shellfish Environmental Memory for a Resilient Future</title>
-  <dc:creator>Steven Roberts</dc:creator>
-  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-WSG/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Shellfish aquaculture is facing increasing challenges due to climate change, ocean acidification, and other environmental stressors. However, research is showing that environmental memory—the ability of organisms to retain and transmit adaptive responses to stress—may offer a promising strategy for improving resilience in aquaculture species.</p>
-<p>At the 2025 Washington Sea Grant workshop, researchers and industry professionals came together to explore how environmental priming—exposing shellfish to controlled stress conditions—could be leveraged to enhance survival, growth, and performance.</p>
-<section id="industry-engagement-and-perceptions" class="level2">
-<h2 class="anchored" data-anchor-id="industry-engagement-and-perceptions">Industry Engagement and Perceptions</h2>
-<p>To better understand industry perspectives, a survey of shellfish growers was conducted to gauge their views on environmental priming as an adaptation strategy. The results were enlightening:<br>
-• 78% of hatchery operators indicated they would consider implementing environmental priming, though most preferred to see supporting data first.<br>
-• 70% of respondents said they would be willing to pay more for primed seed, provided evidence from test plots or research-supported literature was available.</p>
-<p>This feedback underscores the importance of continued scientific research to validate environmental priming techniques and demonstrate their effectiveness in real-world aquaculture operations.</p>
-</section>
-<section id="what-is-environmental-priming" class="level2">
-<h2 class="anchored" data-anchor-id="what-is-environmental-priming">What is Environmental Priming?</h2>
-<p>Environmental priming involves exposing shellfish to controlled stressors—such as temperature fluctuations, salinity changes, or immune challenges—to enhance their resilience later in life. Research has shown promising results across multiple species:</p>
-<p>• Olympia oysters: Parental priming increased offspring survival in field conditions.<br>
-• Pacific geoduck: Early-life priming led to improved growth rates later in life.<br>
-• Manila clams: Offspring from primed parents exhibited better growth and survival rates.</p>
-</section>
-<section id="ongoing-research-and-applications" class="level2">
-<h2 class="anchored" data-anchor-id="ongoing-research-and-applications">Ongoing Research and Applications</h2>
-<p>Scientists are now working to optimize environmental priming strategies across different species. Ongoing research at institutions like NOAA’s Manchester Field Station and the Jamestown S’Klallam Hatchery is exploring how priming can enhance the performance of shellfish under various stress conditions.</p>
-<p>For Pacific oysters, researchers are testing multiple priming approaches, including:<br>
-✅ Immune challenges<br>
-✅ Temperature stress<br>
-✅ Salinity shifts<br>
-✅ Combination stress exposures</p>
-</section>
-<section id="moving-forward-bridging-science-and-industry" class="level2">
-<h2 class="anchored" data-anchor-id="moving-forward-bridging-science-and-industry">Moving Forward: Bridging Science and Industry</h2>
-<p>The insights from this research are critical for both hatchery operators and policymakers as they work toward sustainable shellfish aquaculture. With growing industry interest and evidence-based strategies, environmental priming may become a tool in ensuring the future resilience of shellfish populations.</p>
-<p>Slidedecck: https://github.com/sr320/talk-WSG-2025</p>
-
-
-<!-- -->
-
-</section>
-
- ]]></description>
-  <category>wsg</category>
-  <category>talk</category>
-  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-WSG/index.html</guid>
-  <pubDate>Mon, 10 Feb 2025 00:00:00 GMT</pubDate>
-  <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_2025-WSG-Roberts_2025-02-10_07-20-44.png" medium="image" type="image/png"/>
 </item>
 </channel>
 </rss>
