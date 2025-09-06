@@ -1,14 +1,5 @@
 [
   {
-    "listing": "/projects.html",
-    "items": [
-      "/research/e5.html",
-      "/research/cod.html",
-      "/research/usda.html",
-      "/research/wsg-ec.html"
-    ]
-  },
-  {
     "listing": "/posts.html",
     "items": [
       "/posts/frontpage/sr320-sablefish/index.html",
@@ -165,6 +156,15 @@
       "/publications/articles/isolation-through-cloning-of-fish-prostaglandin-en_2000.html",
       "/publications/articles/annual-reproductive-cycle-of-the-common-snook-endo_1999.html",
       "/publications/articles/the-upregulation-of-messenger-ribonucleic-acids-du_1999.html"
+    ]
+  },
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/research/e5.html",
+      "/research/cod.html",
+      "/research/usda.html",
+      "/research/wsg-ec.html"
     ]
   },
   {
