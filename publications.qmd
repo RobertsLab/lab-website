@@ -154,6 +154,8 @@ Characterizing the effects of ocean acidification in larval and juvenile Manila 
 
 #### 2025
 
+-   [Stress hardening and metabolic screening: Tools to assess oyster performance and resilience](https://github.com/AHuffmyer/presentations/blob/master/2025/Huffmyer_PCSGA_2025.pdf). Ariana S. Huffmyer. Pacific Coast Shellfish Growers Association Conference 2025. Vancouver, WA. September 10, 2025.
+
 -   [Developing an integrated approach for multiomic epigenetic analyses](https://github.com/shedurkin/Roberts-LabNotebook/blob/master/presentations/Durkin_Session5_EPIMAR_2025.pptx). Kathleen Durkin. Epigenetics in Marine and Aquatic Research 2025. Barcelona, Spain. May, 2025.
 
 -   [STRUCTURAL GENOMIC VARIATION IN TRIPLOID PACIFIC OYSTERS: Insight into differential physiology?](https://github.com/sr320/talk-AA-2025) Aquaculture 2025. New Orleans, LA. March 10, 2025.
