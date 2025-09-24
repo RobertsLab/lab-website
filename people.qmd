@@ -470,7 +470,7 @@ Olivia Cattau
 
 :::: alumni-card
 ::: alumni-name
-[Grace Crandall](https://grace-ac.github.io) *\[Previous work\]*
+[Grace Crandall](https://grace-ac.github.io)
 :::
 ::::
 
@@ -543,16 +543,12 @@ Dave Metzger
 
 ## Undergraduate Alumni
 
-::::::::::::::::::::::::::::::::::::::: alumni-grid
-::::: alumni-card
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: alumni-grid
+:::: alumni-card
 ::: alumni-name
 [Eric Essington](https://Eric-Ess.github.io/notebook/)
 :::
-
-::: alumni-category
-Recent Graduate
-:::
-:::::
+::::
 
 :::: alumni-card
 ::: alumni-name
@@ -939,7 +935,7 @@ Zachary Schiller; Tufts University
 [project](http://fish.washington.edu/research/genefish/reprints/Schiller06.pdf){.alumni-link}
 :::
 :::::
-:::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Visiting Scientists
 
