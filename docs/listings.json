@@ -2,10 +2,11 @@
   {
     "listing": "/posts.html",
     "items": [
+      "/posts/frontpage/sr320-metab/index.html",
       "/posts/frontpage/sr320-sormi/index.html",
       "/posts/frontpage/sr320-sablefish/index.html",
       "/posts/frontpage/sr320-capstone/index.html",
-      "/posts/frontpage/sr320-fellowships/index.html",
+      "/posts/sr320-fellowships/index.html",
       "/posts/frontpage/sr320-epimar/index.html",
       "/posts/sr320-baird/index.html",
       "/posts/frontpage/sr320-lewis-smith/index.html",
@@ -48,6 +49,7 @@
     "listing": "/publications.html",
     "items": [
       "/publications/articles/andersen2025.html",
+      "/publications/articles/venkataraman_2025.html",
       "/publications/articles/lewis-smith2025.html",
       "/publications/articles/huffmyer2025.html",
       "/publications/articles/parker_2025.html",
@@ -188,10 +190,10 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/frontpage/sr320-metab/index.html",
       "/posts/frontpage/sr320-sormi/index.html",
       "/posts/frontpage/sr320-sablefish/index.html",
       "/posts/frontpage/sr320-capstone/index.html",
-      "/posts/frontpage/sr320-fellowships/index.html",
       "/posts/frontpage/sr320-epimar/index.html",
       "/posts/frontpage/sr320-lewis-smith/index.html"
     ]

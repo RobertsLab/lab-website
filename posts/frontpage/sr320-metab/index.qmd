@@ -1,0 +1,63 @@
+---
+title: "Using Metabolomics and Lipidomics to Unlock Marine Resilience"
+description: "A New Perspective on Best Practices"
+author:
+  - name: Steven Roberts
+    url: https://sr320.github.io/
+    orcid: 0000-0001-8302-1138
+    affiliation: Professor, UW - School of Aquatic and Fishery Sciences
+    affiliation-url: https://robertslab.info
+date: 09-24-2025
+categories: [metabolomics, lipidomics] # self-defined categories
+image: http://gannet.fish.washington.edu/seashell/snaps/2025-09-24_10-52-23.png # finding a good image
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+
+format:
+  html:
+    code-fold: true
+    code-tools: true
+    code-copy: true
+    highlight-style: github
+    code-overflow: wrap
+---
+
+How do marine organisms adapt to an ocean that is rapidly warming, acidifying, and changing in countless other ways? A new **Perspective article in Integrative and Comparative Biology** by Yaamini R. Venkataraman and Ariana S. Huffmyer takes on this pressing question by focusing on **metabolic plasticity**—an organism’s capacity to adjust how it produces, allocates, and uses energy under stress.
+
+The authors argue that while genomics, transcriptomics, and epigenomics have all advanced our understanding of stress responses, **metabolomic and lipidomic approaches provide a direct lens into energy balance**—a key driver of resilience. By quantifying the molecules that fuel and regulate cellular processes, researchers can uncover hidden physiological shifts that are invisible at the whole-organism level.
+
+![](http://gannet.fish.washington.edu/seashell/snaps/2025-09-24_10-54-17.png)
+
+### **Why This Matters**
+
+Marine ecosystems are on the front lines of climate change. From corals to clams, invertebrates must constantly adjust to stressors like heat waves, hypoxia, and ocean acidification. The paper highlights how metabolic and lipidomic tools can:
+
+-   Detect subtle but critical energy shifts before mortality occurs.
+
+-   Reveal differences in resilience between species, populations, and even sexes.
+
+-   Provide early biomarkers of stress tolerance that can inform conservation and aquaculture.
+
+### **A Framework for Best Practices**
+
+Recognizing that metabolomic and lipidomic studies are still emerging in marine biology, Venkataraman and Huffmyer provide a **roadmap for experimental design and analysis**. Their recommendations include:
+
+-   Careful sampling and preservation to prevent artifacts.
+
+-   Strategic use of targeted, semi-targeted, or untargeted analyses.
+
+-   Embracing time series designs to capture dynamic shifts.
+
+-   Integrating molecular data with physiological and phenotypic metrics.
+
+They also call for **multi-omic integration**—combining metabolomics and lipidomics with gene expression, epigenetics, and physiology—to link molecular mechanisms with whole-organism outcomes
+
+### **Looking Ahead**
+
+The Perspective synthesizes findings from 68 studies published between 1993 and 2025, showing both how far the field has come and where opportunities lie. Importantly, it underscores that the **marine science community must embrace metabolic complexity** if we are to anticipate and mitigate the impacts of climate change on ecosystems.
+
+<img src="http://gannet.fish.washington.edu/seashell/snaps/figure1.png" width="600" />
+
+By providing this framework, Venkataraman and Huffmyer hope to spark more rigorous, reproducible, and integrative research—work that can help answer one of the defining questions of our time: **how will marine life persist in a rapidly changing ocean?**
+
+👉 Read the full article here: [Interrogating Metabolic Plasticity in Marine Organisms: A Framework for Best Practices Using Metabolomic and Lipidomic
+Approaches](http://gannet.fish.washington.edu/seashell/snaps/Venkataraman_Huffmyer2025.pdf)
