@@ -40,10 +40,13 @@ website:
             url:  https://urol-e5.github.io/deep-dive-genome-browser
           - text: OCEAN
             url:  https://oystergen.es
-          - text: MoSAIC
+          - text: MOSAiC
             url:  https://urol-e5.github.io/MOSAiC/
           - text: Mussel Manuscript
             url:  https://sr320.github.io/paper-chilean-mussel/index.html
+          - text: Contra
+            url:  https://github.com/sr320/ConTra
+     
      
       - icon: hdd-network
         menu:
