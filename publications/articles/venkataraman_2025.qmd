@@ -1,0 +1,25 @@
+---
+title: "Interrogating Metabolic Plasticity in Marine Organisms: A Framework for Best Practices Using Metabolomic and Lipidomic Approaches"
+type: "article"
+author: "Yaamini R Venkataraman, Ariana S Huffmyer"
+year: "2025"
+publication: "Integrative and Comparative Biology"
+preprint: "https://doi.org/10.1093/icb/icaf138"
+doi: "https://doi.org/10.1093/icb/icaf138"
+materials: "https://github.com/yaaminiv/ICB-perspective-piece"
+eprint: "http://gannet.fish.washington.edu/seashell/snaps/Venkataraman_Huffmyer2025.pdf"
+toc: FALSE
+categories:
+  - metabolomics
+  - lipidomics
+  - plasticity
+  - perspective
+---
+
+## Citation
+
+> Yaamini R Venkataraman, Ariana S Huffmyer, Interrogating Metabolic Plasticity in Marine Organisms: A Framework for Best Practices Using Metabolomic and Lipidomic Approaches, *Integrative and Comparative Biology*, 2025;, icaf138, <https://doi.org/10.1093/icb/icaf138>
+
+
+## Synopsis
+Understanding the mechanisms that underlie resilience in marine invertebrates is critical as climate change and human impacts transform coastal ecosystems. Metabolic plasticity, or an organism's capacity to modulate energy production, allocation, and use, plays a central role in mediating resilience under environmental stress. While research on marine invertebrate stress responses has grown, integrative studies that examine metabolic plasticity by connecting molecular, physiological, and organismal scales remain limited. In this Perspective, we advocate for the rigorous and thoughtful use of metabolomic and lipidomic approaches to understand resilience in marine systems through the lens of metabolic plasticity. We provide recommendations for experimental design, summarize current methodologies, and provide an overview of commonly used data analysis approaches. Advances in other molecular approaches such as genomics, epigenomics, and transcriptomics can be harnessed to further explore stress responses through multi-omic integrative analyses. As quantitative integrative analysis remains limited in marine fields, we call for a stronger integration of molecular, metabolomic, physiological, and organismal data sets to link mechanisms to phenotypes. We explore the use of these approaches in studies of marine invertebrates and highlight promising areas of multi-omic research that deserve exploration. By embracing metabolic complexity and scaling from molecules to phenotypes, we suggest that the marine invertebrate research community will be better equipped to understand, anticipate, and mitigate the impacts of environmental change on marine ecosystems.

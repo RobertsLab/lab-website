@@ -9,14 +9,65 @@
 <link>https://faculty.washington.edu/sr320/posts.html</link>
 <atom:link href="https://faculty.washington.edu/sr320/posts.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.7.32</generator>
-<lastBuildDate>Fri, 05 Sep 2025 07:00:00 GMT</lastBuildDate>
+<generator>quarto-1.6.40</generator>
+<lastBuildDate>Wed, 24 Sep 2025 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Using Metabolomics and Lipidomics to Unlock Marine Resilience</title>
+  <dc:creator>Steven Roberts</dc:creator>
+  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-metab/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>How do marine organisms adapt to an ocean that is rapidly warming, acidifying, and changing in countless other ways? A new <strong>Perspective article in Integrative and Comparative Biology</strong> by Yaamini R. Venkataraman and Ariana S. Huffmyer takes on this pressing question by focusing on <strong>metabolic plasticity</strong>—an organism’s capacity to adjust how it produces, allocates, and uses energy under stress.</p>
+<p>The authors argue that while genomics, transcriptomics, and epigenomics have all advanced our understanding of stress responses, <strong>metabolomic and lipidomic approaches provide a direct lens into energy balance</strong>—a key driver of resilience. By quantifying the molecules that fuel and regulate cellular processes, researchers can uncover hidden physiological shifts that are invisible at the whole-organism level.</p>
+<p><img src="http://gannet.fish.washington.edu/seashell/snaps/2025-09-24_10-54-17.png" class="img-fluid"></p>
+<section id="why-this-matters" class="level3">
+<h3 class="anchored" data-anchor-id="why-this-matters"><strong>Why This Matters</strong></h3>
+<p>Marine ecosystems are on the front lines of climate change. From corals to clams, invertebrates must constantly adjust to stressors like heat waves, hypoxia, and ocean acidification. The paper highlights how metabolic and lipidomic tools can:</p>
+<ul>
+<li><p>Detect subtle but critical energy shifts before mortality occurs.</p></li>
+<li><p>Reveal differences in resilience between species, populations, and even sexes.</p></li>
+<li><p>Provide early biomarkers of stress tolerance that can inform conservation and aquaculture.</p></li>
+</ul>
+</section>
+<section id="a-framework-for-best-practices" class="level3">
+<h3 class="anchored" data-anchor-id="a-framework-for-best-practices"><strong>A Framework for Best Practices</strong></h3>
+<p>Recognizing that metabolomic and lipidomic studies are still emerging in marine biology, Venkataraman and Huffmyer provide a <strong>roadmap for experimental design and analysis</strong>. Their recommendations include:</p>
+<ul>
+<li><p>Careful sampling and preservation to prevent artifacts.</p></li>
+<li><p>Strategic use of targeted, semi-targeted, or untargeted analyses.</p></li>
+<li><p>Embracing time series designs to capture dynamic shifts.</p></li>
+<li><p>Integrating molecular data with physiological and phenotypic metrics.</p></li>
+</ul>
+<p>They also call for <strong>multi-omic integration</strong>—combining metabolomics and lipidomics with gene expression, epigenetics, and physiology—to link molecular mechanisms with whole-organism outcomes</p>
+</section>
+<section id="looking-ahead" class="level3">
+<h3 class="anchored" data-anchor-id="looking-ahead"><strong>Looking Ahead</strong></h3>
+<p>The Perspective synthesizes findings from 68 studies published between 1993 and 2025, showing both how far the field has come and where opportunities lie. Importantly, it underscores that the <strong>marine science community must embrace metabolic complexity</strong> if we are to anticipate and mitigate the impacts of climate change on ecosystems.</p>
+<p><img src="http://gannet.fish.washington.edu/seashell/snaps/figure1.png" width="600"></p>
+<p>By providing this framework, Venkataraman and Huffmyer hope to spark more rigorous, reproducible, and integrative research—work that can help answer one of the defining questions of our time: <strong>how will marine life persist in a rapidly changing ocean?</strong></p>
+<p>👉 Read the full article here: <a href="http://gannet.fish.washington.edu/seashell/snaps/Venkataraman_Huffmyer2025.pdf">Interrogating Metabolic Plasticity in Marine Organisms: A Framework for Best Practices Using Metabolomic and Lipidomic Approaches</a></p>
+
+
+<!-- -->
+
+</section>
+
+ ]]></description>
+  <category>metabolomics</category>
+  <category>lipidomics</category>
+  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-metab/</guid>
+  <pubDate>Wed, 24 Sep 2025 07:00:00 GMT</pubDate>
+  <media:content url="http://gannet.fish.washington.edu/seashell/snaps/2025-09-24_10-52-23.png" medium="image" type="image/png"/>
+</item>
 <item>
   <title>Building Resilient Oysters: Launching the SORMI Project</title>
   <dc:creator>Steven Roberts</dc:creator>
   <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-sormi/</link>
   <description><![CDATA[ 
-
 
 
 
@@ -76,7 +127,6 @@
 
 
 
-
 <p>As global demand for seafood continues to rise, the aquaculture industry faces growing pressure to produce more while minimizing ecological impacts. A key concern in marine fish farming is the risk of escapees interbreeding with wild populations, leading to genetic introgression and reduced fitness in native fish stocks. Now, a recent study led by former University of Washington CICOES postdoctoral researcher Dr.&nbsp;Yuzo R. Yanagitsuru offers a promising solution.</p>
 <p>Published in <em>Aquaculture</em>, the study presents a <strong>proof-of-concept for a non-GMO, bath immersion–based technique for inducing sterility in sablefish (Anoplopoma fimbria)</strong>—an emerging high-value aquaculture species also known as black cod. The approach targets a gene essential for reproductive cell development and aims to prevent escaped farmed fish from reproducing in the wild.</p>
 <section id="a-scalable-gene-silencing-alternative-to-triploidy" class="level3">
@@ -129,7 +179,6 @@
 
 
 
-
 <p>This spring, two outstanding undergraduate researchers in our lab—Genevieve Buchanan and Henry Berg—presented their senior capstone projects, showcasing months of hard work and scientific curiosity. Their research tackled critical questions related to marine invertebrate resilience in the face of environmental stress, and each presentation offered fresh insight into how shellfish species respond to changing ocean conditions.</p>
 <section id="genevieve-buchanan-thermal-tolerance-in-a-stressful-world" class="level2">
 <h2 class="anchored" data-anchor-id="genevieve-buchanan-thermal-tolerance-in-a-stressful-world">🦪 Genevieve Buchanan: Thermal Tolerance in a Stressful World</h2>
@@ -165,9 +214,8 @@
 <item>
   <title>Spotlight on Fellowship Success</title>
   <dc:creator>Steven Roberts</dc:creator>
-  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-fellowships/</link>
+  <link>https://faculty.washington.edu/sr320/posts/sr320-fellowships/</link>
   <description><![CDATA[ 
-
 
 
 
@@ -204,7 +252,7 @@
   <category>epigenetics</category>
   <category>genetics</category>
   <category>climate</category>
-  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-fellowships/</guid>
+  <guid>https://faculty.washington.edu/sr320/posts/sr320-fellowships/</guid>
   <pubDate>Thu, 12 Jun 2025 07:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_lab-photo-20250213-edited-SJW-01.JPG_36302626_pixels_2025-06-11_18-26-37.png" medium="image" type="image/png"/>
 </item>
@@ -213,7 +261,6 @@
   <dc:creator>Steven Roberts</dc:creator>
   <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-epimar/</link>
   <description><![CDATA[ 
-
 
 
 
@@ -280,7 +327,6 @@
 
 
 
-
 <p>We’re excited to share that <strong>Madeline Baird</strong>, an undergraduate researcher in the Roberts Lab, will present her research at the <strong>2025 Mary Gates Undergraduate Research Symposium</strong>.</p>
 <p>Her poster presentation, titled</p>
 <p><strong>“Application of Metabolic Assays to Characterize Thermal Tolerance in Pacific Oyster (Magallana gigas) Early Life Stages,”</strong></p>
@@ -322,7 +368,6 @@
 
 
 
-
 <p>We're proud to share a new publication by former lab member <strong>Connor Lewis-Smith</strong>, now a Social Scientist with NOAA's Northwest Fisheries Science Center. His article, <em>"Navigating ocean acidification in shellfish aquaculture: Stakeholder perspectives of developing strategies in the U.S. Pacific Region"</em>, was just released in <em>Aquaculture Reports</em> and offers an in-depth look at how shellfish growers across the U.S. Pacific Coast are responding to ocean acidification and related environmental stressors.</p>
 <p>The study draws on structured interviews with producers from Washington, Oregon, California, Alaska, and Hawaii to capture evolving perceptions of ocean acidification and industry interest in emerging adaptation strategies. Notably, concern about ocean acidification appears to have declined in the past decade, as growers increasingly focus on intersecting threats such as harmful algal blooms, disease, and rising temperatures.</p>
 <p>The paper explores two adaptation strategies under development: <strong>parental priming</strong>—a technique involving exposure of broodstock to stressful conditions to enhance offspring resilience—and <strong>native species portfolio expansion</strong>. While industry support for both strategies was mixed and often contingent on further scientific validation, the study emphasizes the importance of early engagement between researchers and growers to co-develop viable solutions.</p>
@@ -345,7 +390,6 @@
   <title>Exploring the Non-Coding RNA Landscape in Reef-Building Corals</title>
   <link>https://faculty.washington.edu/sr320/posts/sr320-lncRNA-rep/</link>
   <description><![CDATA[ 
-
 
 
 
@@ -398,7 +442,6 @@
   <title>Unlocking the Future of Shellfish Aquaculture Through Genomics</title>
   <link>https://faculty.washington.edu/sr320/posts/sr320-genomics/</link>
   <description><![CDATA[ 
-
 
 
 
@@ -482,7 +525,6 @@
 
 
 
-
 <p>What if the future of an entire fish population hinged on tiny changes in their DNA? In the frigid waters of the North Pacific, juvenile Pacific cod are facing an uncertain future as ocean temperatures rise. Our research is uncovering how these fish respond to warming waters—at the molecular level—and what that means for their survival.</p>
 <p><strong>The Science Behind Survival</strong></p>
 <p>At first glance, Pacific cod might seem like just another fish. But beneath the surface, their genetic makeup holds clues to how they adapt—or struggle—when faced with environmental stress. In our latest study, we’re diving deep into the connection between a cod’s genes and its ability to thrive in different temperatures.</p>
@@ -527,7 +569,6 @@
   <dc:creator>Steven Roberts</dc:creator>
   <link>https://faculty.washington.edu/sr320/posts/sr320-WSG/</link>
   <description><![CDATA[ 
-
 
 
 
@@ -584,7 +625,6 @@
 
 
 
-
 <p>As climate change continues to drive rising ocean temperatures, coral reef ecosystems face an unprecedented crisis. Coral bleaching events, characterized by the breakdown of the mutualistic relationship between corals and their algal endosymbionts (Symbiodiniaceae), have become increasingly common, threatening the persistence of coral reefs worldwide. While much research has focused on adult corals, new studies are shedding light on how early life stages respond to thermal stress. <a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002875">A recent study by Huffmyer et al.&nbsp;(2024), published in&nbsp;<em>PLOS Biology</em></a>, provides novel insights into how coral larvae cope with increased temperatures by modifying nitrogen assimilation to stabilize symbiotic relationships and mitigate bleaching risk.</p>
 <section id="the-crucial-role-of-coral-larvae-in-reef-resilience" class="level3">
 <h3 class="anchored" data-anchor-id="the-crucial-role-of-coral-larvae-in-reef-resilience"><strong>The Crucial Role of Coral Larvae in Reef Resilience</strong></h3>
@@ -631,7 +671,6 @@
 
 
 
-
 <p><strong>Chris is featured on UW’s “Be Boundless” site. Read full article <a href="https://www.washington.edu/boundless/turning-the-tide-marine-biology/">here</a>. Below is a short snippet of the feature along with an amazing video!</strong></p>
 <p>On a windy June afternoon, Chris Mantegna, ’21, encourages a half-dozen undergraduates to flip over barnacle-studded rocks and sift through seaweed. Equipped with clipboards to record their findings, they’re creating a snapshot of the organisms in the island’s intertidal zone — from orange sea cucumbers to the camouflaged armored mollusks called chitons.</p>
 <p>Mantegna, a third-year graduate student in aquatic and fishery sciences, has spent the past three summers in Washington’s San Juan Islands, mentoring undergrads here on Yellow Island — a pristine 11-acre nature preserve owned by the Nature Conservancy. She created this eight-week program for students to get their hands dirty in the field and learn cutting-edge lab techniques at the UW Friday Harbor Laboratories — where she had a transformational research experience herself as a Husky undergrad.</p>
@@ -656,7 +695,6 @@
   <dc:creator>Laura Spencer</dc:creator>
   <link>https://faculty.washington.edu/sr320/posts/posts/</link>
   <description><![CDATA[ 
-
 
 
 
@@ -691,7 +729,6 @@
   <title>Deep dive into the handbook</title>
   <link>https://faculty.washington.edu/sr320/posts/sr320-handbook/</link>
   <description><![CDATA[ 
-
 
 
 
@@ -858,7 +895,6 @@
 
 
 
-
 <p>During this past year a series of hatchery-based environmental conditioning activities (referred to as hardening) were completed with oysters out-planted onto three farms to evaluate performance. Additionally, climate resiliency was assessed in hardened oysters under controlled conditions.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
@@ -931,7 +967,6 @@
 
 
 
-
 <p>As part of our ongoing commitment to fostering innovative research, this summer was particularly thrilling due to the strides made in the <a href="https://www.washington.edu/omad/louis-stokes-alliance-for-minority-participation/">LSAMP Scientist Program</a>. One of our standout projects, led by an ambitious student researcher, Colby Elvrum, brought new insights into the resilience of oysters against environmental stressors. Get a <a href="https://genefish.wordpress.com/author/colbyelvrum/">first hand account of all of Colby’s science from his notebook!</a></p>
 <section id="the-genesis-of-the-study" class="level3">
 <h3 class="anchored" data-anchor-id="the-genesis-of-the-study">The Genesis of the Study</h3>
@@ -983,7 +1018,6 @@
 
 
 
-
 <p><img src="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_IMG_1373.png_2024-08-19_12-59-21.png" class="img-fluid"></p>
 <p>On August 16, participants in the Intertidal Innovators program presented their work to the community. The program, which was a collaboration sponsored by the UW Earthlab program, provided students with the opportunity to learn about marine science and conservation through art.</p>
 <p><img src="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Monosnap_2024-08-19_13-09-47.png" class="img-fluid"></p>
@@ -1023,7 +1057,6 @@ Quote
 
 
 
-
 <p><img src="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_IMG_6806.jpg_19801320_pixels_2024-08-14_11-49-59.png" class="img-fluid"></p>
 <p>On August 6, 2024, approximately sixty participants gathered at the Professor Alamiro Robledo Auditorium of the Faculty of Physical and Mathematical Sciences at the University of Concepción. They were there to delve into the promising sector of oyster aquaculture in Chile during the seminar titled “Oysters in Chile: Opportunities and Challenges for Aquaculture Diversification.” This event was meticulously organized by the Interdisciplinary Center for Aquaculture Research (INCAR).</p>
 <p>The seminar showcased six presentations from both national and international experts, followed by a panel discussion. The diverse audience included academia, public and private sector representatives, producers, aquaculturists, industry leaders, professionals, and both secondary and postgraduate students. The gathering aimed to foster a comprehensive dialogue on the development of oyster aquaculture in the country.</p>
@@ -1052,47 +1085,6 @@ Quote
   <guid>https://faculty.washington.edu/sr320/posts/sr320-ostras/</guid>
   <pubDate>Tue, 06 Aug 2024 07:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Monosnap_2024-08-14_11-33-39.png" medium="image" type="image/png"/>
-</item>
-<item>
-  <title>Exploring How Environmental Conditions Impact Atlantic Salmon’s Defense Against Sea Lice</title>
-  <link>https://faculty.washington.edu/sr320/posts/sr320-lice/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-
-<p><a href="https://pubmed.ncbi.nlm.nih.gov/38876411/">In our latest study, we delved into the complex interplay between environmental factors and the immune responses of Atlantic salmon (<em>Salmo salar</em>) during infestations by sea lice (<em>Caligus rogercresseyi</em>).</a> This research is particularly significant for both aquaculture and the management of natural marine ecosystems.</p>
-<section id="our-research-approach" class="level4">
-<h4 class="anchored" data-anchor-id="our-research-approach">Our Research Approach</h4>
-<p>Dr.&nbsp;Cristian Gallardos’ team set up an experimental infestation of Atlantic salmon with sea lice, controlling for variations in temperature and salinity: specifically, conditions were set at 8°C and 16°C, and 32 and 26 practical salinity units (PSU). We then collected tissues from these fish to conduct analyses via reduced representation bisulfite sequencing (RRBS) and whole transcriptome sequencing (RNA-seq).</p>
-</section>
-<section id="key-discoveries" class="level4">
-<h4 class="anchored" data-anchor-id="key-discoveries">Key Discoveries</h4>
-<ol type="1">
-<li><p><strong>Impact of Environment on Parasitic Load</strong>: We observed that the parasitic load varied significantly with environmental conditions, noting the lowest abundance of lice in salmon kept at cooler and less saline conditions (8°C/26PSU).</p></li>
-<li><p><strong>Transcriptional Changes and Splicing Events</strong>: Environmental conditions were found to influence the salmon’s transcriptome profiles substantially. Notably, there was an increase in alternative splicing events in fish under low temperature and salinity, suggesting that environmental stress can induce genomic adaptations.</p></li>
-<li><p><strong>Methylation Patterns</strong>: We also noted significant changes in methylation levels in response to temperature variations, with more pronounced differential methylation regions (DMRs) at the higher temperature of 16°C. These methylation changes correlated with the expression of alternatively spliced transcripts.</p></li>
-<li><p><strong>Biological Pathways</strong>: Our analyses revealed significant correlations between methylation, transcript expression, and key biological pathways such as Ferroptosis and TLR signaling pathways, which are crucial for immune response and cellular integrity.</p></li>
-</ol>
-</section>
-<section id="implications-of-our-findings" class="level4">
-<h4 class="anchored" data-anchor-id="implications-of-our-findings">Implications of Our Findings</h4>
-<p>This research highlights the nuanced ways in which environmental conditions can influence the genomic and epigenomic landscapes of marine organisms. For the aquaculture industry, understanding these dynamics is essential for developing effective management strategies to combat sea lice infestations, which are a major challenge for the sustainability and economic success of salmon farming.</p>
-<p>Moreover, the link between environmental conditions, alternative splicing, and methylation opens new research avenues into the genetic mechanisms of resilience and adaptability in marine organisms. This knowledge advances our understanding of how species adapt to their changing environments, which is critical for preserving and enhancing the health of our global marine resources.</p>
-
-
-<!-- -->
-
-</section>
-
- ]]></description>
-  <category>salmon</category>
-  <category>epigenetics</category>
-  <guid>https://faculty.washington.edu/sr320/posts/sr320-lice/</guid>
-  <pubDate>Mon, 01 Jul 2024 07:00:00 GMT</pubDate>
-  <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Environmental_influence_on_the_Atlantic_salmon_transcriptome_and_methylome_during_sea_lice_infestations_-_ScienceDirect_2024-08-14_12-12-07.png" medium="image" type="image/png"/>
 </item>
 </channel>
 </rss>

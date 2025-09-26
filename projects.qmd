@@ -19,5 +19,3 @@ listing:
 ---
 
 Below are some featured efforts. For a full list of projects, visit [this page](research.qmd).
-
-

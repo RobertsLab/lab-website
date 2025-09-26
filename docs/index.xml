@@ -9,14 +9,65 @@
 <link>https://faculty.washington.edu/sr320/</link>
 <atom:link href="https://faculty.washington.edu/sr320/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.7.32</generator>
-<lastBuildDate>Fri, 05 Sep 2025 07:00:00 GMT</lastBuildDate>
+<generator>quarto-1.6.40</generator>
+<lastBuildDate>Wed, 24 Sep 2025 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Using Metabolomics and Lipidomics to Unlock Marine Resilience</title>
+  <dc:creator>Steven Roberts</dc:creator>
+  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-metab/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>How do marine organisms adapt to an ocean that is rapidly warming, acidifying, and changing in countless other ways? A new <strong>Perspective article in Integrative and Comparative Biology</strong> by Yaamini R. Venkataraman and Ariana S. Huffmyer takes on this pressing question by focusing on <strong>metabolic plasticity</strong>—an organism’s capacity to adjust how it produces, allocates, and uses energy under stress.</p>
+<p>The authors argue that while genomics, transcriptomics, and epigenomics have all advanced our understanding of stress responses, <strong>metabolomic and lipidomic approaches provide a direct lens into energy balance</strong>—a key driver of resilience. By quantifying the molecules that fuel and regulate cellular processes, researchers can uncover hidden physiological shifts that are invisible at the whole-organism level.</p>
+<p><img src="http://gannet.fish.washington.edu/seashell/snaps/2025-09-24_10-54-17.png" class="img-fluid"></p>
+<section id="why-this-matters" class="level3">
+<h3 class="anchored" data-anchor-id="why-this-matters"><strong>Why This Matters</strong></h3>
+<p>Marine ecosystems are on the front lines of climate change. From corals to clams, invertebrates must constantly adjust to stressors like heat waves, hypoxia, and ocean acidification. The paper highlights how metabolic and lipidomic tools can:</p>
+<ul>
+<li><p>Detect subtle but critical energy shifts before mortality occurs.</p></li>
+<li><p>Reveal differences in resilience between species, populations, and even sexes.</p></li>
+<li><p>Provide early biomarkers of stress tolerance that can inform conservation and aquaculture.</p></li>
+</ul>
+</section>
+<section id="a-framework-for-best-practices" class="level3">
+<h3 class="anchored" data-anchor-id="a-framework-for-best-practices"><strong>A Framework for Best Practices</strong></h3>
+<p>Recognizing that metabolomic and lipidomic studies are still emerging in marine biology, Venkataraman and Huffmyer provide a <strong>roadmap for experimental design and analysis</strong>. Their recommendations include:</p>
+<ul>
+<li><p>Careful sampling and preservation to prevent artifacts.</p></li>
+<li><p>Strategic use of targeted, semi-targeted, or untargeted analyses.</p></li>
+<li><p>Embracing time series designs to capture dynamic shifts.</p></li>
+<li><p>Integrating molecular data with physiological and phenotypic metrics.</p></li>
+</ul>
+<p>They also call for <strong>multi-omic integration</strong>—combining metabolomics and lipidomics with gene expression, epigenetics, and physiology—to link molecular mechanisms with whole-organism outcomes</p>
+</section>
+<section id="looking-ahead" class="level3">
+<h3 class="anchored" data-anchor-id="looking-ahead"><strong>Looking Ahead</strong></h3>
+<p>The Perspective synthesizes findings from 68 studies published between 1993 and 2025, showing both how far the field has come and where opportunities lie. Importantly, it underscores that the <strong>marine science community must embrace metabolic complexity</strong> if we are to anticipate and mitigate the impacts of climate change on ecosystems.</p>
+<p><img src="http://gannet.fish.washington.edu/seashell/snaps/figure1.png" width="600"></p>
+<p>By providing this framework, Venkataraman and Huffmyer hope to spark more rigorous, reproducible, and integrative research—work that can help answer one of the defining questions of our time: <strong>how will marine life persist in a rapidly changing ocean?</strong></p>
+<p>👉 Read the full article here: <a href="http://gannet.fish.washington.edu/seashell/snaps/Venkataraman_Huffmyer2025.pdf">Interrogating Metabolic Plasticity in Marine Organisms: A Framework for Best Practices Using Metabolomic and Lipidomic Approaches</a></p>
+
+
+<!-- -->
+
+</section>
+
+ ]]></description>
+  <category>metabolomics</category>
+  <category>lipidomics</category>
+  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-metab/</guid>
+  <pubDate>Wed, 24 Sep 2025 07:00:00 GMT</pubDate>
+  <media:content url="http://gannet.fish.washington.edu/seashell/snaps/2025-09-24_10-52-23.png" medium="image" type="image/png"/>
+</item>
 <item>
   <title>Building Resilient Oysters: Launching the SORMI Project</title>
   <dc:creator>Steven Roberts</dc:creator>
   <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-sormi/</link>
   <description><![CDATA[ 
-
 
 
 
@@ -76,7 +127,6 @@
 
 
 
-
 <p>As global demand for seafood continues to rise, the aquaculture industry faces growing pressure to produce more while minimizing ecological impacts. A key concern in marine fish farming is the risk of escapees interbreeding with wild populations, leading to genetic introgression and reduced fitness in native fish stocks. Now, a recent study led by former University of Washington CICOES postdoctoral researcher Dr.&nbsp;Yuzo R. Yanagitsuru offers a promising solution.</p>
 <p>Published in <em>Aquaculture</em>, the study presents a <strong>proof-of-concept for a non-GMO, bath immersion–based technique for inducing sterility in sablefish (Anoplopoma fimbria)</strong>—an emerging high-value aquaculture species also known as black cod. The approach targets a gene essential for reproductive cell development and aims to prevent escaped farmed fish from reproducing in the wild.</p>
 <section id="a-scalable-gene-silencing-alternative-to-triploidy" class="level3">
@@ -129,7 +179,6 @@
 
 
 
-
 <p>This spring, two outstanding undergraduate researchers in our lab—Genevieve Buchanan and Henry Berg—presented their senior capstone projects, showcasing months of hard work and scientific curiosity. Their research tackled critical questions related to marine invertebrate resilience in the face of environmental stress, and each presentation offered fresh insight into how shellfish species respond to changing ocean conditions.</p>
 <section id="genevieve-buchanan-thermal-tolerance-in-a-stressful-world" class="level2">
 <h2 class="anchored" data-anchor-id="genevieve-buchanan-thermal-tolerance-in-a-stressful-world">🦪 Genevieve Buchanan: Thermal Tolerance in a Stressful World</h2>
@@ -163,57 +212,10 @@
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/2025-06-16_10-44-13.png" medium="image" type="image/png"/>
 </item>
 <item>
-  <title>Spotlight on Fellowship Success</title>
-  <dc:creator>Steven Roberts</dc:creator>
-  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-fellowships/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-
-<p>We are proud to celebrate two exceptional students in our lab who have each recently received prestigious fellowships in recognition of their innovative research tackling the urgent challenges of climate change and biodiversity conservation.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_lab-photo-20250213-edited-SJW-01.JPG_36302626_pixels_2025-06-11_18-26-37.png" class="img-fluid figure-img"></p>
-<figcaption>photo of fellows</figcaption>
-</figure>
-</div>
-<section id="zachary-bengtsson-nw-casc-fellow" class="level2">
-<h2 class="anchored" data-anchor-id="zachary-bengtsson-nw-casc-fellow">Zachary Bengtsson – NW CASC Fellow</h2>
-<p><a href="https://zbengt.github.io/notebook/">Zach</a> has been awarded a <strong>Northwest Climate Adaptation Science Center (NW CASC) Fellowship</strong>, joining a distinguished cohort of graduate researchers from institutions across the Northwest. His project, titled <em>Developing computational tools for genetic risk assessment of Olympia oyster (Ostrea lurida) populations in the Puget Sound</em>, focuses on advancing genetic tools that help guide the sustainable restoration of Washington’s native oyster.<br>
-</p>
-<p>Zach’s research integrates environmental drivers of local adaptation, hatchery management, and climate resilience to evaluate how restoration practices affect the genetic diversity of wild oyster populations. The selection committee praised his proposal for its clear relevance to stakeholder needs—highlighted by strong support from the Washington Department of Fish and Wildlife—and his deep commitment to co-produced, actionable science. His work will provide valuable tools for conservation managers as they balance ecological recovery with long-term resilience in Puget Sound estuaries.</p>
-</section>
-<section id="kathleen-durkin-smithsonian-fellow" class="level2">
-<h2 class="anchored" data-anchor-id="kathleen-durkin-smithsonian-fellow">Kathleen Durkin – Smithsonian Fellow</h2>
-<p><a href="https://shedurkin.github.io/Roberts-LabNotebook/">Kathleen</a> has received a fellowship to conduct groundbreaking research at the <strong>Smithsonian National Museum of Natural History</strong>, where she will pioneer the use of <strong>nanopore sequencing to map DNA methylation in archival coral specimens</strong>. Her project represents one of the first efforts to explore historical DNA methylation (hDNA) in invertebrates using museum collections.</p>
-<p>Drawing from coral samples that span over a century of collection history, Kathleen’s work will assess how epigenetic changes—particularly DNA methylation—can offer insights into coral stress responses and environmental resilience over time. By applying Oxford Nanopore Technology’s direct sequencing platform, she aims to overcome the limitations of traditional bisulfite sequencing in degraded DNA and establish a robust method for tracking historical epigenomic signatures.</p>
-<p>This innovative research will not only advance our understanding of coral adaptation during a period of unprecedented climate change but also expand the utility of natural history collections for modern genomic and conservation science.</p>
-<hr>
-<p>These fellowships reflect the drive and creativity that Zach and Kathleen bring to their work, and we are excited to watch their projects unfold over the coming year. Their success exemplifies the kind of interdisciplinary, forward-thinking science that will shape the future of marine conservation and climate adaptation.</p>
-<p>Please join us in congratulating Zachary and Kathleen on these outstanding achievements!</p>
-
-
-<!-- -->
-
-</section>
-
- ]]></description>
-  <category>epigenetics</category>
-  <category>genetics</category>
-  <category>climate</category>
-  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-fellowships/</guid>
-  <pubDate>Thu, 12 Jun 2025 07:00:00 GMT</pubDate>
-  <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_lab-photo-20250213-edited-SJW-01.JPG_36302626_pixels_2025-06-11_18-26-37.png" medium="image" type="image/png"/>
-</item>
-<item>
   <title>Decoding Marine Memory</title>
   <dc:creator>Steven Roberts</dc:creator>
   <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-epimar/</link>
   <description><![CDATA[ 
-
 
 
 
@@ -275,7 +277,6 @@
   <dc:creator>Steven Roberts</dc:creator>
   <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-lewis-smith/</link>
   <description><![CDATA[ 
-
 
 
 
