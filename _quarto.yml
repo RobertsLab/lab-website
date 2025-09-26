@@ -46,6 +46,14 @@ website:
             url:  https://sr320.github.io/paper-chilean-mussel/index.html
           - text: Contra
             url:  https://github.com/sr320/ConTra
+          - text: Shellfish Dashboard
+            url:  https://github.com/sr320/ConTra
+          - text: M2M Dashboard
+            url:  https://github.com/sr320/ConTra
+          - text: Contra Shiny App
+            url:  https://github.com/sr320/ConTra
+          - text: Resazurin Shiny App
+            url:  https://github.com/sr320/ConTra
      
      
       - icon: hdd-network
