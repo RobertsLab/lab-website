@@ -9,13 +9,65 @@
 <link>https://faculty.washington.edu/sr320/posts.html</link>
 <atom:link href="https://faculty.washington.edu/sr320/posts.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.6.40</generator>
-<lastBuildDate>Wed, 24 Sep 2025 07:00:00 GMT</lastBuildDate>
+<generator>quarto-1.7.32</generator>
+<lastBuildDate>Fri, 26 Sep 2025 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Intertidal Innovators: Art + Science Collaboration Brings the Shoreline to Life</title>
+  <dc:creator>Steven Roberts</dc:creator>
+  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-earthlab-intertidal/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<p>From April 2023 to March 2025, a team lead by <a href="https://faculty.washington.edu/sr320/people.html#chris-mantegna">Chris Mantegna</a> piloted Intertidal Innovators, an EarthLab Innovation Grant–funded program that blended art and science to connect local high school students with Seattle’s nearshore ecosystems. The program invited 11 students into a five-week internship where they explored foundational intertidal science concepts and translated their learning into creative expression.</p>
+<section id="building-connections-through-art-and-science" class="level2">
+<h2 class="anchored" data-anchor-id="building-connections-through-art-and-science">Building Connections Through Art and Science</h2>
+<p>Working in small groups, students wrote, directed, photographed, and edited a geo-located guided walk through Golden Gardens Park, designed to reveal what remains hidden at high tide. Their final piece, The Golden Hour, is now publicly available on the <a href="https://explore.echoes.xyz/">Echoes app</a> for anyone to experience—on-site or remotely.</p>
+<p>To celebrate the culmination of the program, students led family and community members on their guided walk at Golden Gardens. This showcase not only highlighted their new knowledge but also allowed them to teach their families about the shoreline environment, reinforcing connections across generations.</p>
+<p>Alongside the student projects, the team developed a flexible art + science curriculum, including community-building activities, photography and sound recording methods, and editing techniques. This content has already been shared at national conferences, sparking dialogue on how to integrate creativity and environmental learning.</p>
+</section>
+<section id="lasting-impact-on-students-and-community" class="level2">
+<h2 class="anchored" data-anchor-id="lasting-impact-on-students-and-community">Lasting Impact on Students and Community</h2>
+<p>The program’s impact can be seen in three ways:</p>
+<ul>
+<li><strong>Student empowerment</strong> – Students gained literacy and comfort in their local environment, transforming initial unfamiliarity into curiosity and pride.</li>
+<li><strong>Community engagement</strong> – Families participated enthusiastically in the showcase, with students confidently leading and teaching.</li>
+<li><strong>Interdisciplinary learning</strong> – The program demonstrated how art can deepen science learning and strengthen environmental connection.</li>
+</ul>
+<p>Feedback from both students and families revealed a surprising outcome: parents expressed interest in participating alongside their children. Future iterations will explore opportunities to involve families more directly.</p>
+</section>
+<section id="what-we-learned" class="level2">
+<h2 class="anchored" data-anchor-id="what-we-learned">What We Learned</h2>
+<p>EarthLab’s support made this interdisciplinary experiment possible. We learned how to foster curiosity in high school students outside of traditional grading systems, how to effectively blend art and science as teaching tools, and how to build trust and community in creative learning spaces.</p>
+<p>For future rounds, we plan to lengthen the program, weave art and science even more tightly together, and expand opportunities for community members to take part. Continued mentorship with Garfield High School students is already underway, with plans to build on their intertidal research and experiential learning credits in spring 2025.</p>
+</section>
+<section id="looking-ahead" class="level2">
+<h2 class="anchored" data-anchor-id="looking-ahead">Looking Ahead</h2>
+<p>Deliverables from Intertidal Innovators will continue to grow. In addition to the Echoes guided walk, an ArcGIS StoryMap and a complete open-source curriculum will be available by early 2026, along with a media library of student-created photos, videos, and recordings.</p>
+<p>We are grateful to EarthLab for supporting this innovative project, and to our collaborators—UW School of Aquatic and Fishery Sciences, UW DXARTS, Black in Marine Science, and Sea Potential—for making this work possible. Together, we’ve shown how art and science can inspire the next generation of environmental stewards.</p>
+
+
+<!-- -->
+
+</section>
+
+ ]]></description>
+  <category>education</category>
+  <category>earthlab</category>
+  <category>intertidal</category>
+  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-earthlab-intertidal/</guid>
+  <pubDate>Fri, 26 Sep 2025 07:00:00 GMT</pubDate>
+  <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_The_Golden_Hour_-_a_geolocated_audio_walk_by_Intertidal_Innovators_on_ECHOES_2024-08-19_12-50-25.png" medium="image" type="image/png"/>
+</item>
 <item>
   <title>Using Metabolomics and Lipidomics to Unlock Marine Resilience</title>
   <dc:creator>Steven Roberts</dc:creator>
   <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-metab/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -68,6 +120,7 @@
   <dc:creator>Steven Roberts</dc:creator>
   <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-sormi/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -127,6 +180,7 @@
 
 
 
+
 <p>As global demand for seafood continues to rise, the aquaculture industry faces growing pressure to produce more while minimizing ecological impacts. A key concern in marine fish farming is the risk of escapees interbreeding with wild populations, leading to genetic introgression and reduced fitness in native fish stocks. Now, a recent study led by former University of Washington CICOES postdoctoral researcher Dr.&nbsp;Yuzo R. Yanagitsuru offers a promising solution.</p>
 <p>Published in <em>Aquaculture</em>, the study presents a <strong>proof-of-concept for a non-GMO, bath immersion–based technique for inducing sterility in sablefish (Anoplopoma fimbria)</strong>—an emerging high-value aquaculture species also known as black cod. The approach targets a gene essential for reproductive cell development and aims to prevent escaped farmed fish from reproducing in the wild.</p>
 <section id="a-scalable-gene-silencing-alternative-to-triploidy" class="level3">
@@ -179,6 +233,7 @@
 
 
 
+
 <p>This spring, two outstanding undergraduate researchers in our lab—Genevieve Buchanan and Henry Berg—presented their senior capstone projects, showcasing months of hard work and scientific curiosity. Their research tackled critical questions related to marine invertebrate resilience in the face of environmental stress, and each presentation offered fresh insight into how shellfish species respond to changing ocean conditions.</p>
 <section id="genevieve-buchanan-thermal-tolerance-in-a-stressful-world" class="level2">
 <h2 class="anchored" data-anchor-id="genevieve-buchanan-thermal-tolerance-in-a-stressful-world">🦪 Genevieve Buchanan: Thermal Tolerance in a Stressful World</h2>
@@ -216,6 +271,7 @@
   <dc:creator>Steven Roberts</dc:creator>
   <link>https://faculty.washington.edu/sr320/posts/sr320-fellowships/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -259,8 +315,9 @@
 <item>
   <title>Decoding Marine Memory</title>
   <dc:creator>Steven Roberts</dc:creator>
-  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-epimar/</link>
+  <link>https://faculty.washington.edu/sr320/posts/sr320-epimar/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -313,7 +370,7 @@
 
  ]]></description>
   <category>epigenetics</category>
-  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-epimar/</guid>
+  <guid>https://faculty.washington.edu/sr320/posts/sr320-epimar/</guid>
   <pubDate>Wed, 11 Jun 2025 07:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_EPIMAR_2025__Barcelona_Spain_-_May_27-30_2025-06-11_17-59-29.png" medium="image" type="image/png"/>
 </item>
@@ -322,6 +379,7 @@
   <dc:creator>Steven Roberts</dc:creator>
   <link>https://faculty.washington.edu/sr320/posts/sr320-baird/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -368,6 +426,7 @@
 
 
 
+
 <p>We're proud to share a new publication by former lab member <strong>Connor Lewis-Smith</strong>, now a Social Scientist with NOAA's Northwest Fisheries Science Center. His article, <em>"Navigating ocean acidification in shellfish aquaculture: Stakeholder perspectives of developing strategies in the U.S. Pacific Region"</em>, was just released in <em>Aquaculture Reports</em> and offers an in-depth look at how shellfish growers across the U.S. Pacific Coast are responding to ocean acidification and related environmental stressors.</p>
 <p>The study draws on structured interviews with producers from Washington, Oregon, California, Alaska, and Hawaii to capture evolving perceptions of ocean acidification and industry interest in emerging adaptation strategies. Notably, concern about ocean acidification appears to have declined in the past decade, as growers increasingly focus on intersecting threats such as harmful algal blooms, disease, and rising temperatures.</p>
 <p>The paper explores two adaptation strategies under development: <strong>parental priming</strong>—a technique involving exposure of broodstock to stressful conditions to enhance offspring resilience—and <strong>native species portfolio expansion</strong>. While industry support for both strategies was mixed and often contingent on further scientific validation, the study emphasizes the importance of early engagement between researchers and growers to co-develop viable solutions.</p>
@@ -390,6 +449,7 @@
   <title>Exploring the Non-Coding RNA Landscape in Reef-Building Corals</title>
   <link>https://faculty.washington.edu/sr320/posts/sr320-lncRNA-rep/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -442,6 +502,7 @@
   <title>Unlocking the Future of Shellfish Aquaculture Through Genomics</title>
   <link>https://faculty.washington.edu/sr320/posts/sr320-genomics/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -525,6 +586,7 @@
 
 
 
+
 <p>What if the future of an entire fish population hinged on tiny changes in their DNA? In the frigid waters of the North Pacific, juvenile Pacific cod are facing an uncertain future as ocean temperatures rise. Our research is uncovering how these fish respond to warming waters—at the molecular level—and what that means for their survival.</p>
 <p><strong>The Science Behind Survival</strong></p>
 <p>At first glance, Pacific cod might seem like just another fish. But beneath the surface, their genetic makeup holds clues to how they adapt—or struggle—when faced with environmental stress. In our latest study, we’re diving deep into the connection between a cod’s genes and its ability to thrive in different temperatures.</p>
@@ -569,6 +631,7 @@
   <dc:creator>Steven Roberts</dc:creator>
   <link>https://faculty.washington.edu/sr320/posts/sr320-WSG/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -625,6 +688,7 @@
 
 
 
+
 <p>As climate change continues to drive rising ocean temperatures, coral reef ecosystems face an unprecedented crisis. Coral bleaching events, characterized by the breakdown of the mutualistic relationship between corals and their algal endosymbionts (Symbiodiniaceae), have become increasingly common, threatening the persistence of coral reefs worldwide. While much research has focused on adult corals, new studies are shedding light on how early life stages respond to thermal stress. <a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002875">A recent study by Huffmyer et al.&nbsp;(2024), published in&nbsp;<em>PLOS Biology</em></a>, provides novel insights into how coral larvae cope with increased temperatures by modifying nitrogen assimilation to stabilize symbiotic relationships and mitigate bleaching risk.</p>
 <section id="the-crucial-role-of-coral-larvae-in-reef-resilience" class="level3">
 <h3 class="anchored" data-anchor-id="the-crucial-role-of-coral-larvae-in-reef-resilience"><strong>The Crucial Role of Coral Larvae in Reef Resilience</strong></h3>
@@ -671,6 +735,7 @@
 
 
 
+
 <p><strong>Chris is featured on UW’s “Be Boundless” site. Read full article <a href="https://www.washington.edu/boundless/turning-the-tide-marine-biology/">here</a>. Below is a short snippet of the feature along with an amazing video!</strong></p>
 <p>On a windy June afternoon, Chris Mantegna, ’21, encourages a half-dozen undergraduates to flip over barnacle-studded rocks and sift through seaweed. Equipped with clipboards to record their findings, they’re creating a snapshot of the organisms in the island’s intertidal zone — from orange sea cucumbers to the camouflaged armored mollusks called chitons.</p>
 <p>Mantegna, a third-year graduate student in aquatic and fishery sciences, has spent the past three summers in Washington’s San Juan Islands, mentoring undergrads here on Yellow Island — a pristine 11-acre nature preserve owned by the Nature Conservancy. She created this eight-week program for students to get their hands dirty in the field and learn cutting-edge lab techniques at the UW Friday Harbor Laboratories — where she had a transformational research experience herself as a Husky undergrad.</p>
@@ -695,6 +760,7 @@
   <dc:creator>Laura Spencer</dc:creator>
   <link>https://faculty.washington.edu/sr320/posts/posts/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -729,6 +795,7 @@
   <title>Deep dive into the handbook</title>
   <link>https://faculty.washington.edu/sr320/posts/sr320-handbook/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -895,6 +962,7 @@
 
 
 
+
 <p>During this past year a series of hatchery-based environmental conditioning activities (referred to as hardening) were completed with oysters out-planted onto three farms to evaluate performance. Additionally, climate resiliency was assessed in hardened oysters under controlled conditions.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
@@ -967,6 +1035,7 @@
 
 
 
+
 <p>As part of our ongoing commitment to fostering innovative research, this summer was particularly thrilling due to the strides made in the <a href="https://www.washington.edu/omad/louis-stokes-alliance-for-minority-participation/">LSAMP Scientist Program</a>. One of our standout projects, led by an ambitious student researcher, Colby Elvrum, brought new insights into the resilience of oysters against environmental stressors. Get a <a href="https://genefish.wordpress.com/author/colbyelvrum/">first hand account of all of Colby’s science from his notebook!</a></p>
 <section id="the-genesis-of-the-study" class="level3">
 <h3 class="anchored" data-anchor-id="the-genesis-of-the-study">The Genesis of the Study</h3>
@@ -1018,6 +1087,7 @@
 
 
 
+
 <p><img src="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_IMG_1373.png_2024-08-19_12-59-21.png" class="img-fluid"></p>
 <p>On August 16, participants in the Intertidal Innovators program presented their work to the community. The program, which was a collaboration sponsored by the UW Earthlab program, provided students with the opportunity to learn about marine science and conservation through art.</p>
 <p><img src="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Monosnap_2024-08-19_13-09-47.png" class="img-fluid"></p>
@@ -1047,44 +1117,6 @@ Quote
   <guid>https://faculty.washington.edu/sr320/posts/sr320-intertidal/</guid>
   <pubDate>Mon, 19 Aug 2024 07:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_The_Golden_Hour_-_a_geolocated_audio_walk_by_Intertidal_Innovators_on_ECHOES_2024-08-19_12-50-25.png" medium="image" type="image/png"/>
-</item>
-<item>
-  <title>Ostras en Chile</title>
-  <link>https://faculty.washington.edu/sr320/posts/sr320-ostras/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p><img src="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_IMG_6806.jpg_19801320_pixels_2024-08-14_11-49-59.png" class="img-fluid"></p>
-<p>On August 6, 2024, approximately sixty participants gathered at the Professor Alamiro Robledo Auditorium of the Faculty of Physical and Mathematical Sciences at the University of Concepción. They were there to delve into the promising sector of oyster aquaculture in Chile during the seminar titled “Oysters in Chile: Opportunities and Challenges for Aquaculture Diversification.” This event was meticulously organized by the Interdisciplinary Center for Aquaculture Research (INCAR).</p>
-<p>The seminar showcased six presentations from both national and international experts, followed by a panel discussion. The diverse audience included academia, public and private sector representatives, producers, aquaculturists, industry leaders, professionals, and both secondary and postgraduate students. The gathering aimed to foster a comprehensive dialogue on the development of oyster aquaculture in the country.</p>
-<p>Manira Matamala, the regional director of the Undersecretary of Fisheries and Aquaculture (Subpesca) for Valparaíso, O’Higgins, and Maule, commended INCAR’s initiative. She highlighted the seminar’s focus on enhancing the genetic and genomic understanding of oysters, which is vital for promoting sustainable aquaculture practices.</p>
-<p>Among the speakers, Justo García, an aquaculturist and founder of “Cultivos Cholche,” shared insights from his hands-on experience in various stages of oyster production, emphasizing the importance of adding value to the aquaculture processes.</p>
-<p>Key Presentations Highlighted at the Seminar:</p>
-<ul>
-<li><p>Dr.&nbsp;Steven Roberts from the University of Washington offered an international perspective with his presentation on the “<a href="https://github.com/sr320/talk-ostras-2024">Olympia Oyster (Ostrea lurida) Restoration in the United States</a>,” focusing on physiological and genomic insights.</p></li>
-<li><p>Dr.&nbsp;Cristian Gallardo-Escárate, deputy director of Incar, discussed the genome of the Chilean oyster (Ostrea chilensis) as a critical tool for the restoration and conservation of natural oyster banks.</p></li>
-<li><p>Dr.&nbsp;Francisco Cárcamo shared experiences on co-cultivating Japanese oysters and algae both in field and laboratory settings, presenting an alternative approach for Environmental Performance Enhancement (APE). Justo García recounted his local experiences in small-scale aquaculture for both Chilean and Japanese oysters.</p></li>
-<li><p>Dr.&nbsp;Rodrigo Rojas from the Catholic University of the North introduced advances from a technological program aimed at the sustainable development of Japanese oyster cultivation.</p></li>
-<li><p>Meyling Tang, vice president of the Cocinamar Foundation, proposed strategies to reinvigorate oyster consumption in Chile with her presentation titled “Oysters Everywhere: Ideas to Reactivate Oyster Consumption in Chile.”</p></li>
-<li><p>Dr.&nbsp;Renato Quiñones, the director of Incar, emphasized the seminar’s role in bringing together experts from varied fields to create a multidimensional space for all stakeholders involved in oyster cultivation. This interaction is crucial for transforming scientific knowledge into a community and national heritage.</p></li>
-</ul>
-<p>The event concluded with a panel discussion moderated by Dr.&nbsp;Doris Soto, principal investigator at Incar, where experts discussed the multifaceted opportunities and challenges facing aquaculture diversification in Chile.</p>
-<p><img src="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Monosnap_2024-08-14_11-36-29.png" class="img-fluid"></p>
-<p>This seminar not only highlighted the collaborative efforts required to advance oyster aquaculture but also showcased the commitment of INCAR to foster a sustainable and innovative aquaculture industry in Chile.</p>
-
-
-<!-- -->
-
-
- ]]></description>
-  <category>oyster</category>
-  <category>presentation</category>
-  <guid>https://faculty.washington.edu/sr320/posts/sr320-ostras/</guid>
-  <pubDate>Tue, 06 Aug 2024 07:00:00 GMT</pubDate>
-  <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Monosnap_2024-08-14_11-33-39.png" medium="image" type="image/png"/>
 </item>
 </channel>
 </rss>

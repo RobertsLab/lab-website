@@ -9,13 +9,65 @@
 <link>https://faculty.washington.edu/sr320/</link>
 <atom:link href="https://faculty.washington.edu/sr320/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.6.40</generator>
-<lastBuildDate>Wed, 24 Sep 2025 07:00:00 GMT</lastBuildDate>
+<generator>quarto-1.7.32</generator>
+<lastBuildDate>Fri, 26 Sep 2025 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Intertidal Innovators: Art + Science Collaboration Brings the Shoreline to Life</title>
+  <dc:creator>Steven Roberts</dc:creator>
+  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-earthlab-intertidal/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<p>From April 2023 to March 2025, a team lead by <a href="https://faculty.washington.edu/sr320/people.html#chris-mantegna">Chris Mantegna</a> piloted Intertidal Innovators, an EarthLab Innovation Grant–funded program that blended art and science to connect local high school students with Seattle’s nearshore ecosystems. The program invited 11 students into a five-week internship where they explored foundational intertidal science concepts and translated their learning into creative expression.</p>
+<section id="building-connections-through-art-and-science" class="level2">
+<h2 class="anchored" data-anchor-id="building-connections-through-art-and-science">Building Connections Through Art and Science</h2>
+<p>Working in small groups, students wrote, directed, photographed, and edited a geo-located guided walk through Golden Gardens Park, designed to reveal what remains hidden at high tide. Their final piece, The Golden Hour, is now publicly available on the <a href="https://explore.echoes.xyz/">Echoes app</a> for anyone to experience—on-site or remotely.</p>
+<p>To celebrate the culmination of the program, students led family and community members on their guided walk at Golden Gardens. This showcase not only highlighted their new knowledge but also allowed them to teach their families about the shoreline environment, reinforcing connections across generations.</p>
+<p>Alongside the student projects, the team developed a flexible art + science curriculum, including community-building activities, photography and sound recording methods, and editing techniques. This content has already been shared at national conferences, sparking dialogue on how to integrate creativity and environmental learning.</p>
+</section>
+<section id="lasting-impact-on-students-and-community" class="level2">
+<h2 class="anchored" data-anchor-id="lasting-impact-on-students-and-community">Lasting Impact on Students and Community</h2>
+<p>The program’s impact can be seen in three ways:</p>
+<ul>
+<li><strong>Student empowerment</strong> – Students gained literacy and comfort in their local environment, transforming initial unfamiliarity into curiosity and pride.</li>
+<li><strong>Community engagement</strong> – Families participated enthusiastically in the showcase, with students confidently leading and teaching.</li>
+<li><strong>Interdisciplinary learning</strong> – The program demonstrated how art can deepen science learning and strengthen environmental connection.</li>
+</ul>
+<p>Feedback from both students and families revealed a surprising outcome: parents expressed interest in participating alongside their children. Future iterations will explore opportunities to involve families more directly.</p>
+</section>
+<section id="what-we-learned" class="level2">
+<h2 class="anchored" data-anchor-id="what-we-learned">What We Learned</h2>
+<p>EarthLab’s support made this interdisciplinary experiment possible. We learned how to foster curiosity in high school students outside of traditional grading systems, how to effectively blend art and science as teaching tools, and how to build trust and community in creative learning spaces.</p>
+<p>For future rounds, we plan to lengthen the program, weave art and science even more tightly together, and expand opportunities for community members to take part. Continued mentorship with Garfield High School students is already underway, with plans to build on their intertidal research and experiential learning credits in spring 2025.</p>
+</section>
+<section id="looking-ahead" class="level2">
+<h2 class="anchored" data-anchor-id="looking-ahead">Looking Ahead</h2>
+<p>Deliverables from Intertidal Innovators will continue to grow. In addition to the Echoes guided walk, an ArcGIS StoryMap and a complete open-source curriculum will be available by early 2026, along with a media library of student-created photos, videos, and recordings.</p>
+<p>We are grateful to EarthLab for supporting this innovative project, and to our collaborators—UW School of Aquatic and Fishery Sciences, UW DXARTS, Black in Marine Science, and Sea Potential—for making this work possible. Together, we’ve shown how art and science can inspire the next generation of environmental stewards.</p>
+
+
+<!-- -->
+
+</section>
+
+ ]]></description>
+  <category>education</category>
+  <category>earthlab</category>
+  <category>intertidal</category>
+  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-earthlab-intertidal/</guid>
+  <pubDate>Fri, 26 Sep 2025 07:00:00 GMT</pubDate>
+  <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_The_Golden_Hour_-_a_geolocated_audio_walk_by_Intertidal_Innovators_on_ECHOES_2024-08-19_12-50-25.png" medium="image" type="image/png"/>
+</item>
 <item>
   <title>Using Metabolomics and Lipidomics to Unlock Marine Resilience</title>
   <dc:creator>Steven Roberts</dc:creator>
   <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-metab/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -68,6 +120,7 @@
   <dc:creator>Steven Roberts</dc:creator>
   <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-sormi/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -127,6 +180,7 @@
 
 
 
+
 <p>As global demand for seafood continues to rise, the aquaculture industry faces growing pressure to produce more while minimizing ecological impacts. A key concern in marine fish farming is the risk of escapees interbreeding with wild populations, leading to genetic introgression and reduced fitness in native fish stocks. Now, a recent study led by former University of Washington CICOES postdoctoral researcher Dr.&nbsp;Yuzo R. Yanagitsuru offers a promising solution.</p>
 <p>Published in <em>Aquaculture</em>, the study presents a <strong>proof-of-concept for a non-GMO, bath immersion–based technique for inducing sterility in sablefish (Anoplopoma fimbria)</strong>—an emerging high-value aquaculture species also known as black cod. The approach targets a gene essential for reproductive cell development and aims to prevent escaped farmed fish from reproducing in the wild.</p>
 <section id="a-scalable-gene-silencing-alternative-to-triploidy" class="level3">
@@ -179,6 +233,7 @@
 
 
 
+
 <p>This spring, two outstanding undergraduate researchers in our lab—Genevieve Buchanan and Henry Berg—presented their senior capstone projects, showcasing months of hard work and scientific curiosity. Their research tackled critical questions related to marine invertebrate resilience in the face of environmental stress, and each presentation offered fresh insight into how shellfish species respond to changing ocean conditions.</p>
 <section id="genevieve-buchanan-thermal-tolerance-in-a-stressful-world" class="level2">
 <h2 class="anchored" data-anchor-id="genevieve-buchanan-thermal-tolerance-in-a-stressful-world">🦪 Genevieve Buchanan: Thermal Tolerance in a Stressful World</h2>
@@ -212,71 +267,11 @@
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/2025-06-16_10-44-13.png" medium="image" type="image/png"/>
 </item>
 <item>
-  <title>Decoding Marine Memory</title>
-  <dc:creator>Steven Roberts</dc:creator>
-  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-epimar/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>At EPIMAR2025 in Barcelona, a gathering of global marine scientists illuminated the hidden world of epigenetic regulation in marine invertebrates. These tiny organisms, often overlooked in genomic studies, are now at the forefront of revealing how life beneath the waves adapts, survives, and thrives in rapidly changing oceans.</p>
-<p>In this post, we highlight key presentations that explored how DNA methylation, RNA modifications, and chromatin remodeling influence invertebrate development, stress response, and even intergenerational adaptation.</p>
-<hr>
-<section id="mussels-and-methylation-maps" class="level3">
-<h3 class="anchored" data-anchor-id="mussels-and-methylation-maps">Mussels and Methylation Maps</h3>
-<p><strong>Enrico D’Aniello</strong>&nbsp;and colleagues presented the first high-resolution DNA methylation map in the mussel&nbsp;<em>Mytilus galloprovincialis</em>. This map revealed key regulatory elements and tissue-specific methylation patterns, providing a baseline for understanding how gene expression is modulated in response to environmental shifts.</p>
-<hr>
-</section>
-<section id="modifications-in-oysters" class="level3">
-<h3 class="anchored" data-anchor-id="modifications-in-oysters">Modifications in Oysters</h3>
-<p>In&nbsp;<em>Crassostrea gigas</em>,&nbsp;<strong>Natacha Clairet</strong>&nbsp;demonstrated that m6A RNA methylation plays a pivotal role in neural development and transcript splicing. Her work showed that these epitranscriptomic changes are not only developmentally regulated but may also mediate environmental responses.</p>
-<p>Building on the oyster story,&nbsp;<strong>Guillaume Rivière</strong>&nbsp;showed that thermal stress leaves lasting epigenetic marks on oyster gill tissues. This “epigenetic memory” alters gene expression patterns in subsequent exposures, pointing to methylation as a resilience mechanism.</p>
-<p>Meanwhile,&nbsp;<strong>Sophie Valk</strong>&nbsp;examined oysters undergoing natural sex transitions, finding unique DNA methylation signatures in hermaphrodites. Her work hints at epigenetic regulation as a driver of reproductive plasticity.</p>
-<p><strong>Elyna Bouchereau</strong> from the University of Perpignan explored the methylome of <em>Vibrio aestuarianus</em>, a bacterial pathogen of oysters, revealing how epigenetic signatures may influence virulence and host interaction, while <strong>Amélie Dellong</strong> presented a multi-omics approach to decipher chromatin structure in <em>Magallana gigas</em>, offering new insight into the regulatory architecture of oyster genomes.</p>
-<p><strong>Marta Pascual</strong> presented a population epigenomics study of <em>Crassostrea gigas</em> along the Iberian Atlantic coast, showing that DNA methylation patterns vary significantly between wild and farmed populations, suggesting a potential role in local adaptation and domestication.</p>
-<p><strong>Lénaig Boulard</strong> investigated the epigenetic responses of Pacific oysters to ocean acidification, demonstrating methylation changes in genes associated with shell formation and oxidative stress defense.</p>
-<p><strong>Céline Cosseau</strong> explored transgenerational epigenetic inheritance in oysters, showing that environmental exposures in adult oysters can lead to stable methylation changes in offspring, particularly in stress-response genes.</p>
-<hr>
-</section>
-<section id="corals-and-the-code-of-light" class="level3">
-<h3 class="anchored" data-anchor-id="corals-and-the-code-of-light">Corals and the Code of Light</h3>
-<p>Reef-building corals were another highlight.&nbsp;<strong>Kathleen Durkin</strong>&nbsp;described how miRNAs and lncRNAs shape coral development and immunity under heat stress.&nbsp;<strong>Kelly Gómez-Campo</strong>&nbsp;added that light exposure during development can modulate DNA methylation patterns and downstream gene networks in corals, underscoring how tightly environment and epigenome are interlinked.<br>
-<strong>Hollie Putnam</strong> presented a comprehensive study on the spatial and temporal dynamics of epigenetic regulation in reef-building corals, while <strong>Jill Ashey</strong> highlighted the critical roles of non-coding RNAs during early coral development, particularly in mediating the maternal-to-zygotic transition.</p>
-<hr>
-</section>
-<section id="histone-modifications-in-sea-anemones" class="level3">
-<h3 class="anchored" data-anchor-id="histone-modifications-in-sea-anemones">Histone Modifications in Sea Anemones</h3>
-<p>In the heat-stressed sea anemone&nbsp;<em>Exaiptasia diaphana</em>,&nbsp;<strong>Mascha Dix</strong>&nbsp;presented findings on histone modifications (H3K27me3 and H3K4me3) as key players in regulating gene expression. These modifications allow rapid but reversible responses to changing thermal conditions.</p>
-<hr>
-</section>
-<section id="hypoxia-and-neural-epigenetics-in-sea-hares" class="level3">
-<h3 class="anchored" data-anchor-id="hypoxia-and-neural-epigenetics-in-sea-hares">Hypoxia and Neural Epigenetics in Sea Hares</h3>
-<p><strong>Javier Rodriguez-Casariego</strong>&nbsp;studied the sea hare&nbsp;<em>Aplysia californica</em>&nbsp;and showed that DNA methylation shifts in neural tissues under hypoxic conditions suggest a role for epigenetic plasticity in environmental stress tolerance.</p>
-<hr>
-</section>
-<section id="conclusion-epigenetics-as-a-unifying-language" class="level3">
-<h3 class="anchored" data-anchor-id="conclusion-epigenetics-as-a-unifying-language">Conclusion: Epigenetics as a Unifying Language</h3>
-<p>These studies collectively show that epigenetic mechanisms are not just molecular curiosities—they are central to how marine invertebrates sense, remember, and adapt to their environment. Whether through methylation, non-coding RNA, or histone marks, the language of the epigenome is being translated into actionable insights for conservation, aquaculture, and understanding evolution under climate change.</p>
-<p>EPIMAR2025 made one thing clear: the future of marine biology will be written in epigenetic code.</p>
-
-
-<!-- -->
-
-</section>
-
- ]]></description>
-  <category>epigenetics</category>
-  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-epimar/</guid>
-  <pubDate>Wed, 11 Jun 2025 07:00:00 GMT</pubDate>
-  <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_EPIMAR_2025__Barcelona_Spain_-_May_27-30_2025-06-11_17-59-29.png" medium="image" type="image/png"/>
-</item>
-<item>
   <title>Environmental Priming in Practice</title>
   <dc:creator>Steven Roberts</dc:creator>
   <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-lewis-smith/</link>
   <description><![CDATA[ 
+
 
 
 

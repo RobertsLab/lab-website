@@ -7,7 +7,7 @@ author:
     orcid: 0000-0001-8302-1138
     affiliation: Professor, UW - School of Aquatic and Fishery Sciences
     affiliation-url: https://robertslab.info
-date: 01-15-2025
+date: 09-26-2025
 categories: [education, earthlab, intertidal] # self-defined categories
 image: http://gannet.fish.washington.edu/seashell/snaps/Monosnap_The_Golden_Hour_-_a_geolocated_audio_walk_by_Intertidal_Innovators_on_ECHOES_2024-08-19_12-50-25.png # finding a good image
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
@@ -21,7 +21,7 @@ format:
     code-overflow: wrap
 ---
 
-From April 2023 to March 2025, a team lead by Chris Mantegna piloted Intertidal Innovators, an EarthLab Innovation Grant–funded program that blended art and science to connect local high school students with Seattle's nearshore ecosystems. The program invited 11 students into a five-week internship where they explored foundational intertidal science concepts and translated their learning into creative expression.
+From April 2023 to March 2025, a team lead by [Chris Mantegna](https://faculty.washington.edu/sr320/people.html#chris-mantegna) piloted Intertidal Innovators, an EarthLab Innovation Grant–funded program that blended art and science to connect local high school students with Seattle's nearshore ecosystems. The program invited 11 students into a five-week internship where they explored foundational intertidal science concepts and translated their learning into creative expression.
 
 ## Building Connections Through Art and Science
 
@@ -35,9 +35,9 @@ Alongside the student projects, the team developed a flexible art + science curr
 
 The program's impact can be seen in three ways:
 
-- **Student empowerment** – Students gained literacy and comfort in their local environment, transforming initial unfamiliarity into curiosity and pride.
-- **Community engagement** – Families participated enthusiastically in the showcase, with students confidently leading and teaching.
-- **Interdisciplinary learning** – The program demonstrated how art can deepen science learning and strengthen environmental connection.
+-   **Student empowerment** – Students gained literacy and comfort in their local environment, transforming initial unfamiliarity into curiosity and pride.
+-   **Community engagement** – Families participated enthusiastically in the showcase, with students confidently leading and teaching.
+-   **Interdisciplinary learning** – The program demonstrated how art can deepen science learning and strengthen environmental connection.
 
 Feedback from both students and families revealed a surprising outcome: parents expressed interest in participating alongside their children. Future iterations will explore opportunities to involve families more directly.
 
