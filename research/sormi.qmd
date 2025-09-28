@@ -3,11 +3,11 @@ title: "Development of SORMI (Summer Oyster Resilience and Mortality Index): A Q
 code: ""
 status: "active"
 type: "grant"
-website: ""
+website: "http://oyster.pink"
 theme: "aquaculture resource development"
 agency: "Western Regional Aquaculture Center"
 year: "2025"
-github: ""
+github: "https://github.com/RobertsLab/resazurin-assay-development"
 image: "http://gannet.fish.washington.edu/seashell/snaps/Monosnap_SR_PSI_WRAC_2025_Full_Proposal_Draft_2025-09-06_06-42-09.png"
 toc: FALSE
 categories:
@@ -36,7 +36,7 @@ The SORMI (Summer Oyster Resilience and Mortality Index) project addresses one o
 
 Rather than focusing on why oysters die, SORMI takes a new approach by examining why oysters survive. The project will develop a generalized stress resilience index for Pacific oysters by integrating a suite of physiological and metabolic assays. This tool will help predict which oyster families are most resilient under real-world conditions, directly supporting breeding programs and hatcheries with a practical way to select for survival and reduce the frequency of catastrophic summer mortality events.
 
-At the Roberts Lab, the team will lead development of innovative, high-throughput stress assays, including a new resazurin-based metabolic assay as a cost-effective, scalable way to measure oyster metabolism. The lab will work closely with partners to analyze stress resilience across hundreds of oyster families and link these traits to field survival outcomes. The focus is on providing growers and breeding programs with actionable, science-based tools that are accessible and easy to implement.
+At the Roberts Lab, the team will lead development of innovative, high-throughput stress assays, including a new [resazurin-based metabolic assay](http://oyster.pink) that has been refined as a cost-effective, scalable way to measure oyster metabolism. The lab will work closely with partners to analyze stress resilience across hundreds of oyster families and link these traits to field survival outcomes. The focus is on providing growers and breeding programs with actionable, science-based tools that are accessible and easy to implement.
 
 The ultimate goal of SORMI is to give oyster growers a practical decision-making tool. With a reliable index, farmers could anticipate when their stocks are stressed and take proactive measures—harvesting before a mortality event, adjusting management practices, or prioritizing resilient broodstock. For breeding programs, SORMI will add a measurable, heritable trait that can accelerate development of hardier oyster lines.
 
