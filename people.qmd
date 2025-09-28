@@ -3,168 +3,168 @@ title: "Lab Members"
 title-block-banner: true
 toc: true
 format:
-  html:
-    css: people-styles.css
+ html:
+ css: people-styles.css
 ---
 
 ```{=html}
 <style>
 .person-card {
-  background: white;
-  border-radius: 12px;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-  padding: 1.5rem;
-  margin-bottom: 2rem;
-  display: flex;
-  gap: 1.5rem;
-  align-items: flex-start;
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
+ background: white;
+ border-radius: 12px;
+ box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+ padding: 1.5rem;
+ margin-bottom: 2rem;
+ display: flex;
+ gap: 1.5rem;
+ align-items: flex-start;
+ transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
 .person-card:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+ transform: translateY(-2px);
+ box-shadow: 0 8px 20px rgba(0,0,0,0.15);
 }
 
 .person-image {
-  flex-shrink: 0;
-  width: 150px;
-  height: 150px;
-  border-radius: 50%;
-  object-fit: cover;
-  border: 4px solid #f8f9fa;
+ flex-shrink: 0;
+ width: 150px;
+ height: 150px;
+ border-radius: 50%;
+ object-fit: cover;
+ border: 4px solid #f8f9fa;
 }
 
 .person-content {
-  flex: 1;
-  min-width: 0;
+ flex: 1;
+ min-width: 0;
 }
 
 .person-name {
-  color: #2c5282;
-  font-size: 1.4rem;
-  font-weight: 600;
-  margin-bottom: 0.5rem;
+ color: #2c5282;
+ font-size: 1.4rem;
+ font-weight: 600;
+ margin-bottom: 0.5rem;
 }
 
 .person-links {
-  display: flex;
-  gap: 1rem;
-  margin-bottom: 1rem;
-  flex-wrap: wrap;
+ display: flex;
+ gap: 1rem;
+ margin-bottom: 1rem;
+ flex-wrap: wrap;
 }
 
 .person-link {
-  background: #e2e8f0;
-  color: #4a5568;
-  padding: 0.25rem 0.75rem;
-  border-radius: 20px;
-  text-decoration: none;
-  font-size: 0.9rem;
-  transition: all 0.2s ease;
+ background: #e2e8f0;
+ color: #4a5568;
+ padding: 0.25rem 0.75rem;
+ border-radius: 20px;
+ text-decoration: none;
+ font-size: 0.9rem;
+ transition: all 0.2s ease;
 }
 
 .person-link:hover {
-  background: #3182ce;
-  color: white;
-  text-decoration: none;
+ background: #3182ce;
+ color: white;
+ text-decoration: none;
 }
 
 .person-bio {
-  color: #4a5568;
-  line-height: 1.6;
-  font-size: 0.9rem;
+ color: #4a5568;
+ line-height: 1.6;
+ font-size: 0.9rem;
 }
 
 .section-header {
-  color: #2d3748;
-  border-bottom: 3px solid #3182ce;
-  padding-bottom: 0.5rem;
-  margin: 3rem 0 2rem 0;
+ color: #2d3748;
+ border-bottom: 3px solid #3182ce;
+ padding-bottom: 0.5rem;
+ margin: 3rem 0 2rem 0;
 }
 
 .alumni-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 1.5rem;
-  margin-top: 2rem;
+ display: grid;
+ grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+ gap: 1.5rem;
+ margin-top: 2rem;
 }
 
 .alumni-card {
-  background: #f7fafc;
-  border: 1px solid #e2e8f0;
-  border-radius: 8px;
-  padding: 1.5rem;
-  transition: transform 0.2s ease;
+ background: #f7fafc;
+ border: 1px solid #e2e8f0;
+ border-radius: 8px;
+ padding: 1.5rem;
+ transition: transform 0.2s ease;
 }
 
 .alumni-card:hover {
-  transform: translateY(-1px);
-  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+ transform: translateY(-1px);
+ box-shadow: 0 4px 8px rgba(0,0,0,0.1);
 }
 
 .alumni-name {
-  font-weight: 600;
-  color: #2d3748;
-  margin-bottom: 0.5rem;
+ font-weight: 600;
+ color: #2d3748;
+ margin-bottom: 0.5rem;
 }
 
 .alumni-category {
-  color: #718096;
-  font-size: 0.9rem;
-  font-style: italic;
-  margin-bottom: 0.5rem;
+ color: #718096;
+ font-size: 0.9rem;
+ font-style: italic;
+ margin-bottom: 0.5rem;
 }
 
 .alumni-links {
-  display: flex;
-  gap: 0.5rem;
-  flex-wrap: wrap;
+ display: flex;
+ gap: 0.5rem;
+ flex-wrap: wrap;
 }
 
 .alumni-link {
-  color: #3182ce;
-  text-decoration: none;
-  font-size: 0.85rem;
-  border: 1px solid #bee3f8;
-  padding: 0.2rem 0.5rem;
-  border-radius: 4px;
-  transition: all 0.2s ease;
+ color: #3182ce;
+ text-decoration: none;
+ font-size: 0.85rem;
+ border: 1px solid #bee3f8;
+ padding: 0.2rem 0.5rem;
+ border-radius: 4px;
+ transition: all 0.2s ease;
 }
 
 .alumni-link:hover {
-  background: #3182ce;
-  color: white;
-  text-decoration: none;
+ background: #3182ce;
+ color: white;
+ text-decoration: none;
 }
 
 @media (max-width: 768px) {
-  .person-card {
-    flex-direction: column;
-    text-align: center;
-  }
-  
-  .person-image {
-    align-self: center;
-  }
-  
-  .alumni-grid {
-    grid-template-columns: 1fr;
-  }
+ .person-card {
+ flex-direction: column;
+ text-align: center;
+ }
+ 
+ .person-image {
+ align-self: center;
+ }
+ 
+ .alumni-grid {
+ grid-template-columns: 1fr;
+ }
 }
 
 /* Dark mode support */
 @media (prefers-color-scheme: dark) {
-  .person-card {
-    background: #2d3748;
-    color: #e2e8f0;
-  }
-  
-  .alumni-card {
-    background: #4a5568;
-    border-color: #718096;
-    color: #e2e8f0;
-  }
+ .person-card {
+ background: #2d3748;
+ color: #e2e8f0;
+ }
+ 
+ .alumni-card {
+ background: #4a5568;
+ border-color: #718096;
+ color: #e2e8f0;
+ }
 }
 </style>
 ```
@@ -178,7 +178,7 @@ format:
 ## Steven Roberts {.person-name}
 
 ::: person-links
-[GitHub](https://github.com/sr320){.person-link} [ORCID](https://orcid.org/0000-0001-8302-1138){.person-link}
+[GitHub](https://github.com/sr320){.person-link}
 :::
 
 ::: person-bio
@@ -196,7 +196,7 @@ Professor in the School of Aquatic and Fishery Sciences at the University of Was
 ## Zach Bengtsson {.person-name}
 
 ::: person-links
-[Lab notebook](https://zbengt.github.io/){.person-link} [LinkedIn](https://www.linkedin.com/in/zachary-bengtsson/){.person-link} [Email](mailto:zbengt@uw.edu){.person-link}
+[Email](mailto:zbengt@uw.edu){.person-link}
 :::
 
 ::: person-bio
@@ -212,7 +212,7 @@ I grew up in the beautiful, landlocked city of Colorado Springs, CO, but I have 
 ## Chris Mantegna {.person-name}
 
 ::: person-links
-[Lab notebook](https://chrismantegna.github.io/cmlabsite/){.person-link} [Email](mailto:mantegna@uw.edu){.person-link}
+[Email](mailto:mantegna@uw.edu){.person-link}
 :::
 
 ::: person-bio
@@ -228,7 +228,7 @@ Chasing my love of Orcas, coffee, and grunge to the Pacific Northwest has yielde
 ## Celeste Valdivia {.person-name}
 
 ::: person-links
-[Lab notebook](https://valeste.github.io/tough-tunicates/){.person-link} [Email](mailto:cvaldi@uw.edu){.person-link}
+[Email](mailto:cvaldi@uw.edu){.person-link}
 :::
 
 ::: person-bio
@@ -244,7 +244,7 @@ Although growing up in San Diego, CA meant that I spent many days of my youth ou
 ## Grace Crandall {.person-name}
 
 ::: person-links
-[Lab Notebook](https://grace-ac.github.io/notebook/){.person-link} [Email](mailto:graceac9@uw.edu){.person-link}
+Lab Notebook [Email](mailto:graceac9@uw.edu){.person-link}
 :::
 
 ::: person-bio
@@ -260,7 +260,7 @@ I'm a returning student to the Roberts Lab, having previously received my BSc (2
 ## Kathleen Durkin {.person-name}
 
 ::: person-links
-[Lab Notebook](https://shedurkin.github.io/Roberts-LabNotebook/){.person-link} [Email](mailto:kdurkin1@uw.edu){.person-link}
+Lab Notebook [Email](mailto:kdurkin1@uw.edu){.person-link}
 :::
 
 ::: person-bio
@@ -276,7 +276,7 @@ I'm pursuing a PhD in Aquatic and Fishery Sciences, and am broadly interested in
 ## Megan Ewing {.person-name}
 
 ::: person-links
-[Lab Notebook](https://meganewing.github.io/mewing-notebook/){.person-link} [Email](mailto:mewing0@uw.edu){.person-link}
+Lab Notebook [Email](mailto:mewing0@uw.edu){.person-link}
 :::
 
 ::: person-bio
@@ -308,7 +308,7 @@ I am a postdoctoral researcher and NOAA Alaska Fishery Science Center Affiliate.
 ## Sam White {.person-name}
 
 ::: person-links
-[Lab notebook](https://robertslab.github.io/sams-notebook/){.person-link} [Email](mailto:samwhite@uw.edu){.person-link}
+[Email](mailto:samwhite@uw.edu){.person-link}
 :::
 
 ::: person-bio
@@ -324,7 +324,7 @@ I am a research scientist in the lab since the lab's inception in 2007 and am ja
 ## Ariana S. Huffmyer, PhD {.person-name}
 
 ::: person-links
-[Lab notebook](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/){.person-link} [LinkTree](https://linktr.ee/ashuffmyer){.person-link} [Email](mailto:ashuff@uw.edu){.person-link}
+[Email](mailto:ashuff@uw.edu){.person-link}
 :::
 
 ::: person-bio
@@ -366,13 +366,13 @@ Larken Root
 
 :::: alumni-card
 ::: alumni-name
-[Matt George](https://mattgeorgephd.github.io/)
+Matt George
 :::
 ::::
 
 :::: alumni-card
 ::: alumni-name
-[Shelly Wanamaker](https://shellywanamaker.github.io)
+Shelly Wanamaker
 :::
 ::::
 
@@ -422,7 +422,7 @@ Crystal Simchick
 ::::::::::::::::::::::::::::::::::: alumni-grid
 :::: alumni-card
 ::: alumni-name
-[Aspen Coyle](https://aspencoyle.github.io/)
+Aspen Coyle
 :::
 ::::
 
@@ -434,31 +434,31 @@ Olivia Cattau
 
 :::: alumni-card
 ::: alumni-name
-[Yaamini Venkataraman](https://yaaminiv.github.io)
+Yaamini Venkataraman
 :::
 ::::
 
 :::: alumni-card
 ::: alumni-name
-[Laura Spencer](https://laurahspencer.github.io/LabNotebook/)
+Laura Spencer
 :::
 ::::
 
 :::: alumni-card
 ::: alumni-name
-[Grace Crandall](https://grace-ac.github.io)
+Grace Crandall
 :::
 ::::
 
 :::: alumni-card
 ::: alumni-name
-[Jay Dimond](https://wp.wwu.edu/jldimond/)
+Jay Dimond
 :::
 ::::
 
 :::: alumni-card
 ::: alumni-name
-[Megan Hintz](https://www.lummi-nsn.gov/Website.php?PageID=846)
+Megan Hintz
 :::
 ::::
 
@@ -494,7 +494,7 @@ Mackenzie Gavery
 
 :::: alumni-card
 ::: alumni-name
-[Emma Timmins-Schiffman](http://emmatimminsschiffman.weebly.com)
+Emma Timmins-Schiffman
 :::
 ::::
 
@@ -540,13 +540,13 @@ Noah Krebs
 
 :::: alumni-card
 ::: alumni-name
-[Henry Berg](https://henryberg03.github.io/notebook/)
+Henry Berg
 :::
 ::::
 
 :::: alumni-card
 ::: alumni-name
-[Eric Essington](https://Eric-Ess.github.io/notebook/)
+Eric Essington
 :::
 ::::
 
@@ -561,9 +561,6 @@ Dorothy Lartey
 Delaney Lawson (2022)
 :::
 
-::: alumni-links
-[proposal](https://docs.google.com/document/d/1eC47B3HlVMkbWwHj7mGXQNNOS2X0rbl6YhE2z1lLmR0/edit?usp=sharing){.alumni-link} [paper](https://docs.google.com/document/d/1yW3u7tCCBXVSf8YxZFtwRDIPVgnKMnvMCjVoaKXl7qw/edit?usp=sharing){.alumni-link} [presentation](https://drive.google.com/file/d/1xELKSJINDtCFiOOR4NQTJV7J6yU7a1dm/view?usp=sharing){.alumni-link}
-:::
 :::::
 
 :::: alumni-card
@@ -589,9 +586,6 @@ Alanna Greene (2019)
 Grace Crandall (2016)
 :::
 
-::: alumni-links
-[proposal](https://docs.google.com/document/d/1JfGHW-ou-9uNA5Ty8yz3eh2lTRMwnazGAGJQry16AOc/edit?usp=sharing){.alumni-link} [paper](https://docs.google.com/document/d/1y-tYILgL0CJXYl1REl67167CPA0nK3sP4WabVMaeOP0/edit?usp=sharing){.alumni-link} [slides](https://docs.google.com/presentation/d/1iOL7psop59XczsrTr-hOIKJuxNpCivmh3rIZjdIvuC0/edit?usp=sharing){.alumni-link} [presentation](https://drive.google.com/file/d/0B9V_gF766XZAUUg2dTV1a2RMNVk/view?usp=sharing){.alumni-link}
-:::
 :::::
 
 ::::: alumni-card
@@ -599,9 +593,6 @@ Grace Crandall (2016)
 Jonathan Allen UW (2016)
 :::
 
-::: alumni-links
-[proposal](https://docs.google.com/document/d/1Nde23goE2X2Vv9Cidrc02dmYxw5_RZjb9cHNjR4Q8N4/edit?usp=sharing){.alumni-link} [paper](https://docs.google.com/document/d/1w5mecAsBgYUB-ZdbeTpg0TGzXOHr_ZoxaJl_r7y3cac/edit?usp=sharing){.alumni-link} [slides](https://drive.google.com/file/d/0B9V_gF766XZAU2tDSjQ2UWpxZ0E/view?usp=sharing){.alumni-link} [presentation](https://drive.google.com/file/d/0B9V_gF766XZAY01LSnJ3UU8yMWs/view?usp=sharing){.alumni-link} [notebook](http://jda26.blogspot.com/){.alumni-link}
-:::
 :::::
 
 ::::: alumni-card
@@ -609,9 +600,6 @@ Jonathan Allen UW (2016)
 Mrunmayee Manohar Shete (2015)
 :::
 
-::: alumni-links
-[notebook](http://onsnetwork.org/mrunmayee/page/3/){.alumni-link}
-:::
 :::::
 
 :::: alumni-card
@@ -631,9 +619,6 @@ Joelle Blaise UW SAFS (2014)
 Hannah Wear UW SAFS (2013-2014)
 :::
 
-::: alumni-links
-[proposal](https://docs.google.com/document/d/1mW8bMd3AWPGF9euY1Ck6h4MQ_TOZLBXnJyeQc6wKd2Q/edit){.alumni-link} [paper](https://docs.google.com/document/d/1w-AcodhwPoMyW96W9Oik81lbZJZqaQ5cLjl46l9sW7Y/pub){.alumni-link} [poster](http://figshare.com/articles/Differential_Gene_Expression_in_the_Male_and_Female_Olympia_Oyster/1019944){.alumni-link}
-:::
 :::::
 
 ::::: alumni-card
@@ -641,9 +626,6 @@ Hannah Wear UW SAFS (2013-2014)
 Charles Duber UW SAFS (2013-2014)
 :::
 
-::: alumni-links
-[proposal](https://docs.google.com/document/d/1ghXmH85LJlohpopaWs9jD8Lw1VcN4ZVMjUbzpV28R-0/edit){.alumni-link} [paper](https://docs.google.com/document/d/1MOC9FTrbURgqKs1_sA-c6mda0S9-4Gs1xi-jm4wphjg/pub){.alumni-link} [slides](https://docs.google.com/presentation/d/1IhEipEdYuHja7EIruawfrdxeRbO5xqqs6Us6wubeqsI/pub?start=false&loop=false&delayms=3000){.alumni-link}
-:::
 :::::
 
 ::::: alumni-card
@@ -651,9 +633,6 @@ Charles Duber UW SAFS (2013-2014)
 Jessica Blanchette UW SAFS (2013-2014)
 :::
 
-::: alumni-links
-[proposal](https://docs.google.com/document/d/12TBVhJFzyUVG3ZkHLFtQIqDR3rFMDxgIVLkVL2Upqj0/edit){.alumni-link} [paper](https://docs.google.com/document/d/12nb-nepY0VGAjGzpQO4Ni20yLjssj-rP0Ohrv7q8LQc/pub){.alumni-link} [slides](https://www.dropbox.com/s/w9at6mhduthozih/Blanchette%20Capstone.pptx){.alumni-link}
-:::
 :::::
 
 ::::: alumni-card
@@ -661,9 +640,6 @@ Jessica Blanchette UW SAFS (2013-2014)
 Bradley Chi; UW SAFS
 :::
 
-::: alumni-links
-[proposal](https://docs.google.com/document/d/1hq9m-_T5E9O0NiWx9uIPHOF3npCFOk6wAEWGZoaT5AM/edit){.alumni-link} [paper](https://docs.google.com/document/d/1rew1-36rDWzbCcekr1CF_QVf0mtv91XPI_Qp2q1BDbE/edit){.alumni-link} [slides](https://docs.google.com/file/d/0B9V_gF766XZAZDhCLUF5ZUdFUnc/edit?usp=sharing){.alumni-link}
-:::
 :::::
 
 ::::: alumni-card
@@ -671,9 +647,6 @@ Bradley Chi; UW SAFS
 Paul Ehlen; UW FISH499
 :::
 
-::: alumni-links
-[blog](http://aquariumanimals.blogspot.com/){.alumni-link} [slides](https://docs.google.com/open?id=0B9V_gF766XZAUzBlNllDRTM4WGM){.alumni-link}
-:::
 :::::
 
 ::::: alumni-card
@@ -681,9 +654,6 @@ Paul Ehlen; UW FISH499
 Harry Podschwit; UW
 :::
 
-::: alumni-links
-[notebook](http://genefish.wikispaces.com/Harry%27s+Notebook){.alumni-link}
-:::
 :::::
 
 ::::: alumni-card
@@ -691,9 +661,6 @@ Harry Podschwit; UW
 Derek Brady; UW SAFS
 :::
 
-::: alumni-links
-[proposal](https://docs.google.com/document/d/1zD-Gceo9ub5Zv7XpQbxsQAum-d5LSQCmhHfFCYLYP14/edit){.alumni-link} [paper](https://docs.google.com/open?id=0B9V_gF766XZAb1VxQXdwYmFNLTg){.alumni-link} [slides](https://docs.google.com/open?id=0B9V_gF766XZANzJmMDJZZ3hMeEU){.alumni-link}
-:::
 :::::
 
 ::::: alumni-card
@@ -701,9 +668,6 @@ Derek Brady; UW SAFS
 Manel Khan; UW
 :::
 
-::: alumni-links
-[notebook](http://genefish.wikispaces.com/Manel%27s+Notebook){.alumni-link}
-:::
 :::::
 
 ::::: alumni-card
@@ -711,9 +675,6 @@ Manel Khan; UW
 David Berman; UW SAFS
 :::
 
-::: alumni-links
-[proposal](https://docs.google.com/document/d/1cFsCreduzHzd7_XG5a7RtKht348iKsYY2610Q7xwQeY/edit?hl=en_US){.alumni-link} [paper](https://docs.google.com/viewer?a=v&pid=explorer&chrome=true&srcid=0B9V_gF766XZAZTI2ODhjZTktMzY5YS00NDVjLWJjZjAtMDg4N2ZmNzEzMzYx&hl=en_US){.alumni-link}
-:::
 :::::
 
 ::::: alumni-card
@@ -721,9 +682,6 @@ David Berman; UW SAFS
 Herschel Cox; UW SAFS
 :::
 
-::: alumni-links
-[proposal](https://docs.google.com/document/d/1iLAwBE2EBujM3XV2XpttLi5E-AEvDqRNzEyiV1-0ahs/edit?hl=en_US&authkey=CIGWj-oI){.alumni-link} [paper](https://docs.google.com/document/pub?id=1eOJy6-sUb7R-ktkSUO8HEArycdIgYJwbu7VEhShwaEQ){.alumni-link}
-:::
 :::::
 
 ::::: alumni-card
@@ -731,9 +689,6 @@ Herschel Cox; UW SAFS
 Lexie Miller; UW FISH499
 :::
 
-::: alumni-links
-[paper](https://docs.google.com/document/d/1IWcLj4kY8SS8YzWv88rLL3UoGR9Ut56OdhMjZNl5ZY4/edit?hl=en_US&authkey=CLDm7fcK){.alumni-link}
-:::
 :::::
 
 ::::: alumni-card
@@ -741,9 +696,6 @@ Lexie Miller; UW FISH499
 Jason Tayag; UW SAFS
 :::
 
-::: alumni-links
-[proposal](https://docs.google.com/document/pub?id=1GH8AXrQeZZeCxgvmjUCkKW0nbqvF3tC973hdEYWu2ug){.alumni-link} [paper](https://docs.google.com/viewer?a=v&pid=explorer&chrome=true&srcid=0B9V_gF766XZAMzg3M2Q3YjgtYzIwMS00OTkxLWIzZmUtYjBiZGI2MjNkZTA4&hl=en_US&authkey=CJb76KAO){.alumni-link} [slides](https://docs.google.com/present/view?id=d8jfhsm_210fb2pj9cx){.alumni-link}
-:::
 :::::
 
 ::::: alumni-card
@@ -751,9 +703,6 @@ Jason Tayag; UW SAFS
 Sonia Albin; UW SAFS
 :::
 
-::: alumni-links
-[proposal](https://docs.google.com/document/edit?id=1J7WVCOw3nY9P7IiayxZMddKCz3Q-KLDWRz401Sis5Ks&hl=en&authkey=CMfHsNAB){.alumni-link} [paper](https://docs.google.com/document/pub?id=1_sk7EAxLQ_b2R_UwRbCLNGQgXAwwfamJUXupNQ_sn7g){.alumni-link} [slides](https://docs.google.com/present/view?id=d8jfhsm_216fxq28xgw){.alumni-link}
-:::
 :::::
 
 ::::: alumni-card
@@ -761,9 +710,6 @@ Sonia Albin; UW SAFS
 Zac Halls; UW
 :::
 
-::: alumni-links
-[notebook](http://genefish.wikispaces.com/Zac%27s+Notebook){.alumni-link}
-:::
 :::::
 
 ::::: alumni-card
@@ -771,9 +717,6 @@ Zac Halls; UW
 Amanda Davis FISH499; UW
 :::
 
-::: alumni-links
-[paper](http://www.scribd.com/full/37618467?access_key=key-251611lagenz1l3rqq40){.alumni-link}
-:::
 :::::
 
 ::::: alumni-card
@@ -781,9 +724,6 @@ Amanda Davis FISH499; UW
 Christina Miller FISH498; UW
 :::
 
-::: alumni-links
-[notebook](http://genefish.wikispaces.com/Christina's+Notebook){.alumni-link}
-:::
 :::::
 
 ::::: alumni-card
@@ -791,9 +731,6 @@ Christina Miller FISH498; UW
 Rony Thi; UW
 :::
 
-::: alumni-links
-[notebook](http://genefish.wikispaces.com/Rony's+Notebook){.alumni-link}
-:::
 :::::
 
 ::::: alumni-card
@@ -801,9 +738,6 @@ Rony Thi; UW
 Anna Fabrizio; UW SAFS
 :::
 
-::: alumni-links
-[proposal](https://docs.google.com/Doc?docid=0AdV_gF766XZAZDhqZmhzbV83MWc3bWJmN2hm&hl=en){.alumni-link} [paper](http://www.scribd.com/doc/30310424/Fabrizio-Capstone-Paper){.alumni-link} [presentation](http://www.slideshare.net/sr320/fabriziocapstone){.alumni-link}
-:::
 :::::
 
 ::::: alumni-card
@@ -811,9 +745,6 @@ Anna Fabrizio; UW SAFS
 Kevin Jeong; UW FISH499
 :::
 
-::: alumni-links
-[notebook](http://genefish.wikispaces.com/Kevin%27s+Notebook){.alumni-link}
-:::
 :::::
 
 ::::: alumni-card
@@ -821,9 +752,6 @@ Kevin Jeong; UW FISH499
 Rachel Thompson; UW SAFS
 :::
 
-::: alumni-links
-[proposal](http://docs.google.com/View?id=ddvm3dkk_17hmq79cdj){.alumni-link} [paper](http://www.scribd.com/doc/17500152/Thompson-FISH495){.alumni-link} [slides](http://genefish.tumblr.com/post/110480608/thompson-mgpresentation){.alumni-link}
-:::
 :::::
 
 ::::: alumni-card
@@ -831,9 +759,6 @@ Rachel Thompson; UW SAFS
 Leslie Jensen; UW SAFS
 :::
 
-::: alumni-links
-[proposal](http://docs.google.com/View?id=dd9dtbfp_18f7z3fwfk){.alumni-link} [paper](http://www.scribd.com/doc/16720662/JensenFISH495-Salmon-Senescence){.alumni-link} [slides](http://genefish.tumblr.com/post/121895110){.alumni-link} [video](http://genefish.fish.washington.edu/~srlab/leslie/Jensen_FISH495.mov){.alumni-link}
-:::
 :::::
 
 ::::: alumni-card
@@ -841,9 +766,6 @@ Leslie Jensen; UW SAFS
 Christin McLemore; UW SAFS
 :::
 
-::: alumni-links
-[proposal](http://docs.google.com/View?id=dc3vdp2t_33gwhs7fvf){.alumni-link} [paper](http://genefish.tumblr.com/post/121274612){.alumni-link} [slides](http://genefish.tumblr.com/post/145385676){.alumni-link} [video](http://genefish.fish.washington.edu/~srlab/christin/McLemore_FISH495.mov){.alumni-link}
-:::
 :::::
 
 ::::: alumni-card
@@ -851,9 +773,6 @@ Christin McLemore; UW SAFS
 Tatyana Marushchak; UW Chemistry
 :::
 
-::: alumni-links
-[project](http://fish.washington.edu/research/genefish/robertslab/tubiashii.html){.alumni-link}
-:::
 :::::
 
 ::::: alumni-card
@@ -861,9 +780,6 @@ Tatyana Marushchak; UW Chemistry
 Stephannie Spurr; UW SAFS
 :::
 
-::: alumni-links
-[paper](http://genefish.tumblr.com/post/30459926){.alumni-link} [499](http://docs.google.com/Doc?id=d8jfhsm_4784445qd8c9){.alumni-link}
-:::
 :::::
 
 ::::: alumni-card
@@ -871,9 +787,6 @@ Stephannie Spurr; UW SAFS
 Katie Fulkerson; UW SAFS
 :::
 
-::: alumni-links
-[proposal](http://docs.google.com/Doc?id=d8jfhsm_4633gx5t74dz){.alumni-link} [paper](http://genefish.tumblr.com/post/46071160/a-re-issue-of-the-fulkerson-paper){.alumni-link} [presentation](http://genefish.tumblr.com/post/37302979/katie-did-a-great-job-on-her-final-presentation){.alumni-link}
-:::
 :::::
 
 ::::: alumni-card
@@ -881,9 +794,6 @@ Katie Fulkerson; UW SAFS
 Cullen Taplin; UW SAFS
 :::
 
-::: alumni-links
-[proposal](http://docs.google.com/Doc?id=d8jfhsm_4678hnjm2xqd){.alumni-link} [paper](http://genefish.tumblr.com/post/38058339){.alumni-link} [presentation](http://genefish.tumblr.com/post/37395046/and-finally-we-have-the-much-anticipated){.alumni-link}
-:::
 :::::
 
 ::::: alumni-card
@@ -891,9 +801,6 @@ Cullen Taplin; UW SAFS
 Juliann Clark; UW
 :::
 
-::: alumni-links
-[project](http://docs.google.com/View?docid=dcjg74wq_5c5fwzk){.alumni-link}
-:::
 :::::
 
 ::::: alumni-card
@@ -901,9 +808,6 @@ Juliann Clark; UW
 Tushara Saint Vitus; UW SAFS
 :::
 
-::: alumni-links
-[project](http://docs.google.com/Presentation?id=d8jfhsm_4619g9fk82hs){.alumni-link}
-:::
 :::::
 
 ::::: alumni-card
@@ -911,9 +815,6 @@ Tushara Saint Vitus; UW SAFS
 Lindsay Braun; Santa Clara University
 :::
 
-::: alumni-links
-[project](http://fish.washington.edu/research/genefish/media/abalone_poster.gif){.alumni-link}
-:::
 :::::
 
 ::::: alumni-card
@@ -921,9 +822,6 @@ Lindsay Braun; Santa Clara University
 Mairead Bermingham; N Univ of Ireland, Cork
 :::
 
-::: alumni-links
-[project](http://www.mbl.edu/gsm/abstracts06/abstract_bermingham.html){.alumni-link}
-:::
 :::::
 
 ::::: alumni-card
@@ -931,9 +829,6 @@ Mairead Bermingham; N Univ of Ireland, Cork
 Zachary Schiller; Tufts University
 :::
 
-::: alumni-links
-[project](http://fish.washington.edu/research/genefish/reprints/Schiller06.pdf){.alumni-link}
-:::
 :::::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
