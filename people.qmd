@@ -348,31 +348,7 @@ I am a Research Scientist at the University of Washington studying the effects o
 ::::::::::::: alumni-grid
 :::: alumni-card
 ::: alumni-name
-Madeline Baird
-:::
-::::
-
-:::: alumni-card
-::: alumni-name
-Genevieve Buchanan
-:::
-::::
-
-:::: alumni-card
-::: alumni-name
 Noah Ozguner
-:::
-::::
-
-:::: alumni-card
-::: alumni-name
-Noah Krebs
-:::
-::::
-
-:::: alumni-card
-::: alumni-name
-[Henry Berg](https://henryberg03.github.io/notebook/)
 :::
 ::::
 :::::::::::::
@@ -544,6 +520,30 @@ Dave Metzger
 ## Undergraduate Alumni
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: alumni-grid
+:::: alumni-card
+::: alumni-name
+Madeline Baird
+:::
+::::
+
+:::: alumni-card
+::: alumni-name
+Genevieve Buchanan
+:::
+::::
+
+:::: alumni-card
+::: alumni-name
+Noah Krebs
+:::
+::::
+
+:::: alumni-card
+::: alumni-name
+[Henry Berg](https://henryberg03.github.io/notebook/)
+:::
+::::
+
 :::: alumni-card
 ::: alumni-name
 [Eric Essington](https://Eric-Ess.github.io/notebook/)
