@@ -1,0 +1,54 @@
+---
+title: "Intertidal Innovators: Art + Science Collaboration Brings the Shoreline to Life"
+description: "EarthLab Innovation Grant–funded program connects high school students with Seattle's nearshore ecosystems through creative expression"
+author:
+  - name: Steven Roberts
+    url: https://sr320.github.io/
+    orcid: 0000-0001-8302-1138
+    affiliation: Professor, UW - School of Aquatic and Fishery Sciences
+    affiliation-url: https://robertslab.info
+date: 01-15-2025
+categories: [education, earthlab, intertidal] # self-defined categories
+image: http://gannet.fish.washington.edu/seashell/snaps/Monosnap_The_Golden_Hour_-_a_geolocated_audio_walk_by_Intertidal_Innovators_on_ECHOES_2024-08-19_12-50-25.png # finding a good image
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+
+format:
+  html:
+    code-fold: true
+    code-tools: true
+    code-copy: true
+    highlight-style: github
+    code-overflow: wrap
+---
+
+From April 2023 to March 2025, a team lead by Chris Mantegna piloted Intertidal Innovators, an EarthLab Innovation Grant–funded program that blended art and science to connect local high school students with Seattle's nearshore ecosystems. The program invited 11 students into a five-week internship where they explored foundational intertidal science concepts and translated their learning into creative expression.
+
+## Building Connections Through Art and Science
+
+Working in small groups, students wrote, directed, photographed, and edited a geo-located guided walk through Golden Gardens Park, designed to reveal what remains hidden at high tide. Their final piece, The Golden Hour, is now publicly available on the <a href="https://explore.echoes.xyz/">Echoes app</a> for anyone to experience—on-site or remotely.
+
+To celebrate the culmination of the program, students led family and community members on their guided walk at Golden Gardens. This showcase not only highlighted their new knowledge but also allowed them to teach their families about the shoreline environment, reinforcing connections across generations.
+
+Alongside the student projects, the team developed a flexible art + science curriculum, including community-building activities, photography and sound recording methods, and editing techniques. This content has already been shared at national conferences, sparking dialogue on how to integrate creativity and environmental learning.
+
+## Lasting Impact on Students and Community
+
+The program's impact can be seen in three ways:
+
+- **Student empowerment** – Students gained literacy and comfort in their local environment, transforming initial unfamiliarity into curiosity and pride.
+- **Community engagement** – Families participated enthusiastically in the showcase, with students confidently leading and teaching.
+- **Interdisciplinary learning** – The program demonstrated how art can deepen science learning and strengthen environmental connection.
+
+Feedback from both students and families revealed a surprising outcome: parents expressed interest in participating alongside their children. Future iterations will explore opportunities to involve families more directly.
+
+## What We Learned
+
+EarthLab's support made this interdisciplinary experiment possible. We learned how to foster curiosity in high school students outside of traditional grading systems, how to effectively blend art and science as teaching tools, and how to build trust and community in creative learning spaces.
+
+For future rounds, we plan to lengthen the program, weave art and science even more tightly together, and expand opportunities for community members to take part. Continued mentorship with Garfield High School students is already underway, with plans to build on their intertidal research and experiential learning credits in spring 2025.
+
+## Looking Ahead
+
+Deliverables from Intertidal Innovators will continue to grow. In addition to the Echoes guided walk, an ArcGIS StoryMap and a complete open-source curriculum will be available by early 2026, along with a media library of student-created photos, videos, and recordings.
+
+We are grateful to EarthLab for supporting this innovative project, and to our collaborators—UW School of Aquatic and Fishery Sciences, UW DXARTS, Black in Marine Science, and Sea Potential—for making this work possible. Together, we've shown how art and science can inspire the next generation of environmental stewards.
