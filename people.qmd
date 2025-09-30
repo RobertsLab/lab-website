@@ -345,13 +345,13 @@ I am a Research Scientist at the University of Washington studying the effects o
 
 # Undergraduate Students {.section-header}
 
-::::::::::::: alumni-grid
+::::: alumni-grid
 :::: alumni-card
 ::: alumni-name
 Noah Ozguner
 :::
 ::::
-:::::::::::::
+:::::
 
 # Alumni {.section-header}
 
@@ -519,7 +519,7 @@ Dave Metzger
 
 ## Undergraduate Alumni
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: alumni-grid
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: alumni-grid
 :::: alumni-card
 ::: alumni-name
 Madeline Baird
@@ -935,7 +935,7 @@ Zachary Schiller; Tufts University
 [project](http://fish.washington.edu/research/genefish/reprints/Schiller06.pdf){.alumni-link}
 :::
 :::::
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Visiting Scientists
 
