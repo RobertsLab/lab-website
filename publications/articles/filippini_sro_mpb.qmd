@@ -1,0 +1,26 @@
+---
+title: "Transgenerational plasticity responses of larvae of Sydney rock oysters, Saccostrea glomerata, to ocean warming"
+type: "article"
+author: "G. Filippini, Pauline Ross, W.A. O'Connor, S. Roberts, V. Thiyagarajan, C. Luger, L.M. Parker"
+year: ""
+publication: "Marine Pollution Bulletin"
+preprint: ""
+doi: ""
+materials: ""
+eprint: ""
+toc: FALSE
+categories:
+  - oyster
+  - transgenerational plasticity
+  - ocean warming
+  - Sydney rock oyster
+  - Saccostrea
+---
+
+## Citation
+
+> G. Filippini, Pauline Ross, W.A. O'Connor, S. Roberts, V. Thiyagarajan, C. Luger, L.M. Parker. Transgenerational plasticity responses of larvae of Sydney rock oysters, Saccostrea glomerata, to ocean warming. *Marine Pollution Bulletin*.
+
+## Abstract
+
+Across the globe, marine organisms need to rapidly respond to climate change. Acclimation through the mechanism of transgenerational plasticity (TGP) is now at the forefront of research, providing hope that some marine organisms may persist into the future. To date, however, because most studies have focussed on the average phenotypic species response to climate change, we do not know whether phenotypic responses vary among genotypes. Here, we take a next critical step in TGP research to assess whether TGP responses to ocean acidification (OA) differ among genotypes of the culturally significant and iconic Sydney Rock Oyster (SRO), Saccostrea glomerata. Adults of four genetically distinct families of the SRO were exposed to ambient (410 µatm) and elevated (1000&nbsp;µatm) pCO2 for 9 weeks during reproductive conditioning. Following this exposure, we performed a within family cross of each family and measured the percentage development, abnormality, shell length and respiration rate of D-veliger larvae after 48 hours in the same ambient and elevated pCO2 treatments. We found significant variability in TGP responses among families to elevated pCO2, with positive, negative, and neutral responses in larval offspring. How well we understand the adaptive potential of oysters and their capacity to mount fast responses through TGP to climate change will determine our ability to ensure the sustainability of SRO populations, marine food security and the cultural heritage of this iconic species. Combined approaches quantifying both genetic and non-genetic TGP responses are needed to determine the total adaptive potential of other marine organisms to climate change.
