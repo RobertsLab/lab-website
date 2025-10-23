@@ -13,6 +13,7 @@ categories:
   - oyster
   - transgenerational plasticity
   - ocean warming
+  - ocean acidification
   - Sydney rock oyster
   - Saccostrea
 ---
