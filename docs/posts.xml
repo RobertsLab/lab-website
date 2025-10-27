@@ -10,7 +10,97 @@
 <atom:link href="https://faculty.washington.edu/sr320/posts.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.7.32</generator>
-<lastBuildDate>Fri, 26 Sep 2025 07:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 27 Oct 2025 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Earliest Map of Oyster Germline Development Unlocks Pathway Toward Sterile Aquaculture</title>
+  <dc:creator>Steven Roberts</dc:creator>
+  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-pgc/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<p>We are excited to share a new study led jointly by <strong>Dr.&nbsp;Mackenzie Gavery (NOAA Northwest Fisheries Science Center)</strong> and <strong>Dr.&nbsp;Lauren Vandepas (UW School of Aquatic and Fishery Sciences)</strong>, who served as co–first authors on a major advance in marine developmental biology and applied aquaculture biotechnology.</p>
+<p>The paper — <em>“Primordial germ cell specification and early developmental cell states in Pacific oyster”</em> — provides the <strong>earliest single-cell RNA-seq atlas ever produced from a bivalve embryo</strong>, capturing the transition from cleavage to gastrulation and revealing when and how primordial germ cells (PGCs) are formed in the Pacific oyster.</p>
+<p><br>
+📄 <a href="https://doi.org/10.1186/s12864-025-12122-7">Read the open-access paper here</a><br>
+<em>Citation: Gavery, M.R.†, Vandepas, L.E.†, et al.&nbsp;(2025). BMC Genomics 26:951.</em></p>
+<hr>
+<section id="why-germ-cells-matter-for-aquaculture" class="level2">
+<h2 class="anchored" data-anchor-id="why-germ-cells-matter-for-aquaculture">Why Germ Cells Matter for Aquaculture</h2>
+<p>Germ cells give rise to gametes (eggs and sperm) and are the cellular “gatekeepers” of reproduction. For marine aquaculture, the ability to <strong>reliably produce sterile animals</strong> is essential for:</p>
+<ul>
+<li>Preventing genetic introgression of hatchery lines into wild populations</li>
+<li>Minimizing ecological risk of non-native stock</li>
+<li>Improving meat quality and energy allocation in culture</li>
+<li>Increasing thermal and stress resilience during grow-out</li>
+</ul>
+<p>Triploidy has been the only scalable sterility tool used in oysters to date, but its performance declines under environmental stress. This work opens the door to <strong>next-generation sterility strategies</strong> based on targeted disruption of germ cell formation — an approach already used successfully in some finfish species.</p>
+<hr>
+</section>
+<section id="what-the-team-discovered" class="level2">
+<h2 class="anchored" data-anchor-id="what-the-team-discovered">What the Team Discovered</h2>
+<p>Using droplet-based single-cell transcriptomics, the team tracked more than 29,000 embryonic cells across the earliest developmental stages. Dr.&nbsp;Gavery and Dr.&nbsp;Vandepas identified:</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 62%">
+<col style="width: 37%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Developmental Stage</th>
+<th>Key Finding</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Cleavage + Blastula</strong></td>
+<td>Germline markers like <em>vasa</em> present but broadly distributed</td>
+</tr>
+<tr class="even">
+<td><strong>Gastrula</strong></td>
+<td>PGCs segregate into a <strong>single transcriptionally distinct cluster</strong></td>
+</tr>
+<tr class="odd">
+<td><strong>Marker Signature</strong></td>
+<td>Novel oyster-specific PGC genes identified, including <em>spPHI</em> and LOC105328839</td>
+</tr>
+</tbody>
+</table>
+<p>Importantly, the study not only confirmed known germline markers (<em>vasa</em>, <em>nanos</em>) but uncovered <strong>new PGC-associated genes unique to bivalves</strong> — now high-value candidates for future sterility research.</p>
+<hr>
+</section>
+<section id="gene-atlas" class="level2">
+<h2 class="anchored" data-anchor-id="gene-atlas">Gene Atlas</h2>
+<p>Their work bridges NOAA’s applied aquaculture mission and UW’s expertise in molluscan developmental genomics, resulting in the <strong>first single-cell molecular map of oyster development prior to the trochophore stage</strong> — a foundational resource for both aquaculture innovation and evolutionary developmental biology.</p>
+<p><img src="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Image_2025-10-27_10-04-24.png" class="img-fluid"></p>
+<blockquote class="blockquote">
+<p>Single-cell transcriptional heterogeneity of early&nbsp;<em>C. gigas</em>&nbsp;embryos increases with developmental time. (<strong>A</strong>) Sampling design: cleavage-stage embryos were pooled into a single sample representing all cleavage stages. A sample of blastula-stage embryos were collected and sequenced in a separate library to allow the identification of the developmentally oldest cells in the pool. Gastrula-stage embryos sampled at 10 hpf for reference. (<strong>B</strong>) UMAP visualization of single-cell clustering of the cleavage (pre-blastula) + blastula stage (cb) that revealed 10 putative clusters. (<strong>C</strong>) UMAP visualization of single-cell clustering of the gastrula stage. Twenty-seven putative clusters representing broad cell types were resolved using UMAP clustering analysis (Cil, ciliated cells; Circ, circulatory system-related; Mes, undefined mesodermal derivatives; Mus, muscle-related; Neu, neuronal; PGC, primordial germ cell; SF, shell field; Un, undefined)</p>
+</blockquote>
+<hr>
+</section>
+<section id="what-comes-next" class="level2">
+<h2 class="anchored" data-anchor-id="what-comes-next">What Comes Next</h2>
+<p>This atlas now enables targeted functional studies of early germline pathways — the next step toward <strong>non-triploid sterility methods for sustainable shellfish aquaculture</strong>. The open-access dataset will also support comparative evo-devo research across molluscs and other invertebrates.</p>
+<hr>
+<p><em>Source: Gavery, M.R., Vandepas, L.E., Saunders, L.M., Vadopalas, B., Luckenbach, J.A., Trapnell, C., &amp; Roberts, S.B. (2025). <a href="https://doi.org/10.1186/s12864-025-12122-7">Primordial germ cell specification and early developmental cell states in Pacific oyster.</a> BMC Genomics 26:951.</em></p>
+
+
+<!-- -->
+
+</section>
+
+ ]]></description>
+  <category>oyster</category>
+  <category>aquaculture</category>
+  <category>primordial germ cell</category>
+  <category>scRNAseq</category>
+  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-pgc/</guid>
+  <pubDate>Mon, 27 Oct 2025 07:00:00 GMT</pubDate>
+  <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Image_2025-10-27_10-07-36.png" medium="image" type="image/png"/>
+</item>
 <item>
   <title>Intertidal Innovators: Art + Science Collaboration Brings the Shoreline to Life</title>
   <dc:creator>Steven Roberts</dc:creator>
@@ -419,7 +509,7 @@
 <item>
   <title>Environmental Priming in Practice</title>
   <dc:creator>Steven Roberts</dc:creator>
-  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-lewis-smith/</link>
+  <link>https://faculty.washington.edu/sr320/posts/sr320-lewis-smith/</link>
   <description><![CDATA[ 
 
 
@@ -441,7 +531,7 @@
  ]]></description>
   <category>aquaculture</category>
   <category>stress</category>
-  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-lewis-smith/</guid>
+  <guid>https://faculty.washington.edu/sr320/posts/sr320-lewis-smith/</guid>
   <pubDate>Wed, 07 May 2025 07:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/2025-05-07_11-42-09.png" medium="image" type="image/png"/>
 </item>
@@ -1077,46 +1167,6 @@
   <guid>https://faculty.washington.edu/sr320/posts/sr320-lsamp/</guid>
   <pubDate>Thu, 22 Aug 2024 07:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/2024-08-21_11-42-08.png" medium="image" type="image/png"/>
-</item>
-<item>
-  <title>Intertidal Innovators</title>
-  <link>https://faculty.washington.edu/sr320/posts/sr320-intertidal/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-
-<p><img src="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_IMG_1373.png_2024-08-19_12-59-21.png" class="img-fluid"></p>
-<p>On August 16, participants in the Intertidal Innovators program presented their work to the community. The program, which was a collaboration sponsored by the UW Earthlab program, provided students with the opportunity to learn about marine science and conservation through art.</p>
-<p><img src="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Monosnap_2024-08-19_13-09-47.png" class="img-fluid"></p>
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Quote
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>This program has lasted for 10 days, but during those days we have learned and worked very hard to give you this project. And we are proud to say that there are a bunch of hard working members in our program that have learned new skills and have gained knowledge in this program So in this journey, you will learn a lot about our work and marine life.</p>
-</div>
-</div>
-<p>At the community showcase, students guide small groups around the intertidal, sharing their art with tablets and speakers. It was a great experience that showcased videos, poems, live demonostrations, and stories. Anyone can checkout their guided tour at Golden Garden Park via the echoes app - <a href="https://explore.echoes.xyz/collections/jJtrYdYIdtZ8eCpC" class="uri">https://explore.echoes.xyz/collections/jJtrYdYIdtZ8eCpC</a></p>
-<p>Below is a video that takes you behind the scenes on the 10-day experience students participated in.</p>
-<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/PsVyUPzu2_A" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-
-
-<!-- -->
-
-
- ]]></description>
-  <category>education</category>
-  <guid>https://faculty.washington.edu/sr320/posts/sr320-intertidal/</guid>
-  <pubDate>Mon, 19 Aug 2024 07:00:00 GMT</pubDate>
-  <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_The_Golden_Hour_-_a_geolocated_audio_walk_by_Intertidal_Innovators_on_ECHOES_2024-08-19_12-50-25.png" medium="image" type="image/png"/>
 </item>
 </channel>
 </rss>

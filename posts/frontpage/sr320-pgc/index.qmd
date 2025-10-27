@@ -1,0 +1,77 @@
+---
+title: "Earliest Map of Oyster Germline Development Unlocks Pathway Toward Sterile Aquaculture"
+description: "New Publication"
+author:
+  - name: Steven Roberts
+    url: https://sr320.github.io/
+    orcid: 0000-0001-8302-1138
+    affiliation: Professor, UW - School of Aquatic and Fishery Sciences
+    affiliation-url: https://robertslab.info
+date: 10-27-2025
+categories: [oyster, aquaculture, primordial germ cell, scRNAseq] # self-defined categories
+image: http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Image_2025-10-27_10-07-36.png # finding a good image
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+
+format:
+  html:
+    code-fold: true
+    code-tools: true
+    code-copy: true
+    highlight-style: github
+    code-overflow: wrap
+---
+
+We are excited to share a new study led jointly by **Dr. Mackenzie Gavery (NOAA Northwest Fisheries Science Center)** and **Dr. Lauren Vandepas (UW School of Aquatic and Fishery Sciences)**, who served as co–first authors on a major advance in marine developmental biology and applied aquaculture biotechnology.
+
+The paper — *“Primordial germ cell specification and early developmental cell states in Pacific oyster”* — provides the **earliest single-cell RNA-seq atlas ever produced from a bivalve embryo**, capturing the transition from cleavage to gastrulation and revealing when and how primordial germ cells (PGCs) are formed in the Pacific oyster.
+
+\
+📄 [Read the open-access paper here](https://doi.org/10.1186/s12864-025-12122-7)\
+*Citation: Gavery, M.R.†, Vandepas, L.E.†, et al. (2025). BMC Genomics 26:951.*
+
+------------------------------------------------------------------------
+
+## Why Germ Cells Matter for Aquaculture
+
+Germ cells give rise to gametes (eggs and sperm) and are the cellular “gatekeepers” of reproduction. For marine aquaculture, the ability to **reliably produce sterile animals** is essential for:
+
+-   Preventing genetic introgression of hatchery lines into wild populations
+-   Minimizing ecological risk of non-native stock
+-   Improving meat quality and energy allocation in culture
+-   Increasing thermal and stress resilience during grow-out
+
+Triploidy has been the only scalable sterility tool used in oysters to date, but its performance declines under environmental stress. This work opens the door to **next-generation sterility strategies** based on targeted disruption of germ cell formation — an approach already used successfully in some finfish species.
+
+------------------------------------------------------------------------
+
+## What the Team Discovered
+
+Using droplet-based single-cell transcriptomics, the team tracked more than 29,000 embryonic cells across the earliest developmental stages. Dr. Gavery and Dr. Vandepas identified:
+
+| Developmental Stage | Key Finding |
+|---------------------------------------------|---------------------------|
+| **Cleavage + Blastula** | Germline markers like *vasa* present but broadly distributed |
+| **Gastrula** | PGCs segregate into a **single transcriptionally distinct cluster** |
+| **Marker Signature** | Novel oyster-specific PGC genes identified, including *spPHI* and LOC105328839 |
+
+Importantly, the study not only confirmed known germline markers (*vasa*, *nanos*) but uncovered **new PGC-associated genes unique to bivalves** — now high-value candidates for future sterility research.
+
+------------------------------------------------------------------------
+
+## Gene Atlas
+
+Their work bridges NOAA’s applied aquaculture mission and UW’s expertise in molluscan developmental genomics, resulting in the **first single-cell molecular map of oyster development prior to the trochophore stage** — a foundational resource for both aquaculture innovation and evolutionary developmental biology.
+
+![](http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Image_2025-10-27_10-04-24.png)
+
+> Single-cell transcriptional heterogeneity of early *C. gigas* embryos increases with developmental time. (**A**) Sampling design: cleavage-stage embryos were pooled into a single sample representing all cleavage stages. A sample of blastula-stage embryos were collected and sequenced in a separate library to allow the identification of the developmentally oldest cells in the pool. Gastrula-stage embryos sampled at 10 hpf for reference. (**B**) UMAP visualization of single-cell clustering of the cleavage (pre-blastula) + blastula stage (cb) that revealed 10 putative clusters. (**C**) UMAP visualization of single-cell clustering of the gastrula stage. Twenty-seven putative clusters representing broad cell types were resolved using UMAP clustering analysis (Cil, ciliated cells; Circ, circulatory system-related; Mes, undefined mesodermal derivatives; Mus, muscle-related; Neu, neuronal; PGC, primordial germ cell; SF, shell field; Un, undefined)
+
+------------------------------------------------------------------------
+
+## What Comes Next
+
+This atlas now enables targeted functional studies of early germline pathways — the next step toward **non-triploid sterility methods for sustainable shellfish aquaculture**. The open-access dataset will also support comparative evo-devo research across molluscs and other invertebrates.
+
+------------------------------------------------------------------------
+
+*Source: Gavery, M.R., Vandepas, L.E., Saunders, L.M., Vadopalas, B., Luckenbach, J.A., Trapnell, C., & Roberts, S.B. (2025). [Primordial germ cell specification and early developmental cell states in Pacific oyster.](https://doi.org/10.1186/s12864-025-12122-7) BMC Genomics 26:951.*

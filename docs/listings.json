@@ -2,6 +2,7 @@
   {
     "listing": "/posts.html",
     "items": [
+      "/posts/frontpage/sr320-pgc/index.html",
       "/posts/frontpage/sr320-earthlab-intertidal/index.html",
       "/posts/frontpage/sr320-metab/index.html",
       "/posts/frontpage/sr320-sormi/index.html",
@@ -10,7 +11,7 @@
       "/posts/sr320-fellowships/index.html",
       "/posts/sr320-epimar/index.html",
       "/posts/sr320-baird/index.html",
-      "/posts/frontpage/sr320-lewis-smith/index.html",
+      "/posts/sr320-lewis-smith/index.html",
       "/posts/sr320-lncRNA-rep/index.html",
       "/posts/sr320-genomics/index.html",
       "/posts/sr320-cod2/index.html",
@@ -52,8 +53,10 @@
       "/publications/articles/andersen2025.html",
       "/publications/articles/venkataraman_2025.html",
       "/publications/articles/lewis-smith2025.html",
+      "/publications/articles/gavery2025.html",
       "/publications/articles/huffmyer2025.html",
       "/publications/articles/parker_2025.html",
+      "/publications/articles/filippini_sro_mpb.html",
       "/publications/articles/huffmyer2024.html",
       "/publications/articles/venkataraman2024.html",
       "/publications/articles/valenzuela2024.html",
@@ -160,8 +163,7 @@
       "/publications/articles/effects-of-nonindigenous-ictalurids-and-recreation_2000.html",
       "/publications/articles/isolation-through-cloning-of-fish-prostaglandin-en_2000.html",
       "/publications/articles/annual-reproductive-cycle-of-the-common-snook-endo_1999.html",
-      "/publications/articles/the-upregulation-of-messenger-ribonucleic-acids-du_1999.html",
-      "/publications/articles/filippini_sro_mpb.html"
+      "/publications/articles/the-upregulation-of-messenger-ribonucleic-acids-du_1999.html"
     ]
   },
   {
@@ -193,12 +195,12 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/frontpage/sr320-pgc/index.html",
       "/posts/frontpage/sr320-earthlab-intertidal/index.html",
       "/posts/frontpage/sr320-metab/index.html",
       "/posts/frontpage/sr320-sormi/index.html",
       "/posts/frontpage/sr320-sablefish/index.html",
-      "/posts/frontpage/sr320-capstone/index.html",
-      "/posts/frontpage/sr320-lewis-smith/index.html"
+      "/posts/frontpage/sr320-capstone/index.html"
     ]
   },
   {
