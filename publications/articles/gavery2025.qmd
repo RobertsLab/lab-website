@@ -1,0 +1,39 @@
+---
+title: "Primordial germ cell specification and early developmental cell states in Pacific oyster"
+type: "article"
+author: "Mackenzie R. Gavery, Lauren E. Vandepas, Lauren M. Saunders, Brent Vadopalas, J. Adam Luckenbach, Cole Trapnell & Steven Roberts "
+year: "2025"
+publication: "BMC Genomics"
+preprint: ""
+doi: "10.1186/s12864-025-12122-7"
+materials: ""
+eprint: "https://doi.org/10.1186/s12864-025-12122-7"
+toc: FALSE
+categories:
+  - germ cell
+  - oyster
+  - single-cell RNAseq
+  - aquaculture
+---
+
+## Citation
+
+> Gavery, M.R., Vandepas, L.E., Saunders, L.M. *et al.* Primordial germ cell specification and early developmental cell states in Pacific oyster. *BMC Genomics* **26**, 951 (2025). https://doi.org/10.1186/s12864-025-12122-7
+
+## Abstract
+
+### Background
+
+Primordial germ cells (PGCs) are the precursor cells of gametes and pivotal in understanding reproductive and developmental biology. Importantly, having a thorough understanding of PGC specification is leading to critical advances in sterility induction in aquaculture species. In shellfish, however, the ability to develop these approaches is hampered by the lack of information available regarding germ cell specification. The goal of this study was to identify genes uniquely expressed in these earliest germ cells of the economically and ecologically important bivalve mollusc, the Pacific oyster (*Crassostrea* (*Magallana*) *gigas*).
+
+### Results
+
+To capture specification of the PGCs - which represent a rare cell type - during embryonic development, we analyzed single-cell transcriptomes during cleavage, blastula, and gastrulation stages of *C. gigas* development. We identified cells in gastrulae that likely represent developing, distinct larval tissue types and organs, including muscles and shell gland, as well as undifferentiated cells. Using expression of the germ cell marker gene *vasa*, we identified cells in blastulae that likely represent the developing germ cell lineage that had yet to fully differentiate and segregate from somatic cell types. However, by the gastrula stage, *vasa* expression was limited primarily to a single cluster of cells. Other genes uniquely expressed in these *vasa*-positive cells include those with functions in transcriptional repression, chromatin architecture, and DNA repair, suggesting these cells represent oyster PGCs. Interestingly, some genes with no known homologies are also uniquely expressed in this cluster, perhaps representing novel PGC-associated genes in bivalves.
+
+### Conclusions
+
+We identified a suite of candidate genes that can be explored for their role in oyster PGC specification and advance efforts to develop methods to achieve reproductive sterility via germ cell disruption in cultured shellfish. In addition, this effort produced a transcriptional atlas of early developmental cell states in bivalve embryos, providing a wealth of information on genes contributing to other important developmental processes, such as tissue differentiation and shell production. These data represent the earliest developmental stages examined via single-cell RNA sequencing in a lophotrochozoan.
+
+## **Data availability**
+
+Sequence data that support the findings of this study have been deposited into the NCBI SRA database with the primary accession code PRJNA906172.
