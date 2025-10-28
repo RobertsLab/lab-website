@@ -29,6 +29,10 @@ The paper — *“Primordial germ cell specification and early developmental cel
 📄 [Read the open-access paper here](https://doi.org/10.1186/s12864-025-12122-7)\
 *Citation: Gavery, M.R.†, Vandepas, L.E.†, et al. (2025). BMC Genomics 26:951.*
 
+We also launched an [interactive data explorer](https://robertslab.github.io/pgc-edc-oyster/) so readers can explore the single-cell dataset in detail!
+
+![](http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Image_2025-10-27_18-06-09.png){width="1000"} *Screen shot of data explorer for single-cell RNA-seq atlas of early oyster development*
+
 ------------------------------------------------------------------------
 
 ## Why Germ Cells Matter for Aquaculture
