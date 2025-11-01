@@ -335,7 +335,18 @@ I am a Research Scientist at the University of Washington studying the effects o
 
 ::::: person-card
 :::: person-content
-## Lauren Vanderpaas {.person-name}
+## Lauren Vandepas {.person-name}
+
+::: person-bio
+*Information coming soon...*
+:::
+::::
+:::::
+
+
+::::: person-card
+:::: person-content
+## Shelly Wanamaker {.person-name}
 
 ::: person-bio
 *Information coming soon...*
@@ -345,10 +356,19 @@ I am a Research Scientist at the University of Washington studying the effects o
 
 # Undergraduate Students {.section-header}
 
-::::: alumni-grid
-:::: alumni-card
-::: alumni-name
+::::: person-grid
+:::: person-card
+::: person-name
 Noah Ozguner
+:::
+::::
+:::::
+
+
+::::: personi-grid
+:::: person-card
+::: person-name
+Sophie Lord
 :::
 ::::
 :::::
