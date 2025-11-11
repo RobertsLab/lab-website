@@ -25,11 +25,9 @@ format:
 
 ### 🌊 Introduction
 
-Ocean acidification (OA) poses one of the most pressing threats to marine calcifiers.\
-As CO₂ dissolves into seawater, pH declines and carbonate saturation drops — creating a chemical environment that makes it harder for larval shellfish to build and maintain shells. Early life stages, from embryos to D-veligers, are especially vulnerable.
+Ocean acidification (OA) poses one of the most pressing threats to marine calcifiers. As CO₂ dissolves into seawater, pH declines and carbonate saturation drops — creating a chemical environment that makes it harder for larval shellfish to build and maintain shells. Early life stages, from embryos to D-veligers, are especially vulnerable.
 
-A new paper by **Emma Timmins-Schiffman et al. (2025)** presents hopeful evidence that **maternal signaling**—the physiological messages passed from mothers to offspring—can help larvae weather these conditions.\
-The study, published in *Aquaculture*, demonstrates that **broodstock conditioning under low-pH conditions** can increase **larval survival** and **developmental success** under ocean acidification.
+A new paper by **Emma Timmins-Schiffman et al. (2025)** presents hopeful evidence that **maternal signaling**—the physiological messages passed from mothers to offspring—can help larvae weather these conditions. The study, published in *Aquaculture*, demonstrates that **broodstock conditioning under low-pH conditions** can increase **larval survival** and **developmental success** under ocean acidification.
 
 👉 [Read the paper here →](https://www.sciencedirect.com/science/article/pii/S0044848625012748?via%3Dihub)
 
