@@ -2,6 +2,7 @@
   {
     "listing": "/posts.html",
     "items": [
+      "/posts/frontpage/sr320-pink/index.html",
       "/posts/frontpage/sr320-pgc/index.html",
       "/posts/frontpage/sr320-earthlab-intertidal/index.html",
       "/posts/frontpage/sr320-metab/index.html",
@@ -195,6 +196,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/frontpage/sr320-pink/index.html",
       "/posts/frontpage/sr320-pgc/index.html",
       "/posts/frontpage/sr320-earthlab-intertidal/index.html",
       "/posts/frontpage/sr320-metab/index.html",

@@ -1,0 +1,72 @@
+---
+title: "From Blue to Pink"
+description: "How a Simple Dye is Revolutionizing Oyster Physiology Research"
+author:
+  - name: Steven Roberts
+    url: https://sr320.github.io/
+    orcid: 0000-0001-8302-1138
+    affiliation: Professor, UW - School of Aquatic and Fishery Sciences
+    affiliation-url: https://robertslab.info
+date: 11-11-2025
+categories: [oyster, aquaculture, resazurin] # self-defined categories
+image: http://gannet.fish.washington.edu/seashell/snaps/2025-11-11_05-14-47.png # finding a good image
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+
+format:
+  html:
+    code-fold: true
+    code-tools: true
+    code-copy: true
+    highlight-style: github
+    code-overflow: wrap
+---
+
+In a new preprint titled [*From Blue to Pink: Resazurin as a High-Throughput Proxy for Metabolic Rate in Oysters*](https://doi.org/10.1101/2025.11.06.686367), Ariana S. Huffmyer and colleagues demonstrate a powerful yet elegant way to measure how oysters breathe, grow, and cope with stress — by watching a color change.
+
+### **🌊 A New Colorful Window into Oyster Metabolism**
+
+Resazurin, a redox-sensitive dye used for decades in biomedical and microbial assays, shifts from **blue to pink** as it’s reduced by metabolic activity. Huffmyer et al. adapted this dye-based reaction — familiar to many cell biologists — to **whole oysters**, showing that fluorescence intensity closely tracks oxygen consumption and reflects metabolic performance at the organismal level .
+
+The team developed a standardized, scalable protocol using multi-well plates and fluorometric readings to quantify metabolic rate across hundreds of individuals at once. This makes it one of the first **high-throughput metabolic assays for live shellfish**, an enormous advance for aquaculture and climate resilience research.
+
+You can explore their detailed methods and ongoing assay development at the [Roberts Lab Resazurin Assay Development site](https://robertslab.github.io/resazurin-assay-development/).
+
+![](images/clipboard-3472715920.jpeg){width="100%"}
+
+------------------------------------------------------------------------
+
+### **🔥 Metabolism Under Pressure: What the Color Shift Reveals**
+
+By exposing oysters (*Crassostrea gigas* and *C. virginica*) to temperature gradients and acute heat shocks, the researchers observed predictable “thermal performance curves” — metabolism peaked near **36 °C** before declining sharply at higher temperatures. Notably, oysters that **suppressed metabolism** under extreme stress were **more likely to survive**, suggesting that **metabolic depression is a hallmark of thermal resilience**.
+
+The assay also captured **family-level differences** in metabolic response, indicating that some oyster lineages are genetically predisposed to handle stress better than others. In a large-scale breeding experiment at the Virginia Institute of Marine Science, metabolic rates measured by resazurin correlated with **predicted survival performance** in selectively bred oyster families .
+
+------------------------------------------------------------------------
+
+### **🧬 Why This Matters**
+
+Metabolic rate is one of the most fundamental indicators of animal health and stress, but it’s historically been **difficult and time-consuming to measure** in shellfish. The resazurin assay overcomes that bottleneck, offering:
+
+-   **High-throughput capability:** hundreds of oysters per run
+
+-   **Low cost and minimal equipment** (a simple plate reader suffices)
+
+-   **Compatibility with live animals** — no lethal sampling required
+
+-   **Potential for integration with breeding and monitoring programs**
+
+These advantages make it a game-changer for **aquaculture, ecology, and conservation**, enabling rapid screening of stress resilience across populations and environments.
+
+------------------------------------------------------------------------
+
+### **🌍 Toward Smarter, More Resilient Aquaculture**
+
+As marine ecosystems face intensifying heatwaves and acidification, tools like the resazurin assay can help hatcheries, farmers, and researchers identify the oysters most likely to thrive under stress. The study’s message is clear: **color can tell a powerful physiological story**.
+
+Blue means rest. Pink means life. And somewhere between those hues lies the key to building a more resilient future for oysters — and the people who depend on them.
+
+------------------------------------------------------------------------
+
+📘 **Citation**
+
+Huffmyer, A. S., Ozguner, N., Baird, M., Elvrum, C., Kounellas, C., Dicksion, D., White, S. J., Plough, L., Gavery, M. R., Krebs, N., Walton, W., Small, J., Pitsenbarger, M., Ealy-Whitfield, H., & Roberts, S. (2025). *From Blue to Pink: Resazurin as a High-Throughput Proxy for Metabolic Rate in Oysters*. *bioRxiv*. <https://doi.org/10.1101/2025.11.06.686367>

@@ -10,7 +10,65 @@
 <atom:link href="https://faculty.washington.edu/sr320/posts.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.6.40</generator>
-<lastBuildDate>Mon, 27 Oct 2025 07:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 11 Nov 2025 08:00:00 GMT</lastBuildDate>
+<item>
+  <title>From Blue to Pink</title>
+  <dc:creator>Steven Roberts</dc:creator>
+  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-pink/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>In a new preprint titled <a href="https://doi.org/10.1101/2025.11.06.686367"><em>From Blue to Pink: Resazurin as a High-Throughput Proxy for Metabolic Rate in Oysters</em></a>, Ariana S. Huffmyer and colleagues demonstrate a powerful yet elegant way to measure how oysters breathe, grow, and cope with stress — by watching a color change.</p>
+<section id="a-new-colorful-window-into-oyster-metabolism" class="level3">
+<h3 class="anchored" data-anchor-id="a-new-colorful-window-into-oyster-metabolism"><strong>🌊 A New Colorful Window into Oyster Metabolism</strong></h3>
+<p>Resazurin, a redox-sensitive dye used for decades in biomedical and microbial assays, shifts from <strong>blue to pink</strong> as it’s reduced by metabolic activity. Huffmyer et al.&nbsp;adapted this dye-based reaction — familiar to many cell biologists — to <strong>whole oysters</strong>, showing that fluorescence intensity closely tracks oxygen consumption and reflects metabolic performance at the organismal level .</p>
+<p>The team developed a standardized, scalable protocol using multi-well plates and fluorometric readings to quantify metabolic rate across hundreds of individuals at once. This makes it one of the first <strong>high-throughput metabolic assays for live shellfish</strong>, an enormous advance for aquaculture and climate resilience research.</p>
+<p>You can explore their detailed methods and ongoing assay development at the <a href="https://robertslab.github.io/resazurin-assay-development/">Roberts Lab Resazurin Assay Development site</a>.</p>
+<p><img src="https://faculty.washington.edu/sr320/posts/frontpage/sr320-pink/images/clipboard-3472715920.jpeg" class="img-fluid" style="width:100.0%"></p>
+<hr>
+</section>
+<section id="metabolism-under-pressure-what-the-color-shift-reveals" class="level3">
+<h3 class="anchored" data-anchor-id="metabolism-under-pressure-what-the-color-shift-reveals"><strong>🔥 Metabolism Under Pressure: What the Color Shift Reveals</strong></h3>
+<p>By exposing oysters (<em>Crassostrea gigas</em> and <em>C. virginica</em>) to temperature gradients and acute heat shocks, the researchers observed predictable “thermal performance curves” — metabolism peaked near <strong>36 °C</strong> before declining sharply at higher temperatures. Notably, oysters that <strong>suppressed metabolism</strong> under extreme stress were <strong>more likely to survive</strong>, suggesting that <strong>metabolic depression is a hallmark of thermal resilience</strong>.</p>
+<p>The assay also captured <strong>family-level differences</strong> in metabolic response, indicating that some oyster lineages are genetically predisposed to handle stress better than others. In a large-scale breeding experiment at the Virginia Institute of Marine Science, metabolic rates measured by resazurin correlated with <strong>predicted survival performance</strong> in selectively bred oyster families .</p>
+<hr>
+</section>
+<section id="why-this-matters" class="level3">
+<h3 class="anchored" data-anchor-id="why-this-matters"><strong>🧬 Why This Matters</strong></h3>
+<p>Metabolic rate is one of the most fundamental indicators of animal health and stress, but it’s historically been <strong>difficult and time-consuming to measure</strong> in shellfish. The resazurin assay overcomes that bottleneck, offering:</p>
+<ul>
+<li><p><strong>High-throughput capability:</strong> hundreds of oysters per run</p></li>
+<li><p><strong>Low cost and minimal equipment</strong> (a simple plate reader suffices)</p></li>
+<li><p><strong>Compatibility with live animals</strong> — no lethal sampling required</p></li>
+<li><p><strong>Potential for integration with breeding and monitoring programs</strong></p></li>
+</ul>
+<p>These advantages make it a game-changer for <strong>aquaculture, ecology, and conservation</strong>, enabling rapid screening of stress resilience across populations and environments.</p>
+<hr>
+</section>
+<section id="toward-smarter-more-resilient-aquaculture" class="level3">
+<h3 class="anchored" data-anchor-id="toward-smarter-more-resilient-aquaculture"><strong>🌍 Toward Smarter, More Resilient Aquaculture</strong></h3>
+<p>As marine ecosystems face intensifying heatwaves and acidification, tools like the resazurin assay can help hatcheries, farmers, and researchers identify the oysters most likely to thrive under stress. The study’s message is clear: <strong>color can tell a powerful physiological story</strong>.</p>
+<p>Blue means rest. Pink means life. And somewhere between those hues lies the key to building a more resilient future for oysters — and the people who depend on them.</p>
+<hr>
+<p>📘 <strong>Citation</strong></p>
+<p>Huffmyer, A. S., Ozguner, N., Baird, M., Elvrum, C., Kounellas, C., Dicksion, D., White, S. J., Plough, L., Gavery, M. R., Krebs, N., Walton, W., Small, J., Pitsenbarger, M., Ealy-Whitfield, H., &amp; Roberts, S. (2025). <em>From Blue to Pink: Resazurin as a High-Throughput Proxy for Metabolic Rate in Oysters</em>. <em>bioRxiv</em>. <a href="https://doi.org/10.1101/2025.11.06.686367" class="uri">https://doi.org/10.1101/2025.11.06.686367</a></p>
+
+
+<!-- -->
+
+</section>
+
+ ]]></description>
+  <category>oyster</category>
+  <category>aquaculture</category>
+  <category>resazurin</category>
+  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-pink/</guid>
+  <pubDate>Tue, 11 Nov 2025 08:00:00 GMT</pubDate>
+  <media:content url="http://gannet.fish.washington.edu/seashell/snaps/2025-11-11_05-14-47.png" medium="image" type="image/png"/>
+</item>
 <item>
   <title>Earliest Map of Oyster Germline Development Unlocks Pathway Toward Sterile Aquaculture</title>
   <dc:creator>Steven Roberts</dc:creator>
@@ -1098,57 +1156,6 @@
   <guid>https://faculty.washington.edu/sr320/posts/sr320-usda-report/</guid>
   <pubDate>Fri, 30 Aug 2024 07:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Monosnap_2024-08-29_13-10-49.png" medium="image" type="image/png"/>
-</item>
-<item>
-  <title>Assessing Oyster Viability Under Environmental Stress</title>
-  <link>https://faculty.washington.edu/sr320/posts/sr320-lsamp/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>As part of our ongoing commitment to fostering innovative research, this summer was particularly thrilling due to the strides made in the <a href="https://www.washington.edu/omad/louis-stokes-alliance-for-minority-participation/">LSAMP Scientist Program</a>. One of our standout projects, led by an ambitious student researcher, Colby Elvrum, brought new insights into the resilience of oysters against environmental stressors. Get a <a href="https://genefish.wordpress.com/author/colbyelvrum/">first hand account of all of Colby’s science from his notebook!</a></p>
-<section id="the-genesis-of-the-study" class="level3">
-<h3 class="anchored" data-anchor-id="the-genesis-of-the-study">The Genesis of the Study</h3>
-<p>Oysters, a crucial component of aquatic ecosystems, serve as indicators of environmental health and sustainability. Recognizing their role and the urgent need to understand how environmental changes affect these organisms, we embarked on a project to utilize a novel application of the resazurin assay, traditionally a cell viability test in microbiology. This assay, which exploits the color-changing properties of the resazurin dye in response to oxygen consumption, was adapted to measure the metabolic activity of oysters under stress.</p>
-</section>
-<section id="what-we-aimed-to-discover" class="level3">
-<h3 class="anchored" data-anchor-id="what-we-aimed-to-discover">What We Aimed to Discover</h3>
-<p>Our research was driven by two pivotal questions: Can resazurin effectively measure metabolism in oysters, and does prior exposure to stress (stress hardening) alter their metabolic response to subsequent stressors? Through meticulously designed experiments, Colby led the charge in optimizing the assay conditions, ensuring the reliability and accuracy of our measurements.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="http://gannet.fish.washington.edu/seashell/snaps/2024-08-21_11-33-23.png" class="img-fluid figure-img"></p>
-<figcaption>Colby presenting his research at the Summer Research Symposium</figcaption>
-</figure>
-</div>
-</section>
-<section id="key-findings-and-methodological-innovations" class="level3">
-<h3 class="anchored" data-anchor-id="key-findings-and-methodological-innovations">Key Findings and Methodological Innovations</h3>
-<p>Our findings were enlightening. We observed that resazurin is not only a viable marker for oyster metabolism but also that it clearly illustrates the metabolic shifts caused by environmental stressors such as temperature fluctuations. Notably, oysters exposed to elevated temperatures displayed a rapid increase in metabolic rate, which was a precursor to subsequent mortality. This initial surge and later plateau in metabolism provided critical clues about the stress thresholds of these organisms.</p>
-<p>Moreover, the study also highlighted how oysters previously conditioned to withstand stress exhibited altered survival rates under extreme temperatures, suggesting a potential sensitization rather than hardening effect. These insights are crucial for understanding how oysters might respond to the escalating challenges of climate change.</p>
-</section>
-<section id="looking-ahead" class="level3">
-<h3 class="anchored" data-anchor-id="looking-ahead">Looking Ahead</h3>
-<p>The implications of this research extend beyond the academic sphere. They beckon a reevaluation of how we manage and conserve our aquatic resources in the face of rapid environmental changes. The potential to scale up this assay and automate aspects of the procedure could revolutionize aquaculture, and provide a more dynamic understanding of environmental impacts on marine life.</p>
-</section>
-<section id="gratitude-and-acknowledgments" class="level3">
-<h3 class="anchored" data-anchor-id="gratitude-and-acknowledgments">Gratitude and Acknowledgments</h3>
-<p>This research was made possible through the support of the National Science Foundation. We are immensely proud of Colby and all associated researchers for their dedication and hard work.</p>
-<p><strong>Poster</strong> (<a href="http://gannet.fish.washington.edu/seashell/snaps/Colby_Poster_LSAMP.pdf">download hi-res pdf</a>)</p>
-<p><img src="http://gannet.fish.washington.edu/seashell/snaps/2024-08-21_11-40-33.png" class="img-fluid"></p>
-
-
-<!-- -->
-
-</section>
-
- ]]></description>
-  <category>oyster</category>
-  <category>stress</category>
-  <guid>https://faculty.washington.edu/sr320/posts/sr320-lsamp/</guid>
-  <pubDate>Thu, 22 Aug 2024 07:00:00 GMT</pubDate>
-  <media:content url="http://gannet.fish.washington.edu/seashell/snaps/2024-08-21_11-42-08.png" medium="image" type="image/png"/>
 </item>
 </channel>
 </rss>
