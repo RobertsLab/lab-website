@@ -1,0 +1,107 @@
+---
+title: "Mothers Know Best"
+description: "Maternal Signaling Boosts Larval Resilience Under Ocean Acidification"
+author:
+  - name: Steven Roberts
+    url: https://sr320.github.io/
+    orcid: 0000-0001-8302-1138
+    affiliation: Professor, UW - School of Aquatic and Fishery Sciences
+    affiliation-url: https://robertslab.info
+date: 11-13-2025
+categories: [clam, aquaculture] # self-defined categories
+image: http://gannet.fish.washington.edu/seashell/snaps/2025-11-11_05-31-13.png # finding a good image
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+
+format:
+  html:
+    code-fold: true
+    code-tools: true
+    code-copy: true
+    highlight-style: github
+    code-overflow: wrap
+---
+
+![abstract](https://ars.els-cdn.com/content/image/1-s2.0-S0044848625012748-ga1_lrg.jpg) *Graphical Abstract*
+
+### 🌊 Introduction
+
+Ocean acidification (OA) poses one of the most pressing threats to marine calcifiers.\
+As CO₂ dissolves into seawater, pH declines and carbonate saturation drops — creating a chemical environment that makes it harder for larval shellfish to build and maintain shells. Early life stages, from embryos to D-veligers, are especially vulnerable.
+
+A new paper by **Emma Timmins-Schiffman et al. (2025)** presents hopeful evidence that **maternal signaling**—the physiological messages passed from mothers to offspring—can help larvae weather these conditions.\
+The study, published in *Aquaculture*, demonstrates that **broodstock conditioning under low-pH conditions** can increase **larval survival** and **developmental success** under ocean acidification.
+
+👉 [Read the paper here →](https://www.sciencedirect.com/science/article/pii/S0044848625012748?via%3Dihub)
+
+------------------------------------------------------------------------
+
+### 🧬 Study Overview
+
+![Experimental design schematic](http://gannet.fish.washington.edu/seashell/snaps/2025-11-11_05-24-27.png) *Overview of the experimental design. Adult broodstock clams were exposed to low or ambient pH for 78 days, which included the main gametogenic period. Broodstock pH response was assessed and clams were spawned, with eggs collected to measure maternal effects. Larvae were reared in a full factorial design, with larvae resulting from each broodstock treatment raised at both ambient and low pH.*
+
+The research team conducted a **two-stage experiment**:
+
+1.  **Broodstock conditioning:** Adult bivalves were exposed to either ambient or low-pH seawater for several weeks prior to spawning.\
+2.  **Larval challenge:** Offspring from each broodstock treatment were reared under both ambient and acidified conditions.
+
+This design allowed the authors to **test for maternal carry-over effects** — whether the experience of parents could influence offspring performance under stress.
+
+------------------------------------------------------------------------
+
+### 📈 Key Findings
+
+![Larval survival graph](http://gannet.fish.washington.edu/seashell/snaps/2025-11-11_05-26-11.png) *G and H show the reaction norms for larval survival at 7 and 14 days post-fertilization in larval ambient and low pH conditions, respectively. Panel I shows the percent normal shells for larvae reared in ambient conditions (left panel) versus low pH conditions (right panel) for days 2, 7 and 14 post-fertilization.*
+
+-   **Enhanced survival:** Larvae from OA-conditioned parents showed higher survival under acidified conditions compared to larvae from ambient parents.\
+-   **Improved shell development:** Morphological assessments indicated partial rescue of calcification deficits in OA-exposed larvae.\
+-   **Maternal provisioning:** The authors suggest that biochemical or molecular cues—such as lipids, RNAs, or epigenetic marks—mediate this resilience.
+
+Together, these results underscore the **potential of broodstock conditioning** as an applied tool for aquaculture and restoration.
+
+------------------------------------------------------------------------
+
+### ⚗️ Mechanisms and Implications
+
+**Maternal signaling** could occur via: - Differential **energy or lipid provisioning** to oocytes\
+- Altered **mRNA or non-coding RNA content** in eggs\
+- **Epigenetic modifications** that influence early developmental gene expression
+
+Such carry-over effects represent a **non-genetic inheritance mechanism** that can modulate offspring performance in a changing ocean.
+
+------------------------------------------------------------------------
+
+### 🐚 Relevance for Aquaculture and Restoration
+
+For hatcheries and conservation programs, these findings offer practical guidance:
+
+-   **Broodstock priming:** Conditioning adults in mildly stressful environments could pre-adapt larvae to future ocean conditions.\
+-   **Selective breeding integration:** Maternal conditioning could complement genetic selection programs.\
+-   **Ecosystem resilience:** Field validation may help determine whether these benefits persist in natural, variable environments.
+
+------------------------------------------------------------------------
+
+### 🔬 Future Directions
+
+This study opens up rich avenues for follow-up research:
+
+1.  **Molecular dissection:** Use transcriptomics, lipidomics, and DNA methylation profiling to identify specific maternal signals.\
+2.  **Multi-stressor interactions:** Test if benefits extend under warming, hypoxia, or nutrient stress.\
+3.  **Transgenerational persistence:** Determine whether resilience carries into F₂ and beyond.\
+4.  **Trade-offs:** Evaluate broodstock fecundity and energy costs associated with preconditioning.\
+5.  **Applied implementation:** Assess the cost-benefit of maternal conditioning for commercial hatchery production.
+
+------------------------------------------------------------------------
+
+### 💡 Broader Perspective
+
+This work builds upon a growing body of literature demonstrating **transgenerational plasticity** in marine organisms.\
+It also resonates with ongoing efforts to integrate **epigenetic and physiological tools** into aquaculture resilience frameworks.
+
+As the authors succinctly show, sometimes the best defense against future oceans lies in the **memories mothers pass on**.
+
+------------------------------------------------------------------------
+
+### 📚 Reference
+
+Timmins-Schiffman, E., et al. (2025). *Maternal signaling boosts larval resilience under ocean acidification conditions.* **Aquaculture**, Article 12748.\
+<https://doi.org/10.1016/j.aquaculture.2025.12748>
