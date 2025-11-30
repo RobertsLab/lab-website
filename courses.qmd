@@ -137,6 +137,35 @@ Both freshwater and marine environments are continually changing in response to 
 [Visit Course](https://canvas.uw.edu/courses/1719428){.course-link}
 :::::
 
+
+::::: course-card
+::: course-title
+FISH 510 Marine Organism Resilience and Epigenetics
+:::
+
+::: course-description
+This graduate seminar explores the intersection of marine organism resilience and epigenetics, examining how environmental factors influence gene expression patterns and contribute to adaptation and survival in marine ecosystems. Students will engage with current research literature, participate in discussions, and develop critical thinking skills in this rapidly evolving field.
+:::
+
+[Visit Course](https://github.com/sr320/course-FISH510-2025){.course-link}
+:::::
+
+::::: course-card
+::: course-title
+QSCI 381  Introduction to probability and statistics
+:::
+
+::: course-description
+The objective of this course is to provide students with an introductory understanding of the concept of probability and statistics. Statistics plays an important role in nearly all aspects of society, and your ability to understand, interpret, and critique data and the statistics used to analyze these data will provide you with an important foundation, regardless of your career choice. After completing this course you will:
+
+- Understand the different types of data and how they are collected.
+- Understand the basis of distributions and the information that can be inferred from them.
+- Understand different types of basic data analysis, and how to interpret the results.
+:::
+
+
+:::::
+
 ::::: course-card
 ::: course-title
 FISH 546 Bioinformatics for Environmental Sciences
@@ -193,20 +222,20 @@ By the end of the course, students should have a comprehensive understanding of 
 
 # Other educational content {.section-header}
 
-:::::::::::: content-grid
-::: content-card
+::::::: content-grid
+:::: content-card
 ::: content-title
 Tusk (Things you should know)
 :::
 
 [Visit Resource](https://robertslab.github.io/tusk/){.content-link}
-:::
+::::
 
-::: content-card
+:::: content-card
 ::: content-title
 Lab Handbook
 :::
 
 [Visit Resource](https://robertslab.github.io/resources/){.content-link}
-:::
-::::::::::::
+::::
+:::::::
