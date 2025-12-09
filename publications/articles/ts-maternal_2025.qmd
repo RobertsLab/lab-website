@@ -1,0 +1,26 @@
+---
+title: "Mothers know best: Maternal signaling boosts larval resilience under ocean acidification conditions"
+type: "article"
+author: "Emma Timmins-Schiffman, Larken Root, Ryan Crim, Mollie A. Middleton, Megan M. Ewing, Jacob Winnikoff, Gracelyn Ham, Giles Goetz, Steven Roberts, Mackenzie R. Gavery"
+year: "2025"
+publication: "Aquaculture"
+preprint: ""
+doi: "https://doi.org/10.1016/j.aquaculture.2025.743388"
+materials: "https://github.com/emmats/Clam-OA-priming"
+eprint: "http://gannet.fish.washington.edu/seashell/snaps/1-s2.0-S0044848625012748-main.pdf"
+toc: FALSE
+categories:
+  - oyster
+  - transgenerational plasticity
+  - ocean acidification
+---
+
+## Citation
+
+> Timmins-Schiffman E., Root L., Crim R., Middleton M. A., Ewing M., Winnikoff J., Ham G., Goetz G., Roberts S. & Gavery M. R., 2026. Mothers know best: maternal signaling boosts larval resilience under ocean acidification conditions. *Aquaculture* 613: 743388. doi: 10.1016/j.aquaculture.2025.743388
+
+## Abstract
+
+Bivalve aquaculture is a growing sector worldwide, producing sustainable animal protein to meet growing demand from consumers. Yet, the industry remains vulnerable to environmental changes that can impact their product across life stages, especially at the larval stage. Parental priming, or the exposure of broodstock to adverse environmental conditions as they undergo gametogenesis, holds promise as a method to increase resilience in bivalve offspring. We exposed Manila clam (Ruditapes philippinarum) broodstock to low pH conditions (pH 7.4 for 78 days during gametogenesis). Larvae were produced from primed (low pH) and unprimed (ambient pH) broodstock and exposed to ambient or low pH conditions in a full factorial design. Larval phenotype in response to low pH was partially rescued by broodstock priming: larvae from low pH-exposed broodstock had better survival and growth than larvae from broodstock held under ambient conditions. Clam egg lipidomic and transcriptomic analyses were performed to determine the physiological differences associated with broodstock environmental conditions. Egg lipid abundance profiles were not significantly different between parental treatments. The egg transcriptome revealed 48 differentially expressed transcripts associated with parental environmental conditions. These genes are involved in important processes for early larval physiology, including metabolism, cell cycle, and transcriptional regulation. Broodstock clams were minimally impacted by their exposure to low pH for 78 days, however we show here that subtle maternal signals may contribute to the vastly improved larval performance observed under low pH conditions.
+
+![](images/clipboard-1583455074.png)

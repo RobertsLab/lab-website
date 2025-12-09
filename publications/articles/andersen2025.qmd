@@ -5,7 +5,7 @@ author: "Andersen, L.K., Thompson, N.F., Abernathy, J.W. et al."
 year: "2025"
 publication: "BMC Genomics"
 preprint: ""
-doi: "10.1186/s12864-025-11247-z"
+doi: "https://link.springer.com/article/10.1186/s12864-025-11247-z"
 materials: ""
 eprint: "https://bmcgenomics.biomedcentral.com/counter/pdf/10.1186/s12864-025-11247-z.pdf"
 toc: FALSE
