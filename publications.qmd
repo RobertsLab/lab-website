@@ -42,7 +42,11 @@ Gavery, M., & Roberts, S. (2018). [Genetics & Epigenetics in Life History and Re
 
 # Preprints
 
-Huffmyer AS, KH Wong, DM Becker, E Strand, T Mass, HM Putnam. (2025) Metabolic dynamics of the coral-algal symbiosis from fertilization to settlement identify critical coral energetic vulnerabilities. **bioRxiv**. https://doi.org/10.1101/2023.03.20.533475.
+Huffmyer AS, Strand EL, Hackerott S, Wong KH, Becker DM, Conetta D, Terpis KX, Pfab F, Wong JM, Dellaert Z, Oliaro FJ, Cunning R, Eirin-Lopez JM, Roberts SB, Nisbet RM, Putnam HM. Seasonal plasticity of symbiotic strategies clarifies coral holobiont resistance and resilience. **bioRxiv**. https://doi.org/10.1101/2025.11.20.689604
+
+Huffmyer AS, N Ozguner, M Baird, C Elvrum, C Kounellas, D Dicksion, SJ White, L Plough, MR Gavery, N Krebs, W Walton, J Small, M Pitsenbarger, H Ealy-Whitfield, S Roberts. From blue to pink: Resazurin as a high-throughput proxy for metabolic rate in oysters. **bioRxiv**. http://doi.org/10.1101/2025.11.06.686367.
+
+Ashey J, JA Rodriquez-Casariego, KM Durkin, Z Bengtsson, AS Huffmyer, SJ White, DM Becker, JM Eirin-Lopez, HM Putnam, S Roberts. Non-coding RNA repertoire in reef-building corals. bioRxiv. https://doi.org/10.1101/2025.03.15.643469.
 
 Shelly A Wanamaker , Kaitlyn R Mitchell, Rhonda Elliott Thompson, Benoit Eudeline, Brent Vadopalas, Emma B Timmins-Schiffman, Steven B Roberts (2020). Temporal proteomic profiling reveals insight into critical developmental processes and temperature-influenced physiological response differences in a bivalve mollusc. **bioRxiv**. https://doi.org/10.1101/2020.06.05.137059
 
@@ -150,6 +154,7 @@ Characterizing the effects of ocean acidification in larval and juvenile Manila 
 
 #### 2025
 
+- [Diverse nutritional strategies mediate early life thermal responses in reef-building corals in Moorea](https://github.com/AHuffmyer/presentations/blob/master/2025/Huffmyer_MCR_AIM_2025.pdf). Ariana S. Huffmyer. Moorea Coral Reef Long Term Ecological Research All-Investigators Meeting. Virtual. December 12, 2025.
 -   [Stress hardening and metabolic screening: Tools to assess oyster performance and resilience](https://github.com/AHuffmyer/presentations/blob/master/2025/Huffmyer_PCSGA_2025.pdf). Ariana S. Huffmyer. Pacific Coast Shellfish Growers Association Conference 2025. Vancouver, WA. September 10, 2025.
 
 -   [Developing an integrated approach for multiomic epigenetic analyses](https://github.com/shedurkin/Roberts-LabNotebook/blob/master/presentations/Durkin_Session5_EPIMAR_2025.pptx). Kathleen Durkin. Epigenetics in Marine and Aquatic Research 2025. Barcelona, Spain. May, 2025.
