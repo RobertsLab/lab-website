@@ -182,7 +182,7 @@ format:
 :::
 
 ::: person-bio
-Professor in the School of Aquatic and Fishery Sciences at the University of Washington where his research focuses on characterizing physiological response of aquatic species to environmental change with a particular focus on the relationship of transcriptomics, genetics, and epigenetic modifications. Current research efforts include characterizing genome to phenome processes in diverse aquatic species.
+Professor in the School of Aquatic and Fishery Sciences at the University of Washington, where his research advances environmental memory as a foundational principle linking molecular regulation, physiology, and resilience in marine organisms. His work integrates genomics, epigenetics, and organismal physiology to understand how past environmental conditions shape future performance across individuals, populations, and generations. Through a focus on marine invertebrates, his research bridges discovery and application, informing conservation, restoration, and sustainable aquaculture in changing coastal ecosystems.
 :::
 :::::
 ::::::
@@ -285,6 +285,74 @@ I have been proud to call Washington home for most of my life, so I am thrilled 
 :::::
 ::::::
 
+# Undergraduate Students {.section-header}
+
+::::: person-grid
+:::: person-card
+::: person-name
+Noah Ozguner
+:::
+::: person-role 
+Maintaing aquatic facility data analysis related to oyster stress physiology.
+:::
+::::
+:::::
+
+::::: person-grid
+:::: person-card
+::: person-name
+Christina Zhang
+:::
+::: person-role 
+Evaluating metabolic response associated with environmental memory.
+:::
+::::
+:::::
+
+::::: person-grid
+:::: person-card
+::: person-name
+Samuel Slutz
+:::
+::: person-role 
+Bioinformatic analyses of genes associated with sea star resilience.
+:::
+::::
+:::::
+
+::::: personi-grid
+:::: person-card
+::: person-name
+Sophie Lord
+:::
+::: person-role 
+Integrating phenotypic data on sea star wasting disease.
+:::
+::::
+:::::
+
+::::: person-grid
+:::: person-card
+::: person-name
+Hazel L Abrahamson-Amerine
+:::
+::: person-role 
+Assessing relationship of glycogen content to environmental stress and memory.
+:::
+::::
+:::::
+
+::::: person-grid
+:::: person-card
+::: person-name
+Hannah Nowers
+:::
+::: person-role 
+Genomic differences in sea stars related to disease resistance.
+:::
+::::
+:::::
+
 # Postdoctoral Research Associates {.section-header}
 
 ::::: person-card
@@ -343,7 +411,6 @@ I am a Research Scientist at the University of Washington studying the effects o
 ::::
 :::::
 
-
 ::::: person-card
 :::: person-content
 ## Shelly Wanamaker {.person-name}
@@ -354,24 +421,6 @@ I am a Research Scientist at the University of Washington studying the effects o
 ::::
 :::::
 
-# Undergraduate Students {.section-header}
-
-::::: person-grid
-:::: person-card
-::: person-name
-Noah Ozguner
-:::
-::::
-:::::
-
-
-::::: personi-grid
-:::: person-card
-::: person-name
-Sophie Lord
-:::
-::::
-:::::
 
 # Alumni {.section-header}
 
@@ -542,19 +591,43 @@ Dave Metzger
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: alumni-grid
 :::: alumni-card
 ::: alumni-name
-Madeline Baird
+[Madeline Baird](https://genefish.wordpress.com/author/mbaird2f1e8173cb2/)
 :::
 ::::
 
 :::: alumni-card
 ::: alumni-name
-Genevieve Buchanan
+[Aakriti Vijay](https://genefish.wordpress.com/author/aakritiv/)
 :::
 ::::
 
 :::: alumni-card
 ::: alumni-name
-Noah Krebs
+[Colby Elvrum](https://genefish.wordpress.com/author/colbyelvrum/)
+:::
+::::
+
+:::: alumni-card
+::: alumni-name
+[Carolyn Kounellas](https://genefish.wordpress.com/author/carolynkounellas/)
+:::
+::::
+
+:::: alumni-card
+::: alumni-name
+[Dash Dicksion](https://genefish.wordpress.com/author/wdash19d83144fc/)
+:::
+::::
+
+:::: alumni-card
+::: alumni-name
+[Genevieve Buchanan](https://genefish.wordpress.com/author/genevievebuchanan02/)
+:::
+::::
+
+:::: alumni-card
+::: alumni-name
+[Noah Krebs](https://genefish.wordpress.com/author/jtatum0celts/)
 :::
 ::::
 
@@ -572,7 +645,7 @@ Noah Krebs
 
 :::: alumni-card
 ::: alumni-name
-Dorothy Lartey
+[Dorothy Lartey](https://genefish.wordpress.com/author/dorolar/)
 :::
 ::::
 

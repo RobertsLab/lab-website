@@ -17,7 +17,7 @@ listing:
 
 # Research Projects
 
-Below is list of active and recently finished research projects. Major themes of our projects include [Environmental Epigenetics](https://faculty.washington.edu/sr320/research.html#category=01-EE) (01-EE), [Reproductive Biology and Ecology](https://faculty.washington.edu/sr320/research.html#category=02-RBE) (02-RBE), and [Aquaculture Resource Development](https://faculty.washington.edu/sr320/research.html#category=03-ARD) (03-ARD). You can use the filter feature below to search projects based on funding agency.
+Below is a list of active and recently completed research projects unified by a central focus on environmental memory, regulatory biology, and organismal performance in marine systems. Projects span three intersecting themes: [Environmental Epigenetics](https://faculty.washington.edu/sr320/research.html#category=01-EE) (01-EE), [Reproductive Biology and Ecology](https://faculty.washington.edu/sr320/research.html#category=02-RBE) (02-RBE), and [Aquaculture Resource Development](https://faculty.washington.edu/sr320/research.html#category=03-ARD) (03-ARD). You can use the filter feature below to search projects based on funding agency.
 
 ::: {#research}
 :::
