@@ -2,6 +2,7 @@
   {
     "listing": "/posts.html",
     "items": [
+      "/posts/frontpage/sr320-polyic/index.html",
       "/posts/frontpage/sr320-mother/index.html",
       "/posts/frontpage/sr320-pink/index.html",
       "/posts/frontpage/sr320-pgc/index.html",
@@ -198,6 +199,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/frontpage/sr320-polyic/index.html",
       "/posts/frontpage/sr320-mother/index.html",
       "/posts/frontpage/sr320-pink/index.html",
       "/posts/frontpage/sr320-pgc/index.html",

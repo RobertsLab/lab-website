@@ -1,0 +1,106 @@
+---
+title: "Can Oyster Parents Prepare Their Offspring for What's Next?"
+description: "Immune Training at its Finest"
+author:
+  - name: Steven Roberts
+    url: https://sr320.github.io/
+    orcid: 0000-0001-8302-1138
+    affiliation: Professor, UW - School of Aquatic and Fishery Sciences
+    affiliation-url: https://robertslab.info
+date: 01-11-2026
+categories: [oyster, aquaculture] # self-defined categories
+image: plot.png # finding a good image
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+
+format:
+  html:
+    code-fold: true
+    code-tools: true
+    code-copy: true
+    highlight-style: github
+    code-overflow: wrap
+---
+
+*New research from the Roberts Lab reveals that immune “training” in adult oysters can reshape how their offspring grow, metabolize energy, and survive extreme heat.*
+
+Marine heatwaves and disease outbreaks are increasingly hitting oyster farms and wild populations at the same time. For Pacific oysters (*Magallana gigas*), this deadly combination often shows up as **summer mortality events**, when up to 90% of animals can die in a matter of days. But what if oyster parents could “prepare” their offspring for these stressful conditions before they are even born?
+
+A new study from our lab, led by **Madeline Baird** and **Ariana Huffmyer** provides exciting evidence that they can.
+
+## **Training oyster parents’ immune systems**
+
+In this study, adult Pacific oysters were briefly exposed to **Poly(I:C)**, a harmless synthetic molecule that mimics viral infection and activates the oyster immune system. This kind of immune priming has been shown to increase disease resistance in oysters—but here we asked a different question:
+
+> **Does immune priming in parents change how their offspring handle heat and metabolic stress?**
+
+After the exposure, oysters were spawned, and their larvae were reared in commercial hatchery conditions and then grown into seed oysters over several months. These offspring were later tested for **growth, survival under heat stress, and metabolic performance**.
+
+## **Faster growth in primed families**
+
+The first surprise was growth.
+
+Although offspring from primed parents were slightly smaller early on, they grew faster over time and ended up **larger than controls by 236 days post-fertilization**. In other words, immune priming in parents altered how energy was allocated during development—suggesting a shift in developmental strategy.
+
+This matters for hatcheries, where faster-growing seed often perform better during nursery and grow-out phases.
+
+## **Heat survival depends on how hot it gets**
+
+Next, the team exposed oysters to temperatures ranging from normal conditions to extreme heat (up to 45°C) and measured survival.
+
+The results were strikingly **temperature-specific**:
+
+-   At **40°C**, offspring from primed parents were **35% more likely to survive** than controls 
+
+-   At **42°C**, however, those same primed offspring were **more likely to die** than controls 
+
+This shows that immune priming doesn’t simply make oysters “tougher”—it reshapes **where their thermal limits lie**. In a warming ocean, that nuance matters.
+
+## **Metabolism tells the story**
+
+Why did primed offspring survive better at 40°C but worse at 42°C? The answer appears to lie in their **metabolism**.
+
+Using a high-throughput **resazurin assay**, the team measured how quickly oysters processed energy under different temperatures  .
+
+They found:
+
+-   At **36°C**, primed offspring had **43% higher metabolic activity** than controls
+
+-   At **40°C**, primed offspring showed **lower metabolic activity** than controls 
+
+This pattern suggests that immune priming increases **metabolic flexibility**—the ability to ramp metabolism up under moderate stress and suppress it when conditions become extreme. That flexibility is likely what allows primed oysters to survive better at 40°C by entering a kind of **protective metabolic slowdown**, a known survival strategy in stressed marine invertebrates.
+
+## **A form of environmental memory**
+
+These effects persisted for more than **seven months after fertilization**, long after early maternal provisioning should have faded. This points to deeper mechanisms of **environmental memory**, potentially involving:
+
+-   altered maternal lipid and energy provisioning
+
+-   immune-related transcripts passed into eggs
+
+-   changes in microbiomes
+
+-   epigenetic regulation (DNA methylation, non-coding RNAs) 
+
+Together, these mechanisms may allow oysters to transmit information about parental stress environments directly to the next generation.
+
+## **What does this mean for aquaculture?**
+
+This research opens the door to a new idea:
+
+**Hatcheries could condition broodstock before spawning to improve offspring performance.**
+
+Because Poly(I:C) can be delivered by simple **immersion**, it could be integrated into existing hatchery workflows as a scalable, non-invasive treatment. When paired with selective breeding, immune priming might help produce oyster seed that is more resilient to heatwaves and disease—two of the biggest threats to modern shellfish farming.\
+
+At the same time, the study makes clear that **priming is not a magic bullet**. Benefits depended strongly on temperature, and extreme heat erased them. Field trials and longer-term studies are needed before these tools can be used widely.
+
+## **Why this matters**
+
+As oceans warm and pathogens spread, oysters are being pushed toward their physiological limits. This study shows that **parents matter**—and that immune experiences in one generation can shape how the next generation grows, survives, and uses energy.
+
+That’s environmental memory in action.
+
+And it may become one of our most powerful tools for building climate-resilient aquaculture in the decades ahead.
+
+### 📚 Reference
+
+Baird M, Huffmyer AS, Ozguner N, Roberts SB. Parental immune priming reshapes offspring growth, metabolism, and thermal tolerance in the Pacific Oyster. **bioRxiv**. <https://doi.org/10.64898/2025.12.10.693539>

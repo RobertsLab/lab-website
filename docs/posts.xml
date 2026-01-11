@@ -9,8 +9,98 @@
 <link>https://faculty.washington.edu/sr320/posts.html</link>
 <atom:link href="https://faculty.washington.edu/sr320/posts.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.7.33</generator>
-<lastBuildDate>Thu, 13 Nov 2025 08:00:00 GMT</lastBuildDate>
+<generator>quarto-1.7.32</generator>
+<lastBuildDate>Sun, 11 Jan 2026 08:00:00 GMT</lastBuildDate>
+<item>
+  <title>Can Oyster Parents Prepare Their Offspring for What’s Next?</title>
+  <dc:creator>Steven Roberts</dc:creator>
+  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-polyic/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<p><em>New research from the Roberts Lab reveals that immune “training” in adult oysters can reshape how their offspring grow, metabolize energy, and survive extreme heat.</em></p>
+<p>Marine heatwaves and disease outbreaks are increasingly hitting oyster farms and wild populations at the same time. For Pacific oysters (<em>Magallana gigas</em>), this deadly combination often shows up as <strong>summer mortality events</strong>, when up to 90% of animals can die in a matter of days. But what if oyster parents could “prepare” their offspring for these stressful conditions before they are even born?</p>
+<p>A new study from our lab, led by <strong>Madeline Baird</strong> and <strong>Ariana Huffmyer</strong> provides exciting evidence that they can.</p>
+<section id="training-oyster-parents-immune-systems" class="level2">
+<h2 class="anchored" data-anchor-id="training-oyster-parents-immune-systems"><strong>Training oyster parents’ immune systems</strong></h2>
+<p>In this study, adult Pacific oysters were briefly exposed to <strong>Poly(I:C)</strong>, a harmless synthetic molecule that mimics viral infection and activates the oyster immune system. This kind of immune priming has been shown to increase disease resistance in oysters—but here we asked a different question:</p>
+<blockquote class="blockquote">
+<p><strong>Does immune priming in parents change how their offspring handle heat and metabolic stress?</strong></p>
+</blockquote>
+<p>After the exposure, oysters were spawned, and their larvae were reared in commercial hatchery conditions and then grown into seed oysters over several months. These offspring were later tested for <strong>growth, survival under heat stress, and metabolic performance</strong>.</p>
+</section>
+<section id="faster-growth-in-primed-families" class="level2">
+<h2 class="anchored" data-anchor-id="faster-growth-in-primed-families"><strong>Faster growth in primed families</strong></h2>
+<p>The first surprise was growth.</p>
+<p>Although offspring from primed parents were slightly smaller early on, they grew faster over time and ended up <strong>larger than controls by 236 days post-fertilization</strong>. In other words, immune priming in parents altered how energy was allocated during development—suggesting a shift in developmental strategy.</p>
+<p>This matters for hatcheries, where faster-growing seed often perform better during nursery and grow-out phases.</p>
+</section>
+<section id="heat-survival-depends-on-how-hot-it-gets" class="level2">
+<h2 class="anchored" data-anchor-id="heat-survival-depends-on-how-hot-it-gets"><strong>Heat survival depends on how hot it gets</strong></h2>
+<p>Next, the team exposed oysters to temperatures ranging from normal conditions to extreme heat (up to 45°C) and measured survival.</p>
+<p>The results were strikingly <strong>temperature-specific</strong>:</p>
+<ul>
+<li><p>At <strong>40°C</strong>, offspring from primed parents were <strong>35% more likely to survive</strong> than controls&nbsp;</p></li>
+<li><p>At <strong>42°C</strong>, however, those same primed offspring were <strong>more likely to die</strong> than controls&nbsp;</p></li>
+</ul>
+<p>This shows that immune priming doesn’t simply make oysters “tougher”—it reshapes <strong>where their thermal limits lie</strong>. In a warming ocean, that nuance matters.</p>
+</section>
+<section id="metabolism-tells-the-story" class="level2">
+<h2 class="anchored" data-anchor-id="metabolism-tells-the-story"><strong>Metabolism tells the story</strong></h2>
+<p>Why did primed offspring survive better at 40°C but worse at 42°C? The answer appears to lie in their <strong>metabolism</strong>.</p>
+<p>Using a high-throughput <strong>resazurin assay</strong>, the team measured how quickly oysters processed energy under different temperatures&nbsp; .</p>
+<p>They found:</p>
+<ul>
+<li><p>At <strong>36°C</strong>, primed offspring had <strong>43% higher metabolic activity</strong> than controls</p></li>
+<li><p>At <strong>40°C</strong>, primed offspring showed <strong>lower metabolic activity</strong> than controls&nbsp;</p></li>
+</ul>
+<p>This pattern suggests that immune priming increases <strong>metabolic flexibility</strong>—the ability to ramp metabolism up under moderate stress and suppress it when conditions become extreme. That flexibility is likely what allows primed oysters to survive better at 40°C by entering a kind of <strong>protective metabolic slowdown</strong>, a known survival strategy in stressed marine invertebrates.</p>
+</section>
+<section id="a-form-of-environmental-memory" class="level2">
+<h2 class="anchored" data-anchor-id="a-form-of-environmental-memory"><strong>A form of environmental memory</strong></h2>
+<p>These effects persisted for more than <strong>seven months after fertilization</strong>, long after early maternal provisioning should have faded. This points to deeper mechanisms of <strong>environmental memory</strong>, potentially involving:</p>
+<ul>
+<li><p>altered maternal lipid and energy provisioning</p></li>
+<li><p>immune-related transcripts passed into eggs</p></li>
+<li><p>changes in microbiomes</p></li>
+<li><p>epigenetic regulation (DNA methylation, non-coding RNAs)&nbsp;</p></li>
+</ul>
+<p>Together, these mechanisms may allow oysters to transmit information about parental stress environments directly to the next generation.</p>
+</section>
+<section id="what-does-this-mean-for-aquaculture" class="level2">
+<h2 class="anchored" data-anchor-id="what-does-this-mean-for-aquaculture"><strong>What does this mean for aquaculture?</strong></h2>
+<p>This research opens the door to a new idea:</p>
+<p><strong>Hatcheries could condition broodstock before spawning to improve offspring performance.</strong></p>
+<p>Because Poly(I:C) can be delivered by simple <strong>immersion</strong>, it could be integrated into existing hatchery workflows as a scalable, non-invasive treatment. When paired with selective breeding, immune priming might help produce oyster seed that is more resilient to heatwaves and disease—two of the biggest threats to modern shellfish farming.<br>
+</p>
+<p>At the same time, the study makes clear that <strong>priming is not a magic bullet</strong>. Benefits depended strongly on temperature, and extreme heat erased them. Field trials and longer-term studies are needed before these tools can be used widely.</p>
+</section>
+<section id="why-this-matters" class="level2">
+<h2 class="anchored" data-anchor-id="why-this-matters"><strong>Why this matters</strong></h2>
+<p>As oceans warm and pathogens spread, oysters are being pushed toward their physiological limits. This study shows that <strong>parents matter</strong>—and that immune experiences in one generation can shape how the next generation grows, survives, and uses energy.</p>
+<p>That’s environmental memory in action.</p>
+<p>And it may become one of our most powerful tools for building climate-resilient aquaculture in the decades ahead.</p>
+<section id="reference" class="level3">
+<h3 class="anchored" data-anchor-id="reference">📚 Reference</h3>
+<p>Baird M, Huffmyer AS, Ozguner N, Roberts SB. Parental immune priming reshapes offspring growth, metabolism, and thermal tolerance in the Pacific Oyster. <strong>bioRxiv</strong>. <a href="https://doi.org/10.64898/2025.12.10.693539" class="uri">https://doi.org/10.64898/2025.12.10.693539</a></p>
+
+
+<!-- -->
+
+</section>
+</section>
+
+ ]]></description>
+  <category>oyster</category>
+  <category>aquaculture</category>
+  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-polyic/</guid>
+  <pubDate>Sun, 11 Jan 2026 08:00:00 GMT</pubDate>
+  <media:content url="https://faculty.washington.edu/sr320/posts/frontpage/sr320-polyic/plot.png" medium="image" type="image/png" height="98" width="144"/>
+</item>
 <item>
   <title>Mothers Know Best</title>
   <dc:creator>Steven Roberts</dc:creator>
@@ -1045,167 +1135,6 @@ It also resonates with ongoing efforts to integrate <strong>epigenetic and physi
   <guid>https://faculty.washington.edu/sr320/posts/posts/</guid>
   <pubDate>Wed, 06 Nov 2024 08:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/2024-11-06_13-57-57.png" medium="image" type="image/png"/>
-</item>
-<item>
-  <title>Deep dive into the handbook</title>
-  <link>https://faculty.washington.edu/sr320/posts/sr320-handbook/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-
-<p>A unique perspective. You will never guess what they reveal!</p>
-<section id="audio" class="level1">
-<h1>Audio</h1>
-<div class="quarto-video"><video id="video_shortcode_videojs_video1" class="video-js vjs-default-skin vjs-fluid" controls="" preload="auto" data-setup="{}" title=""><source src="http://gannet.fish.washington.edu/seashell/snaps/handbook.wav"></video></div>
-</section>
-<section id="transcript" class="level1">
-<h1>Transcript</h1>
-<p>Welcome to The Deep Dive, where we dig into the nitty gritty of fascinating topics.</p>
-<p>Today, we’re taking a deep dive into the Roberts Lab at the University of Washington, and we’re doing that through the lens of their handbook.</p>
-<p>It’s more than just a rule book, though, isn’t it?</p>
-<p>Oh, absolutely.</p>
-<p>It’s like a window into their whole approach to science.</p>
-<p>Everything from, like, groundbreaking research to how they actually build their research culture.</p>
-<p>And they’re known for being incredibly transparent, which this handbook really embodies.</p>
-<p>Yeah, it’s refreshing.</p>
-<p>And speaking of refreshing, I have to ask you about this freezer alarm situation.</p>
-<p>Oh, yes.</p>
-<p>So they have, like, a dedicated alarm for their ultra-low temperature freezers, right?</p>
-<p>Yeah.</p>
-<p>But there’s this 15-minute delay before anyone actually gets notified if it goes off.</p>
-<p>Can you imagine?</p>
-<p>It’s like a slow-motion heart attack for a researcher.</p>
-<p>Right.</p>
-<p>All those precious samples.</p>
-<p>I’d be a wreck.</p>
-<p>It really highlights the fragility of these biological materials they’re working with.</p>
-<p>RNA, proteins, these things have to be stored at, like, negative 80 degrees Celsius.</p>
-<p>Wow.</p>
-<p>Even a short power outage could be disastrous.</p>
-<p>So is that delay, like, a safety net to give the system a chance to recover?</p>
-<p>Exactly.</p>
-<p>It’s a calculated risk.</p>
-<p>They’re trying to balance preventing false alarms while also, you know, protecting those invaluable research materials.</p>
-<p>Makes sense.</p>
-<p>Yeah.</p>
-<p>And it seems like that emphasis on meticulousness, on minimizing risk, it really comes through in the whole handbook, especially when they talk about lab safety and chemicals.</p>
-<p>It’s serious business.</p>
-<p>Right.</p>
-<p>Like with Arnazole RT, they’re very clear about it being corrosive, potentially harmful if you inhale it, even disposing of it.</p>
-<p>It’s a whole multi-step process.</p>
-<p>Well, they’re dealing with some pretty potent stuff.</p>
-<p>It underscores their dedication to, you know, not just scientific rigor, but the actual well-being of their researchers.</p>
-<p>Absolutely.</p>
-<p>It’s like they’re creating an environment where cutting-edge science can happen, but it can happen safely.</p>
-<p>Safety first.</p>
-<p>Yeah.</p>
-<p>And that meticulousness, that doing things by the book, it goes beyond just lab safety, you know.</p>
-<p>Right.</p>
-<p>It’s woven into their whole research philosophy, which makes you wonder, if they’re this careful with safety, how does that translate to, say, data management or collaboration?</p>
-<p>Good question.</p>
-<p>And as luck would have it, that’s exactly what we’re going to be digging into in the rest of this deep dive.</p>
-<p>You know, it’s funny you should mention that because the next thing that really struck me about this handbook was their code of conduct.</p>
-<p>Oh, interesting.</p>
-<p>How so?</p>
-<p>Well, for one, it’s incredibly detailed, even for like their diversity, equity, and inclusion meetings.</p>
-<p>You don’t always see that level of, I don’t know, formality in a lab handbook.</p>
-<p>What kinds of things are we talking about here?</p>
-<p>They have these great phrases like, “Elevate impact above intent,” and, “Expect and accept non-closure.”</p>
-<p>Like, really specific guidelines.</p>
-<p>Huh.</p>
-<p>It sounds like they’re trying to foster a very specific kind of research environment.</p>
-<p>Right.</p>
-<p>One where people feel comfortable admitting they don’t know everything, which, let’s be honest, is most of the time in research, right?</p>
-<p>Oh, absolutely.</p>
-<p>Science is all about embracing uncertainty.</p>
-<p>But it takes a certain culture to really allow for that.</p>
-<p>Totally.</p>
-<p>And it seems like they’re putting a lot of emphasis on making sure everyone feels heard and respected, especially in those DEI meetings.</p>
-<p>Well, and that makes sense, right?</p>
-<p>If you want to have those tough conversations about diversity and inclusion, you need to create a space where people feel safe to speak their minds.</p>
-<p>Yeah.</p>
-<p>No, you’re right.</p>
-<p>It all ties together.</p>
-<p>And then there’s this whole thing about mentorship.</p>
-<p>They really encourage lab members to have multiple mentors, not just one.</p>
-<p>That’s interesting.</p>
-<p>Most labs I’ve seen, it’s pretty standard to have one primary mentor.</p>
-<p>Right.</p>
-<p>Yeah.</p>
-<p>So I thought that was really unique.</p>
-<p>It kind of speaks to this idea of providing a well-rounded experience, right?</p>
-<p>Absolutely.</p>
-<p>Different mentors bring different perspectives, different areas of expertise.</p>
-<p>It can really enrich a researcher’s training.</p>
-<p>Okay, so we’ve got meticulous safety protocols, a very deliberate approach to their lab culture.</p>
-<p>But we also know they’re dealing with a massive amount of data.</p>
-<p>Like their handbook mentions Nightingale for sequencing this whole network attached storage system called Gannett.</p>
-<p>Don’t forget the supercomputer.</p>
-<p>MOCs, was it?</p>
-<p>Oh, right.</p>
-<p>MOCs.</p>
-<p>I mean, it’s a lot.</p>
-<p>It really makes you wonder how they manage it all.</p>
-<p>It’s a data tsunami.</p>
-<p>How do they keep from drowning?</p>
-<p>Well, for one thing, they’re incredibly organized.</p>
-<p>Like religiously organized.</p>
-<p>Give me the details.</p>
-<p>Think detailed metadata for every single experiment, strict folder structures on their network.</p>
-<p>They even have readme files.</p>
-<p>Readme files for every folder, seriously.</p>
-<p>Seriously.</p>
-<p>And it’s all part of this commitment to open science.</p>
-<p>They want their research to be accessible, transparent.</p>
-<p>So anyone could theoretically go in and understand their data, their methods.</p>
-<p>That’s the idea.</p>
-<p>It’s about breaking down those silos, you know, fostering collaboration, avoiding unnecessary redundancy, ultimately speeding up discoveries.</p>
-<p>It’s kind of inspiring, actually.</p>
-<p>It’s like they’re playing the long game, advancing science as a whole, not just their own work.</p>
-<p>Exactly.</p>
-<p>But okay, even with perfect organization, all that data analysis, it’s got to be intense.</p>
-<p>They mentioned Jupiter notebooks in the handbook.</p>
-<p>Right, and mocks the supercomputer.</p>
-<p>And they even talk about using like the command line.</p>
-<p>Hard course, so they’re not messing around.</p>
-<p>Well, they’re equipping their researchers with a seriously powerful toolkit.</p>
-<p>But it goes beyond just the tech.</p>
-<p>They even recommend this book, Getting Things Done.</p>
-<p>Time management.</p>
-<p>Time management.</p>
-<p>It’s all about efficiency.</p>
-<p>They don’t just give them the tools.</p>
-<p>They give them the training, the resources to actually use them well.</p>
-<p>It’s like they’ve thought of everything.</p>
-<p>Yeah.</p>
-<p>And it doesn’t stop there.</p>
-<p>They have a whole section on conferences, funding opportunities, even like travel grants.</p>
-<p>They want their researchers to be well-rounded, right?</p>
-<p>Not just stuck in the lab, but out there presenting, collaborating, getting their work funded.</p>
-<p>It’s impressive, I have to say.</p>
-<p>Looking at the Roberts Lab this way, through their handbook, you really get a sense of the thoughtfulness, the care that goes into building a successful research environment.</p>
-<p>It’s not just about, you know, the results, the discoveries.</p>
-<p>It’s the people, the culture.</p>
-<p>And that commitment to moving science forward in a way that’s open and collaborative, it’s really something.</p>
-<p>Makes you wonder what they’ll accomplish, what amazing discoveries are on the horizon for them.</p>
-<p>It does, doesn’t it?</p>
-<p>And that’s something to ponder as we wrap up this deep dive into the world of the Roberts Lab.</p>
-<p>Until next time, keep exploring, keep questioning, and keep diving deep.</p>
-
-
-<!-- -->
-
-</section>
-
- ]]></description>
-  <category>handbook</category>
-  <category>audio</category>
-  <guid>https://faculty.washington.edu/sr320/posts/sr320-handbook/</guid>
-  <pubDate>Sat, 14 Sep 2024 07:00:00 GMT</pubDate>
-  <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Roberts_Lab_Handbook_2024-09-14_13-23-52.png" medium="image" type="image/png"/>
 </item>
 </channel>
 </rss>

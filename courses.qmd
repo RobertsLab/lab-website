@@ -137,7 +137,6 @@ Both freshwater and marine environments are continually changing in response to 
 [Visit Course](https://canvas.uw.edu/courses/1719428){.course-link}
 :::::
 
-
 ::::: course-card
 ::: course-title
 FISH 510 Marine Organism Resilience and Epigenetics
@@ -152,18 +151,18 @@ This graduate seminar explores the intersection of marine organism resilience an
 
 ::::: course-card
 ::: course-title
-QSCI 381  Introduction to probability and statistics
+QSCI 381 Introduction to probability and statistics
 :::
 
 ::: course-description
 The objective of this course is to provide students with an introductory understanding of the concept of probability and statistics. Statistics plays an important role in nearly all aspects of society, and your ability to understand, interpret, and critique data and the statistics used to analyze these data will provide you with an important foundation, regardless of your career choice. After completing this course you will:
 
-- Understand the different types of data and how they are collected.
-- Understand the basis of distributions and the information that can be inferred from them.
-- Understand different types of basic data analysis, and how to interpret the results.
+-   Understand the different types of data and how they are collected.
+-   Understand the basis of distributions and the information that can be inferred from them.
+-   Understand different types of basic data analysis, and how to interpret the results.
 :::
 
-
+[Visit Course](https://canvas.uw.edu/courses/1865901/assignments/syllabus){.course-link}
 :::::
 
 ::::: course-card
