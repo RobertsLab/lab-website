@@ -1,12 +1,12 @@
 ---
-title: "SHELLFISH: Developing strategies to increase climate resilience in restoration and commercial shellfish aquaculture "
+title: "Advancement of innovative approaches to support sustainable aquaculture"
 code: ""
 status: "active"
 type: "grant"
 website: ""
 theme: "aquaculture resource development"
 agency: "NOAA"
-year: "2024"
+year: "2025"
 github: ""
 toc: FALSE
 categories:
@@ -39,9 +39,8 @@ The aquaculture industry is already being threatened by climate change and ocean
 
 **Objectives**:
 
-1\. Develop new technologies to achieve sterility in cultured shellfish species.
-
-2.           Assess OA sensitivity of the native littleneck clam and identify molecular mechanisms underlying parental carryover effects by comparing the transcriptional (gene expression) and lipid profile of gametes.
+1.  Develop new technologies to achieve sterility in cultured shellfish species.
+2.  Assess OA sensitivity of the native littleneck clam and identify molecular mechanisms underlying parental carryover effects by comparing the transcriptional (gene expression) and lipid profile of gametes.
 
 ## Data Availability
 
@@ -50,17 +49,17 @@ The aquaculture industry is already being threatened by climate change and ocean
 ::: panel-tabset
 ## Codes
 
-GR051223
+GR061456
 
 ## Proposal ID
 
-UW CICOES [Task II Shellfish](https://d.pr/f/Dfs0MS)
+UW CICOES [Task II Shellfish](https://d.pr/f/Dfs0MS). \| GR061456 Task II REED 2025 \$549,526 26% IDC
 
 ## Dates
 
-7/2024 -- 6/2026
+7/2025 -- 6/2029
 
 ## Amount
 
-\$143,413
+\$549,526
 :::
