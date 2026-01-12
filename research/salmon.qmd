@@ -1,0 +1,45 @@
+---
+title: "Biological sensitivity, resiliency, and adaptation to ocean acidification in marine fish species"
+code: ""
+status: "active"
+type: "grant"
+website: ""
+theme: "reproductive biology and ecology"
+agency: "NOAA"
+year: "2025"
+github: ""
+toc: FALSE
+categories:
+  - salmon
+  - acidification
+  - 02-RBE
+  - open
+---
+
+## Collaborators
+
+Andy Dittman
+
+## Summary
+
+The ability of marine organisms to acclimate or adapt to environmental conditions associated with ocean acidification (OA) and other stressors (rising temperatures, deoxygenation) is a critical uncertainty in the management, conservation and recovery of these species. Species- and population-level differences in sensitivity to elevated CO~2~ and co-stressors have been described extensively in a wide variety of organisms but a mechanistic understanding of why these differences exist and how some animals are able to acclimate or adapt to these environmental changes is lacking. Understanding how animals respond to environmental stressors and how we can develop management and adaptation strategies for living marine resources under OA requires knowledge of the mechanisms underlying sensitivity and acclimation/adaptation to OA and co-stressors. The overarching goal of this project is to utilize genomic and neurobehavioral approaches to develop a more thorough understanding of the processes underlying these responses in Pacific salmon that are critical for commercial and recreational fishing and are species of conservation concern.
+
+## Data Availability
+
+## Notes
+
+::: panel-tabset
+## Codes
+
+GR062536 “Packard Roberts” - Jan 12, 2027 \| GR061459 Task II OLLIE 2025 \$72,531
+
+## Proposal ID
+
+## Dates
+
+7/2025 -- 6/2029
+
+## Amount
+
+\$140,000
+:::
