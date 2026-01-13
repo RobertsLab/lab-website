@@ -1049,7 +1049,7 @@
     "href": "publications/articles/trigg2021.html#data-availability",
     "title": "Invertebrate methylomes provide insight into mechanisms of environmental tolerance and reveal methodological biases",
     "section": "Data Availability",
-    "text": "Data Availability\n\n\n\n\n\n\nOpen Data\n\n\n\nThis article has earned an Open Data Badge for making publicly available the digitally-shareable data necessary to reproduce the reported results\n\n\nThe data sets supporting the conclusions of this article are available in the Coral Methylation Methods Comparison repository, http://doi.org/10.17605/OSF.IO/X5WAZ, and included within the article and its additional files. All raw data can be accessed under NCBI Bioproject PRJNA691891."
+    "text": "Data Availability\n\n\n\n\n\n\nImportantOpen Data\n\n\n\nThis article has earned an Open Data Badge for making publicly available the digitally-shareable data necessary to reproduce the reported results\n\n\nThe data sets supporting the conclusions of this article are available in the Coral Methylation Methods Comparison repository, http://doi.org/10.17605/OSF.IO/X5WAZ, and included within the article and its additional files. All raw data can be accessed under NCBI Bioproject PRJNA691891."
   },
   {
     "objectID": "publications/articles/integrating-discovery-driven-proteomics-and-select_2017.html",
@@ -1874,436 +1874,30 @@
     "text": "Notes\n\nCodesProposal IDDatesAmount\n\n\nAWD-007435 Grant Revenue (RC1054) (Line 14)\nGR013472 SG ROBERTS_R_SFA15 - 62-5534 - 2021\nAWD-001657 Grant Revenue (RC1054) (Line 51)\nGR014879 SG ROBERTS_VADOPALAS - 62-7661 - 2021\n\n\nWashington Sea Grant / R_SFA-15 (62-5534) and Puget Sound Partnership (co-funding) / 2022-44 (63-5817)\n\n\n02/2022 – 1/2024\n\n\n$279,374"
   },
   {
-    "objectID": "research/wsg-ec.html",
-    "href": "research/wsg-ec.html",
-    "title": "A collaborative partnership to address mass mortalities in oyster aquaculture through improved field monitoring, husbandry practices, and workforce development",
+    "objectID": "research/nrsp8.html",
+    "href": "research/nrsp8.html",
+    "title": "Identifying genomic architecture features that contribute to critical phenotypes in shellfish",
     "section": "",
-    "text": "Emily Carrington"
+    "text": "Mackenzie Gavery, Matt George"
   },
   {
-    "objectID": "research/wsg-ec.html#collaborators",
-    "href": "research/wsg-ec.html#collaborators",
-    "title": "A collaborative partnership to address mass mortalities in oyster aquaculture through improved field monitoring, husbandry practices, and workforce development",
+    "objectID": "research/nrsp8.html#collaborators",
+    "href": "research/nrsp8.html#collaborators",
+    "title": "Identifying genomic architecture features that contribute to critical phenotypes in shellfish",
     "section": "",
-    "text": "Emily Carrington"
+    "text": "Mackenzie Gavery, Matt George"
   },
   {
-    "objectID": "research/wsg-ec.html#summary",
-    "href": "research/wsg-ec.html#summary",
-    "title": "A collaborative partnership to address mass mortalities in oyster aquaculture through improved field monitoring, husbandry practices, and workforce development",
+    "objectID": "research/nrsp8.html#summary",
+    "href": "research/nrsp8.html#summary",
+    "title": "Identifying genomic architecture features that contribute to critical phenotypes in shellfish",
     "section": "Summary",
-    "text": "Summary\nAs a collaborative partnership, our collective goal is to ensure the sustainable expansion of oyster aquaculture within Washington State by reducing the frequency and severity of mass mortality events that result from the interaction between OsHV-1 infection and extreme climate events such as marine and aerial heatwaves. The specific research and outreach objectives we will use to achieve this goal are:\nObjective 1. Determine susceptibility of Washington shellfish farms to heatwaves. Air and water temperatures experienced by oysters during grow-out will be monitored at farms within the Salish Sea and Willapa Bay in collaboration with industry partners. Continuous monitoring of environmental conditions in combination with oyster mortality data will be used to generate a climate risk assessment model for commercial growing areas within Washington State.\nObjective 2. Develop a commercially viable hatchery husbandry protocol that improves oyster heat tolerance. Oyster seed (“spat”) from OsHV-1 resistant families supplied by the USDA-ARS’ Pacific Shellfish Breeding Center (PSBC) will undergo sublethal exposure to simulated marine and aerial heat waves within a hatchery setting. The summer survival of stress-primed spat out-planted at farms with Puget Sound and Willapa Bay will inform the creation of a husbandry protocol that improves oyster climate resilience.\nObjective 3. Develop an enhanced workforce training curriculum for shellfish industry technicians. To address the industry’s need for skilled technicians, students from Bellingham Technical College’s (BTC) Fisheries and Aquaculture Sciences Program will be integrated into research objectives; this collaboration will be used to generate an enhanced workforce training curriculum that uses OsHV-1 and heat waves as case studies. Students will also gain exposure to training opportunities by serving as hatchery technicians, summer interns at shellfish farms, and student ambassadors during regular partner meetings."
+    "text": "Summary\nShellfish are a key component of domestic seafood production. Shellfish aquaculture is one of the most economically important sectors of the US industry, with major species including oysters and clams. As is the case with all farmed species, there are a suite of desirable phenotypes that directly correspond to increased environmental and economic sustainability. The ability to identify genomic predictors of phenotype offer a framework to increase aquaculture production. In shellfish aquaculture key phenotypes continue to be resilience and stress tolerance. Understanding the physiological underpinnings of these phenotypes in oysters and clams has been a focus in our group. To this end we have archived hundreds of samples from families with diverse phenotypic responses to stress. For example, as part of one effort to examine the influence of ploidy on oyster stress tolerance we have Standard Metabolic Rate (SMR) and enzyme activity data on oysters that reveal diverse physiological profiles. In response to the NRSP-8 Small Funding Possibilities for US Aquaculture Groups, we are proposing to 1) identify genomic architecture variation contributing to desired phenotypes in shellfish and 2) develop a community platform to share data and analytical approaches. These objectives are in direct response to Program Objective 2: Advance genome-to-phenome prediction by implementing strategies and tools to identify and validate genes and allelic variants predictive of biologically and economically important phenotypes and traits. Additionally the proposed work will address Program Objective 1, by … providing a deep functional annotation of assemblies, and comparison across species to understand structure and function of animal genomes."
   },
   {
-    "objectID": "research/wsg-ec.html#data-availability",
-    "href": "research/wsg-ec.html#data-availability",
-    "title": "A collaborative partnership to address mass mortalities in oyster aquaculture through improved field monitoring, husbandry practices, and workforce development",
-    "section": "Data Availability",
-    "text": "Data Availability"
-  },
-  {
-    "objectID": "research/wsg-ec.html#notes",
-    "href": "research/wsg-ec.html#notes",
-    "title": "A collaborative partnership to address mass mortalities in oyster aquaculture through improved field monitoring, husbandry practices, and workforce development",
-    "section": "Notes",
-    "text": "Notes\n\nCodesProposal IDDatesAmount\n\n\nTBD\n\n\nTBD\n\n\n2/2024 – 1/2026\n\n\n$280,000"
-  },
-  {
-    "objectID": "research/cod.html",
-    "href": "research/cod.html",
-    "title": "Gene activity and genetic selection in Pacific cod reared under thermal stress",
-    "section": "",
-    "text": "Louise Copeman (co-PI)\nBen Laurel (co-PI)\nKrista Nichols (co-PI)\nIngrid Spies (co-PI)"
-  },
-  {
-    "objectID": "research/cod.html#collaborators",
-    "href": "research/cod.html#collaborators",
-    "title": "Gene activity and genetic selection in Pacific cod reared under thermal stress",
-    "section": "",
-    "text": "Louise Copeman (co-PI)\nBen Laurel (co-PI)\nKrista Nichols (co-PI)\nIngrid Spies (co-PI)"
-  },
-  {
-    "objectID": "research/cod.html#summary",
-    "href": "research/cod.html#summary",
-    "title": "Gene activity and genetic selection in Pacific cod reared under thermal stress",
-    "section": "Summary",
-    "text": "Summary\nRecent heat wave stress in the Gulf of Alaska has resulted in significant declines of Pacific cod, Gadus macrocephalus, in that region. In particular, overwintering success of juveniles is hypothesized to represent a critical bottleneck with food availability the previous summer affecting juvenile lipid reserves and thus, their ability to survive winter. The physiological and transcriptional responses of Pacific cod and whether selective mortality is present under thermal stress are unknown. The proposed project will address these questions critical to their survival under climate change by identifying regions of the genome and epigenome that respond to thermal stress and starvation. Juvenile Pacific cod will be reared in three temperatures under feeding and non-feeding conditions, then an integrated genomic approach will identify genes, gene variants, and epigenetic markers that respond to thermal stress and confer resilience. To complement the genomic approaches and further investigate temperature influences on energy resources, we will perform lipid analyses. This work will inform predictions of genetic selection and molecular response of Pacific cod in the Gulf of Alaska under climate change."
-  },
-  {
-    "objectID": "research/cod.html#data-availability",
-    "href": "research/cod.html#data-availability",
-    "title": "Gene activity and genetic selection in Pacific cod reared under thermal stress",
-    "section": "Data Availability",
-    "text": "Data Availability"
-  },
-  {
-    "objectID": "research/cod.html#notes",
-    "href": "research/cod.html#notes",
-    "title": "Gene activity and genetic selection in Pacific cod reared under thermal stress",
-    "section": "Notes",
-    "text": "Notes\n\nCodesProposal IDDatesAmount\n\n\nAWD-008727 Grant Revenue (RC1054) (Line 1)\nGR031727 COD THERMAL STRESS - 66-9283 - 2021\n\n\nPacific States Marine Fisheries Commission / 23-084G (66-9283)\n\n\n11/1/2022 – 7/31/2025\n\n\n$524,788"
-  },
-  {
-    "objectID": "research/usda.html",
-    "href": "research/usda.html",
-    "title": "Improved climate resilience in oysters through optimization of hatchery-based environmental conditioning practices",
-    "section": "",
-    "text": "Matt George"
-  },
-  {
-    "objectID": "research/usda.html#collaborators",
-    "href": "research/usda.html#collaborators",
-    "title": "Improved climate resilience in oysters through optimization of hatchery-based environmental conditioning practices",
-    "section": "",
-    "text": "Matt George"
-  },
-  {
-    "objectID": "research/usda.html#summary",
-    "href": "research/usda.html#summary",
-    "title": "Improved climate resilience in oysters through optimization of hatchery-based environmental conditioning practices",
-    "section": "Summary",
-    "text": "Summary\nAs academic, industry, and tribal stakeholders, our collective goal is to ensure the sustainable expansion of oyster aquaculture within the U.S. by reducing the frequency and severity of mass mortality events by improving the climate resilience of oyster stocks. The specific research objectives are: Optimize early-life stage environmental conditioning to improve climate resilience Assess carry-over benefits of broodstock husbandry practices on offspring performance Objective 1. Optimize early-life stage environmental conditioning to improve climate resilience. Developmental plasticity occurs when the environment experienced by an organism during development alters the phenotype of the same organism during later life-stages (Figure). To assess the potential for developmental plasticity to produce positive carry-over effects that improve resilience, we will expose oysters to a variety of environmental stressors at nonlethal levels during larval rearing. The performance of larvae will be assessed during early development and compared with performance after summer deployment at grow-out sites.\n\n\n\nfig\n\n\nObjective 2. Assess carry-over benefits of broodstock husbandry practices on offspring performance. Transgenerational plasticity occurs when the environment experienced by parents influences the phenotype of their offspring (Fig. 4B). To assess the potential for transgenerational plasticity to produce positive carry-over effects that improve offspring resilience, we will expose oyster broodstock to a variety of environmental stressors at nonlethal levels prior to broodstock conditioning and spawning. The performance of offspring will then be assessed during the pre- and post-settlement larval stages and compared with performance after summer deployment at grow-out site"
-  },
-  {
-    "objectID": "research/usda.html#data-availability",
-    "href": "research/usda.html#data-availability",
-    "title": "Improved climate resilience in oysters through optimization of hatchery-based environmental conditioning practices",
-    "section": "Data Availability",
-    "text": "Data Availability"
-  },
-  {
-    "objectID": "research/usda.html#notes",
-    "href": "research/usda.html#notes",
-    "title": "Improved climate resilience in oysters through optimization of hatchery-based environmental conditioning practices",
-    "section": "Notes",
-    "text": "Notes\n\nCodesProposal IDDatesAmount\n\n\nAWD-008583 Grant Revenue (RC1054) (Line 1)\nGR014587 CLIMATE RESILIENCE - 62-7174 - 2021021\n\n\nUSDA / 2022-70007-38284 (62-7174)\n\n\n9/1/2022 – 8/31/2024\n\n\n$299,374"
-  },
-  {
-    "objectID": "research/archive/ceabigr.html",
-    "href": "research/archive/ceabigr.html",
-    "title": "Collaborative Research: Does ocean acidification induce a methylation response that affects the fitness of the next generation in oysters?",
-    "section": "",
-    "text": "Katie Lotterhos"
-  },
-  {
-    "objectID": "research/archive/ceabigr.html#collaborators",
-    "href": "research/archive/ceabigr.html#collaborators",
-    "title": "Collaborative Research: Does ocean acidification induce a methylation response that affects the fitness of the next generation in oysters?",
-    "section": "",
-    "text": "Katie Lotterhos"
-  },
-  {
-    "objectID": "research/archive/ceabigr.html#summary",
-    "href": "research/archive/ceabigr.html#summary",
-    "title": "Collaborative Research: Does ocean acidification induce a methylation response that affects the fitness of the next generation in oysters?",
-    "section": "Summary",
-    "text": "Summary\nLiving organisms may acclimate to environmental changes through epigenetic modifications to DNA, which alter the way genetic instructions are interpreted without altering the DNA code itself. While these modifications to organismal phenotype or function can be reversible, some of them may be inherited by offspring, potentially producing multiple, heritable outcomes from a single genome and affecting ecological and evolutionary outcomes. This project uses symbiotic, metabolically complex reef building corals as a model system to test the connections between physiological, epigenetic, and metabolic states, and predict how population and community dynamics are influenced by epigenetically-modulated phenotypes. This work will advance biological knowledge by delineating fundamental links (Rules of Life) between ubiquitous organismal energetic processes, epigenetics, and eco-evolutionary outcomes. The Broader Impacts activities parallel the project’s integrative approach, linking insights from Environment x Energetics x Epigenetics x Ecology for Education into an E5 platform. The E5 platform will provide i) early career STEM training, ii) local and global community education, and iii) educational resources for open science, quantitative approaches, and research reproducibility. Further, this E5 platform will train and inform the next generation of diverse scientists and public by combining local and global initiatives focusing on groups underrepresented in STEM.\nThis project examines how nutrient metabolism in the mitochondria generates cofactors and energy that will instruct the epigenetic machinery in the cell nucleus to modulate genome function to appropriately respond to environmental conditions. Environmentally-responsive metabolic function and energetic-epigenetic linkages act as drivers of complex emergent phenotypes. To elucidate relationships that are the basis for Rules of Life with respect to epigenetics, this project will use integrative experimental and modeling approaches focused on reef building corals to: 1) link nutritionally-provisioned metabolites with epigenetic and organismal state through seasonal sampling across environmental gradients; 2) expand current Dynamic Energy Budget (DEB) models for symbiotic organisms to further integrate critical facets of nutritional symbiosis and calcification; 3) experimentally modulate metabolic and therefore epigenetic states through repeated exposure to increased temperature and nutrients, to test intra- and trans-generational epigenetic inheritance; 4) use DEB theory to identify shifts in energetics associated with epigenetic modulation, and link these sub-organismal processes to higher levels of organization; and 5) integrate findings into a generalizable, predictive eco-evolutionary model that links nutritional interactions, metabolic states, and subsequent epigenetic effects to the timescales regulating organismal processes and eco-evolutionary outcomes. This effort will provide characterization of environmental epigenetic phenomena in ecosystem-engineering marine invertebrates. This characterization includes determining the mechanisms and the degree of epigenetic ‘memory’ both within and across generations. By including information on environmental legacies, propagated by epigenetics, this project will advance both organismal and population-based models and improve capacity to predict responses to acute and chronic environmental signals."
-  },
-  {
-    "objectID": "research/archive/ceabigr.html#data-availability",
-    "href": "research/archive/ceabigr.html#data-availability",
-    "title": "Collaborative Research: Does ocean acidification induce a methylation response that affects the fitness of the next generation in oysters?",
-    "section": "Data Availability",
-    "text": "Data Availability\nThe online version contains supplementary material available at https://doi.org/10.5281/zenodo.4563060"
-  },
-  {
-    "objectID": "research/archive/wsg-sc.html",
-    "href": "research/archive/wsg-sc.html",
-    "title": "Enhancing sustainability of shellfish aquaculture through streamlined maturation control",
-    "section": "",
-    "text": "Mackenzie Gavery"
-  },
-  {
-    "objectID": "research/archive/wsg-sc.html#collaborators",
-    "href": "research/archive/wsg-sc.html#collaborators",
-    "title": "Enhancing sustainability of shellfish aquaculture through streamlined maturation control",
-    "section": "",
-    "text": "Mackenzie Gavery"
-  },
-  {
-    "objectID": "research/archive/wsg-sc.html#summary",
-    "href": "research/archive/wsg-sc.html#summary",
-    "title": "Enhancing sustainability of shellfish aquaculture through streamlined maturation control",
-    "section": "Summary",
-    "text": "Summary\nThe proposed objectives cover the essential first steps toward generating sterile bivalves via molecular disruption of germ cell formation. The first step in the process is the identification of genes involved in primordial germ cell (PGC) specification in bivalves via single-cell RNA sequencing (scRNA- Seq). This cutting-edge technique is particularly suited to identify germ cell markers in bivalves, since germ cell precursors represent a small number of cells in developing embryos. This information is integral to being able to control germ cell fate for reproductive sterilization of aquaculture species, and our proposed use of scRNA-Seq for directed application to aquaculture is both novel and potentially highly beneficial to the broader shellfish aquaculture community. Our first specific research aim is to characterize genomic processes involved in germ cell specification in Pacific oysters. A second fundamental step in the process is the optimization of techniques to deliver targeted, gene-regulating molecules to embryos to inhibit germ cell formation. Methods to optimize delivery techniques, including the use of CRISPR-Cas9 and morpholino constructs, have yet to be developed for bivalve embryos. Therefore, our second specific research aim is to optimize delivery techniques of custom gene-regulating molecules to oyster embryos. The completion of these objectives sets the stage for a more effective and sustainable approach for sterilization of shellfish."
-  },
-  {
-    "objectID": "research/archive/wsg-sc.html#data-availability",
-    "href": "research/archive/wsg-sc.html#data-availability",
-    "title": "Enhancing sustainability of shellfish aquaculture through streamlined maturation control",
-    "section": "Data Availability",
-    "text": "Data Availability"
-  },
-  {
-    "objectID": "research/archive/vernon.html",
-    "href": "research/archive/vernon.html",
-    "title": "Vernon: Development of innovative approaches to support sustainable aquaculture and understand the effects of ocean acidification on marine species",
-    "section": "",
-    "text": "Mackenzie Gavery"
-  },
-  {
-    "objectID": "research/archive/vernon.html#collaborators",
-    "href": "research/archive/vernon.html#collaborators",
-    "title": "Vernon: Development of innovative approaches to support sustainable aquaculture and understand the effects of ocean acidification on marine species",
-    "section": "",
-    "text": "Mackenzie Gavery"
-  },
-  {
-    "objectID": "research/archive/vernon.html#summary",
-    "href": "research/archive/vernon.html#summary",
-    "title": "Vernon: Development of innovative approaches to support sustainable aquaculture and understand the effects of ocean acidification on marine species",
-    "section": "Summary",
-    "text": "Summary\nEnvironmental variability due to climate change and ocean acidification (OA) are having multifaceted impacts on marine species, ecosystems and human industries such as marine aquaculture. It is absolutely critical to understand how marine organisms, and industries that rely on them, will respond to these changing conditions. Arguably, it will be just as important to provide tools and best practices to mitigate these effects, and in the case of marine aquaculture – find solutions to increase sustainability of the sector broadly, to create resilience even in the face of environmental uncertainty. Innovative scientific solutions are required to meet these ongoing and future challenges. In this project, we will add capacity to collaborative research between partners at the University of Washington and the Northwest Fisheries Science Center, addressing objectives of key importance to the National Marine Fisheries Service mission. These include innovative problem-solving approaches to address challenges facing sustainable aquaculture development, understanding the impacts of climate variability on marine fish and shellfish, and woven throughout these research activities is the development of ’omics and bioinformatics workflows for both data generation and data analysis (bioinformatics). Through this composite project, our goal is to contribute to applications to support sustainable aquaculture, increase our understanding of the effects of OA on marine fish and shellfish and contribute bioinformatic capacity, tools and workflows for research related to aquaculture, genomics and climate change."
-  },
-  {
-    "objectID": "research/archive/vernon.html#data-availability",
-    "href": "research/archive/vernon.html#data-availability",
-    "title": "Vernon: Development of innovative approaches to support sustainable aquaculture and understand the effects of ocean acidification on marine species",
-    "section": "Data Availability",
-    "text": "Data Availability"
-  },
-  {
-    "objectID": "research/archive/vernon.html#notes",
-    "href": "research/archive/vernon.html#notes",
-    "title": "Vernon: Development of innovative approaches to support sustainable aquaculture and understand the effects of ocean acidification on marine species",
-    "section": "Notes",
-    "text": "Notes\n\nCodesProposal IDDatesAmount\n\n\nAWD-004600 Grant Revenue (RC1054) (Line 128)\nGR012147 TASK II VERNON - 62-3837 - 2021\nAWD-004600 Grant Revenue (RC1054) (Line 3)\nGR011321 TASK II OMICS TECH - 62-2795 - 2021\n\n\nUW CICOES Task II Vernon (62-3837) / NOAA - NA20OAR4320271\n\n\n7/2022 – 6/2024\n\n\n$1,182,294"
-  },
-  {
-    "objectID": "research/aquamine.html",
-    "href": "research/aquamine.html",
-    "title": "FACT: AquaMine - A High Performance Genomic Data Mining System for Species of Importance to US Aquaculture",
-    "section": "",
-    "text": "PI: Christine G. Elsik, University of Missouri"
-  },
-  {
-    "objectID": "research/aquamine.html#collaborators",
-    "href": "research/aquamine.html#collaborators",
-    "title": "FACT: AquaMine - A High Performance Genomic Data Mining System for Species of Importance to US Aquaculture",
-    "section": "",
-    "text": "PI: Christine G. Elsik, University of Missouri"
-  },
-  {
-    "objectID": "research/aquamine.html#summary",
-    "href": "research/aquamine.html#summary",
-    "title": "FACT: AquaMine - A High Performance Genomic Data Mining System for Species of Importance to US Aquaculture",
-    "section": "Summary",
-    "text": "Summary\nAquaMine is a data mining system that integrates genome assemblies and gene annotation data for aquatic eumetazoan species of importance to US aquaculture and fisheries, with the goal of enabling researchers to create customized annotation datasets integrated with their own data. AquaMine was developed using the InterMine genomic data mining platform, which includes a web application with several search tools, including a simple key word search, predefined template queries, a QueryBuilder Tool for creating custom queries, a Regions Search Tool for coordinate-based queries, and a List Tool for uploading and searching with lists of identifiers. AquaMinev1.2 contains genomes of 37 aquatic species, including Arctic char, Atlantic salmon, California yellowtail, channel catfish, coho salmon, eastern oyster, giant tiger prawn, Nile tilapia, Pacific oyster, Pacific white shrimp, rainbow trout, striped sea bass and yellow perch. Annotation data includes RefSeq genes and additional data sources that may be available for each species, including Ensembl, KEGG, UniProt, Gene Ontology (GO), PubMed, and OrthoDB. Genes of human, fruit fly, owl limpet and zebrafish are included so model organism information can be leveraged using orthology. A precomputed orthology dataset called AquaMine-Ortho encompasses all species, including those not found in OrthoDB or Ensembl. New in AquaMinev1.2 is a comprehensive GO annotation dataset, covering all species, that can be used with a built-in gene enrichment analysis tool. AquaMinev1.2 also includes new genomic variant data from the Ensembl Variation Archive and RNA-seq-based gene expression levels for some species. We are currently developing new JBrowse genome browsers with Apollo manual genome annotation tools for the aquaculture species and will present the rainbow trout genome browser. We seek beta-testers from the research community to provide feedback on the AquaMine data mining tools and genome browsers."
-  },
-  {
-    "objectID": "research/aquamine.html#data-availability",
-    "href": "research/aquamine.html#data-availability",
-    "title": "FACT: AquaMine - A High Performance Genomic Data Mining System for Species of Importance to US Aquaculture",
-    "section": "Data Availability",
-    "text": "Data Availability"
-  },
-  {
-    "objectID": "research/shellfish.html",
-    "href": "research/shellfish.html",
-    "title": "Advancement of innovative approaches to support sustainable aquaculture",
-    "section": "",
-    "text": "Mackenzie Gavery"
-  },
-  {
-    "objectID": "research/shellfish.html#collaborators",
-    "href": "research/shellfish.html#collaborators",
-    "title": "Advancement of innovative approaches to support sustainable aquaculture",
-    "section": "",
-    "text": "Mackenzie Gavery"
-  },
-  {
-    "objectID": "research/shellfish.html#summary",
-    "href": "research/shellfish.html#summary",
-    "title": "Advancement of innovative approaches to support sustainable aquaculture",
-    "section": "Summary",
-    "text": "Summary\nClimate change and ocean acidification (OA) conditions will continue to threaten the viability of the shellfish industry in the Pacific Northwest. It is absolutely critical to understand how marine organisms, and industries that rely on them, will respond to these changing conditions. Arguably, it will be just as important to provide tools and best practices to mitigate these effects, and in the case of marine aquaculture – find solutions to increase sustainability of the sector broadly, to create resilience even in the face of environmental uncertainty. The overall goal of this research is to develop and test innovative solutions that the shellfish industry can use to increase the resilience of the industry in the face of rapidly changing environmental conditions.\nIntroduction and Statement of Problem:\nClimate change and ocean acidification (OA) conditions will continue to threaten the viability of the shellfish industry in the Pacific Northwest. It is absolutely critical to understand how marine organisms, and industries that rely on them, will respond to these changing conditions. Arguably, it will be just as important to provide tools and best practices to mitigate these effects, and in the case of marine aquaculture – find solutions to increase sustainability of the sector broadly, to create resilience even in the face of environmental uncertainty. The overall goal of this research is to develop and test innovative solutions that the shellfish industry can use to increase the resilience of the industry in the face of rapidly changing environmental conditions. These solutions include explorations of alternative methods to produce sterile shellfish that may be more resilient to “summer mortality” and examining species diversification and environmental priming as two mitigation approaches that may increase the resilience of the industry in response to worsening OA conditions.  In this project, we will add capacity to collaborative research between partners at the University of Washington and the Northwest Fisheries Science Center, addressing objectives of key importance to the National Marine Fisheries Service mission.\nAlternative methods to induce sterility to support shellfish aquaculture\nReproductively sterile shellfish (i.e., those that cannot sexually mature and reproduce) are both a market driven need and an ecologically sustainable approach to mitigate concerns associated with genetic contamination of wild populations. Triploidy, the current method for reproductive control in shellfish, is costly in terms of both labor and time to develop selected lines, underdeveloped for many newer aquaculture species, and may have adverse effects on survival and performance. Concerningly, there have been increasing reports of “triploid mortalities” in the field, where triploid oysters experience high mortalities under multi-stressor conditions on farms.  A new method, with the potential to bypass the challenges associated with ploidy manipulation and enhance the ability to produce sterile shellfish is the induction of sterility by inactivating genes essential for germ cell formation and development, thus blocking gamete formation and fertility. This research will develop a means to produce sterile shellfish via germ cell elimination technologies.\nOA mitigation strategies for shellfish aquaculture\nThe aquaculture industry is already being threatened by climate change and ocean acidification (OA) in the Pacific Northwest. Two potential mitigation approaches exist that may allow the industry to remain viable in the face of worsening OA conditions. The first is to develop a portfolio of cultured species that includes those inherently resilient to OA and the second is to use husbandry practices that promote acclimation or adaptation of larvae via environmental priming of the parental generation. This research will explore both of these strategies through an investigation of OA sensitivity of the native littleneck clam (Leukoma staminea), whose OA sensitivity has not been thoroughly assessed. Additionally, this research will explore molecular mechanisms underlying parental carryover effects by comparing the transcriptional (gene expression) and lipid profiles of gametes collected from clam broodstock conditioned in high pCO2 versus control conditions. Not only will these activities allow for the assessment of littleneck clams as a potential novel, native species for culture, but will also provide integral data regarding the generalizability of parental carryover effects in response to OA broodstock exposures in bivalve shellfish.\nObjectives:\n\nDevelop new technologies to achieve sterility in cultured shellfish species.\nAssess OA sensitivity of the native littleneck clam and identify molecular mechanisms underlying parental carryover effects by comparing the transcriptional (gene expression) and lipid profile of gametes."
-  },
-  {
-    "objectID": "research/shellfish.html#data-availability",
-    "href": "research/shellfish.html#data-availability",
-    "title": "Advancement of innovative approaches to support sustainable aquaculture",
-    "section": "Data Availability",
-    "text": "Data Availability"
-  },
-  {
-    "objectID": "research/shellfish.html#notes",
-    "href": "research/shellfish.html#notes",
-    "title": "Advancement of innovative approaches to support sustainable aquaculture",
-    "section": "Notes",
-    "text": "Notes\n\nCodesProposal IDDatesAmount\n\n\nGR061456\n\n\nUW CICOES Task II Shellfish. | GR061456 Task II REED 2025 $549,526 26% IDC\n\n\n7/2025 – 6/2029\n\n\n$549,526"
-  },
-  {
-    "objectID": "research/crabcod.html",
-    "href": "research/crabcod.html",
-    "title": "Understanding the genetics of Alaska’s crabs and fish to support a healthy, long term seafood supply",
-    "section": "",
-    "text": "Ingrid Spies"
-  },
-  {
-    "objectID": "research/crabcod.html#collaborators",
-    "href": "research/crabcod.html#collaborators",
-    "title": "Understanding the genetics of Alaska’s crabs and fish to support a healthy, long term seafood supply",
-    "section": "",
-    "text": "Ingrid Spies"
-  },
-  {
-    "objectID": "research/crabcod.html#summary",
-    "href": "research/crabcod.html#summary",
-    "title": "Understanding the genetics of Alaska’s crabs and fish to support a healthy, long term seafood supply",
-    "section": "Summary",
-    "text": "Summary\nResearchers at the Alaska Fisheries Science Center (AFSC) and the University of Washington are interested in the effects of ocean acidification (OA) on commercially and economically important crab and fish species. It appears that many species are negatively affected by exposure to pH levels predicted to occur throughout their ranges under climate change.  The effects of OA include physiological consequences including decreased growth, altered embryonic development, reduced exoskeleton strength, increased metabolic rate, altered immune system, altered behavior, and increased mortality.  Environmental changes may select for adapted individuals, resulting in populations that are less vulnerable to OA than the current population. Estimating the degree to which acclimation and adaptation will alter the experimental effects of OA and combined effects with other stressors is thus critical to accurately predicting how these stressors will affect future fisheries yields.  We are using next-generation sequencing techniques to identify the specific alterations in the molecular, metabolic, and physiological pathways of individuals exposed to OA. We are looking for a post-doctoral researcher to perform bioinformatics on RNA transcriptomic data of Pacific cod and crabs exposed to OA conditions in an experimental setting. In addition, the researcher will be responsible for writing up their methods and results and drafting peer-reviewed manuscripts."
-  },
-  {
-    "objectID": "research/crabcod.html#data-availability",
-    "href": "research/crabcod.html#data-availability",
-    "title": "Understanding the genetics of Alaska’s crabs and fish to support a healthy, long term seafood supply",
-    "section": "Data Availability",
-    "text": "Data Availability"
-  },
-  {
-    "objectID": "research/crabcod.html#notes",
-    "href": "research/crabcod.html#notes",
-    "title": "Understanding the genetics of Alaska’s crabs and fish to support a healthy, long term seafood supply",
-    "section": "Notes",
-    "text": "Notes\n\nCodesProposal IDDatesAmount\n\n\nGR061455 Task II CRAB 2025 $140,214 26% IDC\nAWD-004600 Grant Revenue (RC1054) (Line 143)\nGR014801 TASK II SEQ TECHNIQUES - 62-7490 - 2021\nAWD-004600 Grant Revenue (RC1054) (Line 151)\nGR015296 TASK II SEQ TECH PD - 62-8482 - 2021\n\n\nUW CICOES Task II Seq Techniques (62-7490) / Seq Tech PD (62-8482) NOAA - NA20OAR4320271\n\n\n7/1/2025 – 6/30/2029\n\n\n$140,214"
-  },
-  {
-    "objectID": "research/archive/safs.html#summary",
-    "href": "research/archive/safs.html#summary",
-    "title": "Field-based Education and Research at Regional Aquaculture Sites (FERRAS)",
-    "section": "Summary",
-    "text": "Summary\nAquaculture operations serve as a vital cog in our local economy, playing an integral role in conservation efforts and holding cultural significance. Primarily, my laboratory’s research program is devoted to enhancing aquaculture practices in the Pacific Northwest, having received several research awards in collaboration with tribes, industry players, and conservation organizations.\nDespite having various projects involving shellfish transfer to the field for commercial or conservation purposes, budget constraints and directives in specific Requests for Proposals (RFPs) have hindered us from leveraging these opportunities to engage students and staff in fieldwork components. Thus, the purpose of this proposal is to request funds that would facilitate student and staff involvement in ongoing field grow-outs, thereby creating unique opportunities for SAFS community members. The funding will cover travel expenses, field sampling, and reagents and equipment for physiological analysis.\nOur partnerships span both local and regional scopes, enabling a range of experiences. For instance, local sites include shellfish farms in Puget Sound, as well as with sites associated with the MusselWatch program via UW Tacoma. These local sites provide a platform for integrating field research into courses like FISH 441/541 Integrative Environmental Physiology. Traditionally, the lab has exclusively engaged in lab-based environmental manipulation. However, this funding would enable us to shift focus to comparative studies across different field sites, offering students a more immersive experience in data collection and physiological assessment. Additionally, students would gain the invaluable experience of observing active aquaculture operations, providing them with practical insights into the application of their classroom knowledge. With some necessary constraints, students would be given the freedom to design their experiments. For instance, they could assess the stress response in oysters from two different field sites, formulating hypotheses to test based on natural conditions.\nMoreover, as part of a recent USDA award, we are dispatching oysters to commercial producers in Oregon. These field sites would provide an excellent framework for studies, which may be more apt for graduate students or scientific staff due to the need for accommodation. This experience would also illuminate the variations in environmental conditions and aquaculture practices across the region, fostering the expansion of research networks for our students."
-  },
-  {
-    "objectID": "research/archive/safs.html#data-availability",
-    "href": "research/archive/safs.html#data-availability",
-    "title": "Field-based Education and Research at Regional Aquaculture Sites (FERRAS)",
-    "section": "Data Availability",
-    "text": "Data Availability"
-  },
-  {
-    "objectID": "research/archive/ffar.html",
-    "href": "research/archive/ffar.html",
-    "title": "Development of environmental conditioning practices to decrease impacts of climate change on shellfish aquaculture",
-    "section": "",
-    "text": "Hollie Putnam"
-  },
-  {
-    "objectID": "research/archive/ffar.html#collaborators",
-    "href": "research/archive/ffar.html#collaborators",
-    "title": "Development of environmental conditioning practices to decrease impacts of climate change on shellfish aquaculture",
-    "section": "",
-    "text": "Hollie Putnam"
-  },
-  {
-    "objectID": "research/archive/ffar.html#summary",
-    "href": "research/archive/ffar.html#summary",
-    "title": "Development of environmental conditioning practices to decrease impacts of climate change on shellfish aquaculture",
-    "section": "Summary",
-    "text": "Summary\nThe project will be completed using commercial hatchery rearing of geoduck clams. We will test and implement shellfish performance enhancement methods through the use of environmental stressor preconditioning, or “hardening”. The objectives of this work are to A) Identify key stages in the geoduck life cycle when environmental conditioning can be applied for optimal benefits to productivity, including: – Broodstock conditioning and reproductive performance, – Larval growth and survivorship, and – Juvenile resistance to stress through repeated exposures, B) Use genomics and epigenomics to identify underlying mechanisms involved in enhanced performance. This will provide mechanistic information that enables the application of optimal preconditioning approaches in other shellfish species. This project directly addresses the research topics of genomics, quantitative genetics, and phenomics in the less studied, yet viable, geoduck clam. The proposed work is based on our group’s prior finding that some exposure to low pH conditions can improve larval and juvenile performance traits. The research proposed will integrate and further test these findings in a commercial shellfish hatchery setting and determine the genetic and epigenetic markers associated with improved performance. In addition, we will explore how the “memory” of prior exposure increases later performance such that epigenetic markers could be leveraged in broodstock management and hatchery practices. A number of phenotypes will be assessed, as well as the underlying genomic factors, including fecundity, survival, and growth."
-  },
-  {
-    "objectID": "research/archive/ffar.html#data-availability",
-    "href": "research/archive/ffar.html#data-availability",
-    "title": "Development of environmental conditioning practices to decrease impacts of climate change on shellfish aquaculture",
-    "section": "Data Availability",
-    "text": "Data Availability"
-  },
-  {
-    "objectID": "research/archive/art.html",
-    "href": "research/archive/art.html",
-    "title": "Increasing Environmental Connection, Literacy and Engagement through an Art + Science Collaborative Education Practice",
-    "section": "",
-    "text": "Research Team:\nPrincipal Investigator: Steven Roberts, UW Seattle, College of the Environment, Aquatic & Fishery Science\nCommunity Lead: Tiara Moore, CEO, Black in Marine Science\nStudent: Chris Mantegna, UW Seattle, College of the Environment, Aquatic & Fishery Science\nCollaborators: Tivon Rice, UW Seattle College of Arts & Sciences, Digital Arts & Experimental Media\nSymone Barkley, Black in Marine Science\nRosalind Echols, UW Seattle College of the Environment, Aquatic & Fishery Science\nSavannah Smith, Sea Potential\nEbony Welborn, Sea Potential\nÁngel Quimbita, Sea Potential"
-  },
-  {
-    "objectID": "research/archive/art.html#collaborators",
-    "href": "research/archive/art.html#collaborators",
-    "title": "Increasing Environmental Connection, Literacy and Engagement through an Art + Science Collaborative Education Practice",
-    "section": "",
-    "text": "Research Team:\nPrincipal Investigator: Steven Roberts, UW Seattle, College of the Environment, Aquatic & Fishery Science\nCommunity Lead: Tiara Moore, CEO, Black in Marine Science\nStudent: Chris Mantegna, UW Seattle, College of the Environment, Aquatic & Fishery Science\nCollaborators: Tivon Rice, UW Seattle College of Arts & Sciences, Digital Arts & Experimental Media\nSymone Barkley, Black in Marine Science\nRosalind Echols, UW Seattle College of the Environment, Aquatic & Fishery Science\nSavannah Smith, Sea Potential\nEbony Welborn, Sea Potential\nÁngel Quimbita, Sea Potential"
-  },
-  {
-    "objectID": "research/archive/art.html#summary",
-    "href": "research/archive/art.html#summary",
-    "title": "Increasing Environmental Connection, Literacy and Engagement through an Art + Science Collaborative Education Practice",
-    "section": "Summary",
-    "text": "Summary\nAs the country comes to a reckoning on education and the environment, we are forced to interrogate the historic events that have led to such crises and how we can support inclusive solutions. Covid-19 has offered us an unprecedented glimpse into the challenges students face in the K-12 education system. It has also profoundly impacted socio-economically disadvantaged communities through the exposure of crippled or missing infrastructure. These same communities have been deliberately disconnected from building relationships with the natural world. In the face of complex problems like climate change, which will disproportionately impact these communities, we must act urgently to support the students who have historically been excluded from environmental science education. Our project starts with reconnecting community to environment, followed by engaging learners dynamically through the co-production of place-based knowledge. Although disadvantaged communities are highly engaged in climate change mitigation, this is often limited to anecdotes about water quality during trash pick-ups or community beautification projects led by outside non-profit volunteers, rather than building knowledge and strength within the community. Rarely do students have the opportunity to access their local environment through a non- problem solving lens and participate as equal partners. We want to change who is leading the learning as well as how the learning is done. Partnering with Sea Potential and Black in Marine Science, our team of scientists and digital arts experts will co-produce an arts based learning approach to increase environmental literacy in the communities most regularly overlooked. We will empower students to engage with the intertidal ecosystem, a defining feature of all coastlines and an accessible and dynamic place to learn about ocean science, organismal resilience, and community composition. Student projects will demonstrate how they understand the intertidal ecosystem, their connection to it, and its relationship to their home neighborhoods. Each of the projects will be presented to their academic and familial communities as well as used to create a teaching toolkit for local and national educators to replicate our art- and science-integrated student centered learning model for intertidal ecology."
-  },
-  {
-    "objectID": "research/archive/art.html#data-availability",
-    "href": "research/archive/art.html#data-availability",
-    "title": "Increasing Environmental Connection, Literacy and Engagement through an Art + Science Collaborative Education Practice",
-    "section": "Data Availability",
-    "text": "Data Availability\nDrive"
-  },
-  {
-    "objectID": "research/archive/art.html#notes",
-    "href": "research/archive/art.html#notes",
-    "title": "Increasing Environmental Connection, Literacy and Engagement through an Art + Science Collaborative Education Practice",
-    "section": "Notes",
-    "text": "Notes\n\nCodesProposal IDDatesAmount"
-  },
-  {
-    "objectID": "research/archive/psmfc.html",
-    "href": "research/archive/psmfc.html",
-    "title": "Applying cutting-edge technology for reproductive control in emerging bivalve species",
-    "section": "",
-    "text": "Mackenzie Gavery"
-  },
-  {
-    "objectID": "research/archive/psmfc.html#collaborators",
-    "href": "research/archive/psmfc.html#collaborators",
-    "title": "Applying cutting-edge technology for reproductive control in emerging bivalve species",
-    "section": "",
-    "text": "Mackenzie Gavery"
-  },
-  {
-    "objectID": "research/archive/psmfc.html#summary",
-    "href": "research/archive/psmfc.html#summary",
-    "title": "Applying cutting-edge technology for reproductive control in emerging bivalve species",
-    "section": "Summary",
-    "text": "Summary\nGiven the supreme importance of maintaining ecological security in expanding shellfish farming to meet the global demand for environmentally sustainable protein, our goal is to engage a novel mix of disciplines to create new knowledge leading to an optimal approach for conferring sterility in emerging shellfish species. We have assembled an interdisciplinary team including aquaculture specialists, molecular physiologists, and single cell genomicists to tackle the critical initial step in this approach: the identification of genes involved in germ cell fate at the earliest developmental stages in geoducks. We anticipate identifying several germ cell- specific genes that when disrupted effectively turn off germ cell differentiation, yielding sterile products that do not undergo gonadogenesis, exhibit superior performance, and cannot disrupt genetic structure of ecosystems. Identification of these genes will be the measure of success for the proposed work. These gene targets will be the focus of future stages of research that determines how to best disrupt reproductive function without impacting growth performance."
-  },
-  {
-    "objectID": "research/archive/psmfc.html#data-availability",
-    "href": "research/archive/psmfc.html#data-availability",
-    "title": "Applying cutting-edge technology for reproductive control in emerging bivalve species",
-    "section": "Data Availability",
-    "text": "Data Availability"
-  },
-  {
-    "objectID": "research/archive/psmfc.html#notes",
-    "href": "research/archive/psmfc.html#notes",
-    "title": "Applying cutting-edge technology for reproductive control in emerging bivalve species",
-    "section": "Notes",
-    "text": "Notes\n\nCodesProposal IDDatesAmount\n\n\nAWD-002979 Grant Revenue (RC1054) (Line 1)\nGR019591 BIVALVE REPRO CONTROL - 63-9405 - 2021\n\n\nPacific States Marine Fisheries Commission / 20-04G-1 (63-9405)\n\n\n7/8/2019 – 4/30/2024 (NCE)\n\n\n$93,400"
-  },
-  {
-    "objectID": "research/nprb.html",
-    "href": "research/nprb.html",
-    "title": "Effects of temperature change and Hematodinium sp. infection (Bitter Crab Disease) on Tanner crab (Chionoecetes bairdi)",
-    "section": "",
-    "text": "Pamela Jensen"
-  },
-  {
-    "objectID": "research/nprb.html#collaborators",
-    "href": "research/nprb.html#collaborators",
-    "title": "Effects of temperature change and Hematodinium sp. infection (Bitter Crab Disease) on Tanner crab (Chionoecetes bairdi)",
-    "section": "",
-    "text": "Pamela Jensen"
-  },
-  {
-    "objectID": "research/nprb.html#summary",
-    "href": "research/nprb.html#summary",
-    "title": "Effects of temperature change and Hematodinium sp. infection (Bitter Crab Disease) on Tanner crab (Chionoecetes bairdi)",
-    "section": "Summary",
-    "text": "Summary\nChanging climate conditions, due to increasing releases of CO2 into the atmosphere, are causing warming of the world’s oceans. Changes in seawater temperatures are predicted to cause a shift in the distribution and a change in the abundance of most plants and animals. For most species, the magnitude of the impact, the potential for adaptation to future temperatures, and the mechanisms for adaptation are unknown. Features of parasite/disease ecology are also predicted to change as oceans warm, including susceptibility of hosts to disease, host ability to combat disease once infected, and alterations in pathogen virulence. Alaskan Tanner crab stocks, supporting fisheries worth $21 million in 2014, are expected to be significantly impacted directly and indirectly by warming temperatures. The Alaska Department of Fish and Game considers bitter crab disease, caused by a parasitic dinoflagellate, Hematodinium, to be the ‘principle threat’ to Alaskan Tanner crab stocks. Infection rates in the Bering Sea and southeast Alaska range from 2-5% and 0-100%, respectively. In heavily infected hosts, the meat is soft and chalky with a bitter taste, rendering the crabs unmarketable. The disease is believed fatal, although the time from infection to death remains uncertain. Recent worldwide spread of Hematodinium infections appears to have closely followed warming trends in the Atlantic and Pacific Oceans. We postulate that increased temperature in the North Pacific will physiologically stress Tanner crabs and also lead to increased prevalence of Hematodinium infections, either of which may lead to increased mortality in Tanner crabs. We propose to hold healthy and Hematodinium-infected Tanner crabs under different temperature regimes testing for a genetic response to infection and temperature. Our research will provide insight into the underlying mechanistic linkages between potential effects of climate change and important processes such as recruitment, growth and natural mortality on Alaskan Tanner crab stocks."
-  },
-  {
-    "objectID": "research/nprb.html#data-availability",
-    "href": "research/nprb.html#data-availability",
-    "title": "Effects of temperature change and Hematodinium sp. infection (Bitter Crab Disease) on Tanner crab (Chionoecetes bairdi)",
+    "objectID": "research/nrsp8.html#data-availability",
+    "href": "research/nrsp8.html#data-availability",
+    "title": "Identifying genomic architecture features that contribute to critical phenotypes in shellfish",
     "section": "Data Availability",
     "text": "Data Availability"
   },
@@ -2343,32 +1937,473 @@
     "text": "Notes\n\nCodesProposal IDDatesAmount\n\n\n\n\n\nWestern Regional Aquaculture Center\n\n\n2025 - ongoing"
   },
   {
-    "objectID": "research/nrsp8.html",
-    "href": "research/nrsp8.html",
-    "title": "Identifying genomic architecture features that contribute to critical phenotypes in shellfish",
+    "objectID": "research/nprb.html",
+    "href": "research/nprb.html",
+    "title": "Effects of temperature change and Hematodinium sp. infection (Bitter Crab Disease) on Tanner crab (Chionoecetes bairdi)",
     "section": "",
-    "text": "Mackenzie Gavery, Matt George"
+    "text": "Pamela Jensen"
   },
   {
-    "objectID": "research/nrsp8.html#collaborators",
-    "href": "research/nrsp8.html#collaborators",
-    "title": "Identifying genomic architecture features that contribute to critical phenotypes in shellfish",
+    "objectID": "research/nprb.html#collaborators",
+    "href": "research/nprb.html#collaborators",
+    "title": "Effects of temperature change and Hematodinium sp. infection (Bitter Crab Disease) on Tanner crab (Chionoecetes bairdi)",
     "section": "",
-    "text": "Mackenzie Gavery, Matt George"
+    "text": "Pamela Jensen"
   },
   {
-    "objectID": "research/nrsp8.html#summary",
-    "href": "research/nrsp8.html#summary",
-    "title": "Identifying genomic architecture features that contribute to critical phenotypes in shellfish",
+    "objectID": "research/nprb.html#summary",
+    "href": "research/nprb.html#summary",
+    "title": "Effects of temperature change and Hematodinium sp. infection (Bitter Crab Disease) on Tanner crab (Chionoecetes bairdi)",
     "section": "Summary",
-    "text": "Summary\nShellfish are a key component of domestic seafood production. Shellfish aquaculture is one of the most economically important sectors of the US industry, with major species including oysters and clams. As is the case with all farmed species, there are a suite of desirable phenotypes that directly correspond to increased environmental and economic sustainability. The ability to identify genomic predictors of phenotype offer a framework to increase aquaculture production. In shellfish aquaculture key phenotypes continue to be resilience and stress tolerance. Understanding the physiological underpinnings of these phenotypes in oysters and clams has been a focus in our group. To this end we have archived hundreds of samples from families with diverse phenotypic responses to stress. For example, as part of one effort to examine the influence of ploidy on oyster stress tolerance we have Standard Metabolic Rate (SMR) and enzyme activity data on oysters that reveal diverse physiological profiles. In response to the NRSP-8 Small Funding Possibilities for US Aquaculture Groups, we are proposing to 1) identify genomic architecture variation contributing to desired phenotypes in shellfish and 2) develop a community platform to share data and analytical approaches. These objectives are in direct response to Program Objective 2: Advance genome-to-phenome prediction by implementing strategies and tools to identify and validate genes and allelic variants predictive of biologically and economically important phenotypes and traits. Additionally the proposed work will address Program Objective 1, by … providing a deep functional annotation of assemblies, and comparison across species to understand structure and function of animal genomes."
+    "text": "Summary\nChanging climate conditions, due to increasing releases of CO2 into the atmosphere, are causing warming of the world’s oceans. Changes in seawater temperatures are predicted to cause a shift in the distribution and a change in the abundance of most plants and animals. For most species, the magnitude of the impact, the potential for adaptation to future temperatures, and the mechanisms for adaptation are unknown. Features of parasite/disease ecology are also predicted to change as oceans warm, including susceptibility of hosts to disease, host ability to combat disease once infected, and alterations in pathogen virulence. Alaskan Tanner crab stocks, supporting fisheries worth $21 million in 2014, are expected to be significantly impacted directly and indirectly by warming temperatures. The Alaska Department of Fish and Game considers bitter crab disease, caused by a parasitic dinoflagellate, Hematodinium, to be the ‘principle threat’ to Alaskan Tanner crab stocks. Infection rates in the Bering Sea and southeast Alaska range from 2-5% and 0-100%, respectively. In heavily infected hosts, the meat is soft and chalky with a bitter taste, rendering the crabs unmarketable. The disease is believed fatal, although the time from infection to death remains uncertain. Recent worldwide spread of Hematodinium infections appears to have closely followed warming trends in the Atlantic and Pacific Oceans. We postulate that increased temperature in the North Pacific will physiologically stress Tanner crabs and also lead to increased prevalence of Hematodinium infections, either of which may lead to increased mortality in Tanner crabs. We propose to hold healthy and Hematodinium-infected Tanner crabs under different temperature regimes testing for a genetic response to infection and temperature. Our research will provide insight into the underlying mechanistic linkages between potential effects of climate change and important processes such as recruitment, growth and natural mortality on Alaskan Tanner crab stocks."
   },
   {
-    "objectID": "research/nrsp8.html#data-availability",
-    "href": "research/nrsp8.html#data-availability",
-    "title": "Identifying genomic architecture features that contribute to critical phenotypes in shellfish",
+    "objectID": "research/nprb.html#data-availability",
+    "href": "research/nprb.html#data-availability",
+    "title": "Effects of temperature change and Hematodinium sp. infection (Bitter Crab Disease) on Tanner crab (Chionoecetes bairdi)",
     "section": "Data Availability",
     "text": "Data Availability"
+  },
+  {
+    "objectID": "research/archive/psmfc.html",
+    "href": "research/archive/psmfc.html",
+    "title": "Applying cutting-edge technology for reproductive control in emerging bivalve species",
+    "section": "",
+    "text": "Mackenzie Gavery"
+  },
+  {
+    "objectID": "research/archive/psmfc.html#collaborators",
+    "href": "research/archive/psmfc.html#collaborators",
+    "title": "Applying cutting-edge technology for reproductive control in emerging bivalve species",
+    "section": "",
+    "text": "Mackenzie Gavery"
+  },
+  {
+    "objectID": "research/archive/psmfc.html#summary",
+    "href": "research/archive/psmfc.html#summary",
+    "title": "Applying cutting-edge technology for reproductive control in emerging bivalve species",
+    "section": "Summary",
+    "text": "Summary\nGiven the supreme importance of maintaining ecological security in expanding shellfish farming to meet the global demand for environmentally sustainable protein, our goal is to engage a novel mix of disciplines to create new knowledge leading to an optimal approach for conferring sterility in emerging shellfish species. We have assembled an interdisciplinary team including aquaculture specialists, molecular physiologists, and single cell genomicists to tackle the critical initial step in this approach: the identification of genes involved in germ cell fate at the earliest developmental stages in geoducks. We anticipate identifying several germ cell- specific genes that when disrupted effectively turn off germ cell differentiation, yielding sterile products that do not undergo gonadogenesis, exhibit superior performance, and cannot disrupt genetic structure of ecosystems. Identification of these genes will be the measure of success for the proposed work. These gene targets will be the focus of future stages of research that determines how to best disrupt reproductive function without impacting growth performance."
+  },
+  {
+    "objectID": "research/archive/psmfc.html#data-availability",
+    "href": "research/archive/psmfc.html#data-availability",
+    "title": "Applying cutting-edge technology for reproductive control in emerging bivalve species",
+    "section": "Data Availability",
+    "text": "Data Availability"
+  },
+  {
+    "objectID": "research/archive/psmfc.html#notes",
+    "href": "research/archive/psmfc.html#notes",
+    "title": "Applying cutting-edge technology for reproductive control in emerging bivalve species",
+    "section": "Notes",
+    "text": "Notes\n\nCodesProposal IDDatesAmount\n\n\nAWD-002979 Grant Revenue (RC1054) (Line 1)\nGR019591 BIVALVE REPRO CONTROL - 63-9405 - 2021\n\n\nPacific States Marine Fisheries Commission / 20-04G-1 (63-9405)\n\n\n7/8/2019 – 4/30/2024 (NCE)\n\n\n$93,400"
+  },
+  {
+    "objectID": "research/archive/art.html",
+    "href": "research/archive/art.html",
+    "title": "Increasing Environmental Connection, Literacy and Engagement through an Art + Science Collaborative Education Practice",
+    "section": "",
+    "text": "Research Team:\nPrincipal Investigator: Steven Roberts, UW Seattle, College of the Environment, Aquatic & Fishery Science\nCommunity Lead: Tiara Moore, CEO, Black in Marine Science\nStudent: Chris Mantegna, UW Seattle, College of the Environment, Aquatic & Fishery Science\nCollaborators: Tivon Rice, UW Seattle College of Arts & Sciences, Digital Arts & Experimental Media\nSymone Barkley, Black in Marine Science\nRosalind Echols, UW Seattle College of the Environment, Aquatic & Fishery Science\nSavannah Smith, Sea Potential\nEbony Welborn, Sea Potential\nÁngel Quimbita, Sea Potential"
+  },
+  {
+    "objectID": "research/archive/art.html#collaborators",
+    "href": "research/archive/art.html#collaborators",
+    "title": "Increasing Environmental Connection, Literacy and Engagement through an Art + Science Collaborative Education Practice",
+    "section": "",
+    "text": "Research Team:\nPrincipal Investigator: Steven Roberts, UW Seattle, College of the Environment, Aquatic & Fishery Science\nCommunity Lead: Tiara Moore, CEO, Black in Marine Science\nStudent: Chris Mantegna, UW Seattle, College of the Environment, Aquatic & Fishery Science\nCollaborators: Tivon Rice, UW Seattle College of Arts & Sciences, Digital Arts & Experimental Media\nSymone Barkley, Black in Marine Science\nRosalind Echols, UW Seattle College of the Environment, Aquatic & Fishery Science\nSavannah Smith, Sea Potential\nEbony Welborn, Sea Potential\nÁngel Quimbita, Sea Potential"
+  },
+  {
+    "objectID": "research/archive/art.html#summary",
+    "href": "research/archive/art.html#summary",
+    "title": "Increasing Environmental Connection, Literacy and Engagement through an Art + Science Collaborative Education Practice",
+    "section": "Summary",
+    "text": "Summary\nAs the country comes to a reckoning on education and the environment, we are forced to interrogate the historic events that have led to such crises and how we can support inclusive solutions. Covid-19 has offered us an unprecedented glimpse into the challenges students face in the K-12 education system. It has also profoundly impacted socio-economically disadvantaged communities through the exposure of crippled or missing infrastructure. These same communities have been deliberately disconnected from building relationships with the natural world. In the face of complex problems like climate change, which will disproportionately impact these communities, we must act urgently to support the students who have historically been excluded from environmental science education. Our project starts with reconnecting community to environment, followed by engaging learners dynamically through the co-production of place-based knowledge. Although disadvantaged communities are highly engaged in climate change mitigation, this is often limited to anecdotes about water quality during trash pick-ups or community beautification projects led by outside non-profit volunteers, rather than building knowledge and strength within the community. Rarely do students have the opportunity to access their local environment through a non- problem solving lens and participate as equal partners. We want to change who is leading the learning as well as how the learning is done. Partnering with Sea Potential and Black in Marine Science, our team of scientists and digital arts experts will co-produce an arts based learning approach to increase environmental literacy in the communities most regularly overlooked. We will empower students to engage with the intertidal ecosystem, a defining feature of all coastlines and an accessible and dynamic place to learn about ocean science, organismal resilience, and community composition. Student projects will demonstrate how they understand the intertidal ecosystem, their connection to it, and its relationship to their home neighborhoods. Each of the projects will be presented to their academic and familial communities as well as used to create a teaching toolkit for local and national educators to replicate our art- and science-integrated student centered learning model for intertidal ecology."
+  },
+  {
+    "objectID": "research/archive/art.html#data-availability",
+    "href": "research/archive/art.html#data-availability",
+    "title": "Increasing Environmental Connection, Literacy and Engagement through an Art + Science Collaborative Education Practice",
+    "section": "Data Availability",
+    "text": "Data Availability\nDrive"
+  },
+  {
+    "objectID": "research/archive/art.html#notes",
+    "href": "research/archive/art.html#notes",
+    "title": "Increasing Environmental Connection, Literacy and Engagement through an Art + Science Collaborative Education Practice",
+    "section": "Notes",
+    "text": "Notes\n\nCodesProposal IDDatesAmount"
+  },
+  {
+    "objectID": "research/archive/ffar.html",
+    "href": "research/archive/ffar.html",
+    "title": "Development of environmental conditioning practices to decrease impacts of climate change on shellfish aquaculture",
+    "section": "",
+    "text": "Hollie Putnam"
+  },
+  {
+    "objectID": "research/archive/ffar.html#collaborators",
+    "href": "research/archive/ffar.html#collaborators",
+    "title": "Development of environmental conditioning practices to decrease impacts of climate change on shellfish aquaculture",
+    "section": "",
+    "text": "Hollie Putnam"
+  },
+  {
+    "objectID": "research/archive/ffar.html#summary",
+    "href": "research/archive/ffar.html#summary",
+    "title": "Development of environmental conditioning practices to decrease impacts of climate change on shellfish aquaculture",
+    "section": "Summary",
+    "text": "Summary\nThe project will be completed using commercial hatchery rearing of geoduck clams. We will test and implement shellfish performance enhancement methods through the use of environmental stressor preconditioning, or “hardening”. The objectives of this work are to A) Identify key stages in the geoduck life cycle when environmental conditioning can be applied for optimal benefits to productivity, including: – Broodstock conditioning and reproductive performance, – Larval growth and survivorship, and – Juvenile resistance to stress through repeated exposures, B) Use genomics and epigenomics to identify underlying mechanisms involved in enhanced performance. This will provide mechanistic information that enables the application of optimal preconditioning approaches in other shellfish species. This project directly addresses the research topics of genomics, quantitative genetics, and phenomics in the less studied, yet viable, geoduck clam. The proposed work is based on our group’s prior finding that some exposure to low pH conditions can improve larval and juvenile performance traits. The research proposed will integrate and further test these findings in a commercial shellfish hatchery setting and determine the genetic and epigenetic markers associated with improved performance. In addition, we will explore how the “memory” of prior exposure increases later performance such that epigenetic markers could be leveraged in broodstock management and hatchery practices. A number of phenotypes will be assessed, as well as the underlying genomic factors, including fecundity, survival, and growth."
+  },
+  {
+    "objectID": "research/archive/ffar.html#data-availability",
+    "href": "research/archive/ffar.html#data-availability",
+    "title": "Development of environmental conditioning practices to decrease impacts of climate change on shellfish aquaculture",
+    "section": "Data Availability",
+    "text": "Data Availability"
+  },
+  {
+    "objectID": "research/archive/safs.html#summary",
+    "href": "research/archive/safs.html#summary",
+    "title": "Field-based Education and Research at Regional Aquaculture Sites (FERRAS)",
+    "section": "Summary",
+    "text": "Summary\nAquaculture operations serve as a vital cog in our local economy, playing an integral role in conservation efforts and holding cultural significance. Primarily, my laboratory’s research program is devoted to enhancing aquaculture practices in the Pacific Northwest, having received several research awards in collaboration with tribes, industry players, and conservation organizations.\nDespite having various projects involving shellfish transfer to the field for commercial or conservation purposes, budget constraints and directives in specific Requests for Proposals (RFPs) have hindered us from leveraging these opportunities to engage students and staff in fieldwork components. Thus, the purpose of this proposal is to request funds that would facilitate student and staff involvement in ongoing field grow-outs, thereby creating unique opportunities for SAFS community members. The funding will cover travel expenses, field sampling, and reagents and equipment for physiological analysis.\nOur partnerships span both local and regional scopes, enabling a range of experiences. For instance, local sites include shellfish farms in Puget Sound, as well as with sites associated with the MusselWatch program via UW Tacoma. These local sites provide a platform for integrating field research into courses like FISH 441/541 Integrative Environmental Physiology. Traditionally, the lab has exclusively engaged in lab-based environmental manipulation. However, this funding would enable us to shift focus to comparative studies across different field sites, offering students a more immersive experience in data collection and physiological assessment. Additionally, students would gain the invaluable experience of observing active aquaculture operations, providing them with practical insights into the application of their classroom knowledge. With some necessary constraints, students would be given the freedom to design their experiments. For instance, they could assess the stress response in oysters from two different field sites, formulating hypotheses to test based on natural conditions.\nMoreover, as part of a recent USDA award, we are dispatching oysters to commercial producers in Oregon. These field sites would provide an excellent framework for studies, which may be more apt for graduate students or scientific staff due to the need for accommodation. This experience would also illuminate the variations in environmental conditions and aquaculture practices across the region, fostering the expansion of research networks for our students."
+  },
+  {
+    "objectID": "research/archive/safs.html#data-availability",
+    "href": "research/archive/safs.html#data-availability",
+    "title": "Field-based Education and Research at Regional Aquaculture Sites (FERRAS)",
+    "section": "Data Availability",
+    "text": "Data Availability"
+  },
+  {
+    "objectID": "research/crabcod.html",
+    "href": "research/crabcod.html",
+    "title": "Understanding the genetics of Alaska’s crabs and fish to support a healthy, long term seafood supply",
+    "section": "",
+    "text": "Ingrid Spies"
+  },
+  {
+    "objectID": "research/crabcod.html#collaborators",
+    "href": "research/crabcod.html#collaborators",
+    "title": "Understanding the genetics of Alaska’s crabs and fish to support a healthy, long term seafood supply",
+    "section": "",
+    "text": "Ingrid Spies"
+  },
+  {
+    "objectID": "research/crabcod.html#summary",
+    "href": "research/crabcod.html#summary",
+    "title": "Understanding the genetics of Alaska’s crabs and fish to support a healthy, long term seafood supply",
+    "section": "Summary",
+    "text": "Summary\nResearchers at the Alaska Fisheries Science Center (AFSC) and the University of Washington are interested in the effects of ocean acidification (OA) on commercially and economically important crab and fish species. It appears that many species are negatively affected by exposure to pH levels predicted to occur throughout their ranges under climate change.  The effects of OA include physiological consequences including decreased growth, altered embryonic development, reduced exoskeleton strength, increased metabolic rate, altered immune system, altered behavior, and increased mortality.  Environmental changes may select for adapted individuals, resulting in populations that are less vulnerable to OA than the current population. Estimating the degree to which acclimation and adaptation will alter the experimental effects of OA and combined effects with other stressors is thus critical to accurately predicting how these stressors will affect future fisheries yields.  We are using next-generation sequencing techniques to identify the specific alterations in the molecular, metabolic, and physiological pathways of individuals exposed to OA. We are looking for a post-doctoral researcher to perform bioinformatics on RNA transcriptomic data of Pacific cod and crabs exposed to OA conditions in an experimental setting. In addition, the researcher will be responsible for writing up their methods and results and drafting peer-reviewed manuscripts."
+  },
+  {
+    "objectID": "research/crabcod.html#data-availability",
+    "href": "research/crabcod.html#data-availability",
+    "title": "Understanding the genetics of Alaska’s crabs and fish to support a healthy, long term seafood supply",
+    "section": "Data Availability",
+    "text": "Data Availability"
+  },
+  {
+    "objectID": "research/crabcod.html#notes",
+    "href": "research/crabcod.html#notes",
+    "title": "Understanding the genetics of Alaska’s crabs and fish to support a healthy, long term seafood supply",
+    "section": "Notes",
+    "text": "Notes\n\nCodesProposal IDDatesAmount\n\n\nGR061455 Task II CRAB 2025 $140,214 26% IDC\nAWD-004600 Grant Revenue (RC1054) (Line 143)\nGR014801 TASK II SEQ TECHNIQUES - 62-7490 - 2021\nAWD-004600 Grant Revenue (RC1054) (Line 151)\nGR015296 TASK II SEQ TECH PD - 62-8482 - 2021\n\n\nUW CICOES Task II Seq Techniques (62-7490) / Seq Tech PD (62-8482) NOAA - NA20OAR4320271\n\n\n7/1/2025 – 6/30/2029\n\n\n$140,214"
+  },
+  {
+    "objectID": "research/shellfish.html",
+    "href": "research/shellfish.html",
+    "title": "Advancement of innovative approaches to support sustainable aquaculture",
+    "section": "",
+    "text": "Mackenzie Gavery"
+  },
+  {
+    "objectID": "research/shellfish.html#collaborators",
+    "href": "research/shellfish.html#collaborators",
+    "title": "Advancement of innovative approaches to support sustainable aquaculture",
+    "section": "",
+    "text": "Mackenzie Gavery"
+  },
+  {
+    "objectID": "research/shellfish.html#summary",
+    "href": "research/shellfish.html#summary",
+    "title": "Advancement of innovative approaches to support sustainable aquaculture",
+    "section": "Summary",
+    "text": "Summary\nClimate change and ocean acidification (OA) conditions will continue to threaten the viability of the shellfish industry in the Pacific Northwest. It is absolutely critical to understand how marine organisms, and industries that rely on them, will respond to these changing conditions. Arguably, it will be just as important to provide tools and best practices to mitigate these effects, and in the case of marine aquaculture – find solutions to increase sustainability of the sector broadly, to create resilience even in the face of environmental uncertainty. The overall goal of this research is to develop and test innovative solutions that the shellfish industry can use to increase the resilience of the industry in the face of rapidly changing environmental conditions.\nIntroduction and Statement of Problem:\nClimate change and ocean acidification (OA) conditions will continue to threaten the viability of the shellfish industry in the Pacific Northwest. It is absolutely critical to understand how marine organisms, and industries that rely on them, will respond to these changing conditions. Arguably, it will be just as important to provide tools and best practices to mitigate these effects, and in the case of marine aquaculture – find solutions to increase sustainability of the sector broadly, to create resilience even in the face of environmental uncertainty. The overall goal of this research is to develop and test innovative solutions that the shellfish industry can use to increase the resilience of the industry in the face of rapidly changing environmental conditions. These solutions include explorations of alternative methods to produce sterile shellfish that may be more resilient to “summer mortality” and examining species diversification and environmental priming as two mitigation approaches that may increase the resilience of the industry in response to worsening OA conditions.  In this project, we will add capacity to collaborative research between partners at the University of Washington and the Northwest Fisheries Science Center, addressing objectives of key importance to the National Marine Fisheries Service mission.\nAlternative methods to induce sterility to support shellfish aquaculture\nReproductively sterile shellfish (i.e., those that cannot sexually mature and reproduce) are both a market driven need and an ecologically sustainable approach to mitigate concerns associated with genetic contamination of wild populations. Triploidy, the current method for reproductive control in shellfish, is costly in terms of both labor and time to develop selected lines, underdeveloped for many newer aquaculture species, and may have adverse effects on survival and performance. Concerningly, there have been increasing reports of “triploid mortalities” in the field, where triploid oysters experience high mortalities under multi-stressor conditions on farms.  A new method, with the potential to bypass the challenges associated with ploidy manipulation and enhance the ability to produce sterile shellfish is the induction of sterility by inactivating genes essential for germ cell formation and development, thus blocking gamete formation and fertility. This research will develop a means to produce sterile shellfish via germ cell elimination technologies.\nOA mitigation strategies for shellfish aquaculture\nThe aquaculture industry is already being threatened by climate change and ocean acidification (OA) in the Pacific Northwest. Two potential mitigation approaches exist that may allow the industry to remain viable in the face of worsening OA conditions. The first is to develop a portfolio of cultured species that includes those inherently resilient to OA and the second is to use husbandry practices that promote acclimation or adaptation of larvae via environmental priming of the parental generation. This research will explore both of these strategies through an investigation of OA sensitivity of the native littleneck clam (Leukoma staminea), whose OA sensitivity has not been thoroughly assessed. Additionally, this research will explore molecular mechanisms underlying parental carryover effects by comparing the transcriptional (gene expression) and lipid profiles of gametes collected from clam broodstock conditioned in high pCO2 versus control conditions. Not only will these activities allow for the assessment of littleneck clams as a potential novel, native species for culture, but will also provide integral data regarding the generalizability of parental carryover effects in response to OA broodstock exposures in bivalve shellfish.\nObjectives:\n\nDevelop new technologies to achieve sterility in cultured shellfish species.\nAssess OA sensitivity of the native littleneck clam and identify molecular mechanisms underlying parental carryover effects by comparing the transcriptional (gene expression) and lipid profile of gametes."
+  },
+  {
+    "objectID": "research/shellfish.html#data-availability",
+    "href": "research/shellfish.html#data-availability",
+    "title": "Advancement of innovative approaches to support sustainable aquaculture",
+    "section": "Data Availability",
+    "text": "Data Availability"
+  },
+  {
+    "objectID": "research/shellfish.html#notes",
+    "href": "research/shellfish.html#notes",
+    "title": "Advancement of innovative approaches to support sustainable aquaculture",
+    "section": "Notes",
+    "text": "Notes\n\nCodesProposal IDDatesAmount\n\n\nGR061456\n\n\nUW CICOES Task II Shellfish. | GR061456 Task II REED 2025 $549,526 26% IDC\n\n\n7/2025 – 6/2029\n\n\n$549,526"
+  },
+  {
+    "objectID": "research/aquamine.html",
+    "href": "research/aquamine.html",
+    "title": "FACT: AquaMine - A High Performance Genomic Data Mining System for Species of Importance to US Aquaculture",
+    "section": "",
+    "text": "PI: Christine G. Elsik, University of Missouri"
+  },
+  {
+    "objectID": "research/aquamine.html#collaborators",
+    "href": "research/aquamine.html#collaborators",
+    "title": "FACT: AquaMine - A High Performance Genomic Data Mining System for Species of Importance to US Aquaculture",
+    "section": "",
+    "text": "PI: Christine G. Elsik, University of Missouri"
+  },
+  {
+    "objectID": "research/aquamine.html#summary",
+    "href": "research/aquamine.html#summary",
+    "title": "FACT: AquaMine - A High Performance Genomic Data Mining System for Species of Importance to US Aquaculture",
+    "section": "Summary",
+    "text": "Summary\nAquaMine is a data mining system that integrates genome assemblies and gene annotation data for aquatic eumetazoan species of importance to US aquaculture and fisheries, with the goal of enabling researchers to create customized annotation datasets integrated with their own data. AquaMine was developed using the InterMine genomic data mining platform, which includes a web application with several search tools, including a simple key word search, predefined template queries, a QueryBuilder Tool for creating custom queries, a Regions Search Tool for coordinate-based queries, and a List Tool for uploading and searching with lists of identifiers. AquaMinev1.2 contains genomes of 37 aquatic species, including Arctic char, Atlantic salmon, California yellowtail, channel catfish, coho salmon, eastern oyster, giant tiger prawn, Nile tilapia, Pacific oyster, Pacific white shrimp, rainbow trout, striped sea bass and yellow perch. Annotation data includes RefSeq genes and additional data sources that may be available for each species, including Ensembl, KEGG, UniProt, Gene Ontology (GO), PubMed, and OrthoDB. Genes of human, fruit fly, owl limpet and zebrafish are included so model organism information can be leveraged using orthology. A precomputed orthology dataset called AquaMine-Ortho encompasses all species, including those not found in OrthoDB or Ensembl. New in AquaMinev1.2 is a comprehensive GO annotation dataset, covering all species, that can be used with a built-in gene enrichment analysis tool. AquaMinev1.2 also includes new genomic variant data from the Ensembl Variation Archive and RNA-seq-based gene expression levels for some species. We are currently developing new JBrowse genome browsers with Apollo manual genome annotation tools for the aquaculture species and will present the rainbow trout genome browser. We seek beta-testers from the research community to provide feedback on the AquaMine data mining tools and genome browsers."
+  },
+  {
+    "objectID": "research/aquamine.html#data-availability",
+    "href": "research/aquamine.html#data-availability",
+    "title": "FACT: AquaMine - A High Performance Genomic Data Mining System for Species of Importance to US Aquaculture",
+    "section": "Data Availability",
+    "text": "Data Availability"
+  },
+  {
+    "objectID": "research/archive/vernon.html",
+    "href": "research/archive/vernon.html",
+    "title": "Vernon: Development of innovative approaches to support sustainable aquaculture and understand the effects of ocean acidification on marine species",
+    "section": "",
+    "text": "Mackenzie Gavery"
+  },
+  {
+    "objectID": "research/archive/vernon.html#collaborators",
+    "href": "research/archive/vernon.html#collaborators",
+    "title": "Vernon: Development of innovative approaches to support sustainable aquaculture and understand the effects of ocean acidification on marine species",
+    "section": "",
+    "text": "Mackenzie Gavery"
+  },
+  {
+    "objectID": "research/archive/vernon.html#summary",
+    "href": "research/archive/vernon.html#summary",
+    "title": "Vernon: Development of innovative approaches to support sustainable aquaculture and understand the effects of ocean acidification on marine species",
+    "section": "Summary",
+    "text": "Summary\nEnvironmental variability due to climate change and ocean acidification (OA) are having multifaceted impacts on marine species, ecosystems and human industries such as marine aquaculture. It is absolutely critical to understand how marine organisms, and industries that rely on them, will respond to these changing conditions. Arguably, it will be just as important to provide tools and best practices to mitigate these effects, and in the case of marine aquaculture – find solutions to increase sustainability of the sector broadly, to create resilience even in the face of environmental uncertainty. Innovative scientific solutions are required to meet these ongoing and future challenges. In this project, we will add capacity to collaborative research between partners at the University of Washington and the Northwest Fisheries Science Center, addressing objectives of key importance to the National Marine Fisheries Service mission. These include innovative problem-solving approaches to address challenges facing sustainable aquaculture development, understanding the impacts of climate variability on marine fish and shellfish, and woven throughout these research activities is the development of ’omics and bioinformatics workflows for both data generation and data analysis (bioinformatics). Through this composite project, our goal is to contribute to applications to support sustainable aquaculture, increase our understanding of the effects of OA on marine fish and shellfish and contribute bioinformatic capacity, tools and workflows for research related to aquaculture, genomics and climate change."
+  },
+  {
+    "objectID": "research/archive/vernon.html#data-availability",
+    "href": "research/archive/vernon.html#data-availability",
+    "title": "Vernon: Development of innovative approaches to support sustainable aquaculture and understand the effects of ocean acidification on marine species",
+    "section": "Data Availability",
+    "text": "Data Availability"
+  },
+  {
+    "objectID": "research/archive/vernon.html#notes",
+    "href": "research/archive/vernon.html#notes",
+    "title": "Vernon: Development of innovative approaches to support sustainable aquaculture and understand the effects of ocean acidification on marine species",
+    "section": "Notes",
+    "text": "Notes\n\nCodesProposal IDDatesAmount\n\n\nAWD-004600 Grant Revenue (RC1054) (Line 128)\nGR012147 TASK II VERNON - 62-3837 - 2021\nAWD-004600 Grant Revenue (RC1054) (Line 3)\nGR011321 TASK II OMICS TECH - 62-2795 - 2021\n\n\nUW CICOES Task II Vernon (62-3837) / NOAA - NA20OAR4320271\n\n\n7/2022 – 6/2024\n\n\n$1,182,294"
+  },
+  {
+    "objectID": "research/archive/wsg-sc.html",
+    "href": "research/archive/wsg-sc.html",
+    "title": "Enhancing sustainability of shellfish aquaculture through streamlined maturation control",
+    "section": "",
+    "text": "Mackenzie Gavery"
+  },
+  {
+    "objectID": "research/archive/wsg-sc.html#collaborators",
+    "href": "research/archive/wsg-sc.html#collaborators",
+    "title": "Enhancing sustainability of shellfish aquaculture through streamlined maturation control",
+    "section": "",
+    "text": "Mackenzie Gavery"
+  },
+  {
+    "objectID": "research/archive/wsg-sc.html#summary",
+    "href": "research/archive/wsg-sc.html#summary",
+    "title": "Enhancing sustainability of shellfish aquaculture through streamlined maturation control",
+    "section": "Summary",
+    "text": "Summary\nThe proposed objectives cover the essential first steps toward generating sterile bivalves via molecular disruption of germ cell formation. The first step in the process is the identification of genes involved in primordial germ cell (PGC) specification in bivalves via single-cell RNA sequencing (scRNA- Seq). This cutting-edge technique is particularly suited to identify germ cell markers in bivalves, since germ cell precursors represent a small number of cells in developing embryos. This information is integral to being able to control germ cell fate for reproductive sterilization of aquaculture species, and our proposed use of scRNA-Seq for directed application to aquaculture is both novel and potentially highly beneficial to the broader shellfish aquaculture community. Our first specific research aim is to characterize genomic processes involved in germ cell specification in Pacific oysters. A second fundamental step in the process is the optimization of techniques to deliver targeted, gene-regulating molecules to embryos to inhibit germ cell formation. Methods to optimize delivery techniques, including the use of CRISPR-Cas9 and morpholino constructs, have yet to be developed for bivalve embryos. Therefore, our second specific research aim is to optimize delivery techniques of custom gene-regulating molecules to oyster embryos. The completion of these objectives sets the stage for a more effective and sustainable approach for sterilization of shellfish."
+  },
+  {
+    "objectID": "research/archive/wsg-sc.html#data-availability",
+    "href": "research/archive/wsg-sc.html#data-availability",
+    "title": "Enhancing sustainability of shellfish aquaculture through streamlined maturation control",
+    "section": "Data Availability",
+    "text": "Data Availability"
+  },
+  {
+    "objectID": "research/archive/ceabigr.html",
+    "href": "research/archive/ceabigr.html",
+    "title": "Collaborative Research: Does ocean acidification induce a methylation response that affects the fitness of the next generation in oysters?",
+    "section": "",
+    "text": "Katie Lotterhos"
+  },
+  {
+    "objectID": "research/archive/ceabigr.html#collaborators",
+    "href": "research/archive/ceabigr.html#collaborators",
+    "title": "Collaborative Research: Does ocean acidification induce a methylation response that affects the fitness of the next generation in oysters?",
+    "section": "",
+    "text": "Katie Lotterhos"
+  },
+  {
+    "objectID": "research/archive/ceabigr.html#summary",
+    "href": "research/archive/ceabigr.html#summary",
+    "title": "Collaborative Research: Does ocean acidification induce a methylation response that affects the fitness of the next generation in oysters?",
+    "section": "Summary",
+    "text": "Summary\nLiving organisms may acclimate to environmental changes through epigenetic modifications to DNA, which alter the way genetic instructions are interpreted without altering the DNA code itself. While these modifications to organismal phenotype or function can be reversible, some of them may be inherited by offspring, potentially producing multiple, heritable outcomes from a single genome and affecting ecological and evolutionary outcomes. This project uses symbiotic, metabolically complex reef building corals as a model system to test the connections between physiological, epigenetic, and metabolic states, and predict how population and community dynamics are influenced by epigenetically-modulated phenotypes. This work will advance biological knowledge by delineating fundamental links (Rules of Life) between ubiquitous organismal energetic processes, epigenetics, and eco-evolutionary outcomes. The Broader Impacts activities parallel the project’s integrative approach, linking insights from Environment x Energetics x Epigenetics x Ecology for Education into an E5 platform. The E5 platform will provide i) early career STEM training, ii) local and global community education, and iii) educational resources for open science, quantitative approaches, and research reproducibility. Further, this E5 platform will train and inform the next generation of diverse scientists and public by combining local and global initiatives focusing on groups underrepresented in STEM.\nThis project examines how nutrient metabolism in the mitochondria generates cofactors and energy that will instruct the epigenetic machinery in the cell nucleus to modulate genome function to appropriately respond to environmental conditions. Environmentally-responsive metabolic function and energetic-epigenetic linkages act as drivers of complex emergent phenotypes. To elucidate relationships that are the basis for Rules of Life with respect to epigenetics, this project will use integrative experimental and modeling approaches focused on reef building corals to: 1) link nutritionally-provisioned metabolites with epigenetic and organismal state through seasonal sampling across environmental gradients; 2) expand current Dynamic Energy Budget (DEB) models for symbiotic organisms to further integrate critical facets of nutritional symbiosis and calcification; 3) experimentally modulate metabolic and therefore epigenetic states through repeated exposure to increased temperature and nutrients, to test intra- and trans-generational epigenetic inheritance; 4) use DEB theory to identify shifts in energetics associated with epigenetic modulation, and link these sub-organismal processes to higher levels of organization; and 5) integrate findings into a generalizable, predictive eco-evolutionary model that links nutritional interactions, metabolic states, and subsequent epigenetic effects to the timescales regulating organismal processes and eco-evolutionary outcomes. This effort will provide characterization of environmental epigenetic phenomena in ecosystem-engineering marine invertebrates. This characterization includes determining the mechanisms and the degree of epigenetic ‘memory’ both within and across generations. By including information on environmental legacies, propagated by epigenetics, this project will advance both organismal and population-based models and improve capacity to predict responses to acute and chronic environmental signals."
+  },
+  {
+    "objectID": "research/archive/ceabigr.html#data-availability",
+    "href": "research/archive/ceabigr.html#data-availability",
+    "title": "Collaborative Research: Does ocean acidification induce a methylation response that affects the fitness of the next generation in oysters?",
+    "section": "Data Availability",
+    "text": "Data Availability\nThe online version contains supplementary material available at https://doi.org/10.5281/zenodo.4563060"
+  },
+  {
+    "objectID": "research/usda.html",
+    "href": "research/usda.html",
+    "title": "Improved climate resilience in oysters through optimization of hatchery-based environmental conditioning practices",
+    "section": "",
+    "text": "Matt George"
+  },
+  {
+    "objectID": "research/usda.html#collaborators",
+    "href": "research/usda.html#collaborators",
+    "title": "Improved climate resilience in oysters through optimization of hatchery-based environmental conditioning practices",
+    "section": "",
+    "text": "Matt George"
+  },
+  {
+    "objectID": "research/usda.html#summary",
+    "href": "research/usda.html#summary",
+    "title": "Improved climate resilience in oysters through optimization of hatchery-based environmental conditioning practices",
+    "section": "Summary",
+    "text": "Summary\nAs academic, industry, and tribal stakeholders, our collective goal is to ensure the sustainable expansion of oyster aquaculture within the U.S. by reducing the frequency and severity of mass mortality events by improving the climate resilience of oyster stocks. The specific research objectives are: Optimize early-life stage environmental conditioning to improve climate resilience Assess carry-over benefits of broodstock husbandry practices on offspring performance Objective 1. Optimize early-life stage environmental conditioning to improve climate resilience. Developmental plasticity occurs when the environment experienced by an organism during development alters the phenotype of the same organism during later life-stages (Figure). To assess the potential for developmental plasticity to produce positive carry-over effects that improve resilience, we will expose oysters to a variety of environmental stressors at nonlethal levels during larval rearing. The performance of larvae will be assessed during early development and compared with performance after summer deployment at grow-out sites.\n\n\n\nfig\n\n\nObjective 2. Assess carry-over benefits of broodstock husbandry practices on offspring performance. Transgenerational plasticity occurs when the environment experienced by parents influences the phenotype of their offspring (Fig. 4B). To assess the potential for transgenerational plasticity to produce positive carry-over effects that improve offspring resilience, we will expose oyster broodstock to a variety of environmental stressors at nonlethal levels prior to broodstock conditioning and spawning. The performance of offspring will then be assessed during the pre- and post-settlement larval stages and compared with performance after summer deployment at grow-out site"
+  },
+  {
+    "objectID": "research/usda.html#data-availability",
+    "href": "research/usda.html#data-availability",
+    "title": "Improved climate resilience in oysters through optimization of hatchery-based environmental conditioning practices",
+    "section": "Data Availability",
+    "text": "Data Availability"
+  },
+  {
+    "objectID": "research/usda.html#notes",
+    "href": "research/usda.html#notes",
+    "title": "Improved climate resilience in oysters through optimization of hatchery-based environmental conditioning practices",
+    "section": "Notes",
+    "text": "Notes\n\nCodesProposal IDDatesAmount\n\n\nAWD-008583 Grant Revenue (RC1054) (Line 1)\nGR014587 CLIMATE RESILIENCE - 62-7174 - 2021021\n\n\nUSDA / 2022-70007-38284 (62-7174)\n\n\n9/1/2022 – 8/31/2024\n\n\n$299,374"
+  },
+  {
+    "objectID": "research/cod.html",
+    "href": "research/cod.html",
+    "title": "Gene activity and genetic selection in Pacific cod reared under thermal stress",
+    "section": "",
+    "text": "Louise Copeman (co-PI)\nBen Laurel (co-PI)\nKrista Nichols (co-PI)\nIngrid Spies (co-PI)"
+  },
+  {
+    "objectID": "research/cod.html#collaborators",
+    "href": "research/cod.html#collaborators",
+    "title": "Gene activity and genetic selection in Pacific cod reared under thermal stress",
+    "section": "",
+    "text": "Louise Copeman (co-PI)\nBen Laurel (co-PI)\nKrista Nichols (co-PI)\nIngrid Spies (co-PI)"
+  },
+  {
+    "objectID": "research/cod.html#summary",
+    "href": "research/cod.html#summary",
+    "title": "Gene activity and genetic selection in Pacific cod reared under thermal stress",
+    "section": "Summary",
+    "text": "Summary\nRecent heat wave stress in the Gulf of Alaska has resulted in significant declines of Pacific cod, Gadus macrocephalus, in that region. In particular, overwintering success of juveniles is hypothesized to represent a critical bottleneck with food availability the previous summer affecting juvenile lipid reserves and thus, their ability to survive winter. The physiological and transcriptional responses of Pacific cod and whether selective mortality is present under thermal stress are unknown. The proposed project will address these questions critical to their survival under climate change by identifying regions of the genome and epigenome that respond to thermal stress and starvation. Juvenile Pacific cod will be reared in three temperatures under feeding and non-feeding conditions, then an integrated genomic approach will identify genes, gene variants, and epigenetic markers that respond to thermal stress and confer resilience. To complement the genomic approaches and further investigate temperature influences on energy resources, we will perform lipid analyses. This work will inform predictions of genetic selection and molecular response of Pacific cod in the Gulf of Alaska under climate change."
+  },
+  {
+    "objectID": "research/cod.html#data-availability",
+    "href": "research/cod.html#data-availability",
+    "title": "Gene activity and genetic selection in Pacific cod reared under thermal stress",
+    "section": "Data Availability",
+    "text": "Data Availability"
+  },
+  {
+    "objectID": "research/cod.html#notes",
+    "href": "research/cod.html#notes",
+    "title": "Gene activity and genetic selection in Pacific cod reared under thermal stress",
+    "section": "Notes",
+    "text": "Notes\n\nCodesProposal IDDatesAmount\n\n\nAWD-008727 Grant Revenue (RC1054) (Line 1)\nGR031727 COD THERMAL STRESS - 66-9283 - 2021\n\n\nPacific States Marine Fisheries Commission / 23-084G (66-9283)\n\n\n11/1/2022 – 7/31/2025\n\n\n$524,788"
+  },
+  {
+    "objectID": "research/wsg-ec.html",
+    "href": "research/wsg-ec.html",
+    "title": "A collaborative partnership to address mass mortalities in oyster aquaculture through improved field monitoring, husbandry practices, and workforce development",
+    "section": "",
+    "text": "Emily Carrington"
+  },
+  {
+    "objectID": "research/wsg-ec.html#collaborators",
+    "href": "research/wsg-ec.html#collaborators",
+    "title": "A collaborative partnership to address mass mortalities in oyster aquaculture through improved field monitoring, husbandry practices, and workforce development",
+    "section": "",
+    "text": "Emily Carrington"
+  },
+  {
+    "objectID": "research/wsg-ec.html#summary",
+    "href": "research/wsg-ec.html#summary",
+    "title": "A collaborative partnership to address mass mortalities in oyster aquaculture through improved field monitoring, husbandry practices, and workforce development",
+    "section": "Summary",
+    "text": "Summary\nAs a collaborative partnership, our collective goal is to ensure the sustainable expansion of oyster aquaculture within Washington State by reducing the frequency and severity of mass mortality events that result from the interaction between OsHV-1 infection and extreme climate events such as marine and aerial heatwaves. The specific research and outreach objectives we will use to achieve this goal are:\nObjective 1. Determine susceptibility of Washington shellfish farms to heatwaves. Air and water temperatures experienced by oysters during grow-out will be monitored at farms within the Salish Sea and Willapa Bay in collaboration with industry partners. Continuous monitoring of environmental conditions in combination with oyster mortality data will be used to generate a climate risk assessment model for commercial growing areas within Washington State.\nObjective 2. Develop a commercially viable hatchery husbandry protocol that improves oyster heat tolerance. Oyster seed (“spat”) from OsHV-1 resistant families supplied by the USDA-ARS’ Pacific Shellfish Breeding Center (PSBC) will undergo sublethal exposure to simulated marine and aerial heat waves within a hatchery setting. The summer survival of stress-primed spat out-planted at farms with Puget Sound and Willapa Bay will inform the creation of a husbandry protocol that improves oyster climate resilience.\nObjective 3. Develop an enhanced workforce training curriculum for shellfish industry technicians. To address the industry’s need for skilled technicians, students from Bellingham Technical College’s (BTC) Fisheries and Aquaculture Sciences Program will be integrated into research objectives; this collaboration will be used to generate an enhanced workforce training curriculum that uses OsHV-1 and heat waves as case studies. Students will also gain exposure to training opportunities by serving as hatchery technicians, summer interns at shellfish farms, and student ambassadors during regular partner meetings."
+  },
+  {
+    "objectID": "research/wsg-ec.html#data-availability",
+    "href": "research/wsg-ec.html#data-availability",
+    "title": "A collaborative partnership to address mass mortalities in oyster aquaculture through improved field monitoring, husbandry practices, and workforce development",
+    "section": "Data Availability",
+    "text": "Data Availability"
+  },
+  {
+    "objectID": "research/wsg-ec.html#notes",
+    "href": "research/wsg-ec.html#notes",
+    "title": "A collaborative partnership to address mass mortalities in oyster aquaculture through improved field monitoring, husbandry practices, and workforce development",
+    "section": "Notes",
+    "text": "Notes\n\nCodesProposal IDDatesAmount\n\n\nTBD\n\n\nTBD\n\n\n2/2024 – 1/2026\n\n\n$280,000"
+  },
+  {
+    "objectID": "research/salmon.html",
+    "href": "research/salmon.html",
+    "title": "Biological sensitivity, resiliency, and adaptation to ocean acidification in marine fish species",
+    "section": "",
+    "text": "Andy Dittman"
+  },
+  {
+    "objectID": "research/salmon.html#collaborators",
+    "href": "research/salmon.html#collaborators",
+    "title": "Biological sensitivity, resiliency, and adaptation to ocean acidification in marine fish species",
+    "section": "",
+    "text": "Andy Dittman"
+  },
+  {
+    "objectID": "research/salmon.html#summary",
+    "href": "research/salmon.html#summary",
+    "title": "Biological sensitivity, resiliency, and adaptation to ocean acidification in marine fish species",
+    "section": "Summary",
+    "text": "Summary\nThe ability of marine organisms to acclimate or adapt to environmental conditions associated with ocean acidification (OA) and other stressors (rising temperatures, deoxygenation) is a critical uncertainty in the management, conservation and recovery of these species. Species- and population-level differences in sensitivity to elevated CO2 and co-stressors have been described extensively in a wide variety of organisms but a mechanistic understanding of why these differences exist and how some animals are able to acclimate or adapt to these environmental changes is lacking. Understanding how animals respond to environmental stressors and how we can develop management and adaptation strategies for living marine resources under OA requires knowledge of the mechanisms underlying sensitivity and acclimation/adaptation to OA and co-stressors. The overarching goal of this project is to utilize genomic and neurobehavioral approaches to develop a more thorough understanding of the processes underlying these responses in Pacific salmon that are critical for commercial and recreational fishing and are species of conservation concern."
+  },
+  {
+    "objectID": "research/salmon.html#data-availability",
+    "href": "research/salmon.html#data-availability",
+    "title": "Biological sensitivity, resiliency, and adaptation to ocean acidification in marine fish species",
+    "section": "Data Availability",
+    "text": "Data Availability"
+  },
+  {
+    "objectID": "research/salmon.html#notes",
+    "href": "research/salmon.html#notes",
+    "title": "Biological sensitivity, resiliency, and adaptation to ocean acidification in marine fish species",
+    "section": "Notes",
+    "text": "Notes\n\nCodesProposal IDDatesAmount\n\n\nGR062536 “Packard Roberts” - Jan 12, 2027 | GR061459 Task II OLLIE 2025 $72,531\n\n\n\n\n\n7/2025 – 6/2029\n\n\n$140,000"
   },
   {
     "objectID": "research/aust.html",
@@ -2452,7 +2487,7 @@
     "href": "posts/sr320-intertidal/index.html",
     "title": "Intertidal Innovators",
     "section": "",
-    "text": "On August 16, participants in the Intertidal Innovators program presented their work to the community. The program, which was a collaboration sponsored by the UW Earthlab program, provided students with the opportunity to learn about marine science and conservation through art.\n\n\n\n\n\n\n\nQuote\n\n\n\nThis program has lasted for 10 days, but during those days we have learned and worked very hard to give you this project. And we are proud to say that there are a bunch of hard working members in our program that have learned new skills and have gained knowledge in this program So in this journey, you will learn a lot about our work and marine life.\n\n\nAt the community showcase, students guide small groups around the intertidal, sharing their art with tablets and speakers. It was a great experience that showcased videos, poems, live demonostrations, and stories. Anyone can checkout their guided tour at Golden Garden Park via the echoes app - https://explore.echoes.xyz/collections/jJtrYdYIdtZ8eCpC\nBelow is a video that takes you behind the scenes on the 10-day experience students participated in."
+    "text": "On August 16, participants in the Intertidal Innovators program presented their work to the community. The program, which was a collaboration sponsored by the UW Earthlab program, provided students with the opportunity to learn about marine science and conservation through art.\n\n\n\n\n\n\n\nNoteQuote\n\n\n\nThis program has lasted for 10 days, but during those days we have learned and worked very hard to give you this project. And we are proud to say that there are a bunch of hard working members in our program that have learned new skills and have gained knowledge in this program So in this journey, you will learn a lot about our work and marine life.\n\n\nAt the community showcase, students guide small groups around the intertidal, sharing their art with tablets and speakers. It was a great experience that showcased videos, poems, live demonostrations, and stories. Anyone can checkout their guided tour at Golden Garden Park via the echoes app - https://explore.echoes.xyz/collections/jJtrYdYIdtZ8eCpC\nBelow is a video that takes you behind the scenes on the 10-day experience students participated in."
   },
   {
     "objectID": "posts/sr320-boundless/index.html",
@@ -2473,7 +2508,7 @@
     "href": "posts/sr320-LGBTQ/index.html",
     "title": "Celebrating LGBTQ+ in STEM",
     "section": "",
-    "text": "Full Article\n\n\n\nThe following is an excerpt from a post on the SAFS Website: https://fish.uw.edu/2023/11/celebrating-lgbtq-in-stem\nCelebrating and highlighting the work of LGBTQ+ people in science, technology, engineering, and math (STEM) has a special day on the calendar: November 18. Why this date? It is based on the 60th anniversary of American Astronomer and gay activist Frank Kameny’s fight against workplace discrimination, which he took to the U.S. Supreme Court.\nScience is a place of innovation, research, and progress, but many communities are still marginalized in these spaces. Pride in STEM notes that 28% of LGBT+ people have considered leaving their jobs because of discrimination or workplace hostility.\nOn LGBTQ+ in STEM Day, we celebrate the contribution of LGBTQ+ scientists, while also recognizing that barriers are still faced and that efforts have to continue to break these down. We spoke with SAFS graduate student, Aspen Coyle, who shared her thoughts on her journey so far in academia, what inclusion means for her, and some of the barriers and highlights she’s experienced. She also shares some advice for those concerned about a lack of representation in marine science."
+    "text": "NoteFull Article\n\n\n\nThe following is an excerpt from a post on the SAFS Website: https://fish.uw.edu/2023/11/celebrating-lgbtq-in-stem\nCelebrating and highlighting the work of LGBTQ+ people in science, technology, engineering, and math (STEM) has a special day on the calendar: November 18. Why this date? It is based on the 60th anniversary of American Astronomer and gay activist Frank Kameny’s fight against workplace discrimination, which he took to the U.S. Supreme Court.\nScience is a place of innovation, research, and progress, but many communities are still marginalized in these spaces. Pride in STEM notes that 28% of LGBT+ people have considered leaving their jobs because of discrimination or workplace hostility.\nOn LGBTQ+ in STEM Day, we celebrate the contribution of LGBTQ+ scientists, while also recognizing that barriers are still faced and that efforts have to continue to break these down. We spoke with SAFS graduate student, Aspen Coyle, who shared her thoughts on her journey so far in academia, what inclusion means for her, and some of the barriers and highlights she’s experienced. She also shares some advice for those concerned about a lack of representation in marine science."
   },
   {
     "objectID": "posts/sr320-LGBTQ/index.html#what-led-you-to-pursue-studies-in-science",
@@ -2494,7 +2529,7 @@
     "href": "posts/sr320-LGBTQ/index.html#what-does-inclusion-look-like-for-you",
     "title": "Celebrating LGBTQ+ in STEM",
     "section": "What does inclusion look like for you?",
-    "text": "What does inclusion look like for you?\n\n\n\n\n\n\nFull Article\n\n\n\nTo see the answer to this and other questions read the full article at https://fish.uw.edu/2023/11/celebrating-lgbtq-in-stem"
+    "text": "What does inclusion look like for you?\n\n\n\n\n\n\nNoteFull Article\n\n\n\nTo see the answer to this and other questions read the full article at https://fish.uw.edu/2023/11/celebrating-lgbtq-in-stem"
   },
   {
     "objectID": "posts/sr320-lsamp/index.html",
@@ -2739,7 +2774,7 @@
     "href": "posts/ariana-hatchery/index.html",
     "title": "Hatchery Field Day at Point Whitney",
     "section": "",
-    "text": "On May 6, 2024, Dr. Ariana Huffmyer, an NSF Ocean Sciences Postdoctoral Fellow from the University of Rhode Island and University of Washington, shared insights from a field day at Point Whitney. This comprehensive post revealed the detailed process of managing and monitoring oyster growth and stress testing, providing a clear framework for hatchery management.\n\n\n\n\n\n\nLink to Full Notebook Post\n\n\n\nhttps://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/Hatchery-field-day-at-Point-Whitney-May-6-2024/\n\n\nOverview of Field Day Activities The objective was to monitor the health and stress responses of oyster cohorts at the hatchery. Key activities included calibrating monitoring equipment, feeding the oysters, and assessing the impacts of temperature and freshwater stress.\n\nMonitoring Equipment Calibration: Dr. Huffmyer set up and calibrated an Orion Star A325 probe to measure pH, temperature, and conductivity. By using buffers of varying pH and a conductivity solution, she ensured accurate measurements. The pH was measured on the NBS scale, considered sufficient since ocean acidification experiments weren’t being conducted.\nFeeding Protocol: The oysters were pulse-fed, where approximately 1/3 of a 5-gallon bucket was distributed among the tanks. This ensured that the animals received sufficient nutrition.\nFluorometry and Physiochemical Measurements: Fluorometry measurements were conducted before and after feeding, providing data on oyster metabolic activity. Additionally, pH, temperature, and conductivity were measured across different tanks, offering valuable weekly insights into water quality.\nStress Testing Regimen: Dr. Huffmyer conducted a 30-minute stress test for specific oyster cohorts using freshwater and elevated temperature exposures. Animals were subjected to 25°C temperature and freshwater immersion, replicating environmental stressors they might face. Trays were labeled and organized by stressor type.\nGrowth Characterization: Size measurements were taken using a waterproof digital caliper. Cohorts were categorized based on their respective stressors, creating a comprehensive understanding of their growth patterns.\nPloidy Testing Preparations: A selection of oysters from different cohorts was collected for ploidy testing to distinguish between diploid and triploid oysters. They were stored in mesh bags, and the testing results would provide critical information for future breeding programs.\n\n\n\n\nheath-tray\n\n\nTakeaways for Hatchery Science Dr. Huffmyer’s systematic approach highlights the significance of precise monitoring and stress testing in hatchery science. Understanding oyster resilience to environmental stressors is crucial for aquaculture sustainability. Her work at Point Whitney offers a detailed protocol that could be replicated or adapted by other researchers to monitor and improve hatchery operations.\nThe future of hatchery management will depend heavily on such frameworks, where real-time data collection and analysis enable researchers to respond promptly to environmental changes."
+    "text": "On May 6, 2024, Dr. Ariana Huffmyer, an NSF Ocean Sciences Postdoctoral Fellow from the University of Rhode Island and University of Washington, shared insights from a field day at Point Whitney. This comprehensive post revealed the detailed process of managing and monitoring oyster growth and stress testing, providing a clear framework for hatchery management.\n\n\n\n\n\n\nImportantLink to Full Notebook Post\n\n\n\nhttps://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/Hatchery-field-day-at-Point-Whitney-May-6-2024/\n\n\nOverview of Field Day Activities The objective was to monitor the health and stress responses of oyster cohorts at the hatchery. Key activities included calibrating monitoring equipment, feeding the oysters, and assessing the impacts of temperature and freshwater stress.\n\nMonitoring Equipment Calibration: Dr. Huffmyer set up and calibrated an Orion Star A325 probe to measure pH, temperature, and conductivity. By using buffers of varying pH and a conductivity solution, she ensured accurate measurements. The pH was measured on the NBS scale, considered sufficient since ocean acidification experiments weren’t being conducted.\nFeeding Protocol: The oysters were pulse-fed, where approximately 1/3 of a 5-gallon bucket was distributed among the tanks. This ensured that the animals received sufficient nutrition.\nFluorometry and Physiochemical Measurements: Fluorometry measurements were conducted before and after feeding, providing data on oyster metabolic activity. Additionally, pH, temperature, and conductivity were measured across different tanks, offering valuable weekly insights into water quality.\nStress Testing Regimen: Dr. Huffmyer conducted a 30-minute stress test for specific oyster cohorts using freshwater and elevated temperature exposures. Animals were subjected to 25°C temperature and freshwater immersion, replicating environmental stressors they might face. Trays were labeled and organized by stressor type.\nGrowth Characterization: Size measurements were taken using a waterproof digital caliper. Cohorts were categorized based on their respective stressors, creating a comprehensive understanding of their growth patterns.\nPloidy Testing Preparations: A selection of oysters from different cohorts was collected for ploidy testing to distinguish between diploid and triploid oysters. They were stored in mesh bags, and the testing results would provide critical information for future breeding programs.\n\n\n\n\nheath-tray\n\n\nTakeaways for Hatchery Science Dr. Huffmyer’s systematic approach highlights the significance of precise monitoring and stress testing in hatchery science. Understanding oyster resilience to environmental stressors is crucial for aquaculture sustainability. Her work at Point Whitney offers a detailed protocol that could be replicated or adapted by other researchers to monitor and improve hatchery operations.\nThe future of hatchery management will depend heavily on such frameworks, where real-time data collection and analysis enable researchers to respond promptly to environmental changes."
   },
   {
     "objectID": "publications/articles/the-caligus-rogercresseyi-mirnome-discovery-and-tr_2017.html",
@@ -3201,7 +3236,7 @@
     "href": "publications/articles/gurr2022.html#data-availability",
     "title": "Acclimatory gene expression of primed clams enhances robustness to elevated pCO2",
     "section": "Data Availability",
-    "text": "Data Availability\n\n\n\n\n\n\nOpen Data\n\n\n\nThis article has earned an Open Data Badge for making publicly available the digitally-shareable data necessary to reproduce the reported results\n\n\nThe data is available at https://doi.org/10.5281/zenodo.6908630.\nRaw sequence reads are deposited in the SRA (Accession: PRJNA740307; BioProject: Transcriptome profiles of Panopea generosa under hypercapnic seawater). All data have been submitted as a public Zenodo repository https://doi.org/10.5281/zenodo.6908630."
+    "text": "Data Availability\n\n\n\n\n\n\nImportantOpen Data\n\n\n\nThis article has earned an Open Data Badge for making publicly available the digitally-shareable data necessary to reproduce the reported results\n\n\nThe data is available at https://doi.org/10.5281/zenodo.6908630.\nRaw sequence reads are deposited in the SRA (Accession: PRJNA740307; BioProject: Transcriptome profiles of Panopea generosa under hypercapnic seawater). All data have been submitted as a public Zenodo repository https://doi.org/10.5281/zenodo.6908630."
   },
   {
     "objectID": "publications/articles/spencer2023.html",
@@ -4318,7 +4353,7 @@
     "href": "people.html#ariana-s.-huffmyer-phd",
     "title": "Lab Members",
     "section": "Ariana S. Huffmyer, PhD",
-    "text": "Ariana S. Huffmyer, PhD\n\nLab notebook LinkTree Email\n\n\nI am a Research Scientist at the University of Washington studying the effects of climate change on marine invertebrate early life history, with a particular interest in tolerance and resilience to stress in reef-building corals and bivalves. My current research interests are in understanding how climate change affects coral performance and survival using multi-omic approaches. Increased frequency and severity of marine heat waves are causing coral bleaching - the breakdown of the nutritional symbiosis between tropical corals and their algal endosymbionts. My research investigates the formation of symbiosis between corals and their algal symbionts during early development in coral species in Hawaii, USA, and Moorea, French Polynesia by utilizing physiological, metabolomic, and transcriptomic approaches. Our work also investigates the capacity for aquaculture species (e.g., the Pacific oysters) to increase thermal tolerance and growth through stress hardening. We work in collaboration with aquaculture growers and hatcheries throughout Western Washington. I use online notebooks and GitHub to publicly share my data and analyses. Outside the lab, I enjoy hiking, mountain biking, fly fishing, and exploring with my two dogs the Pacific Northwest.",
+    "text": "Ariana S. Huffmyer, PhD\n\nLab notebook Website Email\n\n\nI am a Research Scientist at the University of Washington studying the effects of climate change on marine invertebrate early life history, with a particular interest in tolerance and resilience to stress in reef-building corals and bivalves. My current research interests are in understanding how climate change affects coral performance and survival using multi-omic approaches. Increased frequency and severity of marine heat waves are causing coral bleaching - the breakdown of the nutritional symbiosis between tropical corals and their algal endosymbionts. My research investigates the formation of symbiosis between corals and their algal symbionts during early development in coral species in Hawaii, USA, and Moorea, French Polynesia by utilizing physiological, metabolomic, and transcriptomic approaches. Our work also investigates the capacity for aquaculture species (e.g., the Pacific oysters) to increase thermal tolerance and growth through stress hardening. We work in collaboration with aquaculture growers and hatcheries throughout Western Washington. I use online notebooks and GitHub to publicly share my data and analyses. Outside the lab, I enjoy hiking, mountain biking, fly fishing, and exploring with my two dogs the Pacific Northwest.",
     "crumbs": [
       "About us",
       "People"
@@ -4444,40 +4479,5 @@
       "About us",
       "Outreach"
     ]
-  },
-  {
-    "objectID": "research/salmon.html",
-    "href": "research/salmon.html",
-    "title": "Biological sensitivity, resiliency, and adaptation to ocean acidification in marine fish species",
-    "section": "",
-    "text": "Andy Dittman"
-  },
-  {
-    "objectID": "research/salmon.html#collaborators",
-    "href": "research/salmon.html#collaborators",
-    "title": "Biological sensitivity, resiliency, and adaptation to ocean acidification in marine fish species",
-    "section": "",
-    "text": "Andy Dittman"
-  },
-  {
-    "objectID": "research/salmon.html#summary",
-    "href": "research/salmon.html#summary",
-    "title": "Biological sensitivity, resiliency, and adaptation to ocean acidification in marine fish species",
-    "section": "Summary",
-    "text": "Summary\nThe ability of marine organisms to acclimate or adapt to environmental conditions associated with ocean acidification (OA) and other stressors (rising temperatures, deoxygenation) is a critical uncertainty in the management, conservation and recovery of these species. Species- and population-level differences in sensitivity to elevated CO2 and co-stressors have been described extensively in a wide variety of organisms but a mechanistic understanding of why these differences exist and how some animals are able to acclimate or adapt to these environmental changes is lacking. Understanding how animals respond to environmental stressors and how we can develop management and adaptation strategies for living marine resources under OA requires knowledge of the mechanisms underlying sensitivity and acclimation/adaptation to OA and co-stressors. The overarching goal of this project is to utilize genomic and neurobehavioral approaches to develop a more thorough understanding of the processes underlying these responses in Pacific salmon that are critical for commercial and recreational fishing and are species of conservation concern."
-  },
-  {
-    "objectID": "research/salmon.html#data-availability",
-    "href": "research/salmon.html#data-availability",
-    "title": "Biological sensitivity, resiliency, and adaptation to ocean acidification in marine fish species",
-    "section": "Data Availability",
-    "text": "Data Availability"
-  },
-  {
-    "objectID": "research/salmon.html#notes",
-    "href": "research/salmon.html#notes",
-    "title": "Biological sensitivity, resiliency, and adaptation to ocean acidification in marine fish species",
-    "section": "Notes",
-    "text": "Notes\n\nCodesProposal IDDatesAmount\n\n\nGR062536 “Packard Roberts” - Jan 12, 2027 | GR061459 Task II OLLIE 2025 $72,531\n\n\n\n\n\n7/2025 – 6/2029\n\n\n$140,000"
   }
 ]
