@@ -2,7 +2,7 @@
 title: "Mothers know best: Maternal signaling boosts larval resilience under ocean acidification conditions"
 type: "article"
 author: "Emma Timmins-Schiffman, Larken Root, Ryan Crim, Mollie A. Middleton, Megan M. Ewing, Jacob Winnikoff, Gracelyn Ham, Giles Goetz, Steven Roberts, Mackenzie R. Gavery"
-year: "2025"
+year: "2026"
 publication: "Aquaculture"
 preprint: ""
 doi: "https://doi.org/10.1016/j.aquaculture.2025.743388"
