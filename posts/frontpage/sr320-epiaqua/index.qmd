@@ -1,0 +1,48 @@
+---
+title: "Epigenomics in Chile"
+description: "Teaching, Collaboration, and New Directions in Aquaculture Research"
+author:
+  - name: Steven Roberts
+    url: https://sr320.github.io/
+    orcid: 0000-0001-8302-1138
+    affiliation: Professor, UW - School of Aquatic and Fishery Sciences
+    affiliation-url: https://robertslab.info
+date: 01-30-2026
+categories: [teaching, aquaculture] # self-defined categories
+image: http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Image_2026-01-30_11-26-05.png # finding a good image
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+
+format:
+  html:
+    code-fold: true
+    code-tools: true
+    code-copy: true
+    highlight-style: github
+    code-overflow: wrap
+---
+
+Last week I traveled to Chile to teach at the Austral Summer Institute and spend time with collaborators at the University of Concepción through our ongoing INCAR2 partnership. It was one of those trips that reminds me why I enjoy this work so much—bringing together students, colleagues, and real-world systems to explore how molecular biology connects to environmental change and aquaculture sustainability.
+
+At the Summer Institute, I taught Epigenomics in Aquaculture (EpiAqua) to an outstanding group of graduate students and postdoctoral researchers from across South America. The course focused on how epigenetic mechanisms—especially DNA methylation and non-coding RNAs—mediate organismal responses to stress, and how these tools can be applied in aquaculture and climate resilience research.
+
+![Professor Rick Goetz giving lecture on phenotypic variation in trout.](images/clipboard-740445096.png)
+
+What stood out most was the energy in the room. Students came from diverse backgrounds spanning ecology, physiology, genomics, and applied aquaculture, which led to thoughtful discussions about experimental design, data integration, and how to move from sequencing data to actionable insight. These kinds of exchanges are incredibly motivating—and they’re exactly how new collaborations and ideas begin.
+
+After the course, I spent time at the University of Concepción continuing work with INCAR2 colleagues. Together we moved forward on several exciting new directions, including:
+
+• Penguin epigenetics, exploring how environmental exposure may be reflected in epigenomic variation in wild populations.
+
+• Sea lice sex determination, aimed at understanding molecular mechanisms that could inform management strategies in salmon aquaculture.
+
+• Presence–absence variation (PAV) in trout ecomorphs, investigating how structural genomic differences may contribute to ecological specialization.
+
+Each of these projects fits into our broader goal of linking genomics and epigenomics to physiology, performance, and resilience in aquatic organisms.
+
+Following the academic portion of the trip, I also had the opportunity to visit salmon farms in southern Chile. Seeing production systems firsthand always adds important perspective—connecting lab-based molecular work to the environmental realities faced by farmers and managers. These visits reinforced why translational research matters: our models and datasets ultimately need to work in complex, real-world settings.
+
+![Visiting salmon farms in Puerto Montt](images/clipboard-4226269657.png)
+
+Overall, the trip was a great reminder of the value of international partnerships and immersive training environments. Teaching at the Austral Summer Institute and collaborating with INCAR2 continues to strengthen a shared vision around environmental memory, aquaculture sustainability, and training the next generation of scientists.
+
+I’m grateful to our host, Dr. Cristian Gallardo and collaborators in Chile for their generosity and enthusiasm—and I’m excited to build on these new projects in the months ahead.
