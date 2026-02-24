@@ -1,0 +1,28 @@
+---
+title: "Short-term mechanisms, long-term consequences: molecular effects of ocean acidification on juvenile snow crab"
+type: "article"
+author: "Laura H Spencer, Ingrid B. Spies, Jennifer L. Gardner, Steven B. Roberts, W. Christopher Long"
+year: "2026"
+publication: "BioRxiv"
+preprint: ""
+doi: "https://doi.org/10.64898/2026.02.04.703865"
+materials: "https://github.com/laurahspencer/snow-crab_RNASeq-2022"
+eprint: "https://www.biorxiv.org/content/10.64898/2026.02.04.703865v1.full.pdf"
+toc: FALSE
+categories:
+  - crab
+  - resilience
+  - ocean acidification
+---
+
+## Citation
+
+> Short-term mechanisms, long-term consequences: molecular effects of ocean acidification on juvenile snow crabLaura H Spencer, Ingrid B. Spies, Jennifer L. Gardner, Steven B. Roberts, W. Christopher LongbioRxiv 2026.02.04.703865; doi: https://doi.org/10.64898/2026.02.04.703865
+
+![](images/clipboard-1094732716.png)
+
+## **Abstract**
+
+Understanding how marine species tolerate acidified conditions is critical for predicting biological responses to ocean change. A recent one-year experiment (Long 2026) found that juvenile snow crab (*Chionoecetes opilio*) maintain growth and molting under acidification (pH 7.8, 7.5), and survival begins to decline only after ∼250 days under severe acidification (pH 7.5). In this companion study, we characterized whole-transcriptome responses after 8 hours and 88 days of exposure to identify molecular mechanisms underlying short-term tolerance and chronic effects of ocean acidification. The immediate transcriptional response involved strong activation of genes associated with mitochondrial metabolism and biogenesis, protein homeostasis, cuticle maintenance, and immune modulation, processes shared between moderate and severe treatments but of greater magnitude under severe acidification. After 88 days, expression patterns diverged, revealing sustained upregulation of stress- and damage-mitigation pathways in the severe treatment (pH 7.5) compared to the moderate treatment (pH 7.8). These findings indicate that crabs in severe acidification are likely to experience chronic OA stress that precedes outward physiological effects, and provides a mechanistic basis for delayed mortality. We further highlight potential early indicators of chronic acidification stress in snow crab, among which a gene likely coding for carbonic anhydrase 7 (CA7, GWK47_031192) appears to be the most promising biomarker.
+
+**Summary Statement** Juvenile snow crabs tolerate ocean acidification through flexible gene expression, but prolonged exposure reveals hidden cellular stress that helps explain delayed mortality.
