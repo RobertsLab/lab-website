@@ -2,6 +2,7 @@
   {
     "listing": "/posts.html",
     "items": [
+      "/posts/frontpage/sr320-crab/index.html",
       "/posts/frontpage/sr320-epiaqua/index.html",
       "/posts/frontpage/sr320-polyic/index.html",
       "/posts/frontpage/sr320-mother/index.html",
@@ -10,7 +11,7 @@
       "/posts/sr320-earthlab-intertidal/index.html",
       "/posts/frontpage/sr320-metab/index.html",
       "/posts/frontpage/sr320-sormi/index.html",
-      "/posts/frontpage/sr320-sablefish/index.html",
+      "/posts/sr320-sablefish/index.html",
       "/posts/frontpage/sr320-capstone/index.html",
       "/posts/sr320-fellowships/index.html",
       "/posts/sr320-epimar/index.html",
@@ -203,6 +204,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/frontpage/sr320-crab/index.html",
       "/posts/frontpage/sr320-epiaqua/index.html",
       "/posts/frontpage/sr320-polyic/index.html",
       "/posts/frontpage/sr320-mother/index.html",
@@ -210,7 +212,6 @@
       "/posts/frontpage/sr320-pgc/index.html",
       "/posts/frontpage/sr320-metab/index.html",
       "/posts/frontpage/sr320-sormi/index.html",
-      "/posts/frontpage/sr320-sablefish/index.html",
       "/posts/frontpage/sr320-capstone/index.html"
     ]
   },

@@ -10,7 +10,122 @@
 <atom:link href="https://faculty.washington.edu/sr320/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.7.32</generator>
-<lastBuildDate>Fri, 30 Jan 2026 06:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 25 Feb 2026 08:00:00 GMT</lastBuildDate>
+<item>
+  <title>When Tolerance Has Limits</title>
+  <dc:creator>Steven Roberts</dc:creator>
+  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-crab/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<p>Ocean acidification is often framed as a simple question of survival: can a species withstand lower pH, or not?</p>
+<p>Juvenile snow crab (<em>Chionoecetes opilio</em>) complicate that narrative.</p>
+<p>In a year-long experiment, snow crab maintained normal growth, molting, and morphology under both moderate (pH 7.8) and severe (pH 7.5) ocean acidification. For months, there were no visible signs of distress. Yet under severe acidification, mortality began to rise after about 250 days.</p>
+<p>If the crabs looked fine, what changed?</p>
+<p>A <a href="https://www.biorxiv.org/content/10.64898/2026.02.04.703865v1">new transcriptomic study led by Laura H. Spencer</a> provides a mechanistic explanation. By examining gene expression after 8 hours and again after 88 days of exposure, the work reveals how tolerance operates — and where its limits lie.</p>
+<p>⸻</p>
+<section id="the-early-response-turning-up-the-cellular-machinery" class="level2">
+<h2 class="anchored" data-anchor-id="the-early-response-turning-up-the-cellular-machinery">The Early Response: Turning Up the Cellular Machinery</h2>
+<p>At 8 hours, snow crab were already responding at the molecular level.</p>
+<p>Across both moderate and severe acidification treatments, genes involved in:<br>
+• mitochondrial metabolism<br>
+• electron transport<br>
+• protein refolding (heat shock proteins)<br>
+• cuticle maintenance<br>
+• immune modulation</p>
+<p>were strongly activated.</p>
+<p>The response was especially pronounced under severe acidification.</p>
+<p>Figure 3. Short-term differential gene expression (8 hours) (Spencer et al.&nbsp;2026)</p>
+<p><img src="https://faculty.washington.edu/sr320/posts/frontpage/sr320-crab/images/clipboard-2470018514.png" class="img-fluid"></p>
+<p>The volcano plots show a clear pattern: severe acidification triggers a broader and stronger transcriptional response than moderate acidification. Mitochondrial and protein homeostasis pathways dominate.</p>
+<p>This is not a passive response. Snow crab rapidly increase energy production and activate cellular repair systems. Tolerance, in this case, appears to be an energetically expensive strategy.</p>
+<p>⸻</p>
+</section>
+<section id="moderate-vs.-severe-adjustment-or-damage-control" class="level2">
+<h2 class="anchored" data-anchor-id="moderate-vs.-severe-adjustment-or-damage-control">Moderate vs.&nbsp;Severe: Adjustment or Damage Control?</h2>
+<p>The distinction between moderate and severe acidification is not simply one of degree — it is one of strategy.</p>
+<p>Under moderate OA (pH 7.8), gene expression emphasized:<br>
+• ion and osmotic regulation<br>
+• solute transport<br>
+• endocrine coordination</p>
+<p>This resembles regulatory adjustment — maintaining balance through coordinated physiological control.</p>
+<p>Under severe OA (pH 7.5), expression shifted toward:<br>
+• DNA repair<br>
+• RNA processing and splicing<br>
+• heat shock proteins<br>
+• oxidative stress pathways<br>
+• chitin remodeling</p>
+<p>This profile reflects cellular damage mitigation rather than fine-tuned regulation.</p>
+<p>In other words:<br>
+• Moderate OA → compensation<br>
+• Severe OA → cellular defense</p>
+<p>⸻</p>
+</section>
+<section id="the-quiet-period-before-mortality" class="level2">
+<h2 class="anchored" data-anchor-id="the-quiet-period-before-mortality">The Quiet Period Before Mortality</h2>
+<p>At 88 days — still well before survival diverged — gene expression patterns between moderate and severe treatments were already clearly different.</p>
+<p>Figure 4. Differential expression at Day 88 (Spencer et al.&nbsp;2026)</p>
+<p><img src="https://faculty.washington.edu/sr320/posts/frontpage/sr320-crab/images/clipboard-744714556.png" class="img-fluid"></p>
+<p>Under chronic severe acidification, genes involved in:</p>
+<p>• RNA processing<br>
+• protein refolding<br>
+• DNA repair<br>
+• oxidative stress defense<br>
+• acid–base regulation</p>
+<p>remained elevated.</p>
+<p>Physiologically, the crabs appeared normal. Molecularly, however, a sustained stress signature persisted.</p>
+<p>The companion long-term experiment showed that mortality under severe acidification began after ~250 days.</p>
+<p>The molecular data suggest why: chronic cellular maintenance carries an energetic cost that accumulates over time.</p>
+<p>Eventually, that cost may become unsustainable — particularly during molting, a process that demands substantial energy and structural remodeling.</p>
+<p>⸻</p>
+</section>
+<section id="a-molecular-early-warning-signal" class="level2">
+<h2 class="anchored" data-anchor-id="a-molecular-early-warning-signal">A Molecular Early-Warning Signal</h2>
+<p>Among the genes elevated under long-term severe acidification, one stood out: carbonic anhydrase 7 (CA7).</p>
+<p>Figure 5. Expression patterns of candidate genes (Spencer et al.&nbsp;2026)</p>
+<p><img src="https://faculty.washington.edu/sr320/posts/frontpage/sr320-crab/images/clipboard-971319492.png" class="img-fluid"></p>
+<p>Carbonic anhydrases regulate acid–base balance. CA7 expression was specifically elevated under chronic severe acidification, making it a promising biomarker of ongoing OA stress.</p>
+<p>If validated in field populations, CA7 could provide an early indicator of physiological strain before mortality increases.</p>
+<p>⸻</p>
+</section>
+<section id="variability-as-resilience" class="level2">
+<h2 class="anchored" data-anchor-id="variability-as-resilience">Variability as Resilience?</h2>
+<p>Principal component analysis revealed another intriguing pattern: transcriptional variability increased under severe acidification.</p>
+<p>Rather than shutting down metabolism — as seen in more sensitive species such as red king crab — snow crab maintained broad transcriptional activity.</p>
+<p>This suggests that resilience may involve maintaining flexibility rather than suppressing activity. Transcriptional breadth could represent an adaptive strategy for coping with environmental change.</p>
+<p>Figure 2. Global expression patterns (Spencer et al.&nbsp;2026)</p>
+<p><img src="https://faculty.washington.edu/sr320/posts/frontpage/sr320-crab/images/clipboard-1620157784.png" class="img-fluid"></p>
+<p>The PCA illustrates separation among treatments and highlights the stress-response and metabolic pathways driving that variation.</p>
+<p>⸻</p>
+</section>
+<section id="what-this-means" class="level2">
+<h2 class="anchored" data-anchor-id="what-this-means">What This Means</h2>
+<p>Snow crab are not simply tolerant or sensitive. They are tolerant — up to a point.</p>
+<p>Short-term exposure activates powerful metabolic and repair systems. Moderate acidification can be compensated for through regulatory adjustments. Severe acidification, however, induces sustained cellular stress that precedes visible effects by months.</p>
+<p>This study reinforces a critical lesson:</p>
+<p>Absence of early physiological change does not mean absence of impact.</p>
+<p>Sublethal molecular stress can accumulate long before survival declines.</p>
+<p>As high-latitude oceans continue to acidify, identifying these hidden thresholds becomes essential for predicting the future of snow crab populations and the fisheries that depend on them.</p>
+<p>⸻</p>
+<p>Citation</p>
+<p>Spencer LH, Spies IB, Gardner JL, Roberts SB, Long WC (2026). <a href="https://www.biorxiv.org/content/10.64898/2026.02.04.703865v1">Short-term mechanisms, long-term consequences: molecular effects of ocean acidification on juvenile snow crab</a>. bioRxiv preprint ￼</p>
+
+
+<!-- -->
+
+</section>
+
+ ]]></description>
+  <category>crab</category>
+  <category>acidification</category>
+  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-crab/</guid>
+  <pubDate>Wed, 25 Feb 2026 08:00:00 GMT</pubDate>
+  <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Image_2026-02-25_09-08-12.png" medium="image" type="image/png"/>
+</item>
 <item>
   <title>Epigenomics in Chile</title>
   <dc:creator>Steven Roberts</dc:creator>
@@ -54,7 +169,7 @@
   <category>teaching</category>
   <category>aquaculture</category>
   <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-epiaqua/</guid>
-  <pubDate>Fri, 30 Jan 2026 06:00:00 GMT</pubDate>
+  <pubDate>Fri, 30 Jan 2026 08:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Image_2026-01-30_11-26-05.png" medium="image" type="image/png"/>
 </item>
 <item>
@@ -145,7 +260,7 @@
   <category>oyster</category>
   <category>aquaculture</category>
   <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-polyic/</guid>
-  <pubDate>Sun, 11 Jan 2026 06:00:00 GMT</pubDate>
+  <pubDate>Sun, 11 Jan 2026 08:00:00 GMT</pubDate>
   <media:content url="https://faculty.washington.edu/sr320/posts/frontpage/sr320-polyic/plot.png" medium="image" type="image/png" height="98" width="144"/>
 </item>
 <item>
@@ -249,7 +364,7 @@ It also resonates with ongoing efforts to integrate <strong>epigenetic and physi
   <category>clam</category>
   <category>aquaculture</category>
   <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-mother/</guid>
-  <pubDate>Thu, 13 Nov 2025 06:00:00 GMT</pubDate>
+  <pubDate>Thu, 13 Nov 2025 08:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/2025-11-11_05-31-13.png" medium="image" type="image/png"/>
 </item>
 <item>
@@ -308,7 +423,7 @@ It also resonates with ongoing efforts to integrate <strong>epigenetic and physi
   <category>aquaculture</category>
   <category>resazurin</category>
   <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-pink/</guid>
-  <pubDate>Tue, 11 Nov 2025 06:00:00 GMT</pubDate>
+  <pubDate>Tue, 11 Nov 2025 08:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/2025-11-11_05-14-47.png" medium="image" type="image/png"/>
 </item>
 <item>
@@ -400,7 +515,7 @@ It also resonates with ongoing efforts to integrate <strong>epigenetic and physi
   <category>primordial germ cell</category>
   <category>scRNAseq</category>
   <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-pgc/</guid>
-  <pubDate>Mon, 27 Oct 2025 05:00:00 GMT</pubDate>
+  <pubDate>Mon, 27 Oct 2025 07:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Image_2025-10-27_10-07-36.png" medium="image" type="image/png"/>
 </item>
 <item>
@@ -453,7 +568,7 @@ It also resonates with ongoing efforts to integrate <strong>epigenetic and physi
   <category>metabolomics</category>
   <category>lipidomics</category>
   <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-metab/</guid>
-  <pubDate>Wed, 24 Sep 2025 05:00:00 GMT</pubDate>
+  <pubDate>Wed, 24 Sep 2025 07:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/2025-09-24_10-52-23.png" medium="image" type="image/png"/>
 </item>
 <item>
@@ -508,61 +623,8 @@ It also resonates with ongoing efforts to integrate <strong>epigenetic and physi
   <category>aquaculture</category>
   <category>stress</category>
   <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-sormi/</guid>
-  <pubDate>Fri, 05 Sep 2025 05:00:00 GMT</pubDate>
+  <pubDate>Fri, 05 Sep 2025 07:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_SR_PSI_WRAC_2025_Full_Proposal_Draft_2025-09-06_06-42-09.png" medium="image" type="image/png"/>
-</item>
-<item>
-  <title>Scientific Breakthrough in Sustainable Aquaculture</title>
-  <dc:creator>Steven Roberts</dc:creator>
-  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-sablefish/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-
-<p>As global demand for seafood continues to rise, the aquaculture industry faces growing pressure to produce more while minimizing ecological impacts. A key concern in marine fish farming is the risk of escapees interbreeding with wild populations, leading to genetic introgression and reduced fitness in native fish stocks. Now, a recent study led by former University of Washington CICOES postdoctoral researcher Dr.&nbsp;Yuzo R. Yanagitsuru offers a promising solution.</p>
-<p>Published in <em>Aquaculture</em>, the study presents a <strong>proof-of-concept for a non-GMO, bath immersion–based technique for inducing sterility in sablefish (Anoplopoma fimbria)</strong>—an emerging high-value aquaculture species also known as black cod. The approach targets a gene essential for reproductive cell development and aims to prevent escaped farmed fish from reproducing in the wild.</p>
-<section id="a-scalable-gene-silencing-alternative-to-triploidy" class="level3">
-<h3 class="anchored" data-anchor-id="a-scalable-gene-silencing-alternative-to-triploidy"><strong>A Scalable, Gene-Silencing Alternative to Triploidy</strong></h3>
-<p>While triploidization and genetic modification have been explored for sterility induction, both come with drawbacks—triploid fish can still be partially fertile, and GM fish face regulatory and public acceptance hurdles.</p>
-<p>Instead, Dr.&nbsp;Yanagitsuru and collaborators used a <strong>Morpholino oligomer (MO)</strong> attached to a <strong>Vivo transporter</strong> to silence the <em>dead end</em> (<em>dnd</em>) gene—a critical regulator of primordial germ cell formation. The innovation lies in delivering this compound through a <strong>simple bath immersion</strong>, rather than invasive microinjection or genetic alteration.</p>
-</section>
-<section id="results-a-step-toward-sterile-sustainable-farming" class="level3">
-<h3 class="anchored" data-anchor-id="results-a-step-toward-sterile-sustainable-farming"><strong>Results: A Step Toward Sterile, Sustainable Farming</strong></h3>
-<p>In controlled hatchery trials, sablefish eggs treated with the dnd-MO-Vivo compound before fertilization produced a subset of individuals that were completely sterile (8%) or had drastically reduced numbers of reproductive cells (18%). Importantly, sterile individuals developed normally in all other respects: they showed no major differences in growth, sex steroid hormone levels, or survival under semi-commercial rearing conditions.</p>
-<p>Key findings include:</p>
-<ul>
-<li><p><strong>Target specificity</strong>: dnd expression was limited to gonads and unfertilized eggs, confirming its value as a marker for germ cell presence.</p></li>
-<li><p><strong>No adverse health effects</strong>: Sterile fish were physiologically indistinguishable from fertile fish in terms of somatic growth and overall condition.</p></li>
-<li><p><strong>Higher efficacy pre-fertilization</strong>: The sterility induction was more effective when the treatment was applied before fertilization, likely due to increased permeability of the egg chorion.</p></li>
-</ul>
-</section>
-<section id="why-it-matters" class="level3">
-<h3 class="anchored" data-anchor-id="why-it-matters"><strong>Why It Matters</strong></h3>
-<p>This method opens a new path for <strong>scalable, publicly acceptable sterility induction in marine finfish aquaculture</strong>. By eliminating the reproductive capability of escapees, it reduces ecological risk and helps safeguard the genetic integrity of wild populations—while also offering potential gains in growth efficiency and product quality for farmers.</p>
-<p>Sablefish, already known for its rich flavor and high omega-3 content, now also stands to become a model species for innovative, sustainable aquaculture practices.</p>
-</section>
-<section id="whats-next" class="level3">
-<h3 class="anchored" data-anchor-id="whats-next"><strong>What’s Next?</strong></h3>
-<p>The authors emphasize that <strong>further optimization is needed</strong> to improve sterility rates and ensure consistent results across large-scale operations. Future research will likely explore different concentrations, immersion times, and additional species to assess broader applicability.</p>
-<p>But for now, this work—driven by Dr.&nbsp;Yanagitsuru’s leadership—marks an important milestone in the development of non-GMO solutions to one of aquaculture’s biggest challenges.</p>
-<p><strong>Citation</strong>:</p>
-<p>Yanagitsuru, Y.R., Hayman, E.S., Fairgrieve, W.T., Zohar, Y., Wong, T-T., &amp; Luckenbach, J.A. (2025). <em>Proof-of-concept for sterility induction in sablefish (Anoplopoma fimbria) via a scalable immersion-based gene silencing approach</em>. <em>Aquaculture</em>, 609, 742945. <a href="https://doi.org/10.1016/j.aquaculture.2025.742945" class="uri">https://doi.org/10.1016/j.aquaculture.2025.742945</a></p>
-<p>Podcast Episode featuring work: <a href="https://podcasts.apple.com/us/podcast/gene-pooling/id1802677296?i=1000718173868" class="uri">https://podcasts.apple.com/us/podcast/gene-pooling/id1802677296?i=1000718173868</a></p>
-
-
-<!-- -->
-
-</section>
-
- ]]></description>
-  <category>aquaculture</category>
-  <category>sterility</category>
-  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-sablefish/</guid>
-  <pubDate>Mon, 14 Jul 2025 05:00:00 GMT</pubDate>
-  <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Yanagitsuru_et_al_SterilityInduction_dnd_BathImmersion_SablefishProofOfConcept_2025.pdf_2025-07-20_13-09-45.png" medium="image" type="image/png"/>
 </item>
 <item>
   <title>Celebrating Undergraduate Research</title>
@@ -604,7 +666,7 @@ It also resonates with ongoing efforts to integrate <strong>epigenetic and physi
   <category>shellfish</category>
   <category>capstone</category>
   <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-capstone/</guid>
-  <pubDate>Mon, 16 Jun 2025 05:00:00 GMT</pubDate>
+  <pubDate>Mon, 16 Jun 2025 07:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/2025-06-16_10-44-13.png" medium="image" type="image/png"/>
 </item>
 </channel>

@@ -1,0 +1,163 @@
+---
+title: "When Tolerance Has Limits"
+description: "What Juvenile Snow Crab Reveal About Ocean Acidification"
+author:
+  - name: Steven Roberts
+    url: https://sr320.github.io/
+    orcid: 0000-0001-8302-1138
+    affiliation: Professor, UW - School of Aquatic and Fishery Sciences
+    affiliation-url: https://robertslab.info
+date: 02-25-2026
+categories: [crab, acidification] # self-defined categories
+image: http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Image_2026-02-25_09-08-12.png # finding a good image
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+
+format:
+  html:
+    code-fold: true
+    code-tools: true
+    code-copy: true
+    highlight-style: github
+    code-overflow: wrap
+---
+
+Ocean acidification is often framed as a simple question of survival: can a species withstand lower pH, or not?
+
+Juvenile snow crab (*Chionoecetes opilio*) complicate that narrative.
+
+In a year-long experiment, snow crab maintained normal growth, molting, and morphology under both moderate (pH 7.8) and severe (pH 7.5) ocean acidification. For months, there were no visible signs of distress. Yet under severe acidification, mortality began to rise after about 250 days.
+
+If the crabs looked fine, what changed?
+
+A [new transcriptomic study led by Laura H. Spencer](https://www.biorxiv.org/content/10.64898/2026.02.04.703865v1) provides a mechanistic explanation. By examining gene expression after 8 hours and again after 88 days of exposure, the work reveals how tolerance operates — and where its limits lie.
+
+⸻
+
+## The Early Response: Turning Up the Cellular Machinery
+
+At 8 hours, snow crab were already responding at the molecular level.
+
+Across both moderate and severe acidification treatments, genes involved in: \
+• mitochondrial metabolism \
+• electron transport \
+• protein refolding (heat shock proteins) \
+• cuticle maintenance \
+• immune modulation
+
+were strongly activated.
+
+The response was especially pronounced under severe acidification.
+
+Figure 3. Short-term differential gene expression (8 hours) (Spencer et al. 2026)
+
+![](images/clipboard-2470018514.png)
+
+The volcano plots show a clear pattern: severe acidification triggers a broader and stronger transcriptional response than moderate acidification. Mitochondrial and protein homeostasis pathways dominate.
+
+This is not a passive response. Snow crab rapidly increase energy production and activate cellular repair systems. Tolerance, in this case, appears to be an energetically expensive strategy.
+
+⸻
+
+## Moderate vs. Severe: Adjustment or Damage Control?
+
+The distinction between moderate and severe acidification is not simply one of degree — it is one of strategy.
+
+Under moderate OA (pH 7.8), gene expression emphasized: \
+• ion and osmotic regulation \
+• solute transport \
+• endocrine coordination
+
+This resembles regulatory adjustment — maintaining balance through coordinated physiological control.
+
+Under severe OA (pH 7.5), expression shifted toward: \
+• DNA repair \
+• RNA processing and splicing \
+• heat shock proteins \
+• oxidative stress pathways \
+• chitin remodeling
+
+This profile reflects cellular damage mitigation rather than fine-tuned regulation.
+
+In other words: \
+• Moderate OA → compensation \
+• Severe OA → cellular defense
+
+⸻
+
+## The Quiet Period Before Mortality
+
+At 88 days — still well before survival diverged — gene expression patterns between moderate and severe treatments were already clearly different.
+
+Figure 4. Differential expression at Day 88 (Spencer et al. 2026)
+
+![](images/clipboard-744714556.png)
+
+Under chronic severe acidification, genes involved in:
+
+• RNA processing \
+• protein refolding \
+• DNA repair \
+• oxidative stress defense \
+• acid–base regulation
+
+remained elevated.
+
+Physiologically, the crabs appeared normal. Molecularly, however, a sustained stress signature persisted.
+
+The companion long-term experiment showed that mortality under severe acidification began after \~250 days.
+
+The molecular data suggest why: chronic cellular maintenance carries an energetic cost that accumulates over time.
+
+Eventually, that cost may become unsustainable — particularly during molting, a process that demands substantial energy and structural remodeling.
+
+⸻
+
+## A Molecular Early-Warning Signal
+
+Among the genes elevated under long-term severe acidification, one stood out: carbonic anhydrase 7 (CA7).
+
+Figure 5. Expression patterns of candidate genes (Spencer et al. 2026)
+
+![](images/clipboard-971319492.png)
+
+Carbonic anhydrases regulate acid–base balance. CA7 expression was specifically elevated under chronic severe acidification, making it a promising biomarker of ongoing OA stress.
+
+If validated in field populations, CA7 could provide an early indicator of physiological strain before mortality increases.
+
+⸻
+
+## Variability as Resilience?
+
+Principal component analysis revealed another intriguing pattern: transcriptional variability increased under severe acidification.
+
+Rather than shutting down metabolism — as seen in more sensitive species such as red king crab — snow crab maintained broad transcriptional activity.
+
+This suggests that resilience may involve maintaining flexibility rather than suppressing activity. Transcriptional breadth could represent an adaptive strategy for coping with environmental change.
+
+Figure 2. Global expression patterns (Spencer et al. 2026)
+
+![](images/clipboard-1620157784.png)
+
+The PCA illustrates separation among treatments and highlights the stress-response and metabolic pathways driving that variation.
+
+⸻
+
+## What This Means
+
+Snow crab are not simply tolerant or sensitive. They are tolerant — up to a point.
+
+Short-term exposure activates powerful metabolic and repair systems. Moderate acidification can be compensated for through regulatory adjustments. Severe acidification, however, induces sustained cellular stress that precedes visible effects by months.
+
+This study reinforces a critical lesson:
+
+Absence of early physiological change does not mean absence of impact.
+
+Sublethal molecular stress can accumulate long before survival declines.
+
+As high-latitude oceans continue to acidify, identifying these hidden thresholds becomes essential for predicting the future of snow crab populations and the fisheries that depend on them.
+
+⸻
+
+Citation
+
+Spencer LH, Spies IB, Gardner JL, Roberts SB, Long WC (2026). [Short-term mechanisms, long-term consequences: molecular effects of ocean acidification on juvenile snow crab](https://www.biorxiv.org/content/10.64898/2026.02.04.703865v1). bioRxiv preprint ￼
