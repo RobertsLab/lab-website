@@ -1,0 +1,84 @@
+---
+title: "Decoding Coral Gene Regulation: Tensor Decomposition and Elastic Nets Meet Marine Epigenetics"
+description: "A recap of Kathleen and Steven's talk for the UW eScience Institute"
+author:
+  - name: Steven Roberts
+    url: https://sr320.github.io/
+    orcid: 0000-0001-8302-1138
+    affiliation: Professor, UW - School of Aquatic and Fishery Sciences
+    affiliation-url: https://robertslab.info
+date: 03-12-2026
+categories: [machine learning, ai] # self-defined categories
+image: http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Image_2026-03-12_19-26-38.png # finding a good image
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+
+format:
+  html:
+    code-fold: true
+    code-tools: true
+    code-copy: true
+    highlight-style: github
+    code-overflow: wrap
+---
+
+Coral reefs are among the most biodiverse ecosystems on the planet, and they are under siege. Rising ocean temperatures and other environmental stressors are reshaping coral communities in real time. But how exactly do corals respond to these changes at the molecular level? And can those responses be passed to future generations?
+
+These are the questions driving the [E5 Coral Project](https://urol-e5.github.io/MOSAiC/), a collaborative effort to predict the phenotypic and eco-evolutionary consequences of environmental-energetic-epigenetic linkages in reef-building corals. This week at the [eScience Institute](https://escience.washington.edu/), we presented two computational approaches — developed through the eScience Incubator Program — that are giving us new ways to make sense of complex, multi-species molecular data. You can check out the [slidedeck here](https://github.com/sr320/talk-escience-2026).
+
+## Why Standard Tools Fall Short
+
+If you work in genomics, you are probably familiar with tools like DESeq2 and edgeR for differential gene expression analysis. These are workhorses of the field, but they are built for pairwise comparisons: treatment vs. control, timepoint A vs. timepoint B. Our coral data has a richer structure — expression measured across multiple genes, multiple species, and multiple samples over time — that these tools cannot natively capture.
+
+We needed methods that could discover coordinated expression patterns spanning all three of those dimensions simultaneously.
+
+## Barnacle: Sparse Tensor Decomposition for Multi-Species Expression
+
+Enter [Barnacle](https://barnacle-py.readthedocs.io/en/latest/), a sparse tensor decomposition tool originally developed for marine metatranscriptomics. The idea is elegant: instead of flattening your data into a two-dimensional matrix, you represent it as a 3D tensor (Gene x Taxon x Sample) and decompose it into a small number of sparse components. Each component captures a distinct co-expression program — a group of genes that behave similarly across species and conditions.
+
+The critical tuning decisions are:
+
+-   **How many components (rank)?** Too few and you miss real signals; too many and you start fitting noise. We use a cross-validation strategy — fit on half the data, test reconstruction on the held-back half — to find the sweet spot.
+-   **How sparse?** Sparsity controls which genes are assigned to each component. We use split-half reproducibility: if both halves of a random split identify the same core genes for a component, the sparsity threshold is keeping real members.
+
+Applied to our E5 coral timeseries data, Barnacle revealed biologically meaningful components. One component, for example, aligned closely with known calcification genes — a result that would be difficult to extract from traditional pairwise analyses.
+
+With these components in hand, we now have groups of co-regulated genes that we can interrogate for epigenetic regulatory patterns and use to test hypotheses about how environmental stress propagates through molecular networks.
+
+## The Epigenetic Layer: More Than One Regulator
+
+Epigenetics — heritable changes in gene activity that do not alter the DNA sequence itself — is central to our project. In marine invertebrates, the epigenetic landscape includes:
+
+-   **DNA methylation** — In contrast to mammals, marine invertebrate methylation is mosaic and concentrated in gene bodies rather than promoters.
+-   **Long non-coding RNA (lncRNA)** — Regulatory RNA molecules numbering in the tens of thousands.
+-   **MicroRNA (miRNA)** — Short regulatory RNAs that target messenger RNA for degradation or translational repression.
+
+Each of these layers can influence gene expression, and they likely interact with each other. Simple pairwise correlations between a single epigenetic mark and expression only tell part of the story. We wanted a model that could integrate all three layers and identify which features — and which combinations — actually drive expression.
+
+## Elastic Net Regression: Predicting Expression from Epigenetics
+
+This is where Elastic Net regression comes in. Elastic Net is a regularized regression method that blends two complementary penalties:
+
+-   **Lasso** (the "harsh editor") drives coefficients to exactly zero, performing feature selection by removing irrelevant predictors.
+-   **Ridge** (the "compromiser") shrinks correlated predictors together rather than arbitrarily choosing one, handling multicollinearity gracefully.
+
+Our predictor space is formidable: roughly 50 miRNAs, 10,000 lncRNAs, and 20,000 gene-body methylation features, all predicting expression across approximately 40 samples per species. This is a classic p \>\> n problem, and Elastic Net is well suited for it.
+
+We trained models using 80/20 train/test splits repeated across 50 replicates, validated predictions using noise injection (if the model is real, adding noise to predictors should degrade performance), and applied stability selection (Faletto and Bien 2022) to focus on features that are consistently selected across resampled datasets rather than artifacts of any single split.
+
+## What We Found
+
+The results are striking and represent, to our knowledge, the first integrated picture of multi-layer epigenetic regulation of gene expression in a marine invertebrate system:
+
+-   **Per-gene regulatory profiles** reveal that individual genes differ substantially in which epigenetic features predict their expression. Some are primarily methylation-driven, others lncRNA-driven, and many are regulated by a combination.
+-   **High-level type compositions** show systematic patterns in how regulatory strategies are distributed across the genome.
+-   **Regulatory network maps** capture how epigenetic features interact, suggesting coordinated regulatory programs rather than independent, isolated effects.
+
+## Looking Ahead
+
+This work is a starting point. The tensor decomposition framework can be extended to incorporate additional data types (e.g., lncRNA expression, genes found in fewer than all species), and the elastic net models can be refined as more samples and species are added. The broader goal — understanding how environmental stress rewires epigenetic regulation and whether those changes can be inherited — remains one of the most important questions in coral biology and climate adaptation.
+
+We are grateful to the eScience Incubator Program and particularly to Vaughn Iverson for pushing us to think about our data in new ways. The combination of domain expertise in marine biology with data science methods has opened analytical doors that neither community would have found alone.
+
+------------------------------------------------------------------------
+
+*For more information, visit the [E5 project](https://urol-e5.github.io/MOSAiC/) and [Barnacle documentation](https://barnacle-py.readthedocs.io/en/latest/).*

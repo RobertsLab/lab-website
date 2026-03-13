@@ -37,11 +37,11 @@ A [new transcriptomic study led by Laura H. Spencer](https://www.biorxiv.org/con
 
 At 8 hours, snow crab were already responding at the molecular level.
 
-Across both moderate and severe acidification treatments, genes involved in: \
-• mitochondrial metabolism \
-• electron transport \
-• protein refolding (heat shock proteins) \
-• cuticle maintenance \
+Across both moderate and severe acidification treatments, genes involved in:\
+• mitochondrial metabolism\
+• electron transport\
+• protein refolding (heat shock proteins)\
+• cuticle maintenance\
 • immune modulation
 
 were strongly activated.
@@ -62,24 +62,24 @@ This is not a passive response. Snow crab rapidly increase energy production and
 
 The distinction between moderate and severe acidification is not simply one of degree — it is one of strategy.
 
-Under moderate OA (pH 7.8), gene expression emphasized: \
-• ion and osmotic regulation \
-• solute transport \
+Under moderate OA (pH 7.8), gene expression emphasized:\
+• ion and osmotic regulation\
+• solute transport\
 • endocrine coordination
 
 This resembles regulatory adjustment — maintaining balance through coordinated physiological control.
 
-Under severe OA (pH 7.5), expression shifted toward: \
-• DNA repair \
-• RNA processing and splicing \
-• heat shock proteins \
-• oxidative stress pathways \
+Under severe OA (pH 7.5), expression shifted toward:\
+• DNA repair\
+• RNA processing and splicing\
+• heat shock proteins\
+• oxidative stress pathways\
 • chitin remodeling
 
 This profile reflects cellular damage mitigation rather than fine-tuned regulation.
 
-In other words: \
-• Moderate OA → compensation \
+In other words:\
+• Moderate OA → compensation\
 • Severe OA → cellular defense
 
 ⸻
@@ -94,10 +94,10 @@ Figure 4. Differential expression at Day 88 (Spencer et al. 2026)
 
 Under chronic severe acidification, genes involved in:
 
-• RNA processing \
-• protein refolding \
-• DNA repair \
-• oxidative stress defense \
+• RNA processing\
+• protein refolding\
+• DNA repair\
+• oxidative stress defense\
 • acid–base regulation
 
 remained elevated.

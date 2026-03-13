@@ -10,7 +10,84 @@
 <atom:link href="https://faculty.washington.edu/sr320/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.7.32</generator>
-<lastBuildDate>Wed, 25 Feb 2026 08:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 12 Mar 2026 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Decoding Coral Gene Regulation: Tensor Decomposition and Elastic Nets Meet Marine Epigenetics</title>
+  <dc:creator>Steven Roberts</dc:creator>
+  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-escience/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<p>Coral reefs are among the most biodiverse ecosystems on the planet, and they are under siege. Rising ocean temperatures and other environmental stressors are reshaping coral communities in real time. But how exactly do corals respond to these changes at the molecular level? And can those responses be passed to future generations?</p>
+<p>These are the questions driving the <a href="https://urol-e5.github.io/MOSAiC/">E5 Coral Project</a>, a collaborative effort to predict the phenotypic and eco-evolutionary consequences of environmental-energetic-epigenetic linkages in reef-building corals. This week at the <a href="https://escience.washington.edu/">eScience Institute</a>, we presented two computational approaches — developed through the eScience Incubator Program — that are giving us new ways to make sense of complex, multi-species molecular data. You can check out the <a href="https://github.com/sr320/talk-escience-2026">slidedeck here</a>.</p>
+<section id="why-standard-tools-fall-short" class="level2">
+<h2 class="anchored" data-anchor-id="why-standard-tools-fall-short">Why Standard Tools Fall Short</h2>
+<p>If you work in genomics, you are probably familiar with tools like DESeq2 and edgeR for differential gene expression analysis. These are workhorses of the field, but they are built for pairwise comparisons: treatment vs.&nbsp;control, timepoint A vs.&nbsp;timepoint B. Our coral data has a richer structure — expression measured across multiple genes, multiple species, and multiple samples over time — that these tools cannot natively capture.</p>
+<p>We needed methods that could discover coordinated expression patterns spanning all three of those dimensions simultaneously.</p>
+</section>
+<section id="barnacle-sparse-tensor-decomposition-for-multi-species-expression" class="level2">
+<h2 class="anchored" data-anchor-id="barnacle-sparse-tensor-decomposition-for-multi-species-expression">Barnacle: Sparse Tensor Decomposition for Multi-Species Expression</h2>
+<p>Enter <a href="https://barnacle-py.readthedocs.io/en/latest/">Barnacle</a>, a sparse tensor decomposition tool originally developed for marine metatranscriptomics. The idea is elegant: instead of flattening your data into a two-dimensional matrix, you represent it as a 3D tensor (Gene x Taxon x Sample) and decompose it into a small number of sparse components. Each component captures a distinct co-expression program — a group of genes that behave similarly across species and conditions.</p>
+<p>The critical tuning decisions are:</p>
+<ul>
+<li><strong>How many components (rank)?</strong> Too few and you miss real signals; too many and you start fitting noise. We use a cross-validation strategy — fit on half the data, test reconstruction on the held-back half — to find the sweet spot.</li>
+<li><strong>How sparse?</strong> Sparsity controls which genes are assigned to each component. We use split-half reproducibility: if both halves of a random split identify the same core genes for a component, the sparsity threshold is keeping real members.</li>
+</ul>
+<p>Applied to our E5 coral timeseries data, Barnacle revealed biologically meaningful components. One component, for example, aligned closely with known calcification genes — a result that would be difficult to extract from traditional pairwise analyses.</p>
+<p>With these components in hand, we now have groups of co-regulated genes that we can interrogate for epigenetic regulatory patterns and use to test hypotheses about how environmental stress propagates through molecular networks.</p>
+</section>
+<section id="the-epigenetic-layer-more-than-one-regulator" class="level2">
+<h2 class="anchored" data-anchor-id="the-epigenetic-layer-more-than-one-regulator">The Epigenetic Layer: More Than One Regulator</h2>
+<p>Epigenetics — heritable changes in gene activity that do not alter the DNA sequence itself — is central to our project. In marine invertebrates, the epigenetic landscape includes:</p>
+<ul>
+<li><strong>DNA methylation</strong> — In contrast to mammals, marine invertebrate methylation is mosaic and concentrated in gene bodies rather than promoters.</li>
+<li><strong>Long non-coding RNA (lncRNA)</strong> — Regulatory RNA molecules numbering in the tens of thousands.</li>
+<li><strong>MicroRNA (miRNA)</strong> — Short regulatory RNAs that target messenger RNA for degradation or translational repression.</li>
+</ul>
+<p>Each of these layers can influence gene expression, and they likely interact with each other. Simple pairwise correlations between a single epigenetic mark and expression only tell part of the story. We wanted a model that could integrate all three layers and identify which features — and which combinations — actually drive expression.</p>
+</section>
+<section id="elastic-net-regression-predicting-expression-from-epigenetics" class="level2">
+<h2 class="anchored" data-anchor-id="elastic-net-regression-predicting-expression-from-epigenetics">Elastic Net Regression: Predicting Expression from Epigenetics</h2>
+<p>This is where Elastic Net regression comes in. Elastic Net is a regularized regression method that blends two complementary penalties:</p>
+<ul>
+<li><strong>Lasso</strong> (the “harsh editor”) drives coefficients to exactly zero, performing feature selection by removing irrelevant predictors.</li>
+<li><strong>Ridge</strong> (the “compromiser”) shrinks correlated predictors together rather than arbitrarily choosing one, handling multicollinearity gracefully.</li>
+</ul>
+<p>Our predictor space is formidable: roughly 50 miRNAs, 10,000 lncRNAs, and 20,000 gene-body methylation features, all predicting expression across approximately 40 samples per species. This is a classic p &gt;&gt; n problem, and Elastic Net is well suited for it.</p>
+<p>We trained models using 80/20 train/test splits repeated across 50 replicates, validated predictions using noise injection (if the model is real, adding noise to predictors should degrade performance), and applied stability selection (Faletto and Bien 2022) to focus on features that are consistently selected across resampled datasets rather than artifacts of any single split.</p>
+</section>
+<section id="what-we-found" class="level2">
+<h2 class="anchored" data-anchor-id="what-we-found">What We Found</h2>
+<p>The results are striking and represent, to our knowledge, the first integrated picture of multi-layer epigenetic regulation of gene expression in a marine invertebrate system:</p>
+<ul>
+<li><strong>Per-gene regulatory profiles</strong> reveal that individual genes differ substantially in which epigenetic features predict their expression. Some are primarily methylation-driven, others lncRNA-driven, and many are regulated by a combination.</li>
+<li><strong>High-level type compositions</strong> show systematic patterns in how regulatory strategies are distributed across the genome.</li>
+<li><strong>Regulatory network maps</strong> capture how epigenetic features interact, suggesting coordinated regulatory programs rather than independent, isolated effects.</li>
+</ul>
+</section>
+<section id="looking-ahead" class="level2">
+<h2 class="anchored" data-anchor-id="looking-ahead">Looking Ahead</h2>
+<p>This work is a starting point. The tensor decomposition framework can be extended to incorporate additional data types (e.g., lncRNA expression, genes found in fewer than all species), and the elastic net models can be refined as more samples and species are added. The broader goal — understanding how environmental stress rewires epigenetic regulation and whether those changes can be inherited — remains one of the most important questions in coral biology and climate adaptation.</p>
+<p>We are grateful to the eScience Incubator Program and particularly to Vaughn Iverson for pushing us to think about our data in new ways. The combination of domain expertise in marine biology with data science methods has opened analytical doors that neither community would have found alone.</p>
+<hr>
+<p><em>For more information, visit the <a href="https://urol-e5.github.io/MOSAiC/">E5 project</a> and <a href="https://barnacle-py.readthedocs.io/en/latest/">Barnacle documentation</a>.</em></p>
+
+
+<!-- -->
+
+</section>
+
+ ]]></description>
+  <category>machine learning</category>
+  <category>ai</category>
+  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-escience/</guid>
+  <pubDate>Thu, 12 Mar 2026 07:00:00 GMT</pubDate>
+  <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Image_2026-03-12_19-26-38.png" medium="image" type="image/png"/>
+</item>
 <item>
   <title>When Tolerance Has Limits</title>
   <dc:creator>Steven Roberts</dc:creator>
@@ -625,49 +702,6 @@ It also resonates with ongoing efforts to integrate <strong>epigenetic and physi
   <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-sormi/</guid>
   <pubDate>Fri, 05 Sep 2025 07:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_SR_PSI_WRAC_2025_Full_Proposal_Draft_2025-09-06_06-42-09.png" medium="image" type="image/png"/>
-</item>
-<item>
-  <title>Celebrating Undergraduate Research</title>
-  <dc:creator>Steven Roberts</dc:creator>
-  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-capstone/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-
-<p>This spring, two outstanding undergraduate researchers in our lab—Genevieve Buchanan and Henry Berg—presented their senior capstone projects, showcasing months of hard work and scientific curiosity. Their research tackled critical questions related to marine invertebrate resilience in the face of environmental stress, and each presentation offered fresh insight into how shellfish species respond to changing ocean conditions.</p>
-<section id="genevieve-buchanan-thermal-tolerance-in-a-stressful-world" class="level2">
-<h2 class="anchored" data-anchor-id="genevieve-buchanan-thermal-tolerance-in-a-stressful-world">🦪 Genevieve Buchanan: Thermal Tolerance in a Stressful World</h2>
-<p>Genevieve’s project, “Effects of Salinity and Ocean Acidification Stress on Pacific Oyster (Magallana gigas) Thermal Tolerance”, examined how prior exposure to low salinity and acidic conditions influences oyster survival during subsequent heat stress. Pacific oysters are economically vital to aquaculture industries and ecologically foundational to coastal ecosystems, yet they face increasing threats from climate change-induced stressors.</p>
-<p>Through a carefully controlled experiment using oysters from the Point Whitney Shellfish Hatchery, Genevieve tested whether low pH or reduced salinity exposure would compound mortality under acute thermal stress. Her findings showed that, surprisingly, these prior stressors did not significantly impact thermal tolerance. This suggests that Pacific oysters may be energetically adapted to the variable conditions of the Pacific Northwest, offering a glimmer of hope for aquaculture resilience in the face of climate extremes.</p>
-<p>🔗 <a href="https://youtu.be/4Yz1z1yZRGQ">Watch Genevieve’s full presentation on YouTube</a></p>
-<p>📄 <a href="http://gannet.fish.washington.edu/seashell/snaps/Genevieve_Buchanan_-_Capstone_Presentation.pptx">Download Genevieve’s Presentation Slides (PPTX)</a></p>
-<p>⸻</p>
-</section>
-<section id="henry-berg-mussel-threads-and-climate-stress" class="level2">
-<h2 class="anchored" data-anchor-id="henry-berg-mussel-threads-and-climate-stress">🧵 Henry Berg: Mussel Threads and Climate Stress</h2>
-<p>Henry’s capstone, “Physiological Markers Associated with Byssus Attachment Following Environmental Perturbations in Marine Mussels”, focused on the byssal threads that mussels use to anchor themselves to surfaces—an essential trait for survival and aquaculture yield.</p>
-<p>Comparing Mytilus trossulus and Mytilus galloprovincialis, Henry exposed mussels to ocean acidification, warming, and hypoxia, then measured thread production and metabolic rates. His results were striking: ocean acidification increased thread production in both species, while warming favored M. galloprovincialis. Hypoxia, however, drastically reduced thread output, particularly in M. galloprovincialis. These species-specific responses highlight the complexity of climate resilience and point to potential physiological markers that could inform aquaculture site selection and selective breeding strategies.</p>
-<p>🔗 <a href="https://youtu.be/wkkv9eZpcik">Watch Henry’s full presentation on YouTube</a></p>
-<p>📄 <a href="http://gannet.fish.washington.edu/seashell/snaps/Marine_Mussels_Presentation.pptx">Download Henry’s Presentation Slides (PPTX)</a></p>
-<p>⸻</p>
-<p>A Proud Moment for Undergraduate Research</p>
-<p>Projects were conducted under the guidance of Ariana Huffmyer and Matt George, respectively, and reflect the high caliber of undergraduate research in our lab. We are incredibly proud of Genevieve and Henry—not only for their scientific contributions but also for their clarity, creativity, and commitment to advancing our understanding of marine organism resilience in a changing world.</p>
-<p>Please take a moment to view their presentations and join us in celebrating their accomplishments.</p>
-
-
-<!-- -->
-
-</section>
-
- ]]></description>
-  <category>shellfish</category>
-  <category>capstone</category>
-  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-capstone/</guid>
-  <pubDate>Mon, 16 Jun 2025 07:00:00 GMT</pubDate>
-  <media:content url="http://gannet.fish.washington.edu/seashell/snaps/2025-06-16_10-44-13.png" medium="image" type="image/png"/>
 </item>
 </channel>
 </rss>
