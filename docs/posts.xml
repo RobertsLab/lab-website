@@ -9,14 +9,13 @@
 <link>https://faculty.washington.edu/sr320/posts.html</link>
 <atom:link href="https://faculty.washington.edu/sr320/posts.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.7.32</generator>
+<generator>quarto-1.6.40</generator>
 <lastBuildDate>Thu, 12 Mar 2026 07:00:00 GMT</lastBuildDate>
 <item>
   <title>Decoding Coral Gene Regulation: Tensor Decomposition and Elastic Nets Meet Marine Epigenetics</title>
   <dc:creator>Steven Roberts</dc:creator>
   <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-escience/</link>
   <description><![CDATA[ 
-
 
 
 
@@ -60,6 +59,12 @@
 <p>Our predictor space is formidable: roughly 50 miRNAs, 10,000 lncRNAs, and 20,000 gene-body methylation features, all predicting expression across approximately 40 samples per species. This is a classic p &gt;&gt; n problem, and Elastic Net is well suited for it.</p>
 <p>We trained models using 80/20 train/test splits repeated across 50 replicates, validated predictions using noise injection (if the model is real, adding noise to predictors should degrade performance), and applied stability selection (Faletto and Bien 2022) to focus on features that are consistently selected across resampled datasets rather than artifacts of any single split.</p>
 </section>
+<section id="video" class="level2">
+<h2 class="anchored" data-anchor-id="video">Video</h2>
+<video controls="" width="100%">
+<source src="http://gannet.fish.washington.edu/seashell/snaps/GMT20260306-003154_Recording_1920x1080.mp4" type="video/mp4">
+<p>Your browser does not support the video tag. </p>
+</video></section>
 <section id="what-we-found" class="level2">
 <h2 class="anchored" data-anchor-id="what-we-found">What We Found</h2>
 <p>The results are striking and represent, to our knowledge, the first integrated picture of multi-layer epigenetic regulation of gene expression in a marine invertebrate system:</p>
@@ -93,7 +98,6 @@
   <dc:creator>Steven Roberts</dc:creator>
   <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-crab/</link>
   <description><![CDATA[ 
-
 
 
 
@@ -213,7 +217,6 @@
 
 
 
-
 <p>Last week I traveled to Chile to teach at the Austral Summer Institute and spend time with collaborators at the University of Concepción through our ongoing INCAR2 partnership. It was one of those trips that reminds me why I enjoy this work so much—bringing together students, colleagues, and real-world systems to explore how molecular biology connects to environmental change and aquaculture sustainability.</p>
 <p>At the Summer Institute, I taught Epigenomics in Aquaculture (EpiAqua) to an outstanding group of graduate students and postdoctoral researchers from across South America. The course focused on how epigenetic mechanisms—especially DNA methylation and non-coding RNAs—mediate organismal responses to stress, and how these tools can be applied in aquaculture and climate resilience research.</p>
 <div class="quarto-figure quarto-figure-center">
@@ -254,7 +257,6 @@
   <dc:creator>Steven Roberts</dc:creator>
   <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-polyic/</link>
   <description><![CDATA[ 
-
 
 
 
@@ -605,7 +607,6 @@ It also resonates with ongoing efforts to integrate <strong>epigenetic and physi
 
 
 
-
 <p>From April 2023 to March 2025, a team lead by <a href="https://faculty.washington.edu/sr320/people.html#chris-mantegna">Chris Mantegna</a> piloted Intertidal Innovators, an EarthLab Innovation Grant–funded program that blended art and science to connect local high school students with Seattle’s nearshore ecosystems. The program invited 11 students into a five-week internship where they explored foundational intertidal science concepts and translated their learning into creative expression.</p>
 <section id="building-connections-through-art-and-science" class="level2">
 <h2 class="anchored" data-anchor-id="building-connections-through-art-and-science">Building Connections Through Art and Science</h2>
@@ -764,7 +765,6 @@ It also resonates with ongoing efforts to integrate <strong>epigenetic and physi
 
 
 
-
 <p>As global demand for seafood continues to rise, the aquaculture industry faces growing pressure to produce more while minimizing ecological impacts. A key concern in marine fish farming is the risk of escapees interbreeding with wild populations, leading to genetic introgression and reduced fitness in native fish stocks. Now, a recent study led by former University of Washington CICOES postdoctoral researcher Dr.&nbsp;Yuzo R. Yanagitsuru offers a promising solution.</p>
 <p>Published in <em>Aquaculture</em>, the study presents a <strong>proof-of-concept for a non-GMO, bath immersion–based technique for inducing sterility in sablefish (Anoplopoma fimbria)</strong>—an emerging high-value aquaculture species also known as black cod. The approach targets a gene essential for reproductive cell development and aims to prevent escaped farmed fish from reproducing in the wild.</p>
 <section id="a-scalable-gene-silencing-alternative-to-triploidy" class="level3">
@@ -812,7 +812,6 @@ It also resonates with ongoing efforts to integrate <strong>epigenetic and physi
   <dc:creator>Steven Roberts</dc:creator>
   <link>https://faculty.washington.edu/sr320/posts/sr320-capstone/</link>
   <description><![CDATA[ 
-
 
 
 

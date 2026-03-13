@@ -65,6 +65,13 @@ Our predictor space is formidable: roughly 50 miRNAs, 10,000 lncRNAs, and 20,000
 
 We trained models using 80/20 train/test splits repeated across 50 replicates, validated predictions using noise injection (if the model is real, adding noise to predictors should degrade performance), and applied stability selection (Faletto and Bien 2022) to focus on features that are consistently selected across resampled datasets rather than artifacts of any single split.
 
+## Video
+
+<video controls width="100%">
+  <source src="http://gannet.fish.washington.edu/seashell/snaps/GMT20260306-003154_Recording_1920x1080.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## What We Found
 
 The results are striking and represent, to our knowledge, the first integrated picture of multi-layer epigenetic regulation of gene expression in a marine invertebrate system:
