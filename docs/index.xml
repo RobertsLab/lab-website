@@ -9,13 +9,53 @@
 <link>https://faculty.washington.edu/sr320/</link>
 <atom:link href="https://faculty.washington.edu/sr320/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.6.40</generator>
-<lastBuildDate>Thu, 12 Mar 2026 07:00:00 GMT</lastBuildDate>
+<generator>quarto-1.7.32</generator>
+<lastBuildDate>Thu, 19 Mar 2026 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Unlocking the Secrets of Tunicate Stress Responses</title>
+  <dc:creator>Steven Roberts</dc:creator>
+  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-celeste/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<p>We are thrilled to highlight the incredible work of Celeste Valdivia, who recently defended her Master of Science thesis at the University of Washington’s School of Aquatic and Fishery Sciences. Co-advised by Dr.&nbsp;Alison Gardell and Dr.&nbsp;Steven Roberts, Celeste’s research dives deep into the biology of the globally invasive marine tunicate, <em>Botryllus schlosseri</em>. Her innovative work lays a crucial foundation for overcoming a decades-long hurdle in marine biology: the development of the first immortalized marine invertebrate cell line.</p>
+<p><strong>A Unique Strategy for Surviving Toxic Stress</strong> To understand the cellular mechanisms that might allow tunicate cells to become immortalized, Celeste first evaluated how whole colonies of <em>B. schlosseri</em> respond to oxidative stress caused by nickel. Astonishingly, she discovered that this species is highly tolerant to nickel toxicity, establishing an acute 24-hour lethal concentration (LC50) of roughly 177 mg/L—among the highest tolerance levels ever recorded for a marine invertebrate in artificial seawater.</p>
+<p>Instead of generating a massive, traditional antioxidant response to combat this severe stress, Celeste found that <em>B. schlosseri</em> employs a systemic survival strategy. At high nickel concentrations (100 mg/L), the colonies entered <strong>“blastogenic arrest”</strong>—halting their weekly asexual reproductive cycle and pausing the development of new buds. Through transcriptomic (RNA-seq) analysis, Celeste revealed that the colonies tightly coordinated this response by modulating developmental signaling pathways, inhibiting apoptosis, and remodeling their extracellular matrix (ECM) and vasculature. By putting reproduction and generational turnover on pause, the colony effectively mitigates its endogenous oxidative burden to survive the toxic environment.</p>
+<p><strong>Innovations in Cell Culture and Unexpected Discoveries</strong> Translating these findings from the whole organism to a petri dish, Celeste significantly advanced <em>in vitro</em> primary epithelial cell culture methods for the species. She implemented a novel <strong>partial desiccation explantation technique</strong> that vastly improved tissue adherence to the plastic culture substrate, resulting in highly reliable and consistent epithelial monolayer growth from both zooids and primary buds.</p>
+<p>When she challenged these cultured epithelial cells with acute nickel exposure, she made an unexpected discovery: the cultured cells were remarkably unfazed, displaying no morphological changes or increased cell death even at extreme concentrations.</p>
+<p>However, this incredible resilience also extended to laboratory chemicals, posing a massive technical hurdle. When Celeste attempted to extract RNA from these cells for transcriptomic analysis, the cells vigorously resisted traditional mechanical and chemical lysis techniques. Under the microscope, she observed that <strong>the cultured cells were actively producing fibrous, tunic-like secretions</strong>. Because the tunicate “tunic” is primarily composed of cellulose—a rigid structural carbohydrate typically found in plants—Celeste hypothesizes that these miniature biological shields not only protected the cells from the toxic heavy metals but also from laboratory lysis buffers.</p>
+<p><img src="http://gannet.fish.washington.edu/seashell/snaps/2026-03-18_18-12-47.png" class="img-fluid"></p>
+<p><strong>Looking Forward</strong> Celeste’s findings provide fascinating insights into how colonial marine organisms regulate cell fate and maintain cellular integrity under extreme environmental stress. Her methodological troubleshooting has set the stage for future breakthroughs, with recommendations to incorporate cellulase enzyme treatments to bypass the protective tunic secretions in future transcriptomic workflows.</p>
+<p>Supported by an NSF-BSF collaborative grant and conducted with partners at UC Davis and in Israel, Celeste’s thesis perfectly exemplifies the persistence, creativity, and adaptability required to pioneer new model systems in marine biology.</p>
+<p>Congratulations, Celeste, on an outstanding Master’s thesis and defense!</p>
+<section id="defense-recording" class="level2">
+<h2 class="anchored" data-anchor-id="defense-recording">Defense Recording</h2>
+<video controls="" width="100%">
+<source src="http://gannet.fish.washington.edu/seashell/snaps/video1510978840.mp4" type="video/mp4">
+<p>Your browser does not support the video tag. </p>
+
+
+<!-- -->
+
+</video></section>
+
+ ]]></description>
+  <category>tunicate</category>
+  <category>cell</category>
+  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-celeste/</guid>
+  <pubDate>Thu, 19 Mar 2026 07:00:00 GMT</pubDate>
+  <media:content url="http://gannet.fish.washington.edu/seashell/snaps/2026-03-18_18-11-07.png" medium="image" type="image/png"/>
+</item>
 <item>
   <title>Decoding Coral Gene Regulation: Tensor Decomposition and Elastic Nets Meet Marine Epigenetics</title>
   <dc:creator>Steven Roberts</dc:creator>
   <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-escience/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -94,124 +134,11 @@
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Image_2026-03-12_19-26-38.png" medium="image" type="image/png"/>
 </item>
 <item>
-  <title>When Tolerance Has Limits</title>
-  <dc:creator>Steven Roberts</dc:creator>
-  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-crab/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>Ocean acidification is often framed as a simple question of survival: can a species withstand lower pH, or not?</p>
-<p>Juvenile snow crab (<em>Chionoecetes opilio</em>) complicate that narrative.</p>
-<p>In a year-long experiment, snow crab maintained normal growth, molting, and morphology under both moderate (pH 7.8) and severe (pH 7.5) ocean acidification. For months, there were no visible signs of distress. Yet under severe acidification, mortality began to rise after about 250 days.</p>
-<p>If the crabs looked fine, what changed?</p>
-<p>A <a href="https://www.biorxiv.org/content/10.64898/2026.02.04.703865v1">new transcriptomic study led by Laura H. Spencer</a> provides a mechanistic explanation. By examining gene expression after 8 hours and again after 88 days of exposure, the work reveals how tolerance operates — and where its limits lie.</p>
-<p>⸻</p>
-<section id="the-early-response-turning-up-the-cellular-machinery" class="level2">
-<h2 class="anchored" data-anchor-id="the-early-response-turning-up-the-cellular-machinery">The Early Response: Turning Up the Cellular Machinery</h2>
-<p>At 8 hours, snow crab were already responding at the molecular level.</p>
-<p>Across both moderate and severe acidification treatments, genes involved in:<br>
-• mitochondrial metabolism<br>
-• electron transport<br>
-• protein refolding (heat shock proteins)<br>
-• cuticle maintenance<br>
-• immune modulation</p>
-<p>were strongly activated.</p>
-<p>The response was especially pronounced under severe acidification.</p>
-<p>Figure 3. Short-term differential gene expression (8 hours) (Spencer et al.&nbsp;2026)</p>
-<p><img src="https://faculty.washington.edu/sr320/posts/frontpage/sr320-crab/images/clipboard-2470018514.png" class="img-fluid"></p>
-<p>The volcano plots show a clear pattern: severe acidification triggers a broader and stronger transcriptional response than moderate acidification. Mitochondrial and protein homeostasis pathways dominate.</p>
-<p>This is not a passive response. Snow crab rapidly increase energy production and activate cellular repair systems. Tolerance, in this case, appears to be an energetically expensive strategy.</p>
-<p>⸻</p>
-</section>
-<section id="moderate-vs.-severe-adjustment-or-damage-control" class="level2">
-<h2 class="anchored" data-anchor-id="moderate-vs.-severe-adjustment-or-damage-control">Moderate vs.&nbsp;Severe: Adjustment or Damage Control?</h2>
-<p>The distinction between moderate and severe acidification is not simply one of degree — it is one of strategy.</p>
-<p>Under moderate OA (pH 7.8), gene expression emphasized:<br>
-• ion and osmotic regulation<br>
-• solute transport<br>
-• endocrine coordination</p>
-<p>This resembles regulatory adjustment — maintaining balance through coordinated physiological control.</p>
-<p>Under severe OA (pH 7.5), expression shifted toward:<br>
-• DNA repair<br>
-• RNA processing and splicing<br>
-• heat shock proteins<br>
-• oxidative stress pathways<br>
-• chitin remodeling</p>
-<p>This profile reflects cellular damage mitigation rather than fine-tuned regulation.</p>
-<p>In other words:<br>
-• Moderate OA → compensation<br>
-• Severe OA → cellular defense</p>
-<p>⸻</p>
-</section>
-<section id="the-quiet-period-before-mortality" class="level2">
-<h2 class="anchored" data-anchor-id="the-quiet-period-before-mortality">The Quiet Period Before Mortality</h2>
-<p>At 88 days — still well before survival diverged — gene expression patterns between moderate and severe treatments were already clearly different.</p>
-<p>Figure 4. Differential expression at Day 88 (Spencer et al.&nbsp;2026)</p>
-<p><img src="https://faculty.washington.edu/sr320/posts/frontpage/sr320-crab/images/clipboard-744714556.png" class="img-fluid"></p>
-<p>Under chronic severe acidification, genes involved in:</p>
-<p>• RNA processing<br>
-• protein refolding<br>
-• DNA repair<br>
-• oxidative stress defense<br>
-• acid–base regulation</p>
-<p>remained elevated.</p>
-<p>Physiologically, the crabs appeared normal. Molecularly, however, a sustained stress signature persisted.</p>
-<p>The companion long-term experiment showed that mortality under severe acidification began after ~250 days.</p>
-<p>The molecular data suggest why: chronic cellular maintenance carries an energetic cost that accumulates over time.</p>
-<p>Eventually, that cost may become unsustainable — particularly during molting, a process that demands substantial energy and structural remodeling.</p>
-<p>⸻</p>
-</section>
-<section id="a-molecular-early-warning-signal" class="level2">
-<h2 class="anchored" data-anchor-id="a-molecular-early-warning-signal">A Molecular Early-Warning Signal</h2>
-<p>Among the genes elevated under long-term severe acidification, one stood out: carbonic anhydrase 7 (CA7).</p>
-<p>Figure 5. Expression patterns of candidate genes (Spencer et al.&nbsp;2026)</p>
-<p><img src="https://faculty.washington.edu/sr320/posts/frontpage/sr320-crab/images/clipboard-971319492.png" class="img-fluid"></p>
-<p>Carbonic anhydrases regulate acid–base balance. CA7 expression was specifically elevated under chronic severe acidification, making it a promising biomarker of ongoing OA stress.</p>
-<p>If validated in field populations, CA7 could provide an early indicator of physiological strain before mortality increases.</p>
-<p>⸻</p>
-</section>
-<section id="variability-as-resilience" class="level2">
-<h2 class="anchored" data-anchor-id="variability-as-resilience">Variability as Resilience?</h2>
-<p>Principal component analysis revealed another intriguing pattern: transcriptional variability increased under severe acidification.</p>
-<p>Rather than shutting down metabolism — as seen in more sensitive species such as red king crab — snow crab maintained broad transcriptional activity.</p>
-<p>This suggests that resilience may involve maintaining flexibility rather than suppressing activity. Transcriptional breadth could represent an adaptive strategy for coping with environmental change.</p>
-<p>Figure 2. Global expression patterns (Spencer et al.&nbsp;2026)</p>
-<p><img src="https://faculty.washington.edu/sr320/posts/frontpage/sr320-crab/images/clipboard-1620157784.png" class="img-fluid"></p>
-<p>The PCA illustrates separation among treatments and highlights the stress-response and metabolic pathways driving that variation.</p>
-<p>⸻</p>
-</section>
-<section id="what-this-means" class="level2">
-<h2 class="anchored" data-anchor-id="what-this-means">What This Means</h2>
-<p>Snow crab are not simply tolerant or sensitive. They are tolerant — up to a point.</p>
-<p>Short-term exposure activates powerful metabolic and repair systems. Moderate acidification can be compensated for through regulatory adjustments. Severe acidification, however, induces sustained cellular stress that precedes visible effects by months.</p>
-<p>This study reinforces a critical lesson:</p>
-<p>Absence of early physiological change does not mean absence of impact.</p>
-<p>Sublethal molecular stress can accumulate long before survival declines.</p>
-<p>As high-latitude oceans continue to acidify, identifying these hidden thresholds becomes essential for predicting the future of snow crab populations and the fisheries that depend on them.</p>
-<p>⸻</p>
-<p>Citation</p>
-<p>Spencer LH, Spies IB, Gardner JL, Roberts SB, Long WC (2026). <a href="https://www.biorxiv.org/content/10.64898/2026.02.04.703865v1">Short-term mechanisms, long-term consequences: molecular effects of ocean acidification on juvenile snow crab</a>. bioRxiv preprint ￼</p>
-
-
-<!-- -->
-
-</section>
-
- ]]></description>
-  <category>crab</category>
-  <category>acidification</category>
-  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-crab/</guid>
-  <pubDate>Wed, 25 Feb 2026 08:00:00 GMT</pubDate>
-  <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Image_2026-02-25_09-08-12.png" medium="image" type="image/png"/>
-</item>
-<item>
   <title>Epigenomics in Chile</title>
   <dc:creator>Steven Roberts</dc:creator>
   <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-epiaqua/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -257,6 +184,7 @@
   <dc:creator>Steven Roberts</dc:creator>
   <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-polyic/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -343,110 +271,6 @@
   <media:content url="https://faculty.washington.edu/sr320/posts/frontpage/sr320-polyic/plot.png" medium="image" type="image/png" height="98" width="144"/>
 </item>
 <item>
-  <title>Mothers Know Best</title>
-  <dc:creator>Steven Roberts</dc:creator>
-  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-mother/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-
-<p><img src="https://ars.els-cdn.com/content/image/1-s2.0-S0044848625012748-ga1_lrg.jpg" class="img-fluid" alt="abstract"> <em>Graphical Abstract</em></p>
-<section id="introduction" class="level3">
-<h3 class="anchored" data-anchor-id="introduction">🌊 Introduction</h3>
-<p>Ocean acidification (OA) poses one of the most pressing threats to marine calcifiers. As CO₂ dissolves into seawater, pH declines and carbonate saturation drops — creating a chemical environment that makes it harder for larval shellfish to build and maintain shells. Early life stages, from embryos to D-veligers, are especially vulnerable.</p>
-<p>A new paper by <strong>Emma Timmins-Schiffman et al.&nbsp;(2025)</strong> presents hopeful evidence that <strong>maternal signaling</strong>—the physiological messages passed from mothers to offspring—can help larvae weather these conditions. The study, published in <em>Aquaculture</em>, demonstrates that <strong>broodstock conditioning under low-pH conditions</strong> can increase <strong>larval survival</strong> and <strong>developmental success</strong> under ocean acidification.</p>
-<p>👉 <a href="https://www.sciencedirect.com/science/article/pii/S0044848625012748?via%3Dihub">Read the paper here →</a></p>
-<hr>
-</section>
-<section id="study-overview" class="level3">
-<h3 class="anchored" data-anchor-id="study-overview">🧬 Study Overview</h3>
-<p><img src="http://gannet.fish.washington.edu/seashell/snaps/2025-11-11_05-24-27.png" class="img-fluid" alt="Experimental design schematic"> <em>Overview of the experimental design. Adult broodstock clams were exposed to low or ambient pH for 78 days, which included the main gametogenic period. Broodstock pH response was assessed and clams were spawned, with eggs collected to measure maternal effects. Larvae were reared in a full factorial design, with larvae resulting from each broodstock treatment raised at both ambient and low pH.</em></p>
-<p>The research team conducted a <strong>two-stage experiment</strong>:</p>
-<ol type="1">
-<li><strong>Broodstock conditioning:</strong> Adult bivalves were exposed to either ambient or low-pH seawater for several weeks prior to spawning.<br>
-</li>
-<li><strong>Larval challenge:</strong> Offspring from each broodstock treatment were reared under both ambient and acidified conditions.</li>
-</ol>
-<p>This design allowed the authors to <strong>test for maternal carry-over effects</strong> — whether the experience of parents could influence offspring performance under stress.</p>
-<hr>
-</section>
-<section id="key-findings" class="level3">
-<h3 class="anchored" data-anchor-id="key-findings">📈 Key Findings</h3>
-<p><img src="http://gannet.fish.washington.edu/seashell/snaps/2025-11-11_05-26-11.png" class="img-fluid" alt="Larval survival graph"> <em>G and H show the reaction norms for larval survival at 7 and 14 days post-fertilization in larval ambient and low pH conditions, respectively. Panel I shows the percent normal shells for larvae reared in ambient conditions (left panel) versus low pH conditions (right panel) for days 2, 7 and 14 post-fertilization.</em></p>
-<ul>
-<li><strong>Enhanced survival:</strong> Larvae from OA-conditioned parents showed higher survival under acidified conditions compared to larvae from ambient parents.<br>
-</li>
-<li><strong>Improved shell development:</strong> Morphological assessments indicated partial rescue of calcification deficits in OA-exposed larvae.<br>
-</li>
-<li><strong>Maternal provisioning:</strong> The authors suggest that biochemical or molecular cues—such as lipids, RNAs, or epigenetic marks—mediate this resilience.</li>
-</ul>
-<p>Together, these results underscore the <strong>potential of broodstock conditioning</strong> as an applied tool for aquaculture and restoration.</p>
-<hr>
-</section>
-<section id="mechanisms-and-implications" class="level3">
-<h3 class="anchored" data-anchor-id="mechanisms-and-implications">⚗️ Mechanisms and Implications</h3>
-<p><strong>Maternal signaling</strong> could occur via: - Differential <strong>energy or lipid provisioning</strong> to oocytes<br>
-- Altered <strong>mRNA or non-coding RNA content</strong> in eggs<br>
-- <strong>Epigenetic modifications</strong> that influence early developmental gene expression</p>
-<p>Such carry-over effects represent a <strong>non-genetic inheritance mechanism</strong> that can modulate offspring performance in a changing ocean.</p>
-<hr>
-</section>
-<section id="relevance-for-aquaculture-and-restoration" class="level3">
-<h3 class="anchored" data-anchor-id="relevance-for-aquaculture-and-restoration">🐚 Relevance for Aquaculture and Restoration</h3>
-<p>For hatcheries and conservation programs, these findings offer practical guidance:</p>
-<ul>
-<li><strong>Broodstock priming:</strong> Conditioning adults in mildly stressful environments could pre-adapt larvae to future ocean conditions.<br>
-</li>
-<li><strong>Selective breeding integration:</strong> Maternal conditioning could complement genetic selection programs.<br>
-</li>
-<li><strong>Ecosystem resilience:</strong> Field validation may help determine whether these benefits persist in natural, variable environments.</li>
-</ul>
-<hr>
-</section>
-<section id="future-directions" class="level3">
-<h3 class="anchored" data-anchor-id="future-directions">🔬 Future Directions</h3>
-<p>This study opens up rich avenues for follow-up research:</p>
-<ol type="1">
-<li><strong>Molecular dissection:</strong> Use transcriptomics, lipidomics, and DNA methylation profiling to identify specific maternal signals.<br>
-</li>
-<li><strong>Multi-stressor interactions:</strong> Test if benefits extend under warming, hypoxia, or nutrient stress.<br>
-</li>
-<li><strong>Transgenerational persistence:</strong> Determine whether resilience carries into F₂ and beyond.<br>
-</li>
-<li><strong>Trade-offs:</strong> Evaluate broodstock fecundity and energy costs associated with preconditioning.<br>
-</li>
-<li><strong>Applied implementation:</strong> Assess the cost-benefit of maternal conditioning for commercial hatchery production.</li>
-</ol>
-<hr>
-</section>
-<section id="broader-perspective" class="level3">
-<h3 class="anchored" data-anchor-id="broader-perspective">💡 Broader Perspective</h3>
-<p>This work builds upon a growing body of literature demonstrating <strong>transgenerational plasticity</strong> in marine organisms.<br>
-It also resonates with ongoing efforts to integrate <strong>epigenetic and physiological tools</strong> into aquaculture resilience frameworks.</p>
-<p>As the authors succinctly show, sometimes the best defense against future oceans lies in the <strong>memories mothers pass on</strong>.</p>
-<hr>
-</section>
-<section id="reference" class="level3">
-<h3 class="anchored" data-anchor-id="reference">📚 Reference</h3>
-<p>Timmins-Schiffman, E., et al.&nbsp;(2025). <em>Maternal signaling boosts larval resilience under ocean acidification conditions.</em> <strong>Aquaculture</strong>, Article 12748.<br>
-<a href="https://doi.org/10.1016/j.aquaculture.2025.12748" class="uri">https://doi.org/10.1016/j.aquaculture.2025.12748</a></p>
-
-
-<!-- -->
-
-</section>
-
- ]]></description>
-  <category>clam</category>
-  <category>aquaculture</category>
-  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-mother/</guid>
-  <pubDate>Thu, 13 Nov 2025 08:00:00 GMT</pubDate>
-  <media:content url="http://gannet.fish.washington.edu/seashell/snaps/2025-11-11_05-31-13.png" medium="image" type="image/png"/>
-</item>
-<item>
   <title>From Blue to Pink</title>
   <dc:creator>Steven Roberts</dc:creator>
   <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-pink/</link>
@@ -504,151 +328,6 @@ It also resonates with ongoing efforts to integrate <strong>epigenetic and physi
   <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-pink/</guid>
   <pubDate>Tue, 11 Nov 2025 08:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/2025-11-11_05-14-47.png" medium="image" type="image/png"/>
-</item>
-<item>
-  <title>Earliest Map of Oyster Germline Development Unlocks Pathway Toward Sterile Aquaculture</title>
-  <dc:creator>Steven Roberts</dc:creator>
-  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-pgc/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-
-<p>We are excited to share a new study led jointly by <strong>Dr.&nbsp;Mackenzie Gavery (NOAA Northwest Fisheries Science Center)</strong> and <strong>Dr.&nbsp;Lauren Vandepas (UW School of Aquatic and Fishery Sciences)</strong>, who served as co–first authors on a major advance in marine developmental biology and applied aquaculture biotechnology.</p>
-<p>The paper — <em>“Primordial germ cell specification and early developmental cell states in Pacific oyster”</em> — provides the <strong>earliest single-cell RNA-seq atlas ever produced from a bivalve embryo</strong>, capturing the transition from cleavage to gastrulation and revealing when and how primordial germ cells (PGCs) are formed in the Pacific oyster.</p>
-<p><br>
-📄 <a href="https://doi.org/10.1186/s12864-025-12122-7">Read the open-access paper here</a><br>
-<em>Citation: Gavery, M.R.†, Vandepas, L.E.†, et al.&nbsp;(2025). BMC Genomics 26:951.</em></p>
-<p>We also launched an <a href="https://robertslab.github.io/pgc-edc-oyster/">interactive data explorer</a> so readers can explore the single-cell dataset in detail!</p>
-<p><img src="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Image_2025-10-27_18-06-09.png" class="img-fluid" width="1000"> <em>Screen shot of data explorer for single-cell RNA-seq atlas of early oyster development</em></p>
-<hr>
-<section id="why-germ-cells-matter-for-aquaculture" class="level2">
-<h2 class="anchored" data-anchor-id="why-germ-cells-matter-for-aquaculture">Why Germ Cells Matter for Aquaculture</h2>
-<p>Germ cells give rise to gametes (eggs and sperm) and are the cellular “gatekeepers” of reproduction. For marine aquaculture, the ability to <strong>reliably produce sterile animals</strong> is essential for:</p>
-<ul>
-<li>Preventing genetic introgression of hatchery lines into wild populations</li>
-<li>Minimizing ecological risk of non-native stock</li>
-<li>Improving meat quality and energy allocation in culture</li>
-<li>Increasing thermal and stress resilience during grow-out</li>
-</ul>
-<p>Triploidy has been the only scalable sterility tool used in oysters to date, but its performance declines under environmental stress. This work opens the door to <strong>next-generation sterility strategies</strong> based on targeted disruption of germ cell formation — an approach already used successfully in some finfish species.</p>
-<hr>
-</section>
-<section id="what-the-team-discovered" class="level2">
-<h2 class="anchored" data-anchor-id="what-the-team-discovered">What the Team Discovered</h2>
-<p>Using droplet-based single-cell transcriptomics, the team tracked more than 29,000 embryonic cells across the earliest developmental stages. Dr.&nbsp;Gavery and Dr.&nbsp;Vandepas identified:</p>
-<table class="caption-top table">
-<colgroup>
-<col style="width: 62%">
-<col style="width: 37%">
-</colgroup>
-<thead>
-<tr class="header">
-<th>Developmental Stage</th>
-<th>Key Finding</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><strong>Cleavage + Blastula</strong></td>
-<td>Germline markers like <em>vasa</em> present but broadly distributed</td>
-</tr>
-<tr class="even">
-<td><strong>Gastrula</strong></td>
-<td>PGCs segregate into a <strong>single transcriptionally distinct cluster</strong></td>
-</tr>
-<tr class="odd">
-<td><strong>Marker Signature</strong></td>
-<td>Novel oyster-specific PGC genes identified, including <em>spPHI</em> and LOC105328839</td>
-</tr>
-</tbody>
-</table>
-<p>Importantly, the study not only confirmed known germline markers (<em>vasa</em>, <em>nanos</em>) but uncovered <strong>new PGC-associated genes unique to bivalves</strong> — now high-value candidates for future sterility research.</p>
-<hr>
-</section>
-<section id="gene-atlas" class="level2">
-<h2 class="anchored" data-anchor-id="gene-atlas">Gene Atlas</h2>
-<p>Their work bridges NOAA’s applied aquaculture mission and UW’s expertise in molluscan developmental genomics, resulting in the <strong>first single-cell molecular map of oyster development prior to the trochophore stage</strong> — a foundational resource for both aquaculture innovation and evolutionary developmental biology.</p>
-<p><img src="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Image_2025-10-27_10-04-24.png" class="img-fluid"></p>
-<blockquote class="blockquote">
-<p>Single-cell transcriptional heterogeneity of early&nbsp;<em>C. gigas</em>&nbsp;embryos increases with developmental time. (<strong>A</strong>) Sampling design: cleavage-stage embryos were pooled into a single sample representing all cleavage stages. A sample of blastula-stage embryos were collected and sequenced in a separate library to allow the identification of the developmentally oldest cells in the pool. Gastrula-stage embryos sampled at 10 hpf for reference. (<strong>B</strong>) UMAP visualization of single-cell clustering of the cleavage (pre-blastula) + blastula stage (cb) that revealed 10 putative clusters. (<strong>C</strong>) UMAP visualization of single-cell clustering of the gastrula stage. Twenty-seven putative clusters representing broad cell types were resolved using UMAP clustering analysis (Cil, ciliated cells; Circ, circulatory system-related; Mes, undefined mesodermal derivatives; Mus, muscle-related; Neu, neuronal; PGC, primordial germ cell; SF, shell field; Un, undefined)</p>
-</blockquote>
-<hr>
-</section>
-<section id="what-comes-next" class="level2">
-<h2 class="anchored" data-anchor-id="what-comes-next">What Comes Next</h2>
-<p>This atlas now enables targeted functional studies of early germline pathways — the next step toward <strong>non-triploid sterility methods for sustainable shellfish aquaculture</strong>. The open-access dataset will also support comparative evo-devo research across molluscs and other invertebrates.</p>
-<hr>
-<p><em>Source: Gavery, M.R., Vandepas, L.E., Saunders, L.M., Vadopalas, B., Luckenbach, J.A., Trapnell, C., &amp; Roberts, S.B. (2025). <a href="https://doi.org/10.1186/s12864-025-12122-7">Primordial germ cell specification and early developmental cell states in Pacific oyster.</a> BMC Genomics 26:951.</em></p>
-
-
-<!-- -->
-
-</section>
-
- ]]></description>
-  <category>oyster</category>
-  <category>aquaculture</category>
-  <category>primordial germ cell</category>
-  <category>scRNAseq</category>
-  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-pgc/</guid>
-  <pubDate>Mon, 27 Oct 2025 07:00:00 GMT</pubDate>
-  <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Image_2025-10-27_10-07-36.png" medium="image" type="image/png"/>
-</item>
-<item>
-  <title>Using Metabolomics and Lipidomics to Unlock Marine Resilience</title>
-  <dc:creator>Steven Roberts</dc:creator>
-  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-metab/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-
-<p>How do marine organisms adapt to an ocean that is rapidly warming, acidifying, and changing in countless other ways? A new <strong>Perspective article in Integrative and Comparative Biology</strong> by Yaamini R. Venkataraman and Ariana S. Huffmyer takes on this pressing question by focusing on <strong>metabolic plasticity</strong>—an organism’s capacity to adjust how it produces, allocates, and uses energy under stress.</p>
-<p>The authors argue that while genomics, transcriptomics, and epigenomics have all advanced our understanding of stress responses, <strong>metabolomic and lipidomic approaches provide a direct lens into energy balance</strong>—a key driver of resilience. By quantifying the molecules that fuel and regulate cellular processes, researchers can uncover hidden physiological shifts that are invisible at the whole-organism level.</p>
-<p><img src="http://gannet.fish.washington.edu/seashell/snaps/2025-09-24_10-54-17.png" class="img-fluid"></p>
-<section id="why-this-matters" class="level3">
-<h3 class="anchored" data-anchor-id="why-this-matters"><strong>Why This Matters</strong></h3>
-<p>Marine ecosystems are on the front lines of climate change. From corals to clams, invertebrates must constantly adjust to stressors like heat waves, hypoxia, and ocean acidification. The paper highlights how metabolic and lipidomic tools can:</p>
-<ul>
-<li><p>Detect subtle but critical energy shifts before mortality occurs.</p></li>
-<li><p>Reveal differences in resilience between species, populations, and even sexes.</p></li>
-<li><p>Provide early biomarkers of stress tolerance that can inform conservation and aquaculture.</p></li>
-</ul>
-</section>
-<section id="a-framework-for-best-practices" class="level3">
-<h3 class="anchored" data-anchor-id="a-framework-for-best-practices"><strong>A Framework for Best Practices</strong></h3>
-<p>Recognizing that metabolomic and lipidomic studies are still emerging in marine biology, Venkataraman and Huffmyer provide a <strong>roadmap for experimental design and analysis</strong>. Their recommendations include:</p>
-<ul>
-<li><p>Careful sampling and preservation to prevent artifacts.</p></li>
-<li><p>Strategic use of targeted, semi-targeted, or untargeted analyses.</p></li>
-<li><p>Embracing time series designs to capture dynamic shifts.</p></li>
-<li><p>Integrating molecular data with physiological and phenotypic metrics.</p></li>
-</ul>
-<p>They also call for <strong>multi-omic integration</strong>—combining metabolomics and lipidomics with gene expression, epigenetics, and physiology—to link molecular mechanisms with whole-organism outcomes</p>
-</section>
-<section id="looking-ahead" class="level3">
-<h3 class="anchored" data-anchor-id="looking-ahead"><strong>Looking Ahead</strong></h3>
-<p>The Perspective synthesizes findings from 68 studies published between 1993 and 2025, showing both how far the field has come and where opportunities lie. Importantly, it underscores that the <strong>marine science community must embrace metabolic complexity</strong> if we are to anticipate and mitigate the impacts of climate change on ecosystems.</p>
-<p><img src="http://gannet.fish.washington.edu/seashell/snaps/figure1.png" width="600"></p>
-<p>By providing this framework, Venkataraman and Huffmyer hope to spark more rigorous, reproducible, and integrative research—work that can help answer one of the defining questions of our time: <strong>how will marine life persist in a rapidly changing ocean?</strong></p>
-<p>👉 Read the full article here: <a href="http://gannet.fish.washington.edu/seashell/snaps/Venkataraman_Huffmyer2025.pdf">Interrogating Metabolic Plasticity in Marine Organisms: A Framework for Best Practices Using Metabolomic and Lipidomic Approaches</a></p>
-
-
-<!-- -->
-
-</section>
-
- ]]></description>
-  <category>metabolomics</category>
-  <category>lipidomics</category>
-  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-metab/</guid>
-  <pubDate>Wed, 24 Sep 2025 07:00:00 GMT</pubDate>
-  <media:content url="http://gannet.fish.washington.edu/seashell/snaps/2025-09-24_10-52-23.png" medium="image" type="image/png"/>
 </item>
 <item>
   <title>Building Resilient Oysters: Launching the SORMI Project</title>

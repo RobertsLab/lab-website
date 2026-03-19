@@ -9,13 +9,53 @@
 <link>https://faculty.washington.edu/sr320/posts.html</link>
 <atom:link href="https://faculty.washington.edu/sr320/posts.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.6.40</generator>
-<lastBuildDate>Thu, 12 Mar 2026 07:00:00 GMT</lastBuildDate>
+<generator>quarto-1.7.32</generator>
+<lastBuildDate>Thu, 19 Mar 2026 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Unlocking the Secrets of Tunicate Stress Responses</title>
+  <dc:creator>Steven Roberts</dc:creator>
+  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-celeste/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<p>We are thrilled to highlight the incredible work of Celeste Valdivia, who recently defended her Master of Science thesis at the University of Washington’s School of Aquatic and Fishery Sciences. Co-advised by Dr.&nbsp;Alison Gardell and Dr.&nbsp;Steven Roberts, Celeste’s research dives deep into the biology of the globally invasive marine tunicate, <em>Botryllus schlosseri</em>. Her innovative work lays a crucial foundation for overcoming a decades-long hurdle in marine biology: the development of the first immortalized marine invertebrate cell line.</p>
+<p><strong>A Unique Strategy for Surviving Toxic Stress</strong> To understand the cellular mechanisms that might allow tunicate cells to become immortalized, Celeste first evaluated how whole colonies of <em>B. schlosseri</em> respond to oxidative stress caused by nickel. Astonishingly, she discovered that this species is highly tolerant to nickel toxicity, establishing an acute 24-hour lethal concentration (LC50) of roughly 177 mg/L—among the highest tolerance levels ever recorded for a marine invertebrate in artificial seawater.</p>
+<p>Instead of generating a massive, traditional antioxidant response to combat this severe stress, Celeste found that <em>B. schlosseri</em> employs a systemic survival strategy. At high nickel concentrations (100 mg/L), the colonies entered <strong>“blastogenic arrest”</strong>—halting their weekly asexual reproductive cycle and pausing the development of new buds. Through transcriptomic (RNA-seq) analysis, Celeste revealed that the colonies tightly coordinated this response by modulating developmental signaling pathways, inhibiting apoptosis, and remodeling their extracellular matrix (ECM) and vasculature. By putting reproduction and generational turnover on pause, the colony effectively mitigates its endogenous oxidative burden to survive the toxic environment.</p>
+<p><strong>Innovations in Cell Culture and Unexpected Discoveries</strong> Translating these findings from the whole organism to a petri dish, Celeste significantly advanced <em>in vitro</em> primary epithelial cell culture methods for the species. She implemented a novel <strong>partial desiccation explantation technique</strong> that vastly improved tissue adherence to the plastic culture substrate, resulting in highly reliable and consistent epithelial monolayer growth from both zooids and primary buds.</p>
+<p>When she challenged these cultured epithelial cells with acute nickel exposure, she made an unexpected discovery: the cultured cells were remarkably unfazed, displaying no morphological changes or increased cell death even at extreme concentrations.</p>
+<p>However, this incredible resilience also extended to laboratory chemicals, posing a massive technical hurdle. When Celeste attempted to extract RNA from these cells for transcriptomic analysis, the cells vigorously resisted traditional mechanical and chemical lysis techniques. Under the microscope, she observed that <strong>the cultured cells were actively producing fibrous, tunic-like secretions</strong>. Because the tunicate “tunic” is primarily composed of cellulose—a rigid structural carbohydrate typically found in plants—Celeste hypothesizes that these miniature biological shields not only protected the cells from the toxic heavy metals but also from laboratory lysis buffers.</p>
+<p><img src="http://gannet.fish.washington.edu/seashell/snaps/2026-03-18_18-12-47.png" class="img-fluid"></p>
+<p><strong>Looking Forward</strong> Celeste’s findings provide fascinating insights into how colonial marine organisms regulate cell fate and maintain cellular integrity under extreme environmental stress. Her methodological troubleshooting has set the stage for future breakthroughs, with recommendations to incorporate cellulase enzyme treatments to bypass the protective tunic secretions in future transcriptomic workflows.</p>
+<p>Supported by an NSF-BSF collaborative grant and conducted with partners at UC Davis and in Israel, Celeste’s thesis perfectly exemplifies the persistence, creativity, and adaptability required to pioneer new model systems in marine biology.</p>
+<p>Congratulations, Celeste, on an outstanding Master’s thesis and defense!</p>
+<section id="defense-recording" class="level2">
+<h2 class="anchored" data-anchor-id="defense-recording">Defense Recording</h2>
+<video controls="" width="100%">
+<source src="http://gannet.fish.washington.edu/seashell/snaps/video1510978840.mp4" type="video/mp4">
+<p>Your browser does not support the video tag. </p>
+
+
+<!-- -->
+
+</video></section>
+
+ ]]></description>
+  <category>tunicate</category>
+  <category>cell</category>
+  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-celeste/</guid>
+  <pubDate>Thu, 19 Mar 2026 07:00:00 GMT</pubDate>
+  <media:content url="http://gannet.fish.washington.edu/seashell/snaps/2026-03-18_18-11-07.png" medium="image" type="image/png"/>
+</item>
 <item>
   <title>Decoding Coral Gene Regulation: Tensor Decomposition and Elastic Nets Meet Marine Epigenetics</title>
   <dc:creator>Steven Roberts</dc:creator>
   <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-escience/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -96,8 +136,9 @@
 <item>
   <title>When Tolerance Has Limits</title>
   <dc:creator>Steven Roberts</dc:creator>
-  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-crab/</link>
+  <link>https://faculty.washington.edu/sr320/posts/sr320-crab/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -121,7 +162,7 @@
 <p>were strongly activated.</p>
 <p>The response was especially pronounced under severe acidification.</p>
 <p>Figure 3. Short-term differential gene expression (8 hours) (Spencer et al.&nbsp;2026)</p>
-<p><img src="https://faculty.washington.edu/sr320/posts/frontpage/sr320-crab/images/clipboard-2470018514.png" class="img-fluid"></p>
+<p><img src="https://faculty.washington.edu/sr320/posts/sr320-crab/images/clipboard-2470018514.png" class="img-fluid"></p>
 <p>The volcano plots show a clear pattern: severe acidification triggers a broader and stronger transcriptional response than moderate acidification. Mitochondrial and protein homeostasis pathways dominate.</p>
 <p>This is not a passive response. Snow crab rapidly increase energy production and activate cellular repair systems. Tolerance, in this case, appears to be an energetically expensive strategy.</p>
 <p>⸻</p>
@@ -150,7 +191,7 @@
 <h2 class="anchored" data-anchor-id="the-quiet-period-before-mortality">The Quiet Period Before Mortality</h2>
 <p>At 88 days — still well before survival diverged — gene expression patterns between moderate and severe treatments were already clearly different.</p>
 <p>Figure 4. Differential expression at Day 88 (Spencer et al.&nbsp;2026)</p>
-<p><img src="https://faculty.washington.edu/sr320/posts/frontpage/sr320-crab/images/clipboard-744714556.png" class="img-fluid"></p>
+<p><img src="https://faculty.washington.edu/sr320/posts/sr320-crab/images/clipboard-744714556.png" class="img-fluid"></p>
 <p>Under chronic severe acidification, genes involved in:</p>
 <p>• RNA processing<br>
 • protein refolding<br>
@@ -168,7 +209,7 @@
 <h2 class="anchored" data-anchor-id="a-molecular-early-warning-signal">A Molecular Early-Warning Signal</h2>
 <p>Among the genes elevated under long-term severe acidification, one stood out: carbonic anhydrase 7 (CA7).</p>
 <p>Figure 5. Expression patterns of candidate genes (Spencer et al.&nbsp;2026)</p>
-<p><img src="https://faculty.washington.edu/sr320/posts/frontpage/sr320-crab/images/clipboard-971319492.png" class="img-fluid"></p>
+<p><img src="https://faculty.washington.edu/sr320/posts/sr320-crab/images/clipboard-971319492.png" class="img-fluid"></p>
 <p>Carbonic anhydrases regulate acid–base balance. CA7 expression was specifically elevated under chronic severe acidification, making it a promising biomarker of ongoing OA stress.</p>
 <p>If validated in field populations, CA7 could provide an early indicator of physiological strain before mortality increases.</p>
 <p>⸻</p>
@@ -179,7 +220,7 @@
 <p>Rather than shutting down metabolism — as seen in more sensitive species such as red king crab — snow crab maintained broad transcriptional activity.</p>
 <p>This suggests that resilience may involve maintaining flexibility rather than suppressing activity. Transcriptional breadth could represent an adaptive strategy for coping with environmental change.</p>
 <p>Figure 2. Global expression patterns (Spencer et al.&nbsp;2026)</p>
-<p><img src="https://faculty.washington.edu/sr320/posts/frontpage/sr320-crab/images/clipboard-1620157784.png" class="img-fluid"></p>
+<p><img src="https://faculty.washington.edu/sr320/posts/sr320-crab/images/clipboard-1620157784.png" class="img-fluid"></p>
 <p>The PCA illustrates separation among treatments and highlights the stress-response and metabolic pathways driving that variation.</p>
 <p>⸻</p>
 </section>
@@ -203,7 +244,7 @@
  ]]></description>
   <category>crab</category>
   <category>acidification</category>
-  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-crab/</guid>
+  <guid>https://faculty.washington.edu/sr320/posts/sr320-crab/</guid>
   <pubDate>Wed, 25 Feb 2026 08:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Image_2026-02-25_09-08-12.png" medium="image" type="image/png"/>
 </item>
@@ -212,6 +253,7 @@
   <dc:creator>Steven Roberts</dc:creator>
   <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-epiaqua/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -257,6 +299,7 @@
   <dc:creator>Steven Roberts</dc:creator>
   <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-polyic/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -345,7 +388,7 @@
 <item>
   <title>Mothers Know Best</title>
   <dc:creator>Steven Roberts</dc:creator>
-  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-mother/</link>
+  <link>https://faculty.washington.edu/sr320/posts/sr320-mother/</link>
   <description><![CDATA[ 
 
 
@@ -442,7 +485,7 @@ It also resonates with ongoing efforts to integrate <strong>epigenetic and physi
  ]]></description>
   <category>clam</category>
   <category>aquaculture</category>
-  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-mother/</guid>
+  <guid>https://faculty.washington.edu/sr320/posts/sr320-mother/</guid>
   <pubDate>Thu, 13 Nov 2025 08:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/2025-11-11_05-31-13.png" medium="image" type="image/png"/>
 </item>
@@ -508,7 +551,7 @@ It also resonates with ongoing efforts to integrate <strong>epigenetic and physi
 <item>
   <title>Earliest Map of Oyster Germline Development Unlocks Pathway Toward Sterile Aquaculture</title>
   <dc:creator>Steven Roberts</dc:creator>
-  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-pgc/</link>
+  <link>https://faculty.washington.edu/sr320/posts/sr320-pgc/</link>
   <description><![CDATA[ 
 
 
@@ -593,7 +636,7 @@ It also resonates with ongoing efforts to integrate <strong>epigenetic and physi
   <category>aquaculture</category>
   <category>primordial germ cell</category>
   <category>scRNAseq</category>
-  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-pgc/</guid>
+  <guid>https://faculty.washington.edu/sr320/posts/sr320-pgc/</guid>
   <pubDate>Mon, 27 Oct 2025 07:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Image_2025-10-27_10-07-36.png" medium="image" type="image/png"/>
 </item>
@@ -602,6 +645,7 @@ It also resonates with ongoing efforts to integrate <strong>epigenetic and physi
   <dc:creator>Steven Roberts</dc:creator>
   <link>https://faculty.washington.edu/sr320/posts/sr320-earthlab-intertidal/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -650,7 +694,7 @@ It also resonates with ongoing efforts to integrate <strong>epigenetic and physi
 <item>
   <title>Using Metabolomics and Lipidomics to Unlock Marine Resilience</title>
   <dc:creator>Steven Roberts</dc:creator>
-  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-metab/</link>
+  <link>https://faculty.washington.edu/sr320/posts/sr320-metab/</link>
   <description><![CDATA[ 
 
 
@@ -696,7 +740,7 @@ It also resonates with ongoing efforts to integrate <strong>epigenetic and physi
  ]]></description>
   <category>metabolomics</category>
   <category>lipidomics</category>
-  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-metab/</guid>
+  <guid>https://faculty.washington.edu/sr320/posts/sr320-metab/</guid>
   <pubDate>Wed, 24 Sep 2025 07:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/2025-09-24_10-52-23.png" medium="image" type="image/png"/>
 </item>
@@ -765,6 +809,7 @@ It also resonates with ongoing efforts to integrate <strong>epigenetic and physi
 
 
 
+
 <p>As global demand for seafood continues to rise, the aquaculture industry faces growing pressure to produce more while minimizing ecological impacts. A key concern in marine fish farming is the risk of escapees interbreeding with wild populations, leading to genetic introgression and reduced fitness in native fish stocks. Now, a recent study led by former University of Washington CICOES postdoctoral researcher Dr.&nbsp;Yuzo R. Yanagitsuru offers a promising solution.</p>
 <p>Published in <em>Aquaculture</em>, the study presents a <strong>proof-of-concept for a non-GMO, bath immersion–based technique for inducing sterility in sablefish (Anoplopoma fimbria)</strong>—an emerging high-value aquaculture species also known as black cod. The approach targets a gene essential for reproductive cell development and aims to prevent escaped farmed fish from reproducing in the wild.</p>
 <section id="a-scalable-gene-silencing-alternative-to-triploidy" class="level3">
@@ -812,6 +857,7 @@ It also resonates with ongoing efforts to integrate <strong>epigenetic and physi
   <dc:creator>Steven Roberts</dc:creator>
   <link>https://faculty.washington.edu/sr320/posts/sr320-capstone/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -1208,59 +1254,6 @@ It also resonates with ongoing efforts to integrate <strong>epigenetic and physi
   <guid>https://faculty.washington.edu/sr320/posts/sr320-cod2/</guid>
   <pubDate>Thu, 20 Feb 2025 08:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/2025-02-17_09-15-38.png" medium="image" type="image/png"/>
-</item>
-<item>
-  <title>Harnessing Shellfish Environmental Memory for a Resilient Future</title>
-  <dc:creator>Steven Roberts</dc:creator>
-  <link>https://faculty.washington.edu/sr320/posts/sr320-WSG/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-
-<p>Shellfish aquaculture is facing increasing challenges due to climate change, ocean acidification, and other environmental stressors. However, research is showing that environmental memory—the ability of organisms to retain and transmit adaptive responses to stress—may offer a promising strategy for improving resilience in aquaculture species.</p>
-<p>At the 2025 Washington Sea Grant workshop, researchers and industry professionals came together to explore how environmental priming—exposing shellfish to controlled stress conditions—could be leveraged to enhance survival, growth, and performance.</p>
-<section id="industry-engagement-and-perceptions" class="level2">
-<h2 class="anchored" data-anchor-id="industry-engagement-and-perceptions">Industry Engagement and Perceptions</h2>
-<p>To better understand industry perspectives, a survey of shellfish growers was conducted to gauge their views on environmental priming as an adaptation strategy. The results were enlightening:<br>
-• 78% of hatchery operators indicated they would consider implementing environmental priming, though most preferred to see supporting data first.<br>
-• 70% of respondents said they would be willing to pay more for primed seed, provided evidence from test plots or research-supported literature was available.</p>
-<p>This feedback underscores the importance of continued scientific research to validate environmental priming techniques and demonstrate their effectiveness in real-world aquaculture operations.</p>
-</section>
-<section id="what-is-environmental-priming" class="level2">
-<h2 class="anchored" data-anchor-id="what-is-environmental-priming">What is Environmental Priming?</h2>
-<p>Environmental priming involves exposing shellfish to controlled stressors—such as temperature fluctuations, salinity changes, or immune challenges—to enhance their resilience later in life. Research has shown promising results across multiple species:</p>
-<p>• Olympia oysters: Parental priming increased offspring survival in field conditions.<br>
-• Pacific geoduck: Early-life priming led to improved growth rates later in life.<br>
-• Manila clams: Offspring from primed parents exhibited better growth and survival rates.</p>
-</section>
-<section id="ongoing-research-and-applications" class="level2">
-<h2 class="anchored" data-anchor-id="ongoing-research-and-applications">Ongoing Research and Applications</h2>
-<p>Scientists are now working to optimize environmental priming strategies across different species. Ongoing research at institutions like NOAA’s Manchester Field Station and the Jamestown S’Klallam Hatchery is exploring how priming can enhance the performance of shellfish under various stress conditions.</p>
-<p>For Pacific oysters, researchers are testing multiple priming approaches, including:<br>
-✅ Immune challenges<br>
-✅ Temperature stress<br>
-✅ Salinity shifts<br>
-✅ Combination stress exposures</p>
-</section>
-<section id="moving-forward-bridging-science-and-industry" class="level2">
-<h2 class="anchored" data-anchor-id="moving-forward-bridging-science-and-industry">Moving Forward: Bridging Science and Industry</h2>
-<p>The insights from this research are critical for both hatchery operators and policymakers as they work toward sustainable shellfish aquaculture. With growing industry interest and evidence-based strategies, environmental priming may become a tool in ensuring the future resilience of shellfish populations.</p>
-<p>Slidedecck: https://github.com/sr320/talk-WSG-2025</p>
-
-
-<!-- -->
-
-</section>
-
- ]]></description>
-  <category>wsg</category>
-  <category>talk</category>
-  <guid>https://faculty.washington.edu/sr320/posts/sr320-WSG/</guid>
-  <pubDate>Mon, 10 Feb 2025 08:00:00 GMT</pubDate>
-  <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_2025-WSG-Roberts_2025-02-10_07-20-44.png" medium="image" type="image/png"/>
 </item>
 </channel>
 </rss>

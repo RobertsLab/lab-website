@@ -1,0 +1,50 @@
+---
+title: "Unlocking the Secrets of Tunicate Stress Responses"
+description: "Highlighting Celeste Valdivia's Master's Research"
+author:
+  - name: Steven Roberts
+    url: https://sr320.github.io/
+    orcid: 0000-0001-8302-1138
+    affiliation: Professor, UW - School of Aquatic and Fishery Sciences
+    affiliation-url: https://robertslab.info
+date: 03-19-2026
+categories: [tunicate, cell] # self-defined categories
+image: http://gannet.fish.washington.edu/seashell/snaps/2026-03-18_18-11-07.png # finding a good image
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+
+format:
+  html:
+    code-fold: true
+    code-tools: true
+    code-copy: true
+    highlight-style: github
+    code-overflow: wrap
+---
+
+We are thrilled to highlight the incredible work of Celeste Valdivia, who recently defended her Master of Science thesis at the University of Washington's School of Aquatic and Fishery Sciences. Co-advised by Dr. Alison Gardell and Dr. Steven Roberts, Celeste's research dives deep into the biology of the globally invasive marine tunicate, *Botryllus schlosseri*. Her innovative work lays a crucial foundation for overcoming a decades-long hurdle in marine biology: the development of the first immortalized marine invertebrate cell line.
+
+**A Unique Strategy for Surviving Toxic Stress** To understand the cellular mechanisms that might allow tunicate cells to become immortalized, Celeste first evaluated how whole colonies of *B. schlosseri* respond to oxidative stress caused by nickel. Astonishingly, she discovered that this species is highly tolerant to nickel toxicity, establishing an acute 24-hour lethal concentration (LC50) of roughly 177 mg/L—among the highest tolerance levels ever recorded for a marine invertebrate in artificial seawater.
+
+Instead of generating a massive, traditional antioxidant response to combat this severe stress, Celeste found that *B. schlosseri* employs a systemic survival strategy. At high nickel concentrations (100 mg/L), the colonies entered **"blastogenic arrest"**—halting their weekly asexual reproductive cycle and pausing the development of new buds. Through transcriptomic (RNA-seq) analysis, Celeste revealed that the colonies tightly coordinated this response by modulating developmental signaling pathways, inhibiting apoptosis, and remodeling their extracellular matrix (ECM) and vasculature. By putting reproduction and generational turnover on pause, the colony effectively mitigates its endogenous oxidative burden to survive the toxic environment.
+
+**Innovations in Cell Culture and Unexpected Discoveries** Translating these findings from the whole organism to a petri dish, Celeste significantly advanced *in vitro* primary epithelial cell culture methods for the species. She implemented a novel **partial desiccation explantation technique** that vastly improved tissue adherence to the plastic culture substrate, resulting in highly reliable and consistent epithelial monolayer growth from both zooids and primary buds.
+
+When she challenged these cultured epithelial cells with acute nickel exposure, she made an unexpected discovery: the cultured cells were remarkably unfazed, displaying no morphological changes or increased cell death even at extreme concentrations.
+
+However, this incredible resilience also extended to laboratory chemicals, posing a massive technical hurdle. When Celeste attempted to extract RNA from these cells for transcriptomic analysis, the cells vigorously resisted traditional mechanical and chemical lysis techniques. Under the microscope, she observed that **the cultured cells were actively producing fibrous, tunic-like secretions**. Because the tunicate "tunic" is primarily composed of cellulose—a rigid structural carbohydrate typically found in plants—Celeste hypothesizes that these miniature biological shields not only protected the cells from the toxic heavy metals but also from laboratory lysis buffers.
+
+![](http://gannet.fish.washington.edu/seashell/snaps/2026-03-18_18-12-47.png)
+
+**Looking Forward** Celeste's findings provide fascinating insights into how colonial marine organisms regulate cell fate and maintain cellular integrity under extreme environmental stress. Her methodological troubleshooting has set the stage for future breakthroughs, with recommendations to incorporate cellulase enzyme treatments to bypass the protective tunic secretions in future transcriptomic workflows.
+
+Supported by an NSF-BSF collaborative grant and conducted with partners at UC Davis and in Israel, Celeste's thesis perfectly exemplifies the persistence, creativity, and adaptability required to pioneer new model systems in marine biology.
+
+Congratulations, Celeste, on an outstanding Master's thesis and defense!
+
+## Defense Recording
+
+<video controls width="100%">
+
+<source src="http://gannet.fish.washington.edu/seashell/snaps/video1510978840.mp4" type="video/mp4">
+
+Your browser does not support the video tag. </video>
