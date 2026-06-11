@@ -10,7 +10,8 @@ materials: ""
 eprint: ""
 toc: FALSE
 categories:
-  - methylation
+  - Epigenetics
+  - Aquaculture
 ---
 
 ## Citation
@@ -19,4 +20,4 @@ categories:
 
 ## Abstract
 
-*Abstract not available*
+Epigenetics has attracted considerable attention with respect to its potential value in many areas of agricultural production, particularly under conditions where the environment can be manipulated or natural variation exists. Here we introduce key concepts and definitions of epigenetic mechanisms, including DNA methylation, histone modifications and non-coding RNA, review the current understanding of epigenetics in both fish and shellfish, and propose key areas of aquaculture where epigenetics could be applied. The first key area is environmental manipulation, where the intention is to induce an 'epigenetic memory' either within or between generations to produce a desired phenotype. The second key area is epigenetic selection, which, alone or combined with genetic selection, may increase the reliability of producing animals with desired phenotypes. Based on aspects of life history and husbandry practices in aquaculture species, the application of epigenetic knowledge could significantly affect the productivity and sustainability of aquaculture practices. Conversely, clarifying the role of epigenetic mechanisms in aquaculture species may upend traditional assumptions about selection practices. Ultimately, there are still many unanswered questions regarding how epigenetic mechanisms might be leveraged in aquaculture.

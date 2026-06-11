@@ -3,19 +3,19 @@ title: "Effects of nonindigenous ictalurids and recreational electrofishing on t
 type: "article"
 author: "Moser ML, Roberts SB"
 year: "2000"
-publication: ""
+publication: "Catfish 2000: Proceedings of the International Ictalurid Symposium. American Fisheries Society Symposium 24, Bethesda, MD. pp. 479-485"
 preprint: ""
 doi: ""
 materials: ""
-eprint: ""
+eprint: "https://archive.org/details/catfish2000proce0000inte"
 toc: FALSE
 categories:
-  - fish
+  - Finfish
 ---
 
 ## Citation
 
-> Moser ML, Roberts SB (2000) Effects of nonindigenous ictalurids and recreational electrofishing on the ictalurid community of the Cape Fear River drainage, North Carolina. . 
+> Moser ML, Roberts SB (2000) Effects of nonindigenous ictalurids and recreational electrofishing on the ictalurid community of the Cape Fear River drainage, North Carolina. Catfish 2000: Proceedings of the International Ictalurid Symposium. American Fisheries Society Symposium 24, Bethesda, MD. pp. 479-485.
 
 ## Abstract
 

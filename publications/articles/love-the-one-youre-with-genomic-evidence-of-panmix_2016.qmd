@@ -5,12 +5,13 @@ author: "Jasonowicz AJ, Goetz FW, Goetz GW, Nichols KM"
 year: "2016"
 publication: ""
 preprint: ""
-doi: ""
+doi: "https://doi.org/10.1139/cjfas-2016-0012"
 materials: ""
 eprint: ""
 toc: FALSE
 categories:
-  - fish
+  - Finfish
+  - Genomic Resources
 ---
 
 ## Citation
@@ -19,4 +20,4 @@ categories:
 
 ## Abstract
 
-*Abstract not available*
+Understanding the genetic structure of a fishery may help delineate stocks and is directly applicable to resource management. To date, studies have not found clear population genetic structure across the range of the sablefish (Anoplopoma fimbria), yet significant biological differences are recognized. Here we use restriction site-associated DNA sequencing to develop thousands of single nucleotide polymorphisms (SNPs) throughout the sablefish genome and assess population genetic structure and examine the genome for SNPs under natural selection. Our study was unable to target spawning groups, having the potential to bias analyses that require a priori hypotheses of population structure. Low and insignificant levels of differentiation (FST = 0.0002) were observed among survey areas, and analyses of population structure suggested a single population. Only two SNPs were significantly associated with environmental variables. These results are likely due to considerable population mixing and suggest a single panmictic group of sablefish off the west coast of the United States and Alaska that is likely a consequence of a complex juvenile life history and long range movements as adults.

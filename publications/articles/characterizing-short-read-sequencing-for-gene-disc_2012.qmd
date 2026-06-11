@@ -10,7 +10,8 @@ materials: ""
 eprint: ""
 toc: FALSE
 categories:
-  - oyster
+  - Oysters
+  - Genomic Resources
 ---
 
 ## Citation
@@ -19,4 +20,4 @@ categories:
 
 ## Abstract
 
-*Abstract not available*
+Advances in DNA sequencing technology have provided opportunities to produce new transcriptomic resources for species that lack completely sequenced genomes. However, there are limited examples that rely solely on ultra-short read sequencing technologies (e.g. Solexa, SOLiD) for transcript discovery and gene expression analysis (i.e. RNA-Seq). Here we use SOLiD sequencing to examine gene expression patterns in Pacific oyster (Crassostrea gigas) populations exposed to varying degrees of anthropogenic impact. Novel transcripts were identified and RNA-Seq analysis revealed several hundred differentially expressed genes. Gene enrichment analysis determined that in addition to biological processes predicted to be associated with anthropogenic influences (e.g. immune response), other processes play important roles including cell recognition and cell adhesion. To evaluate the effectiveness of restricting characterization solely to short read sequences, mapping and RNA-Seq analysis were also performed using publicly available transcriptome sequence data as a scaffold. This study demonstrates that ultra-short read sequencing technologies can effectively generate novel transcriptome information, identify differentially expressed genes, and will be important for examining environmental physiology of non-model organisms.

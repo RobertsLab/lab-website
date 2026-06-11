@@ -10,11 +10,8 @@ materials: ""
 eprint: ""
 toc: FALSE
 categories:
-  - oyster
-  - transgenerational plasticity
-  - ocean acidification
-  - Sydney rock oyster
-  - Saccostrea
+  - Oysters
+  - Climate & Stress
 ---
 
 ## Citation

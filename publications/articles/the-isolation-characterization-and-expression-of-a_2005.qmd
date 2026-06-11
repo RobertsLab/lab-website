@@ -5,12 +5,13 @@ author: "Biga PR, Roberts SB, Iliev DB, McCauley LA, Moon JS, Collodi P, and Goe
 year: "2005"
 publication: ""
 preprint: ""
-doi: ""
+doi: "https://doi.org/10.1016/j.cbpc.2005.03.004"
 materials: ""
 eprint: ""
 toc: FALSE
 categories:
-  - fish
+  - Finfish
+  - Reproduction & Development
 ---
 
 ## Citation
@@ -19,4 +20,4 @@ categories:
 
 ## Abstract
 
-*Abstract not available*
+In the current study, the first non-mammalian growth/differentiation factor (GDF) 11-like homolog was cloned from zebrafish. At the nucleotide level, zebrafish GDF11 is most similar to human GDF11 (79%), while the peptide is most similar to mouse GDF11 (78%). Phylogenetic analysis showed that the zebrafish GDF11 clusters with mammalian GDF11s. This study also cloned a second MSTN form in zebrafish most similar to Salmonid MSTN2 forms. Based on real time PCR, GDF11 is expressed in multiple adult tissues, with levels highest in whole heads and gonads, and expression is less ubiquitous when compared to MSTN expression. During embryonic development, real time PCR demonstrated increasing GDF11 mRNA levels 10 h post-fertilization (hpf), while MSTN mRNA levels remain low until 48 hpf. This is the first report of a transforming growth factor (TGF)-beta superfamily member in a non-mammalian species that is more closely related to GDF11 than MSTN, and also a second form of MSTN in zebrafish; suggesting that a more complex TGF-beta superfamily array exists in primitive vertebrates than previously thought.

@@ -10,7 +10,8 @@ materials: ""
 eprint: ""
 toc: FALSE
 categories:
-  - fish
+  - Finfish
+  - Disease & Immunity
 ---
 
 ## Citation
@@ -19,4 +20,4 @@ categories:
 
 ## Abstract
 
-*Abstract not available*
+The study of host-parasite relationships is an integral part of the immunology of aquatic species, where the complexity of both organisms has to be overlayed with the lifecycle stages of the parasite and immunological status of the host. A deep understanding of how the parasite survives in its host and how they display molecular mechanisms to face the immune system can be applied for novel parasite control strategies. This review highlights current knowledge about salmon and sea louse, two key aquatic animals for aquaculture research worldwide. With the aim to catch the complexity of the salmon-louse interactions, molecular information gleaned through genomic studies are presented. The host recognition system and the chemosensory receptors found in sea lice reveal complex molecular components, that in turn, can be disrupted through specific molecules such as non-coding RNAs.

@@ -11,9 +11,7 @@ eprint: ""
 audio: "https://wp.me/p1QK1L-2cI"
 toc: FALSE
 categories:
-  - epigenetic
-  - coral
-  - oyster
+  - Epigenetics
 ---
 
 ## Citation

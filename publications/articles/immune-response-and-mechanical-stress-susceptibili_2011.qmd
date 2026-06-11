@@ -10,7 +10,8 @@ materials: ""
 eprint: ""
 toc: FALSE
 categories:
-  - oyster
+  - Oysters
+  - Disease & Immunity
 ---
 
 ## Citation
@@ -19,4 +20,4 @@ categories:
 
 ## Abstract
 
-*Abstract not available*
+Eastern oysters, Crassostrea virginica, naturally infected with the parasite Perkinsus marinus were subjected to a mechanical stress by centrifugation, and immune parameters, pathological conditions, and gene expression of selected transcripts were compared to uninfected controls. Immune parameters were assessed by flow cytometry, pathology and parasites by histotechnology and fluid thioglycollate assays, and gene expression by quantitative RT-PCR. Irrespective of mechanical stress, an increased number of hemocytes were observed in P. marinus-infected oysters that corresponded to increased expression of genes that have been shown to be involved in inflammation and apoptosis, two processes associated with regulating immune cell populations. Mechanically stressed, diseased oysters showed histological gill abnormalities and aggregations of hemocytes in tissues not seen in stressed, uninfected oysters. Expression of a high-mobility group protein and hemocyte phagocytosis were significantly upregulated upon mechanical stress only in uninfected oysters. The results of this study demonstrate the role of inflammation in the oyster immune response including possible underlying molecular mechanisms. Furthermore, this study highlights the importance of considering mechanical stressors when characterizing oyster immune function.

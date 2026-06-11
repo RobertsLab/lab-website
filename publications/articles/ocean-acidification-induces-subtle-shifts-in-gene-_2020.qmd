@@ -10,8 +10,8 @@ materials: ""
 eprint: ""
 toc: FALSE
 categories:
-  - oyster
-  - methylation
+  - Oysters
+  - Epigenetics
 ---
 
 ## Citation
@@ -20,4 +20,4 @@ categories:
 
 ## Abstract
 
-*Abstract not available*
+Early evidence suggests that DNA methylation can mediate phenotypic responses of marine calcifying species to ocean acidification (OA). Few studies, however, have explicitly studied DNA methylation in calcifying tissues through time. Here, we examined the phenotypic and molecular responses in the extrapallial fluid and mantle (fluid and tissue at the calcification site) in adult eastern oyster (*Crassostrea virginica*) exposed to experimental OA over 80 days. Oysters were reared under three experimental pCO2 treatments (“control,” 580 µatm; “moderate OA,” 1,000 µatm; “high OA,” 2,800 µatm) and sampled at 6 time points (24 h–80 days). We found that high OA initially induced an increase in the pH of the extrapallial fluid (pHEPF) relative to the external seawater that peaked at day 9, but then diminished over time. Calcification rates were significantly lower in the high OA treatment compared to the other treatments. To explore how oysters regulate their extrapallial fluid, gene expression and DNA methylation were examined in the mantle-edge tissue of oysters from days 9 and 80 in the control and high OA treatments. Mantle tissue mounted a significant global molecular response (both in the transcriptome and methylome) to OA that shifted through time. Although we did not find individual genes that were significantly differentially expressed under OA, the pHEPF was significantly correlated with the eigengene expression of several co-expressed gene clusters. A small number of OA-induced differentially methylated loci were discovered, which corresponded with a weak association between OA-induced changes in genome-wide gene body DNA methylation and gene expression. Gene body methylation, however, was not significantly correlated with the eigengene expression of pHEPF-correlated gene clusters. These results suggest that OA induces a subtle response in a large number of genes in *C. virginica*, but also indicate that plasticity at the molecular level may be limited. Our study highlights the need to reassess our understanding of tissue-specific molecular responses in marine calcifiers, as well as the role of DNA methylation and gene expression in mediating physiological and biomineralization responses to OA.

@@ -5,10 +5,13 @@ author: "Roberts SB, Romano C, and Gerlach G"
 year: "2005"
 publication: "Molecular Ecology Notes 5: 567-568"
 preprint: ""
-doi: ""
+doi: "https://doi.org/10.1111/j.1471-8286.2005.00996.x"
 materials: ""
 eprint: ""
 toc: FALSE
+categories:
+  - Other Invertebrates
+  - Genomic Resources
 ---
 
 ## Citation
@@ -17,4 +20,4 @@ toc: FALSE
 
 ## Abstract
 
-*Abstract not available*
+Interest in bay scallop conservation has resulted in organized stock enhancement efforts and increased attention to fisheries management issues. Genetic markers can facilitate the monitoring of enhancement efforts, characterization of wild populations, and optimize hatchery practices. We have identified eight polymorphic simple sequence repeat markers including one dinucleotide, six trinucleotide and one compound dinucleotide repeats, in expressed sequence tags generated from multiple bay scallop cDNA libraries. The numbers of alleles range from two to five. The expected and observed heterozygosities range from 0.093 to 0.720 and 0.095 to 0.600, respectively.

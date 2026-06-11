@@ -5,10 +5,13 @@ author: "Weiss E, Bennie M, Hodgins-Davis A, Roberts SB, and Gerlach G"
 year: "2007"
 publication: "Molecular Ecology Notes 7: 866--867"
 preprint: ""
-doi: ""
+doi: "https://doi.org/10.1111/j.1471-8286.2007.01731.x"
 materials: ""
 eprint: ""
 toc: FALSE
+categories:
+  - Finfish
+  - Genomic Resources
 ---
 
 ## Citation
@@ -17,4 +20,4 @@ toc: FALSE
 
 ## Abstract
 
-*Abstract not available*
+For years, fishermen have noted that cod (Gadus morhua) within the Georges Bank Atlantic fishery spawn multiple times annually with peaks in the spring and in the fall. To evaluate the hypothesis that these differences in reproductive behaviour reflect genetically different spawning populations, we identified eight polymorphic simple sequence repeats within expressed sequence tags (ESTs). Previously, only a few genetic markers have been informative for distinguishing between cod populations of the Northwest Atlantic. The development of additional markers from ESTs will be a valuable tool to improve our understanding of population structure in this commercially important species.

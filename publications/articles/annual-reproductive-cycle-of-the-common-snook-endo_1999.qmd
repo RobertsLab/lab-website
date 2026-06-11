@@ -3,12 +3,15 @@ title: "Annual reproductive cycle of the common snook: Endocrine correlates of m
 type: "article"
 author: "Roberts SB, Jackson LF, King WK, Taylor RG, Grier HJ, Sullivan CV"
 year: "1999"
-publication: "128%3C0436%3AARCOTC%3E2.0.CO%3B2#preview) Transactions of the American Fisheries Society 128:426-445"
+publication: "Transactions of the American Fisheries Society 128:426-445"
 preprint: ""
-doi: ""
+doi: "https://doi.org/10.1577/1548-8659(1999)128%3C0436:ARCOTC%3E2.0.CO;2"
 materials: ""
 eprint: ""
 toc: FALSE
+categories:
+  - Finfish
+  - Reproduction & Development
 ---
 
 ## Citation
@@ -17,4 +20,4 @@ toc: FALSE
 
 ## Abstract
 
-*Abstract not available*
+Wild common snook Centropomus undecimalis were captured off the Gulf coast of Florida over a 2-year period and sampled for serum and gonad tissue to characterize their annual reproductive cycle. During the summer months, levels of the sex steroid hormones estradiol-17β (E2) and testosterone (T) in females were significantly elevated above basal winter values. Mean gonadosomatic index (GSI) was also significantly elevated in females during summer. In addition, fish whose ovaries contained oocytes in vitellogenic and final maturation stages had elevated levels of alkali-labile protein phosphorus (ALPP), an indirect measure of the egg yolk precursor, vitellogenin. Peak levels of E2, T, and ALPP were measured in females during the spawning season (late summer) when GSI was also maximal. Circulating levels of T and 11-ketotestosterone (11-KT) in males were also higher in the summer months than at any other time of the year. Males showed an increase in GSI over basal winter values during the summer months, with patterns of change similar to those of circulating androgen profiles. The highest androgen levels and GSI were measured in males during the spawning season when a high degree of sperm duct formation was evident histologically. Collectively, these data provide a basis for future evaluation and control of reproductive function in cultured common snook and in environmental studies of this species.

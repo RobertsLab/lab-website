@@ -9,6 +9,8 @@ doi: "https://doi.org/10.2983/035.037.0406"
 materials: ""
 eprint: ""
 toc: FALSE
+categories:
+  - Genomic Resources
 ---
 
 ## Citation
@@ -17,4 +19,5 @@ toc: FALSE
 
 ## Abstract
 
-*Abstract not available*
+ABSTRACT 
+ As computational and sequencing technologies continue to flourish, the barrier for those interested in complementing traditional ecological and physiological studies with functional genomics is easier to overcome. Here, an overview of transcriptome sequencing and DNA methylation analyses in shellfish is provided, primarily for those with fundamental interests and training in a different domain. The approaches covered here can provide valuable information on how organisms respond to their environment and also be used to evaluate evolutionary relationships. First, biological and technological background is provided, highlighting studies in shellfish that have applied these approaches. This is followed by practical methods and tools for conducting this work at the laboratory bench and in front of a computer. In an effort to provide educational resources and the ability to update computational and analytical resources as they become available, a supplementary repository for this work has been created and is available at https://github.com/sr320/fun-gen.

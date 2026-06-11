@@ -9,6 +9,8 @@ doi: "https://doi.org/10.1016/j.scitotenv.2020.142867"
 materials: ""
 eprint: ""
 toc: FALSE
+categories:
+  - Disease & Immunity
 ---
 
 ## Citation
@@ -17,4 +19,4 @@ toc: FALSE
 
 ## Abstract
 
-*Abstract not available*
+Wastewater-Based Epidemiology is a tool to face and mitigate COVID-19 outbreaks by evaluating conditions in a specific community. This study aimed to analyze the microbiome profiles using nanopore technology for full-length 16S rRNA sequencing in wastewater samples collected from a penitentiary (P), a residential care home (RCH), and a quarantine or health care facilities (HCF). During the study, the wastewater samples from the RCH and the P were negative for SARS-CoV-2 based on qPCRs, except during the fourth week when was detected. Unexpectedly, the wastewater microbiome from RCH and P prior to week four was correlated with the samples collected from the HCF, suggesting a core bacterial community is expelled from the digest tract of individuals infected with SARS-CoV-2. The microbiota of wastewater sample positives for SARS-CoV-2 was strongly associated with enteric bacteria previously reported in patients with risk factors for COVID-19. We provide novel evidence that the wastewater microbiome associated with gastrointestinal manifestations appears to precede the SARS-CoV-2 detection in sewage. This finding suggests that the wastewaters microbiome can be applied as an indicator of community-wide SARS-CoV-2 surveillance.

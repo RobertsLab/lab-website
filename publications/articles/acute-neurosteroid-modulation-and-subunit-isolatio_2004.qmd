@@ -5,10 +5,12 @@ author: "Hollis DM, Goetz FW, Roberts SB, and Boyd SK"
 year: "2004"
 publication: ""
 preprint: ""
-doi: ""
+doi: "https://doi.org/10.1677/jme.0.0320921"
 materials: ""
 eprint: ""
 toc: FALSE
+categories:
+  - Reproduction & Development
 ---
 
 ## Citation
@@ -17,4 +19,4 @@ toc: FALSE
 
 ## Abstract
 
-*Abstract not available*
+The inhibitory neurotransmitter gamma-aminobutyric acid (GABA) has multiple receptors. In mammals, the GABA(A) receptor subtype is modulated by neurosteroids. However, whether steroid interaction with the GABA(A) receptor is unique to mammals or a conserved feature in vertebrates is unknown. Thus, neurosteroid modulation of the GABA(A) receptor was investigated in the brain of the bullfrog (Rana catesbeiana) using the mammalian GABA(A) receptor agonist [(3)H]muscimol. Two neurosteroids, allopregnanolone and pregnenolone sulfate, affected [(3)H]muscimol specific binding in bullfrog brain membrane preparations. Allopregnanolone significantly increased [(3)H]muscimol specific binding in a dose- and time-dependent manner. The pattern of allopregnanolone modulation supports the hypothesis that the bullfrog brain possesses both high-affinity and low-affinity [(3)H]muscimol binding sites. Unlike allopregnanolone, pregnenolone sulfate showed biphasic modulation with increased [(3)H]muscimol specific binding at low nanomolar concentrations and decreased specific binding at micromolar concentrations. Additionally, three cDNA fragments with significant homology to mammalian GABA(A) receptor subunits were isolated from the bullfrog brain. These fragments belong to the alpha1, beta1, and gamma2 subunit families. In mammals, GABA(A) receptors composed of these specific subunit isoforms are effectively modulated by neurosteroids, including allopregnanolone. Neurosteroid modulation of the amphibian brain GABA(A) receptor is therefore supported by both [(3)H]muscimol binding studies and subunit sequences. Allopregnanolone and pregnenolone sulfate modulation of this receptor may thus represent a significant mechanism for steroid influence on amphibian brain and behavior.

@@ -5,17 +5,13 @@ author: "G. Filippini, Pauline Ross, W.A. O'Connor, S. Roberts, V. Thiyagarajan,
 year: "2025"
 publication: "Marine Pollution Bulletin"
 preprint: ""
-doi: ""
+doi: "https://doi.org/10.2139/ssrn.5269282"
 materials: ""
 eprint: ""
 toc: FALSE
 categories:
-  - oyster
-  - transgenerational plasticity
-  - ocean warming
-  - ocean acidification
-  - Sydney rock oyster
-  - Saccostrea
+  - Oysters
+  - Climate & Stress
 ---
 
 ## Citation

@@ -5,10 +5,12 @@ author: "Lyons MM, Lau Y-T, Carden WE, Ward JE, Roberts SB, Smolowitz R, Vallino
 year: "2007"
 publication: "EcoHealth 4, 406--420"
 preprint: ""
-doi: ""
+doi: "https://doi.org/10.1007/s10393-007-0134-0"
 materials: ""
 eprint: ""
 toc: FALSE
+categories:
+  - Disease & Immunity
 ---
 
 ## Citation

@@ -5,12 +5,13 @@ author: "Defaveri J, Smolowitz R, and Roberts S"
 year: "2009"
 publication: ""
 preprint: ""
-doi: ""
+doi: "https://doi.org/10.2983/035.028.0306"
 materials: ""
 eprint: ""
 toc: FALSE
 categories:
-  - oyster
+  - Oysters
+  - Disease & Immunity
 ---
 
 ## Citation
@@ -19,4 +20,4 @@ categories:
 
 ## Abstract
 
-*Abstract not available*
+Perkinus marinus causes a devastating disease, known as Dermo, in the Eastern oyster Crassostrea virginica. Routine detection of the disease is traditionally accomplished by the use of the Ray/Makin assay, using Fluid Thioglycollate Medium (RFTM). A simple real-time quantitative PCR assay was developed as a diagnostic tool to detect and quantify P. marinus, to complement and serve as an alternate to the RFTM method. Using a dual-labeled probe approach, a sensitive assay was designed to accurately detect a range of one to several thousand P. marinus organisms present in oyster tissues. A simple extraction method was used to increase throughput of the assay. Cultured P. marinus cells were quantified prior to DNA extraction, generating a standard curve and allowing cell counts to be derived from PCR cycle threshold values. Direct comparison of the RFTM and real-time PCR methods was accomplished by using tissue samples from the same oyster for both tests. Plotting cycle threshold values against the known Mackin index value generated a standard curve with a coefficient of regression of 0.9. Our results indicate that correlations could be made between this molecular based approach and traditional methods, allowing results generated from the PCR assay to be easily translated into the understood Mackin scale.

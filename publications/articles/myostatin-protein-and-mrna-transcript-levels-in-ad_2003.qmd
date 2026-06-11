@@ -5,10 +5,13 @@ author: "Roberts SB, Goetz FW"
 year: "2003"
 publication: ""
 preprint: ""
-doi: ""
+doi: "https://doi.org/10.1016/j.mce.2003.09.002"
 materials: ""
 eprint: ""
 toc: FALSE
+categories:
+  - Finfish
+  - Reproduction & Development
 ---
 
 ## Citation
@@ -17,4 +20,4 @@ toc: FALSE
 
 ## Abstract
 
-*Abstract not available*
+Quantitative real-time RT-PCR and Western analysis were used to measure RNA expression of the two brook trout myostatin (MSTN) genes ("ovarian", ov and "brain/muscle", b/m), and levels of MSTN immunoreactive protein (MIP) in developing embryos and muscle of brook trout adults. In developing brook trout embryos, ov and b/m MSTN RNAs and MIP significantly increased 45 days post-fertilization. In adult brook trout, the b/m MSTN form was expressed at higher levels in red versus white muscle regardless of gender or time of year. While few changes were observed in MSTN transcripts in fish sampled throughout the year, a significant increase in the processed 14 kDa MIP was observed at spawning in a tissue specific manner, and differences were observed between males and females. These data, along with promoter sequence analysis of the of b/m and ov genes, support a role for MSTN in muscle growth and development in fish.

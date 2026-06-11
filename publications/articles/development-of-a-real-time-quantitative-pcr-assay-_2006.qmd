@@ -5,10 +5,13 @@ author: "Lyons MM, Smolowitz R, Dungan C, and Roberts SB"
 year: "2006"
 publication: "Diseases of Aquatic Organisms 72(1):45-52"
 preprint: ""
-doi: ""
+doi: "https://doi.org/10.3354/dao072045"
 materials: ""
 eprint: ""
 toc: FALSE
+categories:
+  - Geoduck & Clams
+  - Disease & Immunity
 ---
 
 ## Citation
@@ -17,4 +20,4 @@ toc: FALSE
 
 ## Abstract
 
-*Abstract not available*
+Quahog Parasite Unknown (QPX) is a thraustochytrid pathogen responsible for catastrophic mortalities of the northern quahog (hard clam) Mercenaria mercenaria. A real-time quantitative polymerase chain reaction (qPCR) assay was developed to assist research efforts on QPX ecology and pathology. Sensitivity of the assay was evaluated with serial dilutions of QPX-cultured cells to determine the lowest concentration of DNA that remained detectable in both the presence and absence of extraneous environmental substances. QPX cells were quantified before DNA extraction to calibrate standard curves to cell counts. Based on our results, the qPCR assay is able to quantify QPX within the range of 1 to several thousand organisms per reaction. Specificity of the assay was assessed by testing 29 thraustochytrid-like protists isolated from suspension-feeding bivalves from China, Oregon, Maryland, and Virginia. Application of the assay was demonstrated with positive qPCR results from naturally contaminated environmental samples including marine aggregates (i.e. marine snow), clam pseudofeces, and inflammatory nodules from infected clams. This quantitative assay for QPX will provide a valuable tool for characterizing QPX parasite abundances in coastal environments and for improving clam disease diagnostics.

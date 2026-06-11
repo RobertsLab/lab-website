@@ -9,6 +9,9 @@ doi: "https://doi.org/10.1371/journal.pone.0026998"
 materials: ""
 eprint: ""
 toc: FALSE
+categories:
+  - Finfish
+  - Disease & Immunity
 ---
 
 ## Citation
@@ -17,4 +20,8 @@ toc: FALSE
 
 ## Abstract
 
-*Abstract not available*
+BACKGROUND: Throughout the primary literature and within textbooks, the erythrocyte has been tacitly accepted to have maintained a unique physiological role; namely gas transport and exchange. In non-mammalian vertebrates, nucleated erythrocytes are present in circulation throughout the life cycle and a fragmented series of observations in mammals support a potential role in non-respiratory biological processes. We hypothesised that nucleated erythrocytes could actively participate via ligand-induced transcriptional re-programming in the immune response.
+
+METHODOLOGY/PRINCIPAL FINDINGS: Nucleated erythrocytes from both fish and birds express and regulate specific pattern recognition receptor (PRR) mRNAs and, thus, are capable of specific pathogen associated molecular pattern (PAMP) detection that is central to the innate immune response. In vitro challenge with diverse PAMPs led to de novo specific mRNA synthesis of both receptors and response factors including interferon-alpha (IFNα) that exhibit a stimulus-specific polysomal shift supporting active translation. RNA-Seq analysis of the PAMP (Poly (I:C), polyinosinic:polycytidylic acid)-erythrocyte response uncovered diverse cohorts of differentially expressed mRNA transcripts related to multiple physiological systems including the endocrine, reproductive and immune. Moreover, erythrocyte-derived conditioned mediums induced a type-1 interferon response in macrophages thus supporting an integrative role for the erythrocytes in the immune response.
+
+CONCLUSIONS/SIGNIFICANCE: We demonstrate that nucleated erythrocytes in non-mammalian vertebrates spanning significant phylogenetic distance participate in the immune response. RNA-Seq studies highlight a mRNA repertoire that suggests a previously unrecognized integrative role for the erythrocytes in other physiological systems.

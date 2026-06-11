@@ -5,12 +5,13 @@ author: "Emma B. Timmins-Schiffman, Grace A Crandall, Brent Vadopalas, Michael E
 year: "2017"
 publication: "Journal of Proteome Research"
 preprint: ""
-doi: ""
+doi: "https://doi.org/10.1021/acs.jproteome.7b00288"
 materials: ""
 eprint: ""
 toc: FALSE
 categories:
-  - geoduck
+  - Geoduck & Clams
+  - Reproduction & Development
 ---
 
 ## Citation
@@ -19,4 +20,4 @@ categories:
 
 ## Abstract
 
-*Abstract not available*
+Geoduck clams (Panopea generosa) are an increasingly important fishery and aquaculture product along the eastern Pacific coast from Baja California, Mexico, to Alaska. These long-lived clams are highly fecund, although sustainable hatchery production of genetically diverse larvae is hindered by the lack of sexual dimorphism, resulting in asynchronous spawning of broodstock, unequal sex ratios, and low numbers of breeders. The development of assays of gonad physiology could indicate sex and maturation stage as well as be used to assess the status of natural populations. Proteomic profiles were determined for three reproductive maturation stages in both male and female clams using data-dependent acquisition (DDA) of gonad proteins. Gonad proteomes became increasingly divergent between males and females as maturation progressed. The DDA data were used to develop targets analyzed with selected reaction monitoring (SRM) in gonad tissue as well as hemolymph. The SRM assay yielded a suite of indicator peptides that can be used as an efficient assay to determine geoduck gonad maturation status. Application of SRM in hemolymph samples demonstrates that this procedure could effectively be used to assess reproductive status in marine mollusks in a nonlethal manner.

@@ -5,12 +5,13 @@ author: "Mathger L, Roberts SB, and Hanlon R"
 year: "2010"
 publication: "Biology Letters"
 preprint: ""
-doi: ""
+doi: "https://doi.org/10.1098/rsbl.2010.0223"
 materials: ""
 eprint: ""
 toc: FALSE
 categories:
-  - fish
+  - Other Invertebrates
+  - Genomic Resources
 ---
 
 ## Citation
@@ -19,4 +20,4 @@ categories:
 
 ## Abstract
 
-*Abstract not available*
+We report that the skin of cuttlefish, Sepia officinalis, contains opsin transcripts suggesting a possible role of distributed light sensing for dynamic camouflage and signalling. The mRNA coding for opsin from various body regions was amplified and sequenced, and gene expression was detected in fin and ventral skin samples. The amino acid sequence of the opsin polypeptide that these transcripts would produce was identical in retina and fin tissue samples, but the ventral skin opsin transcripts differed by a single amino acid. The diverse camouflage and signalling body patterns of cephalopods are visually controlled, and these findings suggest a possible additional mechanism of light sensing and subsequent skin patterning. Cuttlefish, along with a number of other cephalopod species, have been shown to be colour-blind. Since the opsin in the fin is identical to that of the retina (λmax=492 nm), and the ventral transcripts are also unlikely to be spectrally different, colour discrimination by the skin opsins is unlikely. However, spectral discrimination could be provided by involving other skin structures (chromatophores and iridophores), which produce changeable colours and patterns. This 'distributed sensing' could supplement the otherwise visually driven dynamic camouflage system by assisting with colour or brightness matching to adjacent substrates.

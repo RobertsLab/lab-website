@@ -10,8 +10,8 @@ materials: ""
 eprint: ""
 toc: FALSE
 categories:
-  - oyster
-  - methylation
+  - Oysters
+  - Epigenetics
 ---
 
 ## Citation
@@ -20,4 +20,8 @@ categories:
 
 ## Abstract
 
-*Abstract not available*
+BACKGROUND: DNA methylation is an epigenetic mechanism with important regulatory functions in animals. While the mechanism itself is evolutionarily ancient, the distribution and function of DNA methylation is diverse both within and among phylogenetic groups. Although DNA methylation has been well studied in mammals, there are limited data on invertebrates, particularly molluscs. Here we characterize the distribution and investigate potential functions of DNA methylation in the Pacific oyster (Crassostrea gigas).
+
+RESULTS: Methylation sensitive PCR and bisulfite sequencing PCR approaches were used to identify CpG methylation in C. gigas genes and demonstrated that this species possesses intragenic methylation. In silico analysis of CpGo/e ratios in publicly available sequence data suggests that DNA methylation is a common feature of the C. gigas genome, and that specific functional categories of genes have significantly different levels of methylation.
+
+CONCLUSIONS: The Pacific oyster genome displays intragenic DNA methylation and contains genes necessary for DNA methylation in animals. Results of this investigation suggest that DNA methylation has regulatory functions in Crassostrea gigas, particularly in gene families that have inducible expression, including those involved in stress and environmental responses.

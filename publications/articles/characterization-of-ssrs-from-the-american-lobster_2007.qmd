@@ -5,10 +5,13 @@ author: "Hodgins-Davis A, Roberts SB, Cowan D, Atema J, Avolio C, Defaveri J, an
 year: "2007"
 publication: "Molecular Ecology Notes 7:330-332"
 preprint: ""
-doi: ""
+doi: "https://doi.org/10.1111/j.1471-8286.2006.01597.x"
 materials: ""
 eprint: ""
 toc: FALSE
+categories:
+  - Crustaceans
+  - Genomic Resources
 ---
 
 ## Citation
@@ -17,4 +20,4 @@ toc: FALSE
 
 ## Abstract
 
-*Abstract not available*
+The American lobster (Homarus americanus), a commercially important benthic marine crustacean, is widely distributed along the continental shelf of the western North Atlantic. The population substructure of this species remains poorly understood despite its economic value. Informative markers are required to clarify relationships between local populations. To this end, we developed eight polymorphic short sequence repeats (SSR) for the American lobster, which were derived from expressed sequence tags. Additionally, we tested four SSRs previously identified for the Norway lobster (Nephrops norvegicus L.) for cross‐species utility; only one of these showed polymorphism.

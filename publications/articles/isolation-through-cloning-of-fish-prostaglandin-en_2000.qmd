@@ -3,14 +3,15 @@ title: "Isolation through cloning of fish prostaglandin endoperoxide synthase (c
 type: "article"
 author: "Roberts SB, Langenau DM, Goetz FW"
 year: "2000"
-publication: ""
+publication: "Molecular and Cellular Endocrinology 160(1-2):89-97"
 preprint: ""
-doi: ""
+doi: "https://doi.org/10.1016/s0303-7207(99)00252-x"
 materials: ""
 eprint: ""
 toc: FALSE
 categories:
-  - fish
+  - Finfish
+  - Reproduction & Development
 ---
 
 ## Citation
@@ -19,4 +20,4 @@ categories:
 
 ## Abstract
 
-*Abstract not available*
+Using a combination of reverse transcription-PCR and library screening, the cDNAs for prostaglandin endoperoxide synthase-1 (PGS-1) and 2 (PGS-2) were isolated from the brook trout ovary. The brook trout PGS-1 cDNA encodes for a 598 amino acid protein that is 69% identical to mammalian PGS-1. PGS-1 transcripts were observed in the ovary, spleen, gills, head kidney, trunk kidney, intestine, stomach, skin and heart. To our knowledge, this is the first characterization of a non-mammalian PGS-1 cDNA. The brook trout PGS-2 encodes for a 607 amino acid protein that is 69% identical to mammalian PGS-2 and was observed in the skin, gills, stomach and heart. PGS-2 transcripts were highly upregulated in the ovaries by the phorbol ester, phorbol-12-myristate-13-acetate, in combination with the calcium ionophore, A23187. However, PGS-2 was not observed in the ovary of brook trout undergoing natural oocyte maturation and ovulation.

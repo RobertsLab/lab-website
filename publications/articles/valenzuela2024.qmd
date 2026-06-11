@@ -5,16 +5,13 @@ author: "Valenzuela-Muñoz, V., Wanamaker, S., Núñez-Acuña, G., Roberts, S., 
 year: "2024"
 publication: "Fish and Shellfish Immunology"
 preprint: ""
-doi: ""
+doi: "https://doi.org/10.2139/ssrn.4807840"
 materials: ""
 eprint: ""
 toc: FALSE
 categories:
-  - salmon
-  - temperature
-  - RNA-seq
-  - methylation
-  - sea lice
+  - Finfish
+  - Disease & Immunity
 ---
 
 ## Citation

@@ -10,7 +10,8 @@ materials: ""
 eprint: ""
 toc: FALSE
 categories:
-  - oyster
+  - Oysters
+  - Climate & Stress
 ---
 
 ## Citation

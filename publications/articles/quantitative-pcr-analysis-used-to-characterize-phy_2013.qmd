@@ -10,7 +10,8 @@ materials: ""
 eprint: ""
 toc: FALSE
 categories:
-  - fish
+  - Finfish
+  - Reproduction & Development
 ---
 
 ## Citation
@@ -19,4 +20,4 @@ categories:
 
 ## Abstract
 
-*Abstract not available*
+Senescence varies considerably among fishes, and understanding the evolutionary basis for this diversity has become an important area of study. For rapidly senescing species such as Pacific salmon, senescence is a complex process as these fish are initiating anorexia while migrating to natal spawning grounds, and die within days of reproduction. To better understand senescence in Pacific salmon we examined expression patterns for a suite of genes in brain tissue of pre-senescent and senescent sockeye salmon. Interestingly, a significant increase in expression of genes involved in telomere repair and immune activity was observed in senescent salmon. These data provide insight into physiological changes in salmon undergoing senescence and the factors contributing to variation in observed senescence rates among individuals and populations.

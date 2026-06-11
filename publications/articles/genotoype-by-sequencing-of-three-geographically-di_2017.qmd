@@ -5,12 +5,13 @@ author: "Samuel J. White, Brent Vadopalas, Katherine Silliman & Steven B. Robert
 year: "2017"
 publication: "Scientific Data 4, Article number: 170130"
 preprint: ""
-doi: ""
+doi: "https://doi.org/10.1038/sdata.2017.130"
 materials: ""
 eprint: ""
 toc: FALSE
 categories:
-  - oyster
+  - Oysters
+  - Genomic Resources
 ---
 
 ## Citation
@@ -19,4 +20,4 @@ categories:
 
 ## Abstract
 
-*Abstract not available*
+Olympia oysters are found along the west coast of North America and as the only native oyster species in the region, receive considerable attention with regard to restoration and conservation. Knowledge of genetic structure of this species is essential for resource managers. Here we provide genetic data for three distinct populations of Olympia oysters in Puget Sound, Washington, USA in the form of genotype-by-sequencing data (GBS). Specifically, this includes description of sequence data and a derived table that provides single nucleotide polymorphism (SNP) information for 10,363 loci. These data are valuable not only for resource managers responsible for restoration aquaculture practices, but can provide insight into ecological drivers of selection and diversity.

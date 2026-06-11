@@ -5,16 +5,13 @@ author: "Samuel J. Gurr, Shelly A. Wanamaker , Brent Vadopalas, Steven B. Robert
 year: "2022"
 publication: "Molecular Ecology"
 preprint: ""
-doi: "10.1111/mec.16644"
+doi: "https://doi.org/10.1111/mec.16644"
 materials: "https://doi.org/10.5281/zenodo.6908630"
 eprint: ""
 toc: FALSE
 categories:
-  - Open Data Badge
-  - geoduck
-  - Panopea
-  - TagSeq
-  - RNA-seq
+  - Geoduck & Clams
+  - Climate & Stress
 ---
 
 ## Citation

@@ -5,15 +5,13 @@ author: "Emma Timmins-Schiffman, Samuel J. White, Rhonda Elliott Thompson, Brent
 year: "2021"
 publication: "Environmental Microbiome"
 preprint: ""
-doi: "10.1186/s40793-021-00376-z"
+doi: "https://doi.org/10.1186/s40793-021-00376-z"
 materials: ""
 eprint: "https://environmentalmicrobiome.biomedcentral.com/counter/pdf/10.1186/s40793-021-00376-z.pdf"
 toc: FALSE
 categories:
-  - geoduck
-  - microbiome
-  - metagenomics
-  - metaproteomics
+  - Geoduck & Clams
+  - Disease & Immunity
 ---
 
 ## Citation

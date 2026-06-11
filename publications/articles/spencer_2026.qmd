@@ -10,9 +10,8 @@ materials: "https://github.com/laurahspencer/snow-crab_RNASeq-2022"
 eprint: "https://www.biorxiv.org/content/10.64898/2026.02.04.703865v1.full.pdf"
 toc: FALSE
 categories:
-  - crab
-  - resilience
-  - ocean acidification
+  - Crustaceans
+  - Climate & Stress
 ---
 
 ## Citation

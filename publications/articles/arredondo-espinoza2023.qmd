@@ -5,14 +5,13 @@ author: "Roberto Arredondo-Espinoza, Ana M Ibarra, Steven B Roberts, Maria Teres
 year: "2023"
 publication: "Comparative Biochemistry and Physiology Part D: Genomics and Proteomics"
 preprint: ""
-doi: "10.1371/journal.pclm.0000226"
+doi: "https://doi.org/10.1016/j.cbd.2023.101089"
 materials: ""
 eprint: ""
 toc: FALSE
 categories:
-  - oyster
-  - RNA-seq
-  - temperature
+  - Oysters
+  - Climate & Stress
 ---
 
 ## Citation

@@ -9,6 +9,9 @@ doi: "http://dx.doi.org/10.1016/j.aggene.2017.03.002"
 materials: ""
 eprint: ""
 toc: FALSE
+categories:
+  - Crustaceans
+  - Genomic Resources
 ---
 
 ## Citation

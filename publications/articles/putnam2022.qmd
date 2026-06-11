@@ -9,12 +9,8 @@ doi: ""
 materials: "https://osf.io/yem8n/"
 toc: false
 categories:
-  - geoduck
-  - methylation
-  - acidification
-  - Panopea
-  - genome
-  - epigenetic
+  - Geoduck & Clams
+  - Epigenetics
 ---
 
 ## Citation

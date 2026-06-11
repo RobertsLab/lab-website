@@ -10,7 +10,8 @@ materials: ""
 eprint: ""
 toc: FALSE
 categories:
-  - oyster
+  - Oysters
+  - Climate & Stress
 ---
 
 ## Citation
@@ -19,4 +20,4 @@ categories:
 
 ## Abstract
 
-*Abstract not available*
+Global climate change is rapidly altering coastal marine ecosystems that are important for food production. A comprehensive understanding of how organisms will respond to these complex environmental changes can come only from observing and studying species within their natural environment. To this end, the effects of environmental drivers—pH, dissolved oxygen content, salinity, and temperature—on Pacific oyster Crassostrea gigas physiology were evaluated in an outplant experiment. Sibling juvenile oysters were outplanted to eelgrass and unvegetated habitat at 5 different estuarine sites within the Acidification Nearshore Monitoring Network in Washington State, USA, to evaluate how regional environmental drivers influence molecular physiology. Within each site, we also determined if eelgrass presence, which buffered pH conditions, changed the oysters’ expressed proteome. A novel, 2-step, gel-free proteomic approach was used to identify differences in protein abundance in C. gigas ctenidia tissue after a 29 d outplant by (1) identifying proteins in a data-independent acquisition survey step and (2) comparing relative quantities of targeted environmental response proteins using selected reaction monitoring. While there was no difference in protein abundance detected between habitats or among sites within Puget Sound, C. gigas outplanted at Willapa Bay had significantly higher abundances of antioxidant enzymes and molecular chaperones. Environmental factors at Willapa Bay, such as higher average temperature, may have driven this protein abundance pattern. These findings generate a suite of new hypotheses for lab and field experiments to compare the effects of regional conditions on physiological responses of marine invertebrates.

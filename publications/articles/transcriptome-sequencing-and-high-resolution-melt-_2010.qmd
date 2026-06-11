@@ -5,12 +5,13 @@ author: "Seeb JE, Pascal CE, Graue ED, Seeb LW, Templin WD, Harkins T and Robert
 year: "2010"
 publication: "Molecular Ecology Resources"
 preprint: ""
-doi: ""
+doi: "https://doi.org/10.1111/j.1755-0998.2010.02936.x"
 materials: ""
 eprint: ""
 toc: FALSE
 categories:
-  - fish
+  - Finfish
+  - Genomic Resources
 ---
 
 ## Citation
@@ -19,4 +20,4 @@ categories:
 
 ## Abstract
 
-*Abstract not available*
+Until recently, single nucleotide polymorphism (SNP) discovery in nonmodel organisms faced many challenges, often depending upon a targeted-gene approach and Sanger sequencing of many individuals. The advent of next-generation sequencing technologies has dramatically improved discovery, but validating and testing SNPs for use in population studies remain labour intensive. Here, we detail a SNP discovery and validation pipeline that incorporates 454 pyrosequencing, high-resolution melt analysis (HRMA) and 5' nuclease genotyping. We generated 4.59×10(8) bp of redundant sequence from transcriptomes of two individual chum salmon, a highly valued species across the Pacific Rim. Nearly 26000 putative SNPs were identified--some as heterozygotes and some as homozygous for different nucleotides in the two individuals. For validation, we selected 202 templates containing single putative SNPs and conducted HRMA on 10 individuals from each of 19 populations from across the species range. Finally, 5' nuclease genotyping validated 37 SNPs that conformed to Hardy-Weinberg equilibrium expectations. Putative SNPs expressed as heterozygotes in an ascertainment individual had more than twice the validation rate of those homozygous for different alleles in the two fish, suggesting that many of the latter may have been paralogous sequence variants. Overall, this validation rate of 37/202 suggests that we have found more than 4500 templates containing SNPs for use in this population set. We anticipate using this pipeline to significantly expand the number of SNPs available for the studies of population structure and mixture analyses as well as for the studies of adaptive genetic variation in nonmodel organisms.

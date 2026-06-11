@@ -9,6 +9,9 @@ doi: "https://doi.org/10.1371/journal.pone.0074196"
 materials: ""
 eprint: ""
 toc: FALSE
+categories:
+  - Genomic Resources
+  - Disease & Immunity
 ---
 
 ## Citation
@@ -17,4 +20,4 @@ toc: FALSE
 
 ## Abstract
 
-*Abstract not available*
+Understanding how environmental changes influence the pathogenicity and virulence of infectious agents is critical for predicting epidemiological patterns of disease. Thraustochytrids, part of the larger taxonomic class Labyrinthulomycetes, contain several highly pathogenic species, including the hard clam pathogen quahog parasite unknown (QPX). QPX has been associated with large-scale mortality events along the northeastern coast of North America. Growth and physiology of QPX is temperature-dependent, and changes in local temperature profiles influence pathogenicity. In this study we characterize the partial genome of QPX and examine the influence of temperature on gene expression. Genes involved in several biological processes are differentially expressed upon temperature change, including those associated with altered growth and metabolism and virulence. The genomic and transcriptomic resources developed in this study provide a foundation for better understanding virulence, pathogenicity and life history of thraustochytrid pathogens.

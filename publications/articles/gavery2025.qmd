@@ -10,10 +10,8 @@ materials: "https://github.com/RobertsLab/pgc-edc-oyster"
 eprint: "https://doi.org/10.1186/s12864-025-12122-7"
 toc: FALSE
 categories:
-  - germ cell
-  - oyster
-  - single-cell RNAseq
-  - aquaculture
+  - Oysters
+  - Reproduction & Development
 ---
 
 ## Citation

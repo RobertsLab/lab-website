@@ -10,7 +10,8 @@ materials: ""
 eprint: ""
 toc: FALSE
 categories:
-  - oyster
+  - Oysters
+  - Climate & Stress
 ---
 
 ## Citation
@@ -19,4 +20,8 @@ categories:
 
 ## Abstract
 
-*Abstract not available*
+BACKGROUND: Ocean acidification as a result of increased anthropogenic CO2 emissions is occurring in marine and estuarine environments worldwide. The coastal ocean experiences additional daily and seasonal fluctuations in pH that can be lower than projected end-of-century open ocean pH reductions. In order to assess the impact of ocean acidification on marine invertebrates, Pacific oysters (Crassostrea gigas) were exposed to one of four different p CO2 levels for four weeks: 400 μatm (pH 8.0), 800 μatm (pH 7.7), 1000 μatm (pH 7.6), or 2800 μatm (pH 7.3).
+
+RESULTS: At the end of the four week exposure period, oysters in all four p CO2 environments deposited new shell, but growth rate was not different among the treatments. However, micromechanical properties of the new shell were compromised by elevated p CO2. Elevated p CO2 affected neither whole body fatty acid composition, nor glycogen content, nor mortality rate associated with acute heat shock. Shotgun proteomics revealed that several physiological pathways were significantly affected by ocean acidification, including antioxidant response, carbohydrate metabolism, and transcription and translation. Additionally, the proteomic response to a second stress differed with p CO2, with numerous processes significantly affected by mechanical stimulation at high versus low p CO2 (all proteomics data are available in the ProteomeXchange under the identifier PXD000835).
+
+CONCLUSIONS: Oyster physiology is significantly altered by exposure to elevated p CO2, indicating changes in energy resource use. This is especially apparent in the assessment of the effects of p CO2 on the proteomic response to a second stress. The altered stress response illustrates that ocean acidification may impact how oysters respond to other changes in their environment. These data contribute to an integrative view of the effects of ocean acidification on oysters as well as physiological trade-offs during environmental stress.

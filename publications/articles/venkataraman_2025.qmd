@@ -10,10 +10,7 @@ materials: "https://github.com/yaaminiv/ICB-perspective-piece"
 eprint: "http://gannet.fish.washington.edu/seashell/snaps/Venkataraman_Huffmyer2025.pdf"
 toc: FALSE
 categories:
-  - metabolomics
-  - lipidomics
-  - plasticity
-  - perspective
+  - Climate & Stress
 ---
 
 ## Citation

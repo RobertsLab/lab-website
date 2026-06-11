@@ -10,7 +10,8 @@ materials: ""
 eprint: ""
 toc: FALSE
 categories:
-  - mussel
+  - Other Invertebrates
+  - Climate & Stress
 ---
 
 ## Citation
@@ -19,4 +20,4 @@ categories:
 
 ## Abstract
 
-*Abstract not available*
+Saxitoxin (STX), a principal phycotoxin contributing to paralytic shellfish poisoning, is largely produced by marine microalgae of the genus Alexandrium. This toxin affects a wide range of species, inducing massive deaths in fish and other marine species. However, marine bivalves can resist and accumulate paralytic shellfish poisons. Despite numerous studies on the impact of STX in marine bivalves, knowledge regarding STX recognition at molecular level by benthic species remains scarce. Therefore, the aim of this study was to identify novel genes that interact with STX in the Chilean mussel Mytilus chilensis. For this, RNA-seq and RT-qPCR approaches were used to evaluate the transcriptomic response of M. chilensis to a purified STX as well as in vivo Alexandrium catenella exposure. Approximately 800 million reads were assembled, generating 138,883 contigs that were blasted against the UniProt Mollusca database. Pattern Recognition Receptors (PRRs) involved in mussel immunity, such as Toll-like receptors, tumor necrosis factor receptors, and scavenger-like receptors were found to be strongly upregulated at 8 and 16 h post-STX injection. These results suggest an involvement of PRRs in the response to STX, as well as identifying potential, novel STX-interacting receptors in this Chilean mussel. This study is the first transcriptomic overview of the STX-response in the edible species M. chilensis. However, the most significant contribution of this work is the identification of immune receptors and pathways potentially involved in the recognition and defense against STX's toxicity and its impact of harmful algae blooms on wild and cultivated mussel populations.

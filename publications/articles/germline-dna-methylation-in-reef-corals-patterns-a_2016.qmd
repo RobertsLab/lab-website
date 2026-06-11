@@ -10,8 +10,8 @@ materials: ""
 eprint: ""
 toc: FALSE
 categories:
-  - methylation
-  - coral
+  - Corals
+  - Epigenetics
 ---
 
 ## Citation
@@ -20,4 +20,4 @@ categories:
 
 ## Abstract
 
-*Abstract not available*
+DNA methylation is an epigenetic mark that plays an inadequately understood role in gene regulation, particularly in nonmodel species. Because it can be influenced by the environment, DNA methylation may contribute to the ability of organisms to acclimatize and adapt to environmental change. We evaluated the distribution of gene body methylation in reef-building corals, a group of organisms facing significant environmental threats. Gene body methylation in six species of corals was inferred from in silico transcriptome analysis of CpG O/E, an estimate of germline DNA methylation that is highly correlated with patterns of methylation enrichment. Consistent with what has been documented in most other invertebrates, all corals exhibited bimodal distributions of germline methylation suggestive of distinct fractions of genes with high and low levels of methylation. The hypermethylated fractions were enriched with genes with housekeeping functions, while genes with inducible functions were highly represented in the hypomethylated fractions. High transcript abundance was associated with intermediate levels of methylation. In three of the coral species, we found that genes differentially expressed in response to thermal stress and ocean acidification exhibited significantly lower levels of methylation. These results support a link between gene body hypomethylation and transcriptional plasticity that may point to a role of DNA methylation in the response of corals to environmental change.

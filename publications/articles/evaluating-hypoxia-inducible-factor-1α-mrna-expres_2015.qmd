@@ -10,7 +10,8 @@ materials: ""
 eprint: ""
 toc: FALSE
 categories:
-  - fish
+  - Finfish
+  - Climate & Stress
 ---
 
 ## Citation
@@ -19,4 +20,4 @@ categories:
 
 ## Abstract
 
-*Abstract not available*
+Hypoxia [dissolved oxygen (DO)<2 mg L(-1)] is a major environmental perturbation for many aquatic ecosystems, particularly highly productive estuaries. Most research attention and understanding about the impacts of hypoxia on estuarine species has focused on the benthos, where hypoxia is most common. Although the pelagic zone is also susceptible to the effects of hypoxia, the biological interactions and consequences are not as well understood in marine environments because documenting exposure or avoidance of hypoxia is often difficult. Physiological biomarkers may provide a way to gain more detailed spatiotemporal information regarding species' exposure to hypoxia. Here, we identified and tested a hypoxia-specific responsive gene, hypoxia-inducible factor-1α (hif-1α), to evaluate its potential as a biomarker for hypoxia exposure in Pacific herring (Clupea pallasii). We conducted controlled laboratory experiments to establish the level of hepatic hif-1α elevated gene expression (>1 sd normoxic mean), exposure amplification (≥2 hours), reduction rate (ca. 24 hours), and some evidence of a lethal hypoxic limit (ca. 2 mg L(-1), ≥4 hours). We then used these findings to evaluate the spatiotemporal patterns of hif-1α for Pacific herring in a seasonally hypoxia estuary, Hood Canal, Washington, USA. Although expression did not parallel the local hypoxic conditions in the estuary, herring from the more severe hypoxic year (2013) had a higher probability of having elevated mRNA levels. These patterns indicate that hepatic hif-1α levels may not be directly indicative of local DO levels for pelagic marine fish, but rather provide insight into hypoxia exposure over broader scales.

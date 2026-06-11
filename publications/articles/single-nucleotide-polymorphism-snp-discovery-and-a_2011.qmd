@@ -9,6 +9,8 @@ doi: "https://doi.org/10.1111/j.1755-0998.2010.02979.x"
 materials: ""
 eprint: ""
 toc: FALSE
+categories:
+  - Genomic Resources
 ---
 
 ## Citation

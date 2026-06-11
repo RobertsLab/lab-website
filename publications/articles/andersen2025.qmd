@@ -10,8 +10,8 @@ materials: ""
 eprint: "https://bmcgenomics.biomedcentral.com/counter/pdf/10.1186/s12864-025-11247-z.pdf"
 toc: FALSE
 categories:
-  - aquaculture
-  - genomics
+  - Aquaculture
+  - Genomic Resources
 ---
 
 ## Citation

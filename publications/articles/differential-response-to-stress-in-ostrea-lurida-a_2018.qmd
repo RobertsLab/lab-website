@@ -10,7 +10,8 @@ materials: ""
 eprint: ""
 toc: FALSE
 categories:
-  - oyster
+  - Oysters
+  - Climate & Stress
 ---
 
 ## Citation
@@ -19,4 +20,4 @@ categories:
 
 ## Abstract
 
-*Abstract not available*
+Olympia oysters are the only oyster native to the west coast of North America. The population within Puget Sound, WA has been decreasing significantly since the early 1900's. Current restoration efforts are focused on supplementing local populations with hatchery bred oysters. A recent study by Heare et al. (2017) has shown differences in stress response in oysters from different locations in Puget Sound however, nothing is known about the underlying mechanisms associated with these observed differences. In this study, expression of genes associated with growth, immune function, and gene regulatory activity in oysters from Oyster Bay, Dabob Bay, and Fidalgo Bay were characterized following temperature and mechanical stress. We found that heat stress and mechanical stress significantly changed expression in molecular regulatory activity and immune response, respectively. We also found that oysters from Oyster Bay had the most dramatic response to stress at the gene expression level. These data provide important baseline information on the physiological response of Ostrea lurida to stress and provide clues to underlying performance differences in the three populations examined.

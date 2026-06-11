@@ -5,13 +5,13 @@ author: "Olson CE and Roberts SB"
 year: "2014"
 publication: "Frontiers in Physiology. 5:224"
 preprint: ""
-doi: ""
+doi: "https://doi.org/10.3389/fphys.2014.00224"
 materials: ""
 eprint: ""
 toc: FALSE
 categories:
-  - oyster
-  - methylation
+  - Oysters
+  - Epigenetics
 ---
 
 ## Citation
@@ -20,4 +20,4 @@ categories:
 
 ## Abstract
 
-*Abstract not available*
+DNA methylation patterns and functions are variable across invertebrate taxa. In order to provide a better understanding of DNA methylation in the Pacific oyster (Crassostrea gigas), we characterized the genome-wide DNA methylation profile in male gamete cells using whole-genome bisulfite sequencing. RNA-Seq analysis was performed to examine the relationship between DNA methylation and transcript expression. Methylation status of over 7.6 million CpG dinucleotides was described with a majority of methylated regions occurring among intragenic regions. Overall, 15% of the CpG dinucleotides were determined to be methylated and the mitochondrial genome lacked DNA methylation. Integrative analysis of DNA methylation and RNA-Seq data revealed a positive association between methylation status, both in gene bodies and putative promoter regions, and expression. This study provides a comprehensive characterization of the distribution of DNA methylation in the oyster male gamete tissue and suggests that DNA methylation is involved in gene regulatory activity.

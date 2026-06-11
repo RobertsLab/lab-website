@@ -5,10 +5,12 @@ author: "Rodgers BD, Roalson EH, Weber GM, Roberts SB, Goetz FW"
 year: "2007"
 publication: ""
 preprint: ""
-doi: ""
+doi: "https://doi.org/10.1152/ajpendo.00395.2006"
 materials: ""
 eprint: ""
 toc: FALSE
+categories:
+  - Reproduction & Development
 ---
 
 ## Citation

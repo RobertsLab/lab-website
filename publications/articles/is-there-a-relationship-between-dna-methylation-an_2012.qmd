@@ -10,7 +10,7 @@ materials: ""
 eprint: ""
 toc: FALSE
 categories:
-  - methylation
+  - Epigenetics
 ---
 
 ## Citation
@@ -19,4 +19,4 @@ categories:
 
 ## Abstract
 
-*Abstract not available*
+There is a significant amount of variation in DNA methylation characteristics across organisms. Likewise, the biological role of DNA methylation varies across taxonomic lineages. The complexity of DNA methylation patterns in invertebrates has only recently begun to be characterized in-depth. In some invertebrate species that have been examined to date, methylated DNA is found primarily within coding regions and patterning is closely associated with gene function. Here we provide a perspective on the potential role of DNA methylation in these invertebrates with a focus on how limited methylation may contribute to increased phenotypic plasticity in highly fluctuating environments. Specifically, limited methylation could facilitate a variety of transcriptional opportunities including access to alternative transcription start sites, increasing sequence mutations, exon skipping, and transient methylation.

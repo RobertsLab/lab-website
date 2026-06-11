@@ -10,8 +10,8 @@ materials: ""
 eprint: ""
 toc: FALSE
 categories:
-  - methylation
-  - coral
+  - Corals
+  - Epigenetics
 ---
 
 ## Citation
@@ -20,4 +20,4 @@ categories:
 
 ## Abstract
 
-*Abstract not available*
+Incongruence between conventional and molecular systematics has left the delineation of many species unresolved. Reef-building corals are no exception, with phenotypic plasticity among the most plausible explanations for alternative morphospecies. As potential molecular signatures of phenotypic plasticity, epigenetic processes may contribute to our understanding of morphospecies. We compared genetic and epigenetic variation in Caribbean branching Porites spp., testing the hypothesis that epigenetics-specifically, differential patterns of DNA methylation-play a role in alternative morphotypes of a group whose taxonomic status has been questioned. We used reduced representation genome sequencing to analyse over 1,000 single nucleotide polymorphisms and CpG sites in 27 samples of Porites spp. exhibiting a range of morphotypes from a variety of habitats in Belize. We found stronger evidence for genetic rather than epigenetic structuring, identifying three well-defined genetic groups. One of these groups exhibited significantly thicker branches, and branch thickness was a better predictor of genetic groups than depth, habitat or symbiont type. In contrast, no clear epigenetic patterns emerged with respect to phenotypic or habitat variables. While there was a weak positive correlation between pairwise genetic and epigenetic distance, two pairs of putative clones exhibited substantial epigenetic differences, suggesting a strong environmental effect. We speculate that epigenetic patterns are a complex mosaic reflecting diverse environmental histories superimposed over a relatively small heritable component. Given the role of genetics in branching Porites spp. morphospecies we were able to detect with genomewide sequencing, use of such techniques throughout the geographic range of these corals may help settle their phylogeny.

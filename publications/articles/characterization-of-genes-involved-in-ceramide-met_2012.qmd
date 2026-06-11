@@ -10,7 +10,8 @@ materials: ""
 eprint: ""
 toc: FALSE
 categories:
-  - oyster
+  - Oysters
+  - Genomic Resources
 ---
 
 ## Citation
@@ -19,4 +20,8 @@ categories:
 
 ## Abstract
 
-*Abstract not available*
+BACKGROUND: The lipid signaling molecule, ceramide, is a key component of the vertebrate stress response, however, there is limited information concerning its role in invertebrate species. In order to identify genes involved in ceramide metabolism in bivalve molluscs, Pacific oyster genomic resources were examined for genes associated with ceramide metabolism and signaling.
+
+RESULTS: Several genes were identified including full-length sequences characterized for serine palmitoyltransferase-1, 3-ketodihydrosphingosine reductase, acid ceramidase, and ceramide glucosyltransferase. Genes involved in ceramide synthesis and metabolism are conserved across taxa in both form and function. Expression analysis as assessed by quantitative PCR indicated all genes were expressed at high levels in gill tissue. The role of the ceramide pathway genes in the invertebrate stress response was also explored by measuring expression levels in adult oysters exposed to Vibrio vulnificus. Two genes demonstrated increased expression during the bacterial challenge: a gene involved in hydrolytic breakdown of ceramide (acid ceramidase) and a gene involved in de novo generation of ceramide (3-ketodihydrosphingosine reductase), suggesting a possible role of ceramide in the invertebrate stress and immune responses.
+
+CONCLUSIONS: In silico and laboratory results support that Pacific oysters have the basic components of the ceramide metabolism pathway. These results also indicate that ceramide may have analogous functions in vertebrates and invertebrates. The gene expression pattern of acid ceramidase and 3-kethodihydrosphingosine reductase in response to bacterial exposure especially supports that ceramide and sphingolipid metabolism may be involved in the oyster's stress and/or immune responses.

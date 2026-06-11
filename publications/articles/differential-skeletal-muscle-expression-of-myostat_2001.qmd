@@ -5,10 +5,13 @@ author: "Roberts SB, Goetz FW"
 year: "2001"
 publication: "FEBS Letters Vol 49:3,212-216"
 preprint: ""
-doi: ""
+doi: "https://doi.org/10.1016/s0014-5793(01)02196-2"
 materials: ""
 eprint: ""
 toc: FALSE
+categories:
+  - Finfish
+  - Reproduction & Development
 ---
 
 ## Citation
@@ -17,4 +20,4 @@ toc: FALSE
 
 ## Abstract
 
-*Abstract not available*
+Two myostatin (MSTN) isoforms were isolated from brook trout with 92% identity in corresponding regions at the nucleotide level. One isoform was isolated from muscle and brain and the second from ovarian tissue. To our knowledge this is the first time two MSTN isoforms have been isolated from a given vertebrate species. Within the brain, MSTN transcripts were localized to the optic lobes, hindbrain, and hypothalamus. In the trout ovary, MSTN transcripts were upregulated at ovulation in several females. MSTN cDNA fragments were also isolated from several other fish species and differential expression of MSTN among muscle fiber types was observed.

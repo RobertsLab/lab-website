@@ -10,9 +10,8 @@ materials: "https://github.com/emmats/Clam-OA-priming"
 eprint: "http://gannet.fish.washington.edu/seashell/snaps/1-s2.0-S0044848625012748-main.pdf"
 toc: FALSE
 categories:
-  - oyster
-  - transgenerational plasticity
-  - ocean acidification
+  - Oysters
+  - Climate & Stress
 ---
 
 ## Citation

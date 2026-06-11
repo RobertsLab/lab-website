@@ -10,7 +10,8 @@ materials: ""
 eprint: ""
 toc: FALSE
 categories:
-  - oyster
+  - Oysters
+  - Climate & Stress
 ---
 
 ## Citation
@@ -19,4 +20,4 @@ categories:
 
 ## Abstract
 
-*Abstract not available*
+Predicting how populations will respond to ocean change across generations is critical to effective conservation of marine species. One emerging factor is the influence of parental exposures on offspring phenotype, known as intergenerational carryover effects. Parental exposure may deliver beneficial or detrimental characteristics to offspring that can influence larval recruitment patterns, thus shaping how populations and community structure respond to ocean change. Impacts of adult exposure to elevated winter temperature and pCO2 on reproduction and offspring viability were examined in the Olympia oyster (Ostrea lurida) using three populations of adult, hatchery-reared O. lurida, plus an additional cohort spawned from one of the populations. Oysters were sequentially exposed to elevated temperature (+4°C, at 10°C), followed by elevated pCO2 (+2,204 μatm, at 3,045 μatm) during winter months. Male gametes were more developed after elevated temperature exposure and less developed after high pCO2 exposure, but there was no impact on female gametes or sex ratios. Oysters previously exposed to elevated winter temperature released larvae earlier, regardless of pCO2 exposure. Those exposed to elevated winter temperature as a sole treatment released more larvae on a daily basis but, when also exposed to high pCO2 , there was no effect. These combined results indicate that elevated winter temperature accelerates O. lurida spermatogenesis, resulting in earlier larval release and increased production, with elevated pCO2 exposure negating effects of elevated temperature. Altered recruitment patterns may therefore follow warmer winters due to precocious spawning, but these effects may be masked by coincidental high pCO2 . Offspring were reared in common conditions for 1 yr, then deployed for 3 months in four estuarine bays with distinct environmental conditions. Offspring of parents exposed to elevated pCO2 had higher survival rates in two of the four bays. This carryover effect demonstrates that parental conditions can have substantial ecologically relevant impacts that should be considered when predicting impacts of environmental change. Furthermore, Olympia oysters may be more resilient in certain environments when progenitors are pre-conditioned in stressful conditions. Combined with other recent studies, our work suggests that the Olympia may be more equipped than other oysters for the challenge of a changing ocean.

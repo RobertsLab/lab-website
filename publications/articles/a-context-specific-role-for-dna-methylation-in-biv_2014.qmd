@@ -10,7 +10,8 @@ materials: ""
 eprint: ""
 toc: FALSE
 categories:
-  - methylation
+  - Oysters
+  - Epigenetics
 ---
 
 ## Citation
@@ -19,4 +20,4 @@ categories:
 
 ## Abstract
 
-*Abstract not available*
+The function of DNA methylation in species such as bivalves where the limited amount of DNA methylation is predominantly found in gene bodies remains unclear. An emerging possible explanation is that the role of gene body DNA methylation is dependent on gene function, a potential phenomenon that has arisen from selective pressure on lineage-specific life history traits. In genes contributing to phenotypes that benefit from increased plasticity, the absence of DNA methylation could contribute to stochastic transcriptional opportunities and increased transposable element activity. In genes where regulated control of activity is essential, DNA methylation may also play a role in targeted, predictable genome regulation. Here, we review the current knowledge concerning DNA methylation in bivalves and explore the putative role of DNA methylation in both an evolutionary and ecological context.

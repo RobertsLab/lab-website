@@ -10,7 +10,8 @@ materials: ""
 eprint: ""
 toc: FALSE
 categories:
-  - fish
+  - Finfish
+  - Reproduction & Development
 ---
 
 ## Citation
@@ -19,4 +20,4 @@ categories:
 
 ## Abstract
 
-*Abstract not available*
+Sablefish (Anoplopoma fimbria) is a deep-water marine species in the Pacific Ocean with a high commercial value. Limited information is available about male reproductive development and sperm physiology in sablefish or how to optimize fertilization and sperm storage in this species for aquaculture. In the present study the conditions required for sablefish sperm activation were investigated and an optimized regime for cryopreservation of sablefish sperm was developed.In all experiments, the assessment of sablefish sperm was conducted using a computer assisted sperm analysis (CASA) system that determined the velocity and linearity of motile sperm as well as the percent motile. A modified Cortland's solution was used as an extender in all activation and cryopreservation tests. Sperm were activated with ionic (NaCl, KCl, MgSO4 and CaCl2) and non-ionic (urea and glucose) solutions of varying osmolalities. KCl and NaCl activated sperm at the lowest osmolalities, followed by MgSO4, urea, glucose, and CaCl2. Compared to NaCl and KCl, non-ionic solutions required higher osmolalities for activation. The results indicate that the primary stimulus for sablefish sperm activation is increased osmolality and not the presence/absence of a specific ion.The effects of several cryoprotectants including dimethyl sulfoxide, propylene glycol and glycerol at two concentrations (5% and 10%) and three freezing rates (−2.5, −5 and −7.5°C/min) were tested on the cryopreservation of sperm using a Crysalys cryogenic programmable freezing system. There were differences observed in the motility maintained following freezing between all cryoprotectants, but the highest motility after freezing was observed with 10% dimethyl sulfoxide at all freezing rates. Sperm, cryopreserved with 10% DMSO, fertilized eggs but at rates lower than with fresh milt.

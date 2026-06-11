@@ -5,13 +5,12 @@ author: "Lauren B Buckley, Emily Carrington, Michael E Dillon, Carlos García-Ro
 year: "2023"
 publication: "PLOS Climate"
 preprint: ""
-doi: "10.1371/journal.pclm.0000226"
+doi: "https://doi.org/10.1371/journal.pclm.0000226"
 materials: ""
 eprint: "https://journals.plos.org/climate/article/file?id=10.1371/journal.pclm.0000226&type=printable"
 toc: FALSE
 categories:
-  - climate
-  - biodiversity
+  - Climate & Stress
 ---
 
 ## Citation

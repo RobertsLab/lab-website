@@ -10,8 +10,8 @@ materials: ""
 eprint: ""
 toc: FALSE
 categories:
-  - methylation
-  - coral
+  - Corals
+  - Epigenetics
 ---
 
 ## Citation
@@ -20,4 +20,4 @@ categories:
 
 ## Abstract
 
-*Abstract not available*
+Phenotypic acclimatization is an organismal response to environmental change that may be rooted in epigenetic mechanisms. In reef building corals, organisms that are severely threatened by environmental change, some evidence suggests that DNA methylation is an environmentally responsive mediator of acclimatization. We investigated changes in DNA methylation of the reef coral *Porites astreoides* in response to simulated environmental change. Coral colonies were sampled from a variety of habitats on the Belize Barrier Reef and transplanted to a common garden for 1 year. We used restriction site associated DNA sequencing, including a methylation-sensitive variant, to subsample the genome and assess changes in DNA methylation levels after a year in the common garden. Methylation changes among the 629 CpG loci we recovered were subtle, yet coral methylomes were more similar to each other after a year in the common garden together, indicating convergence of methylation profiles in the common environment. Differentially methylated loci showed matches with both coding and non-coding RNA sequences with putative roles in intracellular signaling, apoptosis, gene regulation, and epigenetic crosstalk. There was a positive and significant relationship between genetic and epigenetic variation, providing evidence of methylation heritability. Altogether, our results suggest that DNA methylation in *P. astreoides* is at least somewhat responsive to environmental change, reflective of the environment, and heritable, characteristics necessary for methylation to be implicated as part of potential transgenerational acclimatization responses.

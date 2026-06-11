@@ -19,12 +19,38 @@ listing:
 
 # Papers
 
-Papers can be searched by sorting and/or using filter function. Filter function works on author and title. Recent papers can also be identified by categories
+Browse by topic using the **category buttons** below — click any organism or research theme to filter the list (click it again, or **All**, to reset). You can also sort and search by title or author.
 
 *see also*: [Google Scholar](https://scholar.google.com/citations?hl=en&user=aAoYWVUAAAAJ&view_op=list_works&sortby=pubdate)
 
 ::: {#articles}
 :::
+
+```{=html}
+<script>
+// Move the listing category block out of the right margin into a prominent
+// filter bar directly above the paper list (Publications page only).
+(function () {
+  function relocate() {
+    if (document.querySelector(".category-filter-bar")) return;
+    var listing = document.getElementById("listing-articles");
+    var cloud = document.querySelector("#quarto-margin-sidebar .quarto-listing-category");
+    if (!listing || !cloud) return;
+    var title = document.querySelector("#quarto-margin-sidebar .quarto-listing-category-title");
+    var bar = document.createElement("div");
+    bar.className = "category-filter-bar";
+    if (title) bar.appendChild(title);
+    bar.appendChild(cloud); // move (not clone) to preserve Quarto's click handlers
+    listing.parentNode.insertBefore(bar, listing);
+  }
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", relocate);
+  } else {
+    relocate();
+  }
+})();
+</script>
+```
 
 # Podcast
 

@@ -5,12 +5,13 @@ author: "Roberts SB, Gueguen Y, de Lorgeril J, and Goetz F"
 year: "2008"
 publication: ""
 preprint: ""
-doi: ""
+doi: "https://doi.org/10.1016/j.dci.2008.02.006"
 materials: ""
 eprint: ""
 toc: FALSE
 categories:
-  - oyster
+  - Oysters
+  - Disease & Immunity
 ---
 
 ## Citation
@@ -19,4 +20,4 @@ categories:
 
 ## Abstract
 
-*Abstract not available*
+Interleukin-17 (IL-17) gene models have been found in the sequenced genomes of Strongylocentrotus purpuratus and Caenorhabditis elegans. However, there have been no published reports on the empirical cloning and characterization of any interleukin cDNAs in invertebrates. From a Pacific oyster (Crassostrea gigas) hemocyte cDNA library, two clones were obtained that encoded a protein similar to vertebrate IL-17s. The putative oyster IL-17 homolog (CgIL-17) was 27% identical to rainbow trout IL-17D, 21% to human IL-17D and 24% to an IL-17D-like gene model obtained from the annotation of the sea urchin genome. IL-17s from the oyster, sea urchin, trout and human, contained conserved cysteine residues found in all forms of IL-17 in mammals. Injection of bacteria into C. gigas oysters produced a large and rapid elevation in CgIL-17 transcript abundance in hemocytes, suggesting that this is a very early response gene to pathogens that may be responsible for the stimulation of other immune genes in the oyster.

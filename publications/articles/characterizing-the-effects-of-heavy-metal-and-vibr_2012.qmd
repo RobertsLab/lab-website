@@ -10,7 +10,8 @@ materials: ""
 eprint: ""
 toc: FALSE
 categories:
-  - oyster
+  - Oysters
+  - Climate & Stress
 ---
 
 ## Citation
@@ -19,4 +20,4 @@ categories:
 
 ## Abstract
 
-*Abstract not available*
+The Pacific oyster, Crassostrea gigas, is an intertidal bivalve mollusc that inhabits several continents. Similar to other shellfish, the Pacific oyster is considered an important bioindicator species. One way to assess environmental perturbations is to examine an organism's stress response. Molecular chaperones, including heat shock proteins, are common targets when evaluating an organism's response to environmental stress. In this study, oysters were exposed to copper and the bacterium Vibrio tubiashii to characterize how these environmental stressors influence Hsp70 gene and protein expression. Bacterial exposure did not affect Hsp70 expression, whereas copper exposure changed both transcript and protein levels significantly. Interestingly, copper exposure increased gene expression and decreased protein levels when compared with controls. The dynamics of Hsp70 regulation observed here provide important insight into heavy metal exposure and heat shock protein levels in oysters, highlighting considerations that should be made when using Hsp70 as an indicator of an organism's general stress response.

@@ -5,10 +5,13 @@ author: "Langenau DM, Goetz FW, Roberts SB"
 year: "1999"
 publication: ""
 preprint: ""
-doi: ""
+doi: "https://doi.org/10.1677/jme.0.0230137"
 materials: ""
 eprint: ""
 toc: FALSE
+categories:
+  - Finfish
+  - Reproduction & Development
 ---
 
 ## Citation
@@ -17,4 +20,4 @@ toc: FALSE
 
 ## Abstract
 
-*Abstract not available*
+While progestins appear to be involved in the local ovarian regulation of vertebrate ovulation, their specific role is unclear. In yellow perch (Perca flavescens) the progestin, 17alpha, 20beta-dihydroxy-4-pregnen-3-one (17,20-P), stimulates ovulation in vitro and this induction requires gene activation. Therefore, the perch model was used to isolate progestin-upregulated mRNAs. Perch ovaries were incubated for 32 h with or without 17,20-P (0.1 microg/ml). Messenger ribonucleic acids were isolated from the tissue and used for differential display PCR (DDPCR). From DDPCR, 5 bands were eventually obtained that were verified by Northern analysis to be consistently upregulated by 17,20-P at 32 h. Using these bands, full-length cDNAs were obtained by library screening and completely sequenced. Based on similarity to known sequences, four of the cDNAs presumably encode for perch forms of (1) neprilysin (PNEP-1; 63% identical); (2) a lysyl oxidase-type protein (PLO-2; 43.2% identical); (3) calmodulin (PCAL-1; 100% identical); and (4) a microtubule aggregate-like protein (PMAP-1; 29.6% identical). The fifth cDNA obtained from DDPCR most likely encodes for an egg protein and will be reported separately. Each of the cDNAs was used to probe Northern blots of ovarian mRNA taken at 0, 12, 24, 32 and 42 h of incubation with 17,20-P. This temporal Northern analysis verified that all four were upregulated by 32 h. In addition, PNEP and PMAP transcripts began to increase by 12 h, while PCAL and PLO transcripts remained elevated through 42 h. On Northern blots of RNA from other perch tissues, calmodulin was found in all tissues, PLO mRNA was ovarian specific, and PMAP mRNA was also present in the gills and liver. Multiple transcripts were observed for PNEP, but the ovarian form induced by 17,20-P was only found in high abundance in the heart. To our knowledge, this is the first report that specifically characterizes progestin upregulated mRNAs in the vertebrate ovary at ovulation.

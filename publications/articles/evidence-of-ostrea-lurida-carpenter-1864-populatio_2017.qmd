@@ -10,7 +10,8 @@ materials: ""
 eprint: ""
 toc: FALSE
 categories:
-  - oyster
+  - Oysters
+  - Genomic Resources
 ---
 
 ## Citation
@@ -19,4 +20,4 @@ categories:
 
 ## Abstract
 
-*Abstract not available*
+Species traits that carry adaptive advantages such as reproductive timing and stress resilience may differ among populations. Knowledge and consideration of these traits should, therefore, be integrated into conservation efforts that include long‐term persistence of species. To test for adaptive differences between Olympia oyster, Ostrea lurida, populations a reciprocal transplant experiment was carried out monitoring survival, growth and reproduction using three established populations of O. lurida within Puget Sound, WA, USA. Performance differed for each population. Ostrea lurida from Dabob Bay had the highest survival at all sites but the lowest reproductive activity and growth. Oysters from Oyster Bay demonstrated the greatest proportion of brooding females at a majority of sites with moderate growth and survival. Together these data suggest the existence of O. lurida population structure within Puget Sound and provide information on how broodstock should be selected for restoration purposes.

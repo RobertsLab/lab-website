@@ -5,10 +5,13 @@ author: "Roberts SB, Goetz FW"
 year: "2003"
 publication: "Biological Bulletin 205: 227-228"
 preprint: ""
-doi: ""
+doi: "https://doi.org/10.2307/1543266"
 materials: ""
 eprint: ""
 toc: FALSE
+categories:
+  - Other Invertebrates
+  - Genomic Resources
 ---
 
 ## Citation

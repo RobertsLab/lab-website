@@ -10,7 +10,8 @@ materials: ""
 eprint: ""
 toc: FALSE
 categories:
-  - oyster
+  - Oysters
+  - Genomic Resources
 ---
 
 ## Citation
@@ -19,4 +20,4 @@ categories:
 
 ## Abstract
 
-*Abstract not available*
+Shotgun proteomics offers an efficient means to characterize proteins in a complex mixture, particularly when sufficient genomic resources are available. In order to assess the practical application of shotgun proteomics in the Pacific oyster (Crassostrea gigas), liquid chromatography coupled with tandem mass spectrometry was used to characterize the gill proteome. Using information from the recently published Pacific oyster genome, 1043 proteins were identified. Biological samples (n = 4) and corresponding technical replicates (three) were similar in both specific proteins identified and expression, as determined by normalized spectral abundance factor. A majority of the proteins identified (703) were present in all biological samples. Functional analysis of the protein repertoire illustrates that these proteins represent a wide range of biological processes, supporting the dynamic function of the gill. These insights are important for understanding environmental influences on the oyster, because the gill tissue acts as the interface between the oyster and its environment. In silico analysis indicated that this sequencing effort identified a large proportion of the complete gill proteome. Together, these data demonstrate that shotgun sequencing is a viable approach for biological discovery and will play an important role in future studies of oyster physiology.
