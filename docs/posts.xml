@@ -9,8 +9,63 @@
 <link>https://faculty.washington.edu/sr320/posts.html</link>
 <atom:link href="https://faculty.washington.edu/sr320/posts.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.7.32</generator>
-<lastBuildDate>Thu, 19 Mar 2026 07:00:00 GMT</lastBuildDate>
+<generator>quarto-1.9.36</generator>
+<lastBuildDate>Thu, 11 Jun 2026 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Four Undergrads, Four Home Runs: A Spring Highlight Reel</title>
+  <dc:creator>Steven Roberts</dc:creator>
+  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-spring-undergrads/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<p>What a spring. Four undergraduates took on four wildly different questions — from sick sea stars to stressed-out oysters — and walked away with real, publishable-flavored answers. Grab a coffee; here’s the highlight reel.</p>
+<section id="hannah-nowers-cracking-the-case-of-the-wasting-sea-stars" class="level2">
+<h2 class="anchored" data-anchor-id="hannah-nowers-cracking-the-case-of-the-wasting-sea-stars">Hannah Nowers — Cracking the case of the wasting sea stars 🌟</h2>
+<p>Sea star wasting disease has wiped out 20+ species from Alaska to Baja, melting animals into goo. The obvious hypothesis: maybe the susceptible species just don’t have enough immune genes. Hannah put that idea to the test, combing through annotated sea star genomes and sorting immune genes into functional categories. The plot twist? <strong>Gene count isn’t the answer.</strong> Susceptible and resistant species carry similar immune gene arsenals — so the real story is about <em>how</em> those genes are switched on and off, not how many there are. One clean result, and suddenly the whole field is asking a better question.</p>
+<iframe src="presentations/nowers-capstone.pdf" width="100%" height="600" style="border: 1px solid #ddd;">
+</iframe>
+<p><a href="presentations/nowers-capstone.pdf">Download Hannah’s capstone presentation (PDF)</a> · <a href="presentations/nowers-capstone-paper.pdf">Read Hannah’s capstone paper (PDF)</a> · <a href="https://github.com/hannahnowers/Seastar-capstone">GitHub repo</a></p>
+</section>
+<section id="noah-ozguner-do-oysters-get-stressed-when-you-shake-them" class="level2">
+<h2 class="anchored" data-anchor-id="noah-ozguner-do-oysters-get-stressed-when-you-shake-them">Noah Ozguner — Do oysters get stressed when you shake them? 🦪</h2>
+<p>Oyster farmers “tumble” their oysters to sculpt prettier shells — but is it secretly stressing the animals out? Noah grabbed two sizes of oyster seed, gave them a 20-minute shake, and tracked their metabolism for a week with a color-changing assay. Tiny oysters? Totally unbothered. But the big ones threw a <strong>delayed metabolic curveball</strong> — no reaction at first, then a dramatic spike a full week later (p = 0.0006). Turns out bigger oysters carry a hidden energetic hangover, and it shows up on a timer.</p>
+<iframe src="presentations/ozguner-poster.pdf" width="100%" height="600" style="border: 1px solid #ddd;">
+</iframe>
+<p><a href="presentations/ozguner-poster.pdf">Download Noah’s poster (PDF)</a></p>
+</section>
+<section id="hazel-abrahamson-amerine-what-a-heatwave-does-to-an-oysters-fuel-tank" class="level2">
+<h2 class="anchored" data-anchor-id="hazel-abrahamson-amerine-what-a-heatwave-does-to-an-oysters-fuel-tank">Hazel Abrahamson-Amerine — What a heatwave does to an oyster’s fuel tank 🔥</h2>
+<p>Oysters bank energy as glycogen — their cellular savings account. Hazel asked what happens to that account during a marine heatwave. Using a glow-in-the-dark glycogen assay, she cranked oysters to 32 °C for 48 hours and watched the reserves <strong>crash</strong>. The hopeful part: give them a break from the heat, and they slowly rebuild the stash. Recovery is real — it just takes time. Next up: where in the body it happens, and whether oysters toughen up for round two.</p>
+<iframe src="presentations/abrahamson-amerine.pdf" width="100%" height="600" style="border: 1px solid #ddd;">
+</iframe>
+<p><a href="presentations/abrahamson-amerine.pdf">Download Hazel’s presentation (PDF)</a></p>
+</section>
+<section id="christina-zhang-can-oysters-be-trained-to-take-the-heat" class="level2">
+<h2 class="anchored" data-anchor-id="christina-zhang-can-oysters-be-trained-to-take-the-heat">Christina Zhang — Can oysters be trained to take the heat? 🌡️</h2>
+<p>If a heatwave hits twice, does surviving the first one help with the second? Christina tested whether oysters can be “primed” — toughened up by an earlier non-lethal heat exposure. She gave Pacific oyster seed different thermal histories (cool or hot, then cool or hot again) and read out their metabolism across a temperature gradient. The verdict: <strong>priming changes the game.</strong> Below 35 °C, primed oysters ran a calmer, lower metabolic response — a sign of tolerance — while unprimed oysters spiked. But push past 37 °C and the stress response overrides any priming benefit, and mortality climbs. Oysters can learn to take the heat, but only up to a point.</p>
+<iframe src="presentations/zhang-poster.pdf" width="100%" height="600" style="border: 1px solid #ddd;">
+</iframe>
+<p><a href="presentations/zhang-poster.pdf">Download Christina’s poster (PDF)</a></p>
+<p>Four students, four big swings, four home runs. Congrats Hannah, Noah, Hazel, and Christina — the lab is lucky to have you. 🎉</p>
+
+
+<!-- -->
+
+</section>
+
+ ]]></description>
+  <category>undergraduates</category>
+  <category>sea star</category>
+  <category>oyster</category>
+  <category>research</category>
+  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-spring-undergrads/</guid>
+  <pubDate>Thu, 11 Jun 2026 07:00:00 GMT</pubDate>
+  <media:content url="https://faculty.washington.edu/sr320/img/lab-photo-20250213-edited-SJW-01.JPG" medium="image"/>
+</item>
 <item>
   <title>Unlocking the Secrets of Tunicate Stress Responses</title>
   <dc:creator>Steven Roberts</dc:creator>
@@ -251,7 +306,7 @@
 <item>
   <title>Epigenomics in Chile</title>
   <dc:creator>Steven Roberts</dc:creator>
-  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-epiaqua/</link>
+  <link>https://faculty.washington.edu/sr320/posts/sr320-epiaqua/</link>
   <description><![CDATA[ 
 
 
@@ -263,7 +318,7 @@
 <p>At the Summer Institute, I taught Epigenomics in Aquaculture (EpiAqua) to an outstanding group of graduate students and postdoctoral researchers from across South America. The course focused on how epigenetic mechanisms—especially DNA methylation and non-coding RNAs—mediate organismal responses to stress, and how these tools can be applied in aquaculture and climate resilience research.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://faculty.washington.edu/sr320/posts/frontpage/sr320-epiaqua/images/clipboard-740445096.png" class="img-fluid figure-img"></p>
+<p><img src="https://faculty.washington.edu/sr320/posts/sr320-epiaqua/images/clipboard-740445096.png" class="img-fluid figure-img"></p>
 <figcaption>Professor Rick Goetz giving lecture on phenotypic variation in trout.</figcaption>
 </figure>
 </div>
@@ -276,7 +331,7 @@
 <p>Following the academic portion of the trip, I also had the opportunity to visit salmon farms in southern Chile. Seeing production systems firsthand always adds important perspective—connecting lab-based molecular work to the environmental realities faced by farmers and managers. These visits reinforced why translational research matters: our models and datasets ultimately need to work in complex, real-world settings.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://faculty.washington.edu/sr320/posts/frontpage/sr320-epiaqua/images/clipboard-4226269657.png" class="img-fluid figure-img"></p>
+<p><img src="https://faculty.washington.edu/sr320/posts/sr320-epiaqua/images/clipboard-4226269657.png" class="img-fluid figure-img"></p>
 <figcaption>Visiting salmon farms in Puerto Montt</figcaption>
 </figure>
 </div>
@@ -290,7 +345,7 @@
  ]]></description>
   <category>teaching</category>
   <category>aquaculture</category>
-  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-epiaqua/</guid>
+  <guid>https://faculty.washington.edu/sr320/posts/sr320-epiaqua/</guid>
   <pubDate>Fri, 30 Jan 2026 08:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Image_2026-01-30_11-26-05.png" medium="image" type="image/png"/>
 </item>
@@ -1204,56 +1259,6 @@ It also resonates with ongoing efforts to integrate <strong>epigenetic and physi
   <guid>https://faculty.washington.edu/sr320/posts/sr320-genomics/</guid>
   <pubDate>Fri, 21 Feb 2025 08:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Advancing_genetic_improvement_in_the_omics_era_status_and_priorities_for_United_States_aquaculture__BMC_Genomics__Full_Text_2025-02-21_12-15-32.png" medium="image" type="image/png"/>
-</item>
-<item>
-  <title>Cracking the Code of Pacific Cod</title>
-  <dc:creator>Laura Spencer</dc:creator>
-  <link>https://faculty.washington.edu/sr320/posts/sr320-cod2/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-
-<p>What if the future of an entire fish population hinged on tiny changes in their DNA? In the frigid waters of the North Pacific, juvenile Pacific cod are facing an uncertain future as ocean temperatures rise. Our research is uncovering how these fish respond to warming waters—at the molecular level—and what that means for their survival.</p>
-<p><strong>The Science Behind Survival</strong></p>
-<p>At first glance, Pacific cod might seem like just another fish. But beneath the surface, their genetic makeup holds clues to how they adapt—or struggle—when faced with environmental stress. In our latest study, we’re diving deep into the connection between a cod’s genes and its ability to thrive in different temperatures.</p>
-<p>We analyzed DNA and gene activity (transcriptomics) in young Pacific cod exposed to a range of temperatures, from icy 0°C to a heatwave-like 16°C. By combining this “genome-to-phenome” data—essentially linking genetic information to physical traits—we’re beginning to see which fish have the genetic tools to survive in a warming world.</p>
-<p><strong>A Genetic Blueprint for Resilience</strong></p>
-<p>One of the most intriguing findings comes from a process called <strong>Genome-Wide Association Studies (GWAS)</strong>, where we scan the entire genome for small genetic differences linked to key traits. One of the most revealing traits we studied is the <strong>hepatosomatic index (HSI)</strong>—a measure of how much energy a fish stores in its liver. Since fat storage is critical for surviving harsh winters, understanding which fish can accumulate liver lipids under stress is essential.</p>
-<p><img src="http://gannet.fish.washington.edu/seashell/snaps/2025-02-17_09-17-29.png" class="img-fluid"></p>
-<p>Our data revealed <strong>specific genetic variants linked to liver size</strong>, some of which are connected to genes regulating appetite and metabolism. One gene in particular, likely involved in serotonin signaling (which affects hunger), seems to influence whether a juvenile cod stores enough fat when temperatures rise.</p>
-<p><strong>Can Genes Predict Performance?</strong></p>
-<p>Beyond genetics, we also examined how <strong>gene expression (RNA activity) relates to fish growth and condition</strong>. We identified a set of genes that are highly active in the strongest, most resilient fish under warm conditions. This genetic “signature” could help scientists predict which fish populations are best suited to handle climate shifts.</p>
-<p><img src="http://gannet.fish.washington.edu/seashell/snaps/2025-02-17_09-18-11.png" class="img-fluid"></p>
-<p>By looking at <strong>composite performance indices (CPI)</strong>—which combine growth rate, body condition, and liver fat content—we found a distinct pattern: some fish are naturally equipped to thrive in warming seas, while others may struggle.</p>
-<p><strong>A Look to the Past—and the Future</strong></p>
-<p>To understand if these genetic traits have changed over time, we’re also analyzing historical samples from Pacific cod collected near Kodiak, Alaska, dating back to 2008. This will help us determine if recent marine heatwaves have already begun shaping the genetic makeup of young cod. If we find shifts in key genes over time, it could be a sign that natural selection is at work—favoring fish that can cope with temperature extremes.</p>
-<p><strong>Next Steps: From Lab to Ocean Conservation</strong></p>
-<p>Right now, we’re fine-tuning our analyses and comparing our results with other research teams, including NOAA scientists studying broader environmental factors. Our goal? To pinpoint the most critical genetic regions that influence temperature tolerance—and ultimately, to inform fisheries management strategies that support the resilience of Pacific cod populations.</p>
-<p>As marine heatwaves become more frequent, understanding these genetic adaptations is more than just an academic pursuit. It’s about safeguarding a vital species in the face of climate change—ensuring that Pacific cod, and the people who depend on them, have a future in our warming oceans.</p>
-<section id="products-this-period" class="level4">
-<h4 class="anchored" data-anchor-id="products-this-period">Products this period:&nbsp;</h4>
-<ul>
-<li><p>Methods and preliminary results were presented by Laura Spencer at the NOAA NWFSC Manchester Research Station monthly meeting on December 11th, 2025, <a href="https://github.com/RobertsLab/project-cod-temperature/blob/main/reports/Manchester-Presentation-Dec2024.pdf">link to slides</a>.&nbsp;</p></li>
-<li><p>Methods and preliminary results were presented by Laura Spencer at the NOAA AFSC groundfish seminar on December 17th, 2024, <a href="https://bcove.video/3DxO7xy">link to recording</a>, <a href="https://github.com/RobertsLab/project-cod-temperature/blob/main/reports/Groundfish%20Seminar%2C%202024.pdf">link to slides</a>.</p></li>
-<li><p>Methods and preliminary results were presented by Laura Spencer during the poster session of the Alaska Marine Science Symposium on January 27th, 2025 in Anchorage, AK, <a href="https://github.com/RobertsLab/project-cod-temperature/blob/main/reports/Spencer%2CLH_Poster-AMSS-2025-final.pdf">link to poster</a>.</p></li>
-<li><p>Laura Spenccer’s lab notebook updates on analyses, lab work, and products, <a href="https://laurahspencer.github.io/LabNotebook/">link to notebook</a>.</p></li>
-<li><p><a href="https://d.pr/f/Cq3nsF">Technical Report</a>.</p></li>
-</ul>
-
-
-<!-- -->
-
-</section>
-
- ]]></description>
-  <category>cod</category>
-  <category>Alaska</category>
-  <guid>https://faculty.washington.edu/sr320/posts/sr320-cod2/</guid>
-  <pubDate>Thu, 20 Feb 2025 08:00:00 GMT</pubDate>
-  <media:content url="http://gannet.fish.washington.edu/seashell/snaps/2025-02-17_09-15-38.png" medium="image" type="image/png"/>
 </item>
 </channel>
 </rss>

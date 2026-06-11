@@ -9,8 +9,63 @@
 <link>https://faculty.washington.edu/sr320/</link>
 <atom:link href="https://faculty.washington.edu/sr320/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.7.32</generator>
-<lastBuildDate>Thu, 19 Mar 2026 07:00:00 GMT</lastBuildDate>
+<generator>quarto-1.9.36</generator>
+<lastBuildDate>Thu, 11 Jun 2026 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Four Undergrads, Four Home Runs: A Spring Highlight Reel</title>
+  <dc:creator>Steven Roberts</dc:creator>
+  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-spring-undergrads/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<p>What a spring. Four undergraduates took on four wildly different questions — from sick sea stars to stressed-out oysters — and walked away with real, publishable-flavored answers. Grab a coffee; here’s the highlight reel.</p>
+<section id="hannah-nowers-cracking-the-case-of-the-wasting-sea-stars" class="level2">
+<h2 class="anchored" data-anchor-id="hannah-nowers-cracking-the-case-of-the-wasting-sea-stars">Hannah Nowers — Cracking the case of the wasting sea stars 🌟</h2>
+<p>Sea star wasting disease has wiped out 20+ species from Alaska to Baja, melting animals into goo. The obvious hypothesis: maybe the susceptible species just don’t have enough immune genes. Hannah put that idea to the test, combing through annotated sea star genomes and sorting immune genes into functional categories. The plot twist? <strong>Gene count isn’t the answer.</strong> Susceptible and resistant species carry similar immune gene arsenals — so the real story is about <em>how</em> those genes are switched on and off, not how many there are. One clean result, and suddenly the whole field is asking a better question.</p>
+<iframe src="presentations/nowers-capstone.pdf" width="100%" height="600" style="border: 1px solid #ddd;">
+</iframe>
+<p><a href="presentations/nowers-capstone.pdf">Download Hannah’s capstone presentation (PDF)</a> · <a href="presentations/nowers-capstone-paper.pdf">Read Hannah’s capstone paper (PDF)</a> · <a href="https://github.com/hannahnowers/Seastar-capstone">GitHub repo</a></p>
+</section>
+<section id="noah-ozguner-do-oysters-get-stressed-when-you-shake-them" class="level2">
+<h2 class="anchored" data-anchor-id="noah-ozguner-do-oysters-get-stressed-when-you-shake-them">Noah Ozguner — Do oysters get stressed when you shake them? 🦪</h2>
+<p>Oyster farmers “tumble” their oysters to sculpt prettier shells — but is it secretly stressing the animals out? Noah grabbed two sizes of oyster seed, gave them a 20-minute shake, and tracked their metabolism for a week with a color-changing assay. Tiny oysters? Totally unbothered. But the big ones threw a <strong>delayed metabolic curveball</strong> — no reaction at first, then a dramatic spike a full week later (p = 0.0006). Turns out bigger oysters carry a hidden energetic hangover, and it shows up on a timer.</p>
+<iframe src="presentations/ozguner-poster.pdf" width="100%" height="600" style="border: 1px solid #ddd;">
+</iframe>
+<p><a href="presentations/ozguner-poster.pdf">Download Noah’s poster (PDF)</a></p>
+</section>
+<section id="hazel-abrahamson-amerine-what-a-heatwave-does-to-an-oysters-fuel-tank" class="level2">
+<h2 class="anchored" data-anchor-id="hazel-abrahamson-amerine-what-a-heatwave-does-to-an-oysters-fuel-tank">Hazel Abrahamson-Amerine — What a heatwave does to an oyster’s fuel tank 🔥</h2>
+<p>Oysters bank energy as glycogen — their cellular savings account. Hazel asked what happens to that account during a marine heatwave. Using a glow-in-the-dark glycogen assay, she cranked oysters to 32 °C for 48 hours and watched the reserves <strong>crash</strong>. The hopeful part: give them a break from the heat, and they slowly rebuild the stash. Recovery is real — it just takes time. Next up: where in the body it happens, and whether oysters toughen up for round two.</p>
+<iframe src="presentations/abrahamson-amerine.pdf" width="100%" height="600" style="border: 1px solid #ddd;">
+</iframe>
+<p><a href="presentations/abrahamson-amerine.pdf">Download Hazel’s presentation (PDF)</a></p>
+</section>
+<section id="christina-zhang-can-oysters-be-trained-to-take-the-heat" class="level2">
+<h2 class="anchored" data-anchor-id="christina-zhang-can-oysters-be-trained-to-take-the-heat">Christina Zhang — Can oysters be trained to take the heat? 🌡️</h2>
+<p>If a heatwave hits twice, does surviving the first one help with the second? Christina tested whether oysters can be “primed” — toughened up by an earlier non-lethal heat exposure. She gave Pacific oyster seed different thermal histories (cool or hot, then cool or hot again) and read out their metabolism across a temperature gradient. The verdict: <strong>priming changes the game.</strong> Below 35 °C, primed oysters ran a calmer, lower metabolic response — a sign of tolerance — while unprimed oysters spiked. But push past 37 °C and the stress response overrides any priming benefit, and mortality climbs. Oysters can learn to take the heat, but only up to a point.</p>
+<iframe src="presentations/zhang-poster.pdf" width="100%" height="600" style="border: 1px solid #ddd;">
+</iframe>
+<p><a href="presentations/zhang-poster.pdf">Download Christina’s poster (PDF)</a></p>
+<p>Four students, four big swings, four home runs. Congrats Hannah, Noah, Hazel, and Christina — the lab is lucky to have you. 🎉</p>
+
+
+<!-- -->
+
+</section>
+
+ ]]></description>
+  <category>undergraduates</category>
+  <category>sea star</category>
+  <category>oyster</category>
+  <category>research</category>
+  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-spring-undergrads/</guid>
+  <pubDate>Thu, 11 Jun 2026 07:00:00 GMT</pubDate>
+  <media:content url="https://faculty.washington.edu/sr320/img/lab-photo-20250213-edited-SJW-01.JPG" medium="image"/>
+</item>
 <item>
   <title>Unlocking the Secrets of Tunicate Stress Responses</title>
   <dc:creator>Steven Roberts</dc:creator>
@@ -132,52 +187,6 @@
   <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-escience/</guid>
   <pubDate>Thu, 12 Mar 2026 07:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Image_2026-03-12_19-26-38.png" medium="image" type="image/png"/>
-</item>
-<item>
-  <title>Epigenomics in Chile</title>
-  <dc:creator>Steven Roberts</dc:creator>
-  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-epiaqua/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-
-<p>Last week I traveled to Chile to teach at the Austral Summer Institute and spend time with collaborators at the University of Concepción through our ongoing INCAR2 partnership. It was one of those trips that reminds me why I enjoy this work so much—bringing together students, colleagues, and real-world systems to explore how molecular biology connects to environmental change and aquaculture sustainability.</p>
-<p>At the Summer Institute, I taught Epigenomics in Aquaculture (EpiAqua) to an outstanding group of graduate students and postdoctoral researchers from across South America. The course focused on how epigenetic mechanisms—especially DNA methylation and non-coding RNAs—mediate organismal responses to stress, and how these tools can be applied in aquaculture and climate resilience research.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://faculty.washington.edu/sr320/posts/frontpage/sr320-epiaqua/images/clipboard-740445096.png" class="img-fluid figure-img"></p>
-<figcaption>Professor Rick Goetz giving lecture on phenotypic variation in trout.</figcaption>
-</figure>
-</div>
-<p>What stood out most was the energy in the room. Students came from diverse backgrounds spanning ecology, physiology, genomics, and applied aquaculture, which led to thoughtful discussions about experimental design, data integration, and how to move from sequencing data to actionable insight. These kinds of exchanges are incredibly motivating—and they’re exactly how new collaborations and ideas begin.</p>
-<p>After the course, I spent time at the University of Concepción continuing work with INCAR2 colleagues. Together we moved forward on several exciting new directions, including:</p>
-<p>• Penguin epigenetics, exploring how environmental exposure may be reflected in epigenomic variation in wild populations.</p>
-<p>• Sea lice sex determination, aimed at understanding molecular mechanisms that could inform management strategies in salmon aquaculture.</p>
-<p>• Presence–absence variation (PAV) in trout ecomorphs, investigating how structural genomic differences may contribute to ecological specialization.</p>
-<p>Each of these projects fits into our broader goal of linking genomics and epigenomics to physiology, performance, and resilience in aquatic organisms.</p>
-<p>Following the academic portion of the trip, I also had the opportunity to visit salmon farms in southern Chile. Seeing production systems firsthand always adds important perspective—connecting lab-based molecular work to the environmental realities faced by farmers and managers. These visits reinforced why translational research matters: our models and datasets ultimately need to work in complex, real-world settings.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://faculty.washington.edu/sr320/posts/frontpage/sr320-epiaqua/images/clipboard-4226269657.png" class="img-fluid figure-img"></p>
-<figcaption>Visiting salmon farms in Puerto Montt</figcaption>
-</figure>
-</div>
-<p>Overall, the trip was a great reminder of the value of international partnerships and immersive training environments. Teaching at the Austral Summer Institute and collaborating with INCAR2 continues to strengthen a shared vision around environmental memory, aquaculture sustainability, and training the next generation of scientists.</p>
-<p>I’m grateful to our host, Dr.&nbsp;Cristian Gallardo and collaborators in Chile for their generosity and enthusiasm—and I’m excited to build on these new projects in the months ahead.</p>
-
-
-<!-- -->
-
-
- ]]></description>
-  <category>teaching</category>
-  <category>aquaculture</category>
-  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-epiaqua/</guid>
-  <pubDate>Fri, 30 Jan 2026 08:00:00 GMT</pubDate>
-  <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Image_2026-01-30_11-26-05.png" medium="image" type="image/png"/>
 </item>
 <item>
   <title>Can Oyster Parents Prepare Their Offspring for What’s Next?</title>

@@ -1,0 +1,106 @@
+---
+title: "Tools & Apps"
+title-block-banner: true
+toc: false
+---
+
+```{=html}
+<style>
+.web-projects-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.75rem;
+  margin-top: 2rem;
+}
+
+.web-project-card {
+  display: block;
+  background: white;
+  border: 1px solid #e2e8f0;
+  border-radius: 12px;
+  overflow: hidden;
+  text-decoration: none;
+  color: inherit;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.web-project-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 10px 24px rgba(0,0,0,0.15);
+  text-decoration: none;
+  color: inherit;
+}
+
+.web-project-card img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  display: block;
+  background: #edf2f7;
+}
+
+.web-project-name {
+  padding: 1rem 1.25rem;
+  font-size: 1.15rem;
+  font-weight: 600;
+  color: #2c5282;
+  text-align: center;
+}
+
+@media (max-width: 768px) {
+  .web-projects-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Dark mode support */
+@media (prefers-color-scheme: dark) {
+  .web-project-card {
+    background: #2d3748;
+    border-color: #4a5568;
+    color: #e2e8f0;
+  }
+  .web-project-name {
+    color: #90cdf4;
+  }
+  .web-project-card img {
+    background: #4a5568;
+  }
+}
+</style>
+
+<div class="web-projects-grid">
+
+  <a class="web-project-card" href="https://github.com/sr320/ConTra" target="_blank" rel="noopener">
+    <img src="https://placehold.co/600x400/2c5282/ffffff?text=ConTra" alt="ConTra">
+    <div class="web-project-name">ConTra</div>
+  </a>
+
+  <a class="web-project-card" href="https://urol-e5.github.io/deep-dive-genome-browser/" target="_blank" rel="noopener">
+    <img src="/img/web-projects/dive.png" alt="DIVE">
+    <div class="web-project-name">DIVE</div>
+  </a>
+
+  <a class="web-project-card" href="https://oystergen.es" target="_blank" rel="noopener">
+    <img src="/img/web-projects/ocean.png" alt="OCEAN">
+    <div class="web-project-name">OCEAN</div>
+  </a>
+
+  <a class="web-project-card" href="https://urol-e5.github.io/MOSAiC/" target="_blank" rel="noopener">
+    <img src="/img/web-projects/mosaic.png" alt="MOSAiC">
+    <div class="web-project-name">MOSAiC</div>
+  </a>
+
+  <a class="web-project-card" href="https://sr320.github.io/paper-chilean-mussel/" target="_blank" rel="noopener">
+    <img src="/img/web-projects/chilean-mussel.png" alt="Chilean Mussel">
+    <div class="web-project-name">Chilean Mussel</div>
+  </a>
+
+  <a class="web-project-card" href="https://github.com/sr320/public-omics-watchtower" target="_blank" rel="noopener">
+    <img src="/img/web-projects/public-omics-watchtower.png" alt="Public Omics Watchtower">
+    <div class="web-project-name">Public Omics Watchtower</div>
+  </a>
+
+</div>
+```

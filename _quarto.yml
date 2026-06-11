@@ -129,6 +129,8 @@ website:
     - text: "Publications"
       file: publications.qmd
     - courses.qmd
+    - text: "Tools & Apps"
+      file: tools-and-apps.qmd
     - text: "News"
       file: posts.qmd
     - section: "About us"
