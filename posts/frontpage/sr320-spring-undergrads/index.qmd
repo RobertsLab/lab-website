@@ -27,7 +27,9 @@ What a spring. Four undergraduates took on four wildly different questions — f
 
 Sea star wasting disease has wiped out 20+ species from Alaska to Baja, melting animals into goo. The obvious hypothesis: maybe the susceptible species just don't have enough immune genes. Hannah put that idea to the test, combing through annotated sea star genomes and sorting immune genes into functional categories. The plot twist? **Gene count isn't the answer.** Susceptible and resistant species carry similar immune gene arsenals — so the real story is about *how* those genes are switched on and off, not how many there are. One clean result, and suddenly the whole field is asking a better question.
 
-<iframe src="presentations/nowers-capstone.pdf" width="100%" height="600" style="border: 1px solid #ddd;"></iframe>
+<iframe src="presentations/nowers-capstone.pdf" width="100%" height="600" style="border: 1px solid #ddd;">
+
+</iframe>
 
 [Download Hannah's capstone presentation (PDF)](presentations/nowers-capstone.pdf) · [Read Hannah's capstone paper (PDF)](presentations/nowers-capstone-paper.pdf) · [GitHub repo](https://github.com/hannahnowers/Seastar-capstone)
 
@@ -35,15 +37,19 @@ Sea star wasting disease has wiped out 20+ species from Alaska to Baja, melting 
 
 Oyster farmers "tumble" their oysters to sculpt prettier shells — but is it secretly stressing the animals out? Noah grabbed two sizes of oyster seed, gave them a 20-minute shake, and tracked their metabolism for a week with a color-changing assay. Tiny oysters? Totally unbothered. But the big ones threw a **delayed metabolic curveball** — no reaction at first, then a dramatic spike a full week later (p = 0.0006). Turns out bigger oysters carry a hidden energetic hangover, and it shows up on a timer.
 
-<iframe src="presentations/ozguner-poster.pdf" width="100%" height="600" style="border: 1px solid #ddd;"></iframe>
+<iframe src="presentations/ozguner-poster.pdf" width="100%" height="600" style="border: 1px solid #ddd;">
+
+</iframe>
 
 [Download Noah's poster (PDF)](presentations/ozguner-poster.pdf)
 
 ## Hazel Abrahamson-Amerine — What a heatwave does to an oyster's fuel tank 🔥
 
-Oysters bank energy as glycogen — their cellular savings account. Hazel asked what happens to that account during a marine heatwave. Using a glow-in-the-dark glycogen assay, she cranked oysters to 32 °C for 48 hours and watched the reserves **crash**. The hopeful part: give them a break from the heat, and they slowly rebuild the stash. Recovery is real — it just takes time. Next up: where in the body it happens, and whether oysters toughen up for round two.
+Oysters bank energy as glycogen — their cellular savings account. Hazel asked what happens to that account during a marine heatwave. Using a glow-in-the-dark glycogen assay, they cranked oysters to 32 °C for 48 hours and watched the reserves **crash**. The hopeful part: give them a break from the heat, and they slowly rebuild the stash. Recovery is real — it just takes time. Next up: where in the body it happens, and whether oysters toughen up for round two.
 
-<iframe src="presentations/abrahamson-amerine.pdf" width="100%" height="600" style="border: 1px solid #ddd;"></iframe>
+<iframe src="presentations/abrahamson-amerine.pdf" width="100%" height="600" style="border: 1px solid #ddd;">
+
+</iframe>
 
 [Download Hazel's presentation (PDF)](presentations/abrahamson-amerine.pdf)
 
@@ -51,7 +57,9 @@ Oysters bank energy as glycogen — their cellular savings account. Hazel asked 
 
 If a heatwave hits twice, does surviving the first one help with the second? Christina tested whether oysters can be "primed" — toughened up by an earlier non-lethal heat exposure. She gave Pacific oyster seed different thermal histories (cool or hot, then cool or hot again) and read out their metabolism across a temperature gradient. The verdict: **priming changes the game.** Below 35 °C, primed oysters ran a calmer, lower metabolic response — a sign of tolerance — while unprimed oysters spiked. But push past 37 °C and the stress response overrides any priming benefit, and mortality climbs. Oysters can learn to take the heat, but only up to a point.
 
-<iframe src="presentations/zhang-poster.pdf" width="100%" height="600" style="border: 1px solid #ddd;"></iframe>
+<iframe src="presentations/zhang-poster.pdf" width="100%" height="600" style="border: 1px solid #ddd;">
+
+</iframe>
 
 [Download Christina's poster (PDF)](presentations/zhang-poster.pdf)
 
