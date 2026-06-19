@@ -72,9 +72,14 @@ toc: false
 
 <div class="web-projects-grid">
 
-  <a class="web-project-card" href="https://github.com/sr320/ConTra" target="_blank" rel="noopener">
-    <img src="https://placehold.co/600x400/2c5282/ffffff?text=ConTra" alt="ConTra">
-    <div class="web-project-name">ConTra</div>
+  <a class="web-project-card" href="https://robertslab.github.io/current-findings/" target="_blank" rel="noopener">
+    <img src="/img/web-projects/current-findings.png" alt="Current Findings">
+    <div class="web-project-name">Current Findings</div>
+  </a>
+
+  <a class="web-project-card" href="https://robertslab.github.io/pubathon-2026/" target="_blank" rel="noopener">
+    <img src="/img/web-projects/pubathon-2026.png" alt="Pub-a-thon 2026">
+    <div class="web-project-name">Pub-a-thon 2026</div>
   </a>
 
   <a class="web-project-card" href="https://urol-e5.github.io/deep-dive-genome-browser/" target="_blank" rel="noopener">
@@ -90,11 +95,6 @@ toc: false
   <a class="web-project-card" href="https://urol-e5.github.io/MOSAiC/" target="_blank" rel="noopener">
     <img src="/img/web-projects/mosaic.png" alt="MOSAiC">
     <div class="web-project-name">MOSAiC</div>
-  </a>
-
-  <a class="web-project-card" href="https://sr320.github.io/paper-chilean-mussel/" target="_blank" rel="noopener">
-    <img src="/img/web-projects/chilean-mussel.png" alt="Chilean Mussel">
-    <div class="web-project-name">Chilean Mussel</div>
   </a>
 
   <a class="web-project-card" href="https://github.com/sr320/public-omics-watchtower" target="_blank" rel="noopener">

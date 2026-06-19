@@ -4,16 +4,185 @@ title-block-banner: true
 toc: true
 ---
 
-| Person | Notebook | Commitment |
-|----|----|----|
-| Steven Roberts | [sr320.github.io](https://sr320.github.io/tumbling-oysters/) | ![GitHub last commit](https://img.shields.io/github/last-commit/sr320/tumbling-oysters) |
-| Sam White | [robertslab.github.io](https://robertslab.github.io/sams-notebook/) | ![GitHub last commit](https://img.shields.io/github/last-commit/RobertsLab/sams-notebook) |
-| Matt George | [mattgeorgephd.github.io](https://mattgeorgephd.github.io/notebook/) | ![GitHub last commit](https://img.shields.io/github/last-commit/mattgeorgephd/mattgeorgephd.github.io) |
-| Aspen Coyle | [aspencoyle.github.io](https://aspencoyle.github.io) | ![GitHub last commit](https://img.shields.io/github/last-commit/aspencoyle/aspencoyle.github.io) |
-| Ariana Huffmyer | [ahuffmyer.github.io](https://ahuffmyer.github.io/notebook.html) | ![GitHub last commit](https://img.shields.io/github/last-commit/AHuffmyer/ahuffmyer.github.io) |
-| Chris Mantegna | [chrismantegna.github.io](https://chrismantegna.github.io/cmlabsite/) | ![GitHub last commit](https://img.shields.io/github/last-commit/ChrisMantegna/cmlabsite) |
-| Zach Bengtsson | [zbengt.github.io](https://zbengt.github.io/notebook/) | ![GitHub last commit](https://img.shields.io/github/last-commit/zbengt/zbengt.github.io) |
-| Celeste Valdivia | [valeste.github.io](https://valeste.github.io/tough-tunicates/) | ![GitHub last commit](https://img.shields.io/github/last-commit/valeste/tough-tunicates) |
-| Grace Crandall | [grace-ac.github.io](https://grace-ac.github.io/) | ![GitHub last commit](https://img.shields.io/github/last-commit/grace-ac/grace-ac.github.io) |
-| Kathleen Durkin | [shedurkin.github.io](https://shedurkin.github.io/Roberts-LabNotebook/) | ![GitHub last commit](https://img.shields.io/github/last-commit/shedurkin/Roberts-LabNotebook) |
-| Megan Ewing | [mewing-notebook](https://meganewing.github.io/mewing-notebook/) | ![GitHub last commit](https://img.shields.io/github/last-commit/meganewing/mewing-notebook) |
+```{=html}
+<style>
+  .nb-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 1rem;
+    margin-top: 1rem;
+  }
+  .nb-card {
+    position: relative;
+    border: 1px solid #d0d7de;
+    border-radius: 10px;
+    padding: 1rem;
+    background: var(--bs-body-bg, #fff);
+    transition: box-shadow .15s ease, transform .15s ease;
+    display: flex;
+    flex-direction: column;
+    gap: .35rem;
+  }
+  .nb-card:hover { box-shadow: 0 4px 14px rgba(0,0,0,.12); transform: translateY(-2px); }
+  .nb-card .nb-name { font-weight: 600; font-size: 1.02rem; }
+  .nb-card a.nb-link { font-size: .85rem; word-break: break-all; }
+  .nb-card .nb-title { font-size: .85rem; font-style: italic; color: #24292f; line-height: 1.3; }
+  .nb-card .nb-date { font-size: .8rem; color: #57606a; margin-top: auto; }
+  .nb-card.nb-recent {
+    border-color: #d97706;
+    box-shadow: 0 0 0 2px rgba(217,119,6,.25);
+    background: linear-gradient(180deg, rgba(217,119,6,.08), transparent 60%);
+  }
+  .nb-badge {
+    position: absolute;
+    top: -10px;
+    right: 10px;
+    background: #d97706;
+    color: #fff;
+    font-size: .68rem;
+    font-weight: 700;
+    letter-spacing: .03em;
+    padding: .15rem .5rem;
+    border-radius: 999px;
+    display: none;
+  }
+  .nb-card.nb-recent .nb-badge { display: inline-block; }
+</style>
+
+<div class="nb-grid" id="nb-grid"></div>
+
+<script>
+(function () {
+  // type: 'gh' = GitHub Pages notebook. Prefer its RSS feed (gives post title + date);
+  //   fall back to the commits API (date only) when no feed exists.
+  // type: 'wp' = a genefish.wordpress.com author, matched by login.
+  var notebooks = [
+    { name: "Sam White",        url: "https://robertslab.github.io/sams-notebook/",        type: "gh", repo: "RobertsLab/sams-notebook",        feed: "https://robertslab.github.io/sams-notebook/index.xml" },
+    { name: "Steven Roberts",   url: "https://sr320.github.io/tumbling-oysters/",          type: "gh", repo: "sr320/tumbling-oysters",          feed: "https://sr320.github.io/tumbling-oysters/index.xml" },
+    { name: "Aspen Coyle",      url: "https://aspencoyle.github.io/notebook/",             type: "gh", repo: "aspencoyle/aspencoyle.github.io", feed: "https://aspencoyle.github.io/feed.xml" },
+    { name: "Chris Mantegna",   url: "https://chrismantegna.github.io/labnotebook/weeklyupdates.html", type: "gh", repo: "ChrisMantegna/labnotebook", feed: "https://chrismantegna.github.io/labnotebook/weeklyupdates.xml" },
+    { name: "Zach Bengtsson",   url: "https://zbengt.github.io/notebook/",                 type: "gh", repo: "zbengt/zbengt.github.io",         feed: "https://zbengt.github.io/feed.xml" },
+    { name: "Celeste Valdivia", url: "https://valeste.github.io/tough-tunicates/",         type: "gh", repo: "valeste/tough-tunicates" },
+    { name: "Grace Crandall",   url: "https://grace-ac.github.io/notebook/",               type: "gh", repo: "grace-ac/grace-ac.github.io",    feed: "https://grace-ac.github.io/feed.xml" },
+    { name: "Kathleen Durkin",  url: "https://shedurkin.github.io/Roberts-LabNotebook/",   type: "gh", repo: "shedurkin/Roberts-LabNotebook", feed: "https://shedurkin.github.io/Roberts-LabNotebook/daily_log.xml" },
+    { name: "Ariana Huffmyer",  url: "https://ahuffmyer.github.io/notebook.html",          type: "gh", repo: "AHuffmyer/ahuffmyer.github.io",  feed: "https://ahuffmyer.github.io/notebook.xml" },
+    { name: "Megan Ewing",      url: "https://meganewing.github.io/mewing-notebook/",      type: "gh", repo: "meganewing/mewing-notebook" },
+    { name: "Jesse Lowe",       url: "https://genefish.wordpress.com/author/jlowe50bd14a0c15/",    type: "wp", login: "jlowe50bd14a0c15" },
+    { name: "Hazel Abrahamson", url: "https://genefish.wordpress.com/author/hnote22/",             type: "wp", login: "hnote22" },
+    { name: "Samuel Slutz",     url: "https://genefish.wordpress.com/author/samuelos1e4f4cd96e/",  type: "wp", login: "samuelos1e4f4cd96e" },
+    { name: "Christina Zhang",  url: "https://genefish.wordpress.com/author/qingrz2/",             type: "wp", login: "qingrz2" },
+    { name: "Maddy Bernstein",  url: "https://genefish.wordpress.com/author/maddyab/",             type: "wp", login: "maddyab" },
+    { name: "Sophie Lord",      url: "https://genefish.wordpress.com/author/soplo27/",             type: "wp", login: "soplo27" }
+  ];
+
+  var grid = document.getElementById("nb-grid");
+  var fmt = function (d) {
+    return d.toLocaleDateString(undefined, { year: "numeric", month: "short", day: "numeric" });
+  };
+
+  // Build cards up front
+  notebooks.forEach(function (nb, i) {
+    var host = "";
+    try { host = new URL(nb.url).hostname; } catch (e) { host = nb.url; }
+    var card = document.createElement("div");
+    card.className = "nb-card";
+    card.id = "nb-card-" + i;
+    card.innerHTML =
+      '<span class="nb-badge">★ Active</span>' +
+      '<span class="nb-name">' + nb.name + '</span>' +
+      '<a class="nb-link" href="' + nb.url + '" target="_blank" rel="noopener">' + host + '</a>' +
+      '<span class="nb-title" id="nb-title-' + i + '"></span>' +
+      '<span class="nb-date" id="nb-date-' + i + '">Loading…</span>';
+    grid.appendChild(card);
+    nb.titleEl = document.getElementById("nb-title-" + i);
+    nb.dateEl = document.getElementById("nb-date-" + i);
+  });
+
+  function applyPost(nb, dateStr, title) {
+    if (title) nb.titleEl.textContent = "“" + title + "”";
+    if (dateStr) {
+      nb.date = new Date(dateStr);
+      nb.dateEl.textContent = "Last post: " + fmt(nb.date);
+    } else {
+      nb.dateEl.textContent = "Date unavailable";
+    }
+  }
+
+  // Parse the newest entry (title + date) from an RSS or Atom feed string
+  function parseFeed(xml) {
+    var doc = new DOMParser().parseFromString(xml, "application/xml");
+    if (doc.querySelector("parsererror")) return null;
+    var item = doc.querySelector("item") || doc.querySelector("entry");
+    if (!item) return null;
+    var t = item.querySelector("title");
+    var d = item.querySelector("pubDate") || item.querySelector("published") || item.querySelector("updated");
+    return {
+      title: t ? t.textContent.trim() : null,
+      date: d ? d.textContent.trim() : null
+    };
+  }
+
+  function highlightRecent() {
+    var cutoff = Date.now() - 14 * 24 * 60 * 60 * 1000; // posts within the last two weeks
+    notebooks.forEach(function (nb, idx) {
+      if (nb.date && nb.date.getTime() >= cutoff) {
+        document.getElementById("nb-card-" + idx).classList.add("nb-recent");
+      }
+    });
+  }
+
+  var pending = notebooks.length;
+  function done() { if (--pending === 0) highlightRecent(); }
+
+  // Fetch all genefish posts once, map login -> latest {date, title}
+  var wpDone = fetch("https://public-api.wordpress.com/rest/v1.1/sites/genefish.wordpress.com/posts/?number=100&fields=date,title,author")
+    .then(function (r) { return r.json(); })
+    .then(function (data) {
+      var latest = {};
+      (data.posts || []).forEach(function (p) {
+        var login = p.author && p.author.login;
+        if (!login) return;
+        if (!latest[login] || new Date(p.date) > new Date(latest[login].date)) {
+          latest[login] = { date: p.date, title: p.title };
+        }
+      });
+      return latest;
+    })
+    .catch(function () { return {}; });
+
+  // GitHub notebook with no feed: fall back to the latest commit date (no post title)
+  function ghCommitFallback(nb) {
+    return fetch("https://api.github.com/repos/" + nb.repo + "/commits?per_page=1")
+      .then(function (r) { return r.ok ? r.json() : []; })
+      .then(function (commits) {
+        var d = commits && commits[0] && commits[0].commit && commits[0].commit.committer && commits[0].commit.committer.date;
+        applyPost(nb, d, null);
+      })
+      .catch(function () { applyPost(nb, null, null); });
+  }
+
+  notebooks.forEach(function (nb) {
+    if (nb.type === "gh") {
+      if (nb.feed) {
+        fetch(nb.feed)
+          .then(function (r) { return r.ok ? r.text() : null; })
+          .then(function (xml) {
+            var post = xml && parseFeed(xml);
+            if (post && (post.date || post.title)) { applyPost(nb, post.date, post.title); return; }
+            return ghCommitFallback(nb);
+          })
+          .catch(function () { return ghCommitFallback(nb); })
+          .then(done);
+      } else {
+        ghCommitFallback(nb).then(done);
+      }
+    } else {
+      wpDone.then(function (latest) {
+        var p = latest[nb.login];
+        applyPost(nb, p && p.date, p && p.title);
+      }).then(done);
+    }
+  });
+})();
+</script>
+```

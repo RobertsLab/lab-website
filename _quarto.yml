@@ -128,6 +128,7 @@ website:
       file: projects.qmd
     - text: "Publications"
       file: publications.qmd
+    - notebooks.qmd
     - courses.qmd
     - text: "Tools & Apps"
       file: tools-and-apps.qmd

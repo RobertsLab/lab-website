@@ -9,14 +9,13 @@
 <link>https://faculty.washington.edu/sr320/</link>
 <atom:link href="https://faculty.washington.edu/sr320/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.7.33</generator>
+<generator>quarto-1.6.40</generator>
 <lastBuildDate>Thu, 11 Jun 2026 07:00:00 GMT</lastBuildDate>
 <item>
   <title>Four Undergrads, Four Home Runs: A Spring Highlight Reel</title>
   <dc:creator>Steven Roberts</dc:creator>
   <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-spring-undergrads/</link>
   <description><![CDATA[ 
-
 
 
 
@@ -76,7 +75,6 @@
 
 
 
-
 <p>We are thrilled to highlight the incredible work of Celeste Valdivia, who recently defended her Master of Science thesis at the University of Washington’s School of Aquatic and Fishery Sciences. Co-advised by Dr.&nbsp;Alison Gardell and Dr.&nbsp;Steven Roberts, Celeste’s research dives deep into the biology of the globally invasive marine tunicate, <em>Botryllus schlosseri</em>. Her innovative work lays a crucial foundation for overcoming a decades-long hurdle in marine biology: the development of the first immortalized marine invertebrate cell line.</p>
 <p><strong>A Unique Strategy for Surviving Toxic Stress</strong> To understand the cellular mechanisms that might allow tunicate cells to become immortalized, Celeste first evaluated how whole colonies of <em>B. schlosseri</em> respond to oxidative stress caused by nickel. Astonishingly, she discovered that this species is highly tolerant to nickel toxicity, establishing an acute 24-hour lethal concentration (LC50) of roughly 177 mg/L—among the highest tolerance levels ever recorded for a marine invertebrate in artificial seawater.</p>
 <p>Instead of generating a massive, traditional antioxidant response to combat this severe stress, Celeste found that <em>B. schlosseri</em> employs a systemic survival strategy. At high nickel concentrations (100 mg/L), the colonies entered <strong>“blastogenic arrest”</strong>—halting their weekly asexual reproductive cycle and pausing the development of new buds. Through transcriptomic (RNA-seq) analysis, Celeste revealed that the colonies tightly coordinated this response by modulating developmental signaling pathways, inhibiting apoptosis, and remodeling their extracellular matrix (ECM) and vasculature. By putting reproduction and generational turnover on pause, the colony effectively mitigates its endogenous oxidative burden to survive the toxic environment.</p>
@@ -110,7 +108,6 @@
   <dc:creator>Steven Roberts</dc:creator>
   <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-escience/</link>
   <description><![CDATA[ 
-
 
 
 
@@ -193,7 +190,6 @@
   <dc:creator>Steven Roberts</dc:creator>
   <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-polyic/</link>
   <description><![CDATA[ 
-
 
 
 
@@ -289,7 +285,6 @@
 
 
 
-
 <p>In a new preprint titled <a href="https://doi.org/10.1101/2025.11.06.686367"><em>From Blue to Pink: Resazurin as a High-Throughput Proxy for Metabolic Rate in Oysters</em></a>, Ariana S. Huffmyer and colleagues demonstrate a powerful yet elegant way to measure how oysters breathe, grow, and cope with stress — by watching a color change.</p>
 <section id="a-new-colorful-window-into-oyster-metabolism" class="level3">
 <h3 class="anchored" data-anchor-id="a-new-colorful-window-into-oyster-metabolism"><strong>🌊 A New Colorful Window into Oyster Metabolism</strong></h3>
@@ -343,7 +338,6 @@
   <dc:creator>Steven Roberts</dc:creator>
   <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-sormi/</link>
   <description><![CDATA[ 
-
 
 
 
