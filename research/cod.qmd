@@ -8,7 +8,7 @@ theme: "reproductive biology and ecology"
 agency: "Pacific States Marine Fishery Commission"
 year: "2023"
 github: "https://github.com/RobertsLab/project-cod-temperature"
-image: "/img/cod.png"
+image: "/img/cod.jpg"
 toc: FALSE
 categories:
   - cod

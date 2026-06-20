@@ -9,7 +9,7 @@ description: "Unveiling the Oyster Stress Testing Framework!"
 #     affiliation-url: https://robertslab.info
 date: 05-06-2024
 categories: [methods, tools] # self-defined categories
-image: /img/bucket.png # finding a good image
+image: /img/bucket.jpg # finding a good image
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 
 format:
