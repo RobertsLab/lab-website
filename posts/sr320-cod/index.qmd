@@ -9,7 +9,7 @@ description: "Insights from CICOES Researchers"
 #     affiliation-url: https://robertslab.info
 date: 01-17-2024
 categories: [cod, genomics, epigenetics, rna-seq] # self-defined categories
-image: /img/cod.png # finding a good image
+image: /img/cod.jpg # finding a good image
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 
 format:

@@ -9,7 +9,7 @@ description: "A Peek into Our Lab Meeting"
 #     affiliation-url: https://robertslab.info
 date: 05-09-2024
 categories: [methods, tools] # self-defined categories
-image: /img/enrich.png # finding a good image
+image: /img/enrich.jpg # finding a good image
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 
 format:
