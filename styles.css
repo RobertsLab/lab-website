@@ -307,6 +307,64 @@
 }
 
 /* ------------------------------------------------------------------ */
+/* Home page — entry-point navigation cards                            */
+/* ------------------------------------------------------------------ */
+
+.lab-lead {
+  font-size: 1.2rem;
+  line-height: 1.5;
+  color: var(--lab-text);
+  margin: 1.25rem 0 0.5rem;
+}
+
+.nav-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1.25rem;
+  margin: 1.5rem 0 2.5rem;
+}
+
+.nav-card {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  padding: 1.5rem;
+  background: var(--lab-surface);
+  border: 1px solid var(--lab-border);
+  border-radius: var(--lab-radius);
+  box-shadow: var(--lab-shadow);
+  text-decoration: none;
+  color: var(--lab-text);
+  transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+}
+
+.nav-card:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--lab-shadow-hover);
+  border-color: var(--lab-accent);
+  text-decoration: none;
+  color: var(--lab-text);
+}
+
+.nav-card .nav-card-icon {
+  font-size: 1.8rem;
+  color: var(--lab-accent);
+  line-height: 1;
+}
+
+.nav-card .nav-card-title {
+  font-size: 1.15rem;
+  font-weight: 600;
+  color: var(--lab-primary);
+}
+
+.nav-card .nav-card-desc {
+  font-size: 0.88rem;
+  color: var(--lab-text-muted);
+  line-height: 1.45;
+}
+
+/* ------------------------------------------------------------------ */
 /* Notebooks page                                                      */
 /* ------------------------------------------------------------------ */
 
@@ -460,7 +518,8 @@
 
   .alumni-grid,
   .content-grid,
-  .web-projects-grid {
+  .web-projects-grid,
+  .nav-cards {
     grid-template-columns: 1fr;
   }
 }
