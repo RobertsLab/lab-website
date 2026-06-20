@@ -2,19 +2,57 @@
 title: "Roberts Lab"
 subtitle: "School of Aquatic and Fishery Sciences - University of Washington"
 title-block-banner: true
-toc: true
-
-listing: 
-  contents:
-    - "frontpage/*/*.qmd"
-  type: grid # or `default` or `table`; each type has its own set of yaml options to include
-  sort: "date desc" # can also sort on more than one field
-  categories: false # allows you to sort posts by assigned categories
+toc: false
+listing:
+  id: recent-activity
+  contents: posts
+  type: grid
+  sort: "date desc"
+  max-items: 3
+  categories: false
+  fields: [image, title, date, description]
   feed: true
 ---
 
 ![](img/lab-photo-02.jpg)
 
-Our lab investigates how marine organisms *remember* and respond to environmental change including how past and present conditions shape physiology, performance, and resilience across life stages and generations. We use integrative, mechanistic approaches that link molecular regulation to organismal outcomes, connecting genetics and epigenetics with physiology to reveal when responses are flexible, when they persist, and which signals best predict resilience in dynamic coastal systems.
+[How do marine organisms *remember* and respond to environmental change?]{.lab-lead}
 
-We prioritize open, reproducible science. Our research products and workflows are shared broadly, including online [lab notebooks](notebooks.qmd), [code, data](https://github.com/RobertsLab), and [presentations](https://faculty.washington.edu/sr320/publications.html#recent-presentations) so results can be evaluated, reused, and extended. Below is a snapshot of current activity. Use the sidebar to explore our People, Projects, and Tools & Apps. For even more, visit our [***lab handbook***](https://robertslab.github.io/resources/).
+We use integrative, mechanistic approaches that link molecular regulation to organismal outcomes — connecting genetics and epigenetics with physiology to reveal when responses are flexible, when they persist, and which signals best predict resilience in dynamic coastal systems. We prioritize open, reproducible science: our [code and data](https://github.com/RobertsLab), [lab notebooks](notebooks.qmd), and [presentations](publications.qmd) are shared broadly so results can be evaluated, reused, and extended. For even more, visit our [**lab handbook**](https://robertslab.github.io/resources/).
+
+## Explore
+
+```{=html}
+<div class="nav-cards">
+
+  <a class="nav-card" href="projects.html">
+    <span class="nav-card-icon"><i class="bi bi-diagram-3"></i></span>
+    <span class="nav-card-title">Projects</span>
+    <span class="nav-card-desc">Active work across environmental epigenetics, reproduction, and aquaculture.</span>
+  </a>
+
+  <a class="nav-card" href="publications.html">
+    <span class="nav-card-icon"><i class="bi bi-journal-text"></i></span>
+    <span class="nav-card-title">Publications</span>
+    <span class="nav-card-desc">Browse 100+ papers by organism and research theme.</span>
+  </a>
+
+  <a class="nav-card" href="people.html">
+    <span class="nav-card-icon"><i class="bi bi-people"></i></span>
+    <span class="nav-card-title">People</span>
+    <span class="nav-card-desc">Meet the team, students, and lab alumni.</span>
+  </a>
+
+  <a class="nav-card" href="tools-and-apps.html">
+    <span class="nav-card-icon"><i class="bi bi-grid-3x3-gap"></i></span>
+    <span class="nav-card-title">Tools &amp; Apps</span>
+    <span class="nav-card-desc">Interactive apps and open, reusable resources.</span>
+  </a>
+
+</div>
+```
+
+## Recent activity
+
+::: {#recent-activity}
+:::
