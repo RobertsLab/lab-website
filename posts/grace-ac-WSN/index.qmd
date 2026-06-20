@@ -8,7 +8,7 @@ author:
     affiliation: UW - School of Aquatic and Fishery Sciences
     affiliation-url: https://faculty.washington.edu/sr320/
 date: 11-15-2023
-categories: [wsn, meeting, seastar] # self-defined categories
+categories: [wsn, meeting, sea star] # self-defined categories
 image: https://github.com/grace-ac/grace-ac.github.io/raw/master/notebook-images/2023-11-15-wsn-recap/IMG_1750.jpg # finding a good image
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 

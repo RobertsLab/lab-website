@@ -8,7 +8,7 @@ author:
     affiliation: Professor, UW - School of Aquatic and Fishery Sciences
     affiliation-url: https://robertslab.info
 date: 02-10-2025
-categories: [wsg, talk] # self-defined categories
+categories: [wsg, presentation] # self-defined categories
 image: http://gannet.fish.washington.edu/seashell/snaps/Monosnap_2025-WSG-Roberts_2025-02-10_07-20-44.png # finding a good image
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 

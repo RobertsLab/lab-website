@@ -6,7 +6,7 @@ author:
     affiliation: UW - School of Aquatic and Fishery Sciences
  #   affiliation-url: https://robertslab.info
 date: 01-04-2024
-categories: [rnaseq, aquaculture, clam, stress] # self-defined categories
+categories: [rna-seq, aquaculture, clam, stress] # self-defined categories
 image: http://gannet.fish.washington.edu/seashell/snaps/Monosnap_mewing-notebook_-_Clam_Gonad_RNAseq_Analysis_2024-01-06_07-25-10.png # finding a good image
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 

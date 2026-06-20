@@ -8,7 +8,7 @@ author:
     affiliation: UW - Department of Biology
     affiliation-url: https://faculty.washington.edu/sr320/
 date: 11-22-2023
-categories: [wsn, meeting, seastar] # self-defined categories
+categories: [wsn, meeting, sea star] # self-defined categories
 image: http://gannet.fish.washington.edu/seashell/snaps/Monosnap_graceleuchtenberger.github.iopost_images20231122WSN.jpeg_at_master__graceleuchtenbergergraceleuchtenberger.github.io_2023-12-11_14-07-16.png # finding a good image
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 
