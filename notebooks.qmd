@@ -5,50 +5,6 @@ toc: true
 ---
 
 ```{=html}
-<style>
-  .nb-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
-    gap: 1rem;
-    margin-top: 1rem;
-  }
-  .nb-card {
-    position: relative;
-    border: 1px solid #d0d7de;
-    border-radius: 10px;
-    padding: 1rem;
-    background: var(--bs-body-bg, #fff);
-    transition: box-shadow .15s ease, transform .15s ease;
-    display: flex;
-    flex-direction: column;
-    gap: .35rem;
-  }
-  .nb-card:hover { box-shadow: 0 4px 14px rgba(0,0,0,.12); transform: translateY(-2px); }
-  .nb-card .nb-name { font-weight: 600; font-size: 1.02rem; }
-  .nb-card a.nb-link { font-size: .85rem; word-break: break-all; }
-  .nb-card .nb-title { font-size: .85rem; font-style: italic; color: #24292f; line-height: 1.3; }
-  .nb-card .nb-date { font-size: .8rem; color: #57606a; margin-top: auto; }
-  .nb-card.nb-recent {
-    border-color: #d97706;
-    box-shadow: 0 0 0 2px rgba(217,119,6,.25);
-    background: linear-gradient(180deg, rgba(217,119,6,.08), transparent 60%);
-  }
-  .nb-badge {
-    position: absolute;
-    top: -10px;
-    right: 10px;
-    background: #d97706;
-    color: #fff;
-    font-size: .68rem;
-    font-weight: 700;
-    letter-spacing: .03em;
-    padding: .15rem .5rem;
-    border-radius: 999px;
-    display: none;
-  }
-  .nb-card.nb-recent .nb-badge { display: inline-block; }
-</style>
-
 <div class="nb-grid" id="nb-grid"></div>
 
 <script>

@@ -1,17 +1,399 @@
-/* css styles */
+/* ================================================================== */
+/* Roberts Lab — site styles                                          */
+/*                                                                    */
+/* Phase 1: design tokens (CSS variables) anchored to the flatly      */
+/* theme (navy primary + teal accent), with .quarto-dark overrides.   */
+/* Phase 2: centralized component styles (cards, grids, pills) that   */
+/* were previously duplicated inline across pages.                    */
+/* ================================================================== */
 
 /* ------------------------------------------------------------------ */
-/* Prominent category filter bar (Publications page)                   */
-/* The category block is moved out of the right margin into this bar    */
-/* (see the relocation script at the bottom of publications.qmd) and    */
-/* its categories are rendered as large, clickable pill buttons.        */
+/* Design tokens                                                       */
+/* ------------------------------------------------------------------ */
+
+:root {
+  /* Brand colors — match the flatly navbar/links */
+  --lab-primary: #2c3e50;        /* flatly navy — headings, primary text */
+  --lab-primary-hover: #1a252f;  /* darker navy for hover states */
+  --lab-accent: #18bc9c;         /* flatly teal — interactive accent */
+  --lab-accent-hover: #149a80;   /* darker teal for hover states */
+  --lab-highlight: #d97706;      /* amber — "recent"/attention highlight */
+
+  /* Surfaces and borders */
+  --lab-surface: #ffffff;        /* card background */
+  --lab-surface-muted: #f5f7f9;  /* secondary card / filter-bar background */
+  --lab-border: #e2e8f0;         /* card / control borders */
+
+  /* Text */
+  --lab-text: #2c3e50;
+  --lab-text-muted: #4a5568;
+  --lab-text-subtle: #718096;
+  --lab-on-accent: #ffffff;      /* text on accent/primary fills */
+
+  /* Shape & elevation */
+  --lab-radius: 12px;
+  --lab-radius-md: 8px;
+  --lab-radius-sm: 4px;
+  --lab-pill: 999px;
+  --lab-shadow: 0 4px 12px rgba(0, 0, 0, 0.10);
+  --lab-shadow-hover: 0 8px 20px rgba(0, 0, 0, 0.15);
+  --lab-shadow-sm: 0 4px 8px rgba(0, 0, 0, 0.10);
+}
+
+/* Dark mode: re-map the tokens once; components inherit automatically */
+.quarto-dark {
+  --lab-primary: #90cdf4;        /* lighter, legible navy/blue on dark */
+  --lab-primary-hover: #bee3f8;
+  --lab-accent: #18bc9c;
+  --lab-accent-hover: #1fd3b0;
+  --lab-highlight: #f59e0b;
+
+  --lab-surface: #2d3748;
+  --lab-surface-muted: #2b2b2b;
+  --lab-border: #4a5568;
+
+  --lab-text: #e2e8f0;
+  --lab-text-muted: #cbd5e0;
+  --lab-text-subtle: #a0aec0;
+  --lab-on-accent: #ffffff;
+
+  --lab-shadow: 0 4px 12px rgba(0, 0, 0, 0.45);
+  --lab-shadow-hover: 0 8px 20px rgba(0, 0, 0, 0.55);
+  --lab-shadow-sm: 0 4px 8px rgba(0, 0, 0, 0.45);
+}
+
+/* ------------------------------------------------------------------ */
+/* Shared building blocks                                              */
+/* ------------------------------------------------------------------ */
+
+/* Section divider heading (used on People + Courses) */
+.section-header {
+  color: var(--lab-text);
+  border-bottom: 3px solid var(--lab-accent);
+  padding-bottom: 0.5rem;
+  margin: 3rem 0 2rem 0;
+}
+
+/* Auto-fit grid of small secondary cards (alumni, course content) */
+.alumni-grid,
+.content-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1.5rem;
+  margin-top: 2rem;
+}
+
+.alumni-card,
+.content-card {
+  background: var(--lab-surface-muted);
+  border: 1px solid var(--lab-border);
+  border-radius: var(--lab-radius-md);
+  padding: 1.5rem;
+  color: var(--lab-text);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.alumni-card:hover,
+.content-card:hover {
+  transform: translateY(-1px);
+  box-shadow: var(--lab-shadow-sm);
+}
+
+.alumni-name,
+.content-title {
+  font-weight: 600;
+  color: var(--lab-text);
+  margin-bottom: 0.5rem;
+}
+
+/* Small bordered "chip" link (alumni + course content) */
+.alumni-link,
+.content-link {
+  color: var(--lab-accent);
+  text-decoration: none;
+  font-size: 0.85rem;
+  border: 1px solid var(--lab-accent);
+  padding: 0.2rem 0.5rem;
+  border-radius: var(--lab-radius-sm);
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+.alumni-link:hover,
+.content-link:hover {
+  background: var(--lab-accent);
+  color: var(--lab-on-accent);
+  text-decoration: none;
+}
+
+/* ------------------------------------------------------------------ */
+/* People page                                                         */
+/* ------------------------------------------------------------------ */
+
+.person-card {
+  background: var(--lab-surface);
+  border-radius: var(--lab-radius);
+  box-shadow: var(--lab-shadow);
+  padding: 1.5rem;
+  margin-bottom: 2rem;
+  display: flex;
+  gap: 1.5rem;
+  align-items: flex-start;
+  color: var(--lab-text);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.person-card:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--lab-shadow-hover);
+}
+
+.person-image {
+  flex-shrink: 0;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 4px solid var(--lab-surface-muted);
+}
+
+.person-content {
+  flex: 1;
+  min-width: 0;
+}
+
+.person-name {
+  color: var(--lab-primary);
+  font-size: 1.4rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.person-links {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 1rem;
+  flex-wrap: wrap;
+}
+
+.person-link {
+  background: var(--lab-surface-muted);
+  color: var(--lab-text-muted);
+  padding: 0.25rem 0.75rem;
+  border-radius: var(--lab-pill);
+  text-decoration: none;
+  font-size: 0.9rem;
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+.person-link:hover {
+  background: var(--lab-accent);
+  color: var(--lab-on-accent);
+  text-decoration: none;
+}
+
+.person-bio {
+  color: var(--lab-text-muted);
+  line-height: 1.6;
+  font-size: 0.9rem;
+}
+
+.alumni-category {
+  color: var(--lab-text-subtle);
+  font-size: 0.9rem;
+  font-style: italic;
+  margin-bottom: 0.5rem;
+}
+
+.alumni-links {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+/* ------------------------------------------------------------------ */
+/* Courses page                                                        */
+/* ------------------------------------------------------------------ */
+
+.course-card {
+  background: var(--lab-surface);
+  border-radius: var(--lab-radius);
+  box-shadow: var(--lab-shadow);
+  padding: 1.5rem;
+  margin-bottom: 2rem;
+  color: var(--lab-text);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.course-card:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--lab-shadow-hover);
+}
+
+.course-title {
+  color: var(--lab-primary);
+  font-size: 1.4rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+
+.course-description {
+  color: var(--lab-text-muted);
+  line-height: 1.6;
+  margin-bottom: 1rem;
+}
+
+/* Solid-fill button-style link */
+.course-link {
+  background: var(--lab-accent);
+  color: var(--lab-on-accent);
+  padding: 0.5rem 1rem;
+  border-radius: 6px;
+  text-decoration: none;
+  font-size: 0.9rem;
+  display: inline-block;
+  transition: background-color 0.2s ease;
+}
+
+.course-link:hover {
+  background: var(--lab-accent-hover);
+  color: var(--lab-on-accent);
+  text-decoration: none;
+}
+
+/* ------------------------------------------------------------------ */
+/* Tools & Apps page                                                   */
+/* ------------------------------------------------------------------ */
+
+.web-projects-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.75rem;
+  margin-top: 2rem;
+}
+
+.web-project-card {
+  display: block;
+  background: var(--lab-surface);
+  border: 1px solid var(--lab-border);
+  border-radius: var(--lab-radius);
+  overflow: hidden;
+  text-decoration: none;
+  color: inherit;
+  box-shadow: var(--lab-shadow);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.web-project-card:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--lab-shadow-hover);
+  text-decoration: none;
+  color: inherit;
+}
+
+.web-project-card img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  display: block;
+  background: var(--lab-surface-muted);
+}
+
+.web-project-name {
+  padding: 1rem 1.25rem;
+  font-size: 1.15rem;
+  font-weight: 600;
+  color: var(--lab-primary);
+  text-align: center;
+}
+
+/* ------------------------------------------------------------------ */
+/* Notebooks page                                                      */
+/* ------------------------------------------------------------------ */
+
+.nb-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.nb-card {
+  position: relative;
+  border: 1px solid var(--lab-border);
+  border-radius: 10px;
+  padding: 1rem;
+  background: var(--lab-surface);
+  color: var(--lab-text);
+  transition: box-shadow 0.15s ease, transform 0.15s ease;
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+}
+
+.nb-card:hover {
+  box-shadow: var(--lab-shadow-hover);
+  transform: translateY(-2px);
+}
+
+.nb-card .nb-name {
+  font-weight: 600;
+  font-size: 1.02rem;
+}
+
+.nb-card a.nb-link {
+  font-size: 0.85rem;
+  word-break: break-all;
+}
+
+.nb-card .nb-title {
+  font-size: 0.85rem;
+  font-style: italic;
+  color: var(--lab-text-muted);
+  line-height: 1.3;
+}
+
+.nb-card .nb-date {
+  font-size: 0.8rem;
+  color: var(--lab-text-subtle);
+  margin-top: auto;
+}
+
+.nb-card.nb-recent {
+  border-color: var(--lab-highlight);
+  box-shadow: 0 0 0 2px rgba(217, 119, 6, 0.25);
+  background: linear-gradient(180deg, rgba(217, 119, 6, 0.08), transparent 60%);
+}
+
+.nb-badge {
+  position: absolute;
+  top: -10px;
+  right: 10px;
+  background: var(--lab-highlight);
+  color: #fff;
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  padding: 0.15rem 0.5rem;
+  border-radius: var(--lab-pill);
+  display: none;
+}
+
+.nb-card.nb-recent .nb-badge {
+  display: inline-block;
+}
+
+/* ------------------------------------------------------------------ */
+/* Publications page — prominent category filter bar                   */
+/* The category block is moved out of the right margin into this bar   */
+/* (see the relocation script at the bottom of publications.qmd) and   */
+/* its categories are rendered as large, clickable pill buttons.       */
 /* ------------------------------------------------------------------ */
 
 .category-filter-bar {
   margin: 1rem 0 1.75rem;
   padding: 1rem 1.25rem 1.1rem;
-  background: #f5f7f9;
-  border: 1px solid rgba(0, 0, 0, 0.08);
+  background: var(--lab-surface-muted);
+  border: 1px solid var(--lab-border);
   border-radius: 0.6rem;
 }
 
@@ -21,7 +403,7 @@
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.04em;
-  color: #2c3e50;
+  color: var(--lab-text);
 }
 
 .category-filter-bar .quarto-listing-category {
@@ -33,10 +415,10 @@
 .category-filter-bar .quarto-listing-category .category {
   display: inline-block;
   padding: 0.38rem 0.85rem;
-  border: 1px solid #2c3e50;
-  border-radius: 999px;
-  background: #fff;
-  color: #2c3e50;
+  border: 1px solid var(--lab-primary);
+  border-radius: var(--lab-pill);
+  background: var(--lab-surface);
+  color: var(--lab-primary);
   font-size: 0.92rem;
   line-height: 1.2;
   white-space: nowrap;
@@ -45,15 +427,15 @@
 }
 
 .category-filter-bar .quarto-listing-category .category:hover {
-  background: #2c3e50;
-  color: #fff;
+  background: var(--lab-primary);
+  color: var(--lab-on-accent);
   box-shadow: 0 1px 4px rgba(0, 0, 0, 0.18);
 }
 
 .category-filter-bar .quarto-listing-category .category.active {
-  background: #18bc9c; /* flatly accent */
-  border-color: #18bc9c;
-  color: #fff;
+  background: var(--lab-accent);
+  border-color: var(--lab-accent);
+  color: var(--lab-on-accent);
   font-weight: 600;
 }
 
@@ -62,25 +444,23 @@
   font-size: 0.8em;
 }
 
-/* Dark mode (darkly theme) */
-.quarto-dark .category-filter-bar {
-  background: #2b2b2b;
-  border-color: #444;
-}
-.quarto-dark .category-filter-bar .quarto-listing-category-title {
-  color: #e8e8e8;
-}
-.quarto-dark .category-filter-bar .quarto-listing-category .category {
-  background: #303030;
-  color: #e0e0e0;
-  border-color: #6c757d;
-}
-.quarto-dark .category-filter-bar .quarto-listing-category .category:hover {
-  background: #e0e0e0;
-  color: #222;
-}
-.quarto-dark .category-filter-bar .quarto-listing-category .category.active {
-  background: #18bc9c;
-  border-color: #18bc9c;
-  color: #fff;
+/* ------------------------------------------------------------------ */
+/* Responsive                                                          */
+/* ------------------------------------------------------------------ */
+
+@media (max-width: 768px) {
+  .person-card {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .person-image {
+    align-self: center;
+  }
+
+  .alumni-grid,
+  .content-grid,
+  .web-projects-grid {
+    grid-template-columns: 1fr;
+  }
 }
