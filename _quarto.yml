@@ -30,32 +30,8 @@ website:
     #     file: publications.qmd
     #   - text: "How"  
     #     file: posts.qmd
-    #  
-    tools:
-      - icon: globe
-        menu:
-          - text: Resazurin
-            url:  https://robertslab.github.io/resazurin-assay-development/
-          - text: DIVE
-            url:  https://urol-e5.github.io/deep-dive-genome-browser
-          - text: OCEAN
-            url:  https://oystergen.es
-          - text: MOSAiC
-            url:  https://urol-e5.github.io/MOSAiC/
-          - text: Mussel Manuscript
-            url:  https://sr320.github.io/paper-chilean-mussel/index.html
-          - text: Contra
-            url:  https://github.com/sr320/ConTra
-          - text: Shellfish Dashboard
-            url:  https://sr320.github.io/shellfish-dashboard/oyster_ltm_dashboard.html
-          - text: M2M Dashboard
-            url:  https://sr320.github.io/m2m-dashboard/
-          - text: Contra Shiny App
-            url:  https://sr320.shinyapps.io/contra-facet-z/
-          - text: Resazurin VIMS Trial Shiny App
-            url:  https://sr320.shinyapps.io/resazurin-explorer/
-     
-     
+    #
+    right:
       - icon: hdd-network
         menu:
           - text: hyak-on-demand
@@ -72,35 +48,6 @@ website:
             url: https://apexfusion.com/apex/6442fd69028f6947a44a61d1
           - text: klone
             url: https://robertslab.github.io/resources/klone_quick-start/
-    
-      - icon: journal-code
-        menu:
-          - text: sam
-            url:  https://robertslab.github.io/sams-notebook/
-          - text: steven
-            url:  https://sr320.github.io/tumbling-oysters/
-          - text: aspen
-            url:  https://aspencoyle.github.io/notebook/
-          - text: chris
-            url:  https://chrismantegna.github.io/cmlabsite/
-          - text: zach
-            url:  https://zbengt.github.io/notebook/
-          - text: celeste
-            url:  https://valeste.github.io/tough-tunicates/
-          - text: grace
-            url:  https://grace-ac.github.io/notebook/
-          - text: kathleen
-            url:  https://shedurkin.github.io/Roberts-LabNotebook/
-          - text: ariana
-            url:  https://ahuffmyer.github.io/notebook.html
-          - text: larken
-            url:  https://larkenr.github.io
-          - text: noah
-            url:  https://genefish.wordpress.com/author/jtatum0celts/
-          - text: megan
-            url:  https://meganewing.github.io/mewing-notebook/
-          - text: eric
-            url:  https://eric-ess.github.io/notebook/
             
       - icon: github
         menu:
