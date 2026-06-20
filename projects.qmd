@@ -7,7 +7,7 @@ listing:
   image-height: 400px
   contents:
     - "research/e5.qmd"
-    - "research/cod.qmd"
+    - "research/sormi.qmd"
     - "research/usda.qmd"
     #- "research/aust.qmd"
     - "research/wsg-ec.qmd"
