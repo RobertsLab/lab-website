@@ -8,7 +8,7 @@ author:
     affiliation: Professor, UW - School of Aquatic and Fishery Sciences
     affiliation-url: https://robertslab.info
 date: 01-30-2026
-categories: [teaching, aquaculture] # self-defined categories
+categories: [education, aquaculture] # self-defined categories
 image: http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Image_2026-01-30_11-26-05.png # finding a good image
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 

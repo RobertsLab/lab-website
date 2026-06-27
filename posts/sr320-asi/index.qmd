@@ -8,7 +8,7 @@ description: "A Dive into Steven's Recent Austral Summer Institute Course at the
 #     affiliation: Professor, UW - School of Aquatic and Fishery Sciences
 #     affiliation-url: https://robertslab.info
 date: 01-19-2024
-categories: [course, genomics, methods, website] # self-defined categories
+categories: [education, genomics, methods, website] # self-defined categories
 image: /img/asi.png # finding a good image
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 

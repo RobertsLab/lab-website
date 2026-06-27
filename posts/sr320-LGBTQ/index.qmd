@@ -8,7 +8,7 @@ description: "Feature article with Aspen"
 #     affiliation: UW - School of Aquatic and Fishery Sciences
 #     affiliation-url: https://faculty.washington.edu/sr320/
 date: 11-18-2023
-categories: [LGBTQ+, diversity, inclusion, dei] # self-defined categories
+categories: [lgbtq+, dei] # self-defined categories
 image: https://fish.uw.edu/wp-content/uploads/sites/29/2023/11/LGBTQ-in-STEM.jpg # finding a good image
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 

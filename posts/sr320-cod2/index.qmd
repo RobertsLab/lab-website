@@ -8,7 +8,7 @@ author:
   affiliation: Postdoctoral Research Associate - Alaska Fisheries Science Center / UW SAFS
   #affiliation-url: https://robertslab.info
 date: "2025-02-20"
-categories: [cod, Alaska] # self-defined categories
+categories: [cod, alaska] # self-defined categories
 image: http://gannet.fish.washington.edu/seashell/snaps/2025-02-17_09-15-38.png # finding a good image
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 

@@ -8,7 +8,7 @@ author:
     affiliation: Professor, UW - School of Aquatic and Fishery Sciences
     affiliation-url: https://robertslab.info
 date: 09-15-2023
-categories: [paper, acidication, oyster, ostrea, tag-seq] # self-defined categories
+categories: [paper, acidification, oyster, ostrea, tag-seq] # self-defined categories
 image: https://gannet.fish.washington.edu/seashell/snaps/httpswww.biorxiv.orgcontent10.11012023.09.08.556443v1.full.pdf_2023-09-14_12-56-48.png # finding a good image
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 
