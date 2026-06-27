@@ -82,6 +82,11 @@ toc: false
     <div class="web-project-name">Pub-a-thon 2026</div>
   </a>
 
+  <a class="web-project-card" href="https://robertslab.github.io/SHIELD/" target="_blank" rel="noopener">
+    <img src="/img/web-projects/shield.png" alt="SHIELD">
+    <div class="web-project-name">SHIELD</div>
+  </a>
+
   <a class="web-project-card" href="https://urol-e5.github.io/deep-dive-genome-browser/" target="_blank" rel="noopener">
     <img src="/img/web-projects/dive.png" alt="DIVE">
     <div class="web-project-name">DIVE</div>
