@@ -1,0 +1,40 @@
+---
+title: "Diving into the hidden regulatory world of reef-building corals"
+description: "Small RNAs, big roles in coral resilience."
+author:
+  - name: Steven Roberts
+    url: https://sr320.github.io/
+    orcid: 0000-0001-8302-1138
+    affiliation: Professor, UW - School of Aquatic and Fishery Sciences
+    affiliation-url: https://robertslab.info
+date: 07-08-2026
+categories: [coral, epigenetics]
+image: "images/clipboard-2802948026.png"
+draft: false
+
+format:
+  html:
+    code-fold: true
+    code-tools: true
+    code-copy: true
+    highlight-style: github
+    code-overflow: wrap
+---
+
+Congratulations to **Jill Ashey** and the entire E5 Team on the new paper in *Environmental Epigenetics*:\
+
+**“Characterization of long non-coding RNAs, microRNAs, and piwiRNAs in reef-building corals.”**
+
+**Paper:** <https://academic.oup.com/eep/advance-article/doi/10.1093/eep/dvag021/8711767>
+
+**Interactive browser:** <https://urol-e5.github.io/deep-dive-genome-browser/>
+
+Corals may appear still and silent, but inside their cells is a dynamic regulatory world helping coordinate how genes are turned on, tuned down, and organized in response to biological and environmental demands. In this new study, Jill led a broad comparative analysis of **non-coding RNAs** across three reef-building coral genera from Mo’orea, French Polynesia: *Acropora*, *Pocillopora*, and *Porites*. These molecules do not code for proteins, but they can play powerful roles in regulating gene expression.
+
+The study identifies the genomic machinery corals use to produce and deploy several major classes of non-coding RNAs, including **long non-coding RNAs**, **microRNAs**, and **piwiRNAs**. Among the highlights, the team found conserved microRNAs shared across coral species, including **miR-100**, as well as species-restricted microRNAs that may reflect unique regulatory features of each lineage. Predicted microRNA targets included genes involved in immune response and signal transduction, pointing to possible roles in coral health, stress response, and resilience.
+
+The work also revealed intriguing patterns in other RNA classes. Many piwiRNAs overlapped with genes associated with genome maintenance and stability, while long non-coding RNAs showed very little sequence conservation across species but were often located near immune-related genes. Together, these results suggest that corals have a rich and complex non-coding regulatory landscape that has only begun to be explored.
+
+To make these data easier to explore, the team also developed the **DIVE Platform: Data-driven Insights into Variation and Epigenetics**. This complementary genome browser lets users interactively examine non-coding RNA features across the three coral species and provides a resource for researchers interested in coral gene regulation, epigenetics, and environmental response.
+
+This work is an exciting step toward understanding how reef-building corals regulate their genomes and respond to changing environments, and it showcases Jill’s leadership in bringing new genomic resources to coral biology.

@@ -9,13 +9,47 @@
 <link>https://faculty.washington.edu/sr320/</link>
 <atom:link href="https://faculty.washington.edu/sr320/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.6.40</generator>
-<lastBuildDate>Thu, 11 Jun 2026 07:00:00 GMT</lastBuildDate>
+<generator>quarto-1.7.33</generator>
+<lastBuildDate>Wed, 08 Jul 2026 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Diving into the hidden regulatory world of reef-building corals</title>
+  <dc:creator>Steven Roberts</dc:creator>
+  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-deep-dive/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<p>Congratulations to <strong>Jill Ashey</strong> and the entire E5 Team on the new paper in <em>Environmental Epigenetics</em>:<br>
+</p>
+<p><strong>“Characterization of long non-coding RNAs, microRNAs, and piwiRNAs in reef-building corals.”</strong></p>
+<p><strong>Paper:</strong> <a href="https://academic.oup.com/eep/advance-article/doi/10.1093/eep/dvag021/8711767" class="uri">https://academic.oup.com/eep/advance-article/doi/10.1093/eep/dvag021/8711767</a></p>
+<p><strong>Interactive browser:</strong> <a href="https://urol-e5.github.io/deep-dive-genome-browser/" class="uri">https://urol-e5.github.io/deep-dive-genome-browser/</a></p>
+<p>Corals may appear still and silent, but inside their cells is a dynamic regulatory world helping coordinate how genes are turned on, tuned down, and organized in response to biological and environmental demands. In this new study, Jill led a broad comparative analysis of <strong>non-coding RNAs</strong> across three reef-building coral genera from Mo’orea, French Polynesia: <em>Acropora</em>, <em>Pocillopora</em>, and <em>Porites</em>. These molecules do not code for proteins, but they can play powerful roles in regulating gene expression.</p>
+<p>The study identifies the genomic machinery corals use to produce and deploy several major classes of non-coding RNAs, including <strong>long non-coding RNAs</strong>, <strong>microRNAs</strong>, and <strong>piwiRNAs</strong>. Among the highlights, the team found conserved microRNAs shared across coral species, including <strong>miR-100</strong>, as well as species-restricted microRNAs that may reflect unique regulatory features of each lineage. Predicted microRNA targets included genes involved in immune response and signal transduction, pointing to possible roles in coral health, stress response, and resilience.</p>
+<p>The work also revealed intriguing patterns in other RNA classes. Many piwiRNAs overlapped with genes associated with genome maintenance and stability, while long non-coding RNAs showed very little sequence conservation across species but were often located near immune-related genes. Together, these results suggest that corals have a rich and complex non-coding regulatory landscape that has only begun to be explored.</p>
+<p>To make these data easier to explore, the team also developed the <strong>DIVE Platform: Data-driven Insights into Variation and Epigenetics</strong>. This complementary genome browser lets users interactively examine non-coding RNA features across the three coral species and provides a resource for researchers interested in coral gene regulation, epigenetics, and environmental response.</p>
+<p>This work is an exciting step toward understanding how reef-building corals regulate their genomes and respond to changing environments, and it showcases Jill’s leadership in bringing new genomic resources to coral biology.</p>
+
+
+<!-- -->
+
+
+ ]]></description>
+  <category>coral</category>
+  <category>epigenetics</category>
+  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-deep-dive/</guid>
+  <pubDate>Wed, 08 Jul 2026 07:00:00 GMT</pubDate>
+  <media:content url="https://faculty.washington.edu/sr320/posts/frontpage/sr320-deep-dive/images/clipboard-2802948026.png" medium="image" type="image/png" height="109" width="144"/>
+</item>
 <item>
   <title>Four Undergrads, Four Home Runs: A Spring Highlight Reel</title>
   <dc:creator>Steven Roberts</dc:creator>
   <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-spring-undergrads/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -75,6 +109,7 @@
 
 
 
+
 <p>We are thrilled to highlight the incredible work of Celeste Valdivia, who recently defended her Master of Science thesis at the University of Washington’s School of Aquatic and Fishery Sciences. Co-advised by Dr.&nbsp;Alison Gardell and Dr.&nbsp;Steven Roberts, Celeste’s research dives deep into the biology of the globally invasive marine tunicate, <em>Botryllus schlosseri</em>. Her innovative work lays a crucial foundation for overcoming a decades-long hurdle in marine biology: the development of the first immortalized marine invertebrate cell line.</p>
 <p><strong>A Unique Strategy for Surviving Toxic Stress</strong> To understand the cellular mechanisms that might allow tunicate cells to become immortalized, Celeste first evaluated how whole colonies of <em>B. schlosseri</em> respond to oxidative stress caused by nickel. Astonishingly, she discovered that this species is highly tolerant to nickel toxicity, establishing an acute 24-hour lethal concentration (LC50) of roughly 177 mg/L—among the highest tolerance levels ever recorded for a marine invertebrate in artificial seawater.</p>
 <p>Instead of generating a massive, traditional antioxidant response to combat this severe stress, Celeste found that <em>B. schlosseri</em> employs a systemic survival strategy. At high nickel concentrations (100 mg/L), the colonies entered <strong>“blastogenic arrest”</strong>—halting their weekly asexual reproductive cycle and pausing the development of new buds. Through transcriptomic (RNA-seq) analysis, Celeste revealed that the colonies tightly coordinated this response by modulating developmental signaling pathways, inhibiting apoptosis, and remodeling their extracellular matrix (ECM) and vasculature. By putting reproduction and generational turnover on pause, the colony effectively mitigates its endogenous oxidative burden to survive the toxic environment.</p>
@@ -108,6 +143,7 @@
   <dc:creator>Steven Roberts</dc:creator>
   <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-escience/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -190,6 +226,7 @@
   <dc:creator>Steven Roberts</dc:creator>
   <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-polyic/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -285,6 +322,7 @@
 
 
 
+
 <p>In a new preprint titled <a href="https://doi.org/10.1101/2025.11.06.686367"><em>From Blue to Pink: Resazurin as a High-Throughput Proxy for Metabolic Rate in Oysters</em></a>, Ariana S. Huffmyer and colleagues demonstrate a powerful yet elegant way to measure how oysters breathe, grow, and cope with stress — by watching a color change.</p>
 <section id="a-new-colorful-window-into-oyster-metabolism" class="level3">
 <h3 class="anchored" data-anchor-id="a-new-colorful-window-into-oyster-metabolism"><strong>🌊 A New Colorful Window into Oyster Metabolism</strong></h3>
@@ -332,60 +370,6 @@
   <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-pink/</guid>
   <pubDate>Tue, 11 Nov 2025 08:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/2025-11-11_05-14-47.png" medium="image" type="image/png"/>
-</item>
-<item>
-  <title>Building Resilient Oysters: Launching the SORMI Project</title>
-  <dc:creator>Steven Roberts</dc:creator>
-  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-sormi/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>We are excited to share that our proposal, <em>Development of SORMI (Summer Oyster Resilience and Mortality Index): A Quantitative Tool for Improving Field Survival</em>, has been funded through the Western Regional Aquaculture Center. This multi-institutional effort will address one of the most pressing challenges in shellfish aquaculture—<strong>recurrent summer mortality in Pacific oysters</strong>.</p>
-<section id="the-challenge" class="level3">
-<h3 class="anchored" data-anchor-id="the-challenge"><strong>The Challenge</strong></h3>
-<p>For decades, oyster growers across the West Coast have faced sudden, large-scale summer die-offs linked to rising seawater temperatures, disease, and other stressors. These events threaten farm productivity and the economic stability of the shellfish industry. Despite years of research, a single cause has never been identified. Instead, we are taking a new approach: focusing on why oysters survive rather than why they die.</p>
-</section>
-<section id="what-is-sormi" class="level3">
-<h3 class="anchored" data-anchor-id="what-is-sormi"><strong>What Is SORMI?</strong></h3>
-<p>SORMI—the <em>Summer Oyster Resilience and Mortality Index</em>—will be a <strong>generalized stress resilience index</strong> for Pacific oysters. By integrating a suite of physiological and metabolic assays, the index will help predict which oyster families are most resilient under real-world conditions. This tool will directly support breeding programs and hatcheries, providing a practical way to select for survival and reduce the frequency of catastrophic summer mortality events .</p>
-<p><img src="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_SR_PSI_WRAC_2025_Full_Proposal_Draft_2025-09-06_06-35-37.png" class="img-fluid"></p>
-</section>
-<section id="our-role-at-uw" class="level3">
-<h3 class="anchored" data-anchor-id="our-role-at-uw"><strong>Our Role at UW</strong></h3>
-<p>At the Roberts Lab, our team will be leading development of innovative, high-throughput stress assays, including a new <a href="http://oyster.pink"><strong>resazurin-based metabolic assay</strong></a> we have been refining as a cost-effective, scalable way to measure oyster metabolism. We will also work closely with partners to analyze stress resilience across hundreds of oyster families and link these traits to field survival outcomes. Our focus is on providing growers and breeding programs with actionable, science-based tools that are accessible and easy to implement.</p>
-</section>
-<section id="project-leadership-and-partners" class="level3">
-<h3 class="anchored" data-anchor-id="project-leadership-and-partners"><strong>Project Leadership and Partners</strong></h3>
-<p>This project is led by <strong>Bobbi Hudson</strong>, Executive Director of the <strong>Pacific Shellfish Institute (PSI)</strong>. The collaborative team brings together expertise and resources from across the region, including:</p>
-<ul>
-<li><p><strong>University of Washington (Roberts Lab)</strong> – stress physiology and assay development</p></li>
-<li><p><strong>USDA Agricultural Research Service (Neil Thompson, Pacific Oyster Genomic Selection project)</strong> – breeding program integration and genetic analysis</p></li>
-<li><p><strong>NOAA Fisheries (Mackenzie Gavery)</strong> – environmental physiology and genomics</p></li>
-<li><p><strong>California Sea Grant (Kevin Johnson, Cal Poly)</strong> – aquaculture extension and grower engagement</p></li>
-<li><p><strong>Industry partners</strong> – Goose Point Oyster Company (WA) and Hog Island Oyster Company (CA)</p></li>
-</ul>
-<p>This broad coalition ensures the project is grounded in industry needs while pushing forward fundamental science .</p>
-<p><img src="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_SR_PSI_WRAC_2025_Full_Proposal_Draft_2025-09-06_06-36-23.png" class="img-fluid"></p>
-</section>
-<section id="implications-for-the-shellfish-industry" class="level3">
-<h3 class="anchored" data-anchor-id="implications-for-the-shellfish-industry"><strong>Implications for the Shellfish Industry</strong></h3>
-<p>The ultimate goal of SORMI is to give oyster growers a <strong>practical decision-making tool</strong>. With a reliable index, farmers could anticipate when their stocks are stressed and take proactive measures—harvesting before a mortality event, adjusting management practices, or prioritizing resilient broodstock. For breeding programs, SORMI will add a measurable, heritable trait that can accelerate development of hardier oyster lines.</p>
-<p>In short, this project will help secure the future of West Coast oyster farming by <strong>turning science into survival.</strong></p>
-
-
-<!-- -->
-
-</section>
-
- ]]></description>
-  <category>aquaculture</category>
-  <category>stress</category>
-  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-sormi/</guid>
-  <pubDate>Fri, 05 Sep 2025 07:00:00 GMT</pubDate>
-  <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_SR_PSI_WRAC_2025_Full_Proposal_Draft_2025-09-06_06-42-09.png" medium="image" type="image/png"/>
 </item>
 </channel>
 </rss>

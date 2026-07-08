@@ -9,13 +9,47 @@
 <link>https://faculty.washington.edu/sr320/posts.html</link>
 <atom:link href="https://faculty.washington.edu/sr320/posts.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.6.40</generator>
-<lastBuildDate>Thu, 11 Jun 2026 07:00:00 GMT</lastBuildDate>
+<generator>quarto-1.7.33</generator>
+<lastBuildDate>Wed, 08 Jul 2026 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Diving into the hidden regulatory world of reef-building corals</title>
+  <dc:creator>Steven Roberts</dc:creator>
+  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-deep-dive/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<p>Congratulations to <strong>Jill Ashey</strong> and the entire E5 Team on the new paper in <em>Environmental Epigenetics</em>:<br>
+</p>
+<p><strong>“Characterization of long non-coding RNAs, microRNAs, and piwiRNAs in reef-building corals.”</strong></p>
+<p><strong>Paper:</strong> <a href="https://academic.oup.com/eep/advance-article/doi/10.1093/eep/dvag021/8711767" class="uri">https://academic.oup.com/eep/advance-article/doi/10.1093/eep/dvag021/8711767</a></p>
+<p><strong>Interactive browser:</strong> <a href="https://urol-e5.github.io/deep-dive-genome-browser/" class="uri">https://urol-e5.github.io/deep-dive-genome-browser/</a></p>
+<p>Corals may appear still and silent, but inside their cells is a dynamic regulatory world helping coordinate how genes are turned on, tuned down, and organized in response to biological and environmental demands. In this new study, Jill led a broad comparative analysis of <strong>non-coding RNAs</strong> across three reef-building coral genera from Mo’orea, French Polynesia: <em>Acropora</em>, <em>Pocillopora</em>, and <em>Porites</em>. These molecules do not code for proteins, but they can play powerful roles in regulating gene expression.</p>
+<p>The study identifies the genomic machinery corals use to produce and deploy several major classes of non-coding RNAs, including <strong>long non-coding RNAs</strong>, <strong>microRNAs</strong>, and <strong>piwiRNAs</strong>. Among the highlights, the team found conserved microRNAs shared across coral species, including <strong>miR-100</strong>, as well as species-restricted microRNAs that may reflect unique regulatory features of each lineage. Predicted microRNA targets included genes involved in immune response and signal transduction, pointing to possible roles in coral health, stress response, and resilience.</p>
+<p>The work also revealed intriguing patterns in other RNA classes. Many piwiRNAs overlapped with genes associated with genome maintenance and stability, while long non-coding RNAs showed very little sequence conservation across species but were often located near immune-related genes. Together, these results suggest that corals have a rich and complex non-coding regulatory landscape that has only begun to be explored.</p>
+<p>To make these data easier to explore, the team also developed the <strong>DIVE Platform: Data-driven Insights into Variation and Epigenetics</strong>. This complementary genome browser lets users interactively examine non-coding RNA features across the three coral species and provides a resource for researchers interested in coral gene regulation, epigenetics, and environmental response.</p>
+<p>This work is an exciting step toward understanding how reef-building corals regulate their genomes and respond to changing environments, and it showcases Jill’s leadership in bringing new genomic resources to coral biology.</p>
+
+
+<!-- -->
+
+
+ ]]></description>
+  <category>coral</category>
+  <category>epigenetics</category>
+  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-deep-dive/</guid>
+  <pubDate>Wed, 08 Jul 2026 07:00:00 GMT</pubDate>
+  <media:content url="https://faculty.washington.edu/sr320/posts/frontpage/sr320-deep-dive/images/clipboard-2802948026.png" medium="image" type="image/png" height="109" width="144"/>
+</item>
 <item>
   <title>Four Undergrads, Four Home Runs: A Spring Highlight Reel</title>
   <dc:creator>Steven Roberts</dc:creator>
   <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-spring-undergrads/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -75,6 +109,7 @@
 
 
 
+
 <p>We are thrilled to highlight the incredible work of Celeste Valdivia, who recently defended her Master of Science thesis at the University of Washington’s School of Aquatic and Fishery Sciences. Co-advised by Dr.&nbsp;Alison Gardell and Dr.&nbsp;Steven Roberts, Celeste’s research dives deep into the biology of the globally invasive marine tunicate, <em>Botryllus schlosseri</em>. Her innovative work lays a crucial foundation for overcoming a decades-long hurdle in marine biology: the development of the first immortalized marine invertebrate cell line.</p>
 <p><strong>A Unique Strategy for Surviving Toxic Stress</strong> To understand the cellular mechanisms that might allow tunicate cells to become immortalized, Celeste first evaluated how whole colonies of <em>B. schlosseri</em> respond to oxidative stress caused by nickel. Astonishingly, she discovered that this species is highly tolerant to nickel toxicity, establishing an acute 24-hour lethal concentration (LC50) of roughly 177 mg/L—among the highest tolerance levels ever recorded for a marine invertebrate in artificial seawater.</p>
 <p>Instead of generating a massive, traditional antioxidant response to combat this severe stress, Celeste found that <em>B. schlosseri</em> employs a systemic survival strategy. At high nickel concentrations (100 mg/L), the colonies entered <strong>“blastogenic arrest”</strong>—halting their weekly asexual reproductive cycle and pausing the development of new buds. Through transcriptomic (RNA-seq) analysis, Celeste revealed that the colonies tightly coordinated this response by modulating developmental signaling pathways, inhibiting apoptosis, and remodeling their extracellular matrix (ECM) and vasculature. By putting reproduction and generational turnover on pause, the colony effectively mitigates its endogenous oxidative burden to survive the toxic environment.</p>
@@ -108,6 +143,7 @@
   <dc:creator>Steven Roberts</dc:creator>
   <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-escience/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -190,6 +226,7 @@
   <dc:creator>Steven Roberts</dc:creator>
   <link>https://faculty.washington.edu/sr320/posts/sr320-crab/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -309,6 +346,7 @@
 
 
 
+
 <p>Last week I traveled to Chile to teach at the Austral Summer Institute and spend time with collaborators at the University of Concepción through our ongoing INCAR2 partnership. It was one of those trips that reminds me why I enjoy this work so much—bringing together students, colleagues, and real-world systems to explore how molecular biology connects to environmental change and aquaculture sustainability.</p>
 <p>At the Summer Institute, I taught Epigenomics in Aquaculture (EpiAqua) to an outstanding group of graduate students and postdoctoral researchers from across South America. The course focused on how epigenetic mechanisms—especially DNA methylation and non-coding RNAs—mediate organismal responses to stress, and how these tools can be applied in aquaculture and climate resilience research.</p>
 <div class="quarto-figure quarto-figure-center">
@@ -349,6 +387,7 @@
   <dc:creator>Steven Roberts</dc:creator>
   <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-polyic/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -439,6 +478,7 @@
   <dc:creator>Steven Roberts</dc:creator>
   <link>https://faculty.washington.edu/sr320/posts/sr320-mother/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -547,6 +587,7 @@ It also resonates with ongoing efforts to integrate <strong>epigenetic and physi
 
 
 
+
 <p>In a new preprint titled <a href="https://doi.org/10.1101/2025.11.06.686367"><em>From Blue to Pink: Resazurin as a High-Throughput Proxy for Metabolic Rate in Oysters</em></a>, Ariana S. Huffmyer and colleagues demonstrate a powerful yet elegant way to measure how oysters breathe, grow, and cope with stress — by watching a color change.</p>
 <section id="a-new-colorful-window-into-oyster-metabolism" class="level3">
 <h3 class="anchored" data-anchor-id="a-new-colorful-window-into-oyster-metabolism"><strong>🌊 A New Colorful Window into Oyster Metabolism</strong></h3>
@@ -600,6 +641,7 @@ It also resonates with ongoing efforts to integrate <strong>epigenetic and physi
   <dc:creator>Steven Roberts</dc:creator>
   <link>https://faculty.washington.edu/sr320/posts/sr320-pgc/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -696,6 +738,7 @@ It also resonates with ongoing efforts to integrate <strong>epigenetic and physi
 
 
 
+
 <p>From April 2023 to March 2025, a team lead by <a href="https://faculty.washington.edu/sr320/people.html#chris-mantegna">Chris Mantegna</a> piloted Intertidal Innovators, an EarthLab Innovation Grant–funded program that blended art and science to connect local high school students with Seattle’s nearshore ecosystems. The program invited 11 students into a five-week internship where they explored foundational intertidal science concepts and translated their learning into creative expression.</p>
 <section id="building-connections-through-art-and-science" class="level2">
 <h2 class="anchored" data-anchor-id="building-connections-through-art-and-science">Building Connections Through Art and Science</h2>
@@ -746,6 +789,7 @@ It also resonates with ongoing efforts to integrate <strong>epigenetic and physi
 
 
 
+
 <p>How do marine organisms adapt to an ocean that is rapidly warming, acidifying, and changing in countless other ways? A new <strong>Perspective article in Integrative and Comparative Biology</strong> by Yaamini R. Venkataraman and Ariana S. Huffmyer takes on this pressing question by focusing on <strong>metabolic plasticity</strong>—an organism’s capacity to adjust how it produces, allocates, and uses energy under stress.</p>
 <p>The authors argue that while genomics, transcriptomics, and epigenomics have all advanced our understanding of stress responses, <strong>metabolomic and lipidomic approaches provide a direct lens into energy balance</strong>—a key driver of resilience. By quantifying the molecules that fuel and regulate cellular processes, researchers can uncover hidden physiological shifts that are invisible at the whole-organism level.</p>
 <p><img src="http://gannet.fish.washington.edu/seashell/snaps/2025-09-24_10-54-17.png" class="img-fluid"></p>
@@ -791,8 +835,9 @@ It also resonates with ongoing efforts to integrate <strong>epigenetic and physi
 <item>
   <title>Building Resilient Oysters: Launching the SORMI Project</title>
   <dc:creator>Steven Roberts</dc:creator>
-  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-sormi/</link>
+  <link>https://faculty.washington.edu/sr320/posts/sr320-sormi/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -838,7 +883,7 @@ It also resonates with ongoing efforts to integrate <strong>epigenetic and physi
  ]]></description>
   <category>aquaculture</category>
   <category>stress</category>
-  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-sormi/</guid>
+  <guid>https://faculty.washington.edu/sr320/posts/sr320-sormi/</guid>
   <pubDate>Fri, 05 Sep 2025 07:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_SR_PSI_WRAC_2025_Full_Proposal_Draft_2025-09-06_06-42-09.png" medium="image" type="image/png"/>
 </item>
@@ -847,6 +892,7 @@ It also resonates with ongoing efforts to integrate <strong>epigenetic and physi
   <dc:creator>Steven Roberts</dc:creator>
   <link>https://faculty.washington.edu/sr320/posts/sr320-sablefish/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -904,6 +950,7 @@ It also resonates with ongoing efforts to integrate <strong>epigenetic and physi
 
 
 
+
 <p>This spring, two outstanding undergraduate researchers in our lab—Genevieve Buchanan and Henry Berg—presented their senior capstone projects, showcasing months of hard work and scientific curiosity. Their research tackled critical questions related to marine invertebrate resilience in the face of environmental stress, and each presentation offered fresh insight into how shellfish species respond to changing ocean conditions.</p>
 <section id="genevieve-buchanan-thermal-tolerance-in-a-stressful-world" class="level2">
 <h2 class="anchored" data-anchor-id="genevieve-buchanan-thermal-tolerance-in-a-stressful-world">🦪 Genevieve Buchanan: Thermal Tolerance in a Stressful World</h2>
@@ -941,6 +988,7 @@ It also resonates with ongoing efforts to integrate <strong>epigenetic and physi
   <dc:creator>Steven Roberts</dc:creator>
   <link>https://faculty.washington.edu/sr320/posts/sr320-fellowships/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -986,6 +1034,7 @@ It also resonates with ongoing efforts to integrate <strong>epigenetic and physi
   <dc:creator>Steven Roberts</dc:creator>
   <link>https://faculty.washington.edu/sr320/posts/sr320-epimar/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -1052,6 +1101,7 @@ It also resonates with ongoing efforts to integrate <strong>epigenetic and physi
 
 
 
+
 <p>We’re excited to share that <strong>Madeline Baird</strong>, an undergraduate researcher in the Roberts Lab, will present her research at the <strong>2025 Mary Gates Undergraduate Research Symposium</strong>.</p>
 <p>Her poster presentation, titled</p>
 <p><strong>“Application of Metabolic Assays to Characterize Thermal Tolerance in Pacific Oyster (Magallana gigas) Early Life Stages,”</strong></p>
@@ -1093,6 +1143,7 @@ It also resonates with ongoing efforts to integrate <strong>epigenetic and physi
 
 
 
+
 <p>We're proud to share a new publication by former lab member <strong>Connor Lewis-Smith</strong>, now a Social Scientist with NOAA's Northwest Fisheries Science Center. His article, <em>"Navigating ocean acidification in shellfish aquaculture: Stakeholder perspectives of developing strategies in the U.S. Pacific Region"</em>, was just released in <em>Aquaculture Reports</em> and offers an in-depth look at how shellfish growers across the U.S. Pacific Coast are responding to ocean acidification and related environmental stressors.</p>
 <p>The study draws on structured interviews with producers from Washington, Oregon, California, Alaska, and Hawaii to capture evolving perceptions of ocean acidification and industry interest in emerging adaptation strategies. Notably, concern about ocean acidification appears to have declined in the past decade, as growers increasingly focus on intersecting threats such as harmful algal blooms, disease, and rising temperatures.</p>
 <p>The paper explores two adaptation strategies under development: <strong>parental priming</strong>—a technique involving exposure of broodstock to stressful conditions to enhance offspring resilience—and <strong>native species portfolio expansion</strong>. While industry support for both strategies was mixed and often contingent on further scientific validation, the study emphasizes the importance of early engagement between researchers and growers to co-develop viable solutions.</p>
@@ -1115,6 +1166,7 @@ It also resonates with ongoing efforts to integrate <strong>epigenetic and physi
   <title>Exploring the Non-Coding RNA Landscape in Reef-Building Corals</title>
   <link>https://faculty.washington.edu/sr320/posts/sr320-lncRNA-rep/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -1162,83 +1214,6 @@ It also resonates with ongoing efforts to integrate <strong>epigenetic and physi
   <guid>https://faculty.washington.edu/sr320/posts/sr320-lncRNA-rep/</guid>
   <pubDate>Mon, 17 Mar 2025 07:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_httpswww.biorxiv.orgcontent10.11012025.03.15.643469v1.full.pdf_2025-03-17_08-01-04.png" medium="image" type="image/png"/>
-</item>
-<item>
-  <title>Unlocking the Future of Shellfish Aquaculture Through Genomics</title>
-  <link>https://faculty.washington.edu/sr320/posts/sr320-genomics/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>Aquaculture is undergoing a revolution. The integration of cutting-edge genomic tools into breeding programs is transforming the industry, allowing for enhanced growth rates, disease resistance, and environmental adaptability in farmed species. While finfish often take center stage in discussions about genomic innovation, shellfish—particularly oysters, clams, and other bivalves—stand to benefit tremendously from these advancements. A recent review by <a href="https://doi.org/10.1186/s12864-025-11247-z">Andersen et al.&nbsp;(2025), published in BMC Genomics</a>, outlines the progress and future priorities for U.S. aquaculture genomics, with significant implications for shellfish industries.</p>
-<section id="why-genomics-matters-for-shellfish" class="level2">
-<h2 class="anchored" data-anchor-id="why-genomics-matters-for-shellfish">Why Genomics Matters for Shellfish</h2>
-<p>Shellfish farming is a cornerstone of coastal economies, providing a sustainable protein source while contributing to water filtration and habitat structure. However, challenges such as disease outbreaks, climate change-driven stressors (e.g., ocean acidification, salinity fluctuations), and genetic bottlenecks in breeding programs pose significant hurdles. The integration of genomics and multi-omics approaches is helping researchers and industry stakeholders address these issues head-on.</p>
-<ol type="1">
-<li>Advancing Reference Genomes for Shellfish</li>
-</ol>
-<p>One of the key priorities identified in the review is the need for high-quality genome assemblies for shellfish species. Reference genomes serve as blueprints for breeding programs, guiding selective breeding efforts toward desirable traits such as disease resistance, growth efficiency, and stress tolerance.</p>
-<p>For instance:</p>
-<ul>
-<li><p>The Pacific oyster (Magallana gigas) and Eastern oyster (Crassostrea virginica) now have improved genome assemblies, which are crucial for mapping genes associated with disease resilience.</p></li>
-<li><p>Structural variations in oyster genomes have been linked to breeding success, helping hatcheries refine their selection of broodstock.</p></li>
-<li><p>Functional annotation efforts, like those undertaken by the international FAANG (Functional Annotation of ANimal Genomes) initiative, are improving our understanding of how genes are regulated in response to environmental stressors.</p></li>
-</ul>
-<ol start="2" type="1">
-<li>Multi-Omics Approaches: Beyond the Genome</li>
-</ol>
-<p>While genomic sequencing provides a foundational understanding of shellfish biology, integrating other “omics” layers—epigenomics, transcriptomics, and microbiomics—adds depth to the picture.</p>
-<ul>
-<li><p>Epigenomics &amp; Environmental Adaptation: Studies have shown that DNA methylation plays a key role in how oysters respond to stress, such as changes in salinity and temperature. This suggests that breeding for resilience might not just be about genetics but also about harnessing heritable epigenetic modifications.</p></li>
-<li><p>Transcriptomics &amp; Disease Resistance: RNA sequencing has revealed that oysters activate specific immune pathways when exposed to pathogens like Perkinsus marinus (which causes Dermo disease). Understanding these pathways helps identify candidate genes for selective breeding.</p></li>
-<li><p>Microbiomics &amp; Shellfish Health: The microbial communities living on and inside shellfish significantly impact their growth and survival. Some studies suggest that manipulating the oyster microbiome could enhance disease resistance.</p></li>
-</ul>
-<ol start="3" type="1">
-<li>Genomic Selection &amp; Breeding Programs</li>
-</ol>
-<p>Traditional shellfish breeding has relied on mass selection or family-based selection, which can be slow and inefficient. Genomic selection—where DNA markers are used to predict an individual’s breeding value—has revolutionized selective breeding in finfish and livestock, and now it is being applied to shellfish.</p>
-<ul>
-<li><p>The use of genomic selection in oysters is improving survival rates in low-salinity environments, a crucial trait given the increasing frequency of extreme weather events that introduce large freshwater inputs into coastal farming areas.</p></li>
-<li><p>Marker-assisted selection (MAS) is being employed to accelerate breeding for traits like shell strength, which is vital for both consumer preference and post-harvest handling.</p></li>
-<li><p>Researchers are also exploring CRISPR and other gene-editing technologies to validate gene function, though regulatory challenges remain.</p></li>
-</ul>
-<ol start="4" type="1">
-<li>Overcoming Challenges: From Research to Industry Application</li>
-</ol>
-<p>Despite these advancements, challenges remain in translating genomic discoveries into tangible benefits for shellfish farmers.</p>
-<ul>
-<li><p>Cost &amp; Accessibility: While sequencing costs are declining, implementing genomic selection on a commercial scale still requires investment in infrastructure, training, and data management.</p></li>
-<li><p>Regulatory Landscape: The potential application of gene-editing technologies in aquaculture is still subject to regulatory scrutiny. While some countries are moving toward acceptance, others remain cautious.</p></li>
-<li><p>Data Integration: The vast amount of genomic and phenotypic data generated requires sophisticated bioinformatics tools for analysis. Efforts like AquaMine (a genomic database for aquaculture species) are helping streamline this process ￼.</p></li>
-</ul>
-</section>
-<section id="looking-ahead-the-future-of-shellfish-aquaculture" class="level2">
-<h2 class="anchored" data-anchor-id="looking-ahead-the-future-of-shellfish-aquaculture">Looking Ahead: The Future of Shellfish Aquaculture</h2>
-<p>The next decade of shellfish aquaculture will be defined by how well the industry can harness the power of genomics. As sequencing technology becomes more affordable and bioinformatics tools become more accessible, we are likely to see:</p>
-<ul>
-<li><p>More refined and efficient breeding programs using genomic selection.</p></li>
-<li><p>Greater adoption of multi-omics approaches to understand complex traits like disease resistance and stress tolerance.</p></li>
-<li><p>The potential emergence of gene-edited shellfish with enhanced resilience to climate change.</p></li>
-</ul>
-<p>By integrating these tools into aquaculture operations, we can ensure that shellfish farming remains a sustainable and resilient industry—one that continues to provide ecological and economic benefits to coastal communities while supporting global food security.</p>
-</section>
-<section id="final-thoughts" class="level2">
-<h2 class="anchored" data-anchor-id="final-thoughts">Final Thoughts</h2>
-<p><a href="https://doi.org/10.1186/s12864-025-11247-z">The review by Andersen et al.&nbsp;(2025)</a> highlights an exciting and rapidly evolving field. Shellfish may not have received as much genomic attention as salmon or tilapia in the past, but that is changing. With continued investment in research, training, and industry partnerships, shellfish aquaculture is poised to become a model for sustainable, high-tech food production in the 21st century.</p>
-
-
-<!-- -->
-
-</section>
-
- ]]></description>
-  <category>aquaculture</category>
-  <category>epigenetics</category>
-  <guid>https://faculty.washington.edu/sr320/posts/sr320-genomics/</guid>
-  <pubDate>Fri, 21 Feb 2025 08:00:00 GMT</pubDate>
-  <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Advancing_genetic_improvement_in_the_omics_era_status_and_priorities_for_United_States_aquaculture__BMC_Genomics__Full_Text_2025-02-21_12-15-32.png" medium="image" type="image/png"/>
 </item>
 </channel>
 </rss>

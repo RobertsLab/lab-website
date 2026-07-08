@@ -52,7 +52,6 @@ Browse by topic using the **category buttons** below — click any organism or r
 </script>
 ```
 
-
 # Book Chapters
 
 Moreira Sanmartín R, Roberts SB, Figueras A. (2016) [Molluscs. pages 223-245, in Genomics in Aquaculture](http://www.sciencedirect.com/science/book/9780128014189). Editors: Simon A. MacKenzie and Sissel Jentoft. ISBN: 978-0-12-801418-9
@@ -86,7 +85,6 @@ Genetic and phenotypic diversity in sockeye salmon, <em>Oncorhynchus nerka</em>.
 Characterizing the effects of ocean acidification in larval and juvenile Manila clam, <em>Ruditapes philippinarum</em>, using a transcriptomic approach. David Metzger. 2012 <a href="http://fish.washington.edu/research/publications/ms_phd/Metzger_D_MS_Sp12.pdf"> download</a>
 
 ------------------------------------------------------------------------
-
 
 # Recent Presentations
 

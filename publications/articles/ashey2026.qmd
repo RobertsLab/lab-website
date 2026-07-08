@@ -1,0 +1,24 @@
+---
+title: "Characterization of long noncoding RNAs, microRNAs, and piwiRNAs in reef-building corals"
+type: "article"
+author: "Jill Ashey, Javier A Rodriguez-Casariego, Kathleen M Durkin, Zachary Bengtsson, Samuel J White, Ariana S Huffmyer, Danielle M Becker, Jose M Eirin-Lopez, Hollie M Putnam, Steven B Roberts"
+year: "2026"
+publication: "Environmental Epigenetics"
+preprint: ""
+doi: "https://doi.org/10.1093/eep/dvag021"
+materials: "https://github.com/urol-e5/deep-dive"
+eprint: ""
+toc: FALSE
+categories:
+  - Corals
+  - Epigenetics
+  - Genomic Resources
+---
+
+## Citation
+
+> Ashey, J., Rodriguez-Casariego, J. A., Durkin, K. M., Bengtsson, Z., White, S. J., Huffmyer, A. S., Becker, D. M., Eirin-Lopez, J. M., Putnam, H. M., & Roberts, S. B. (2026). Characterization of long noncoding RNAs, microRNAs, and piwiRNAs in reef-building corals. *Environmental Epigenetics* **12**(1), dvag021. https://doi.org/10.1093/eep/dvag021
+
+## Abstract
+
+Noncoding RNAs (ncRNAs) play critical regulatory roles in gene expression regulation that influence diverse biological processes. Yet, their characterization in nonmodel organisms, particularly sessile, benthic ecosystem engineers such as reef-building corals, remains limited. This study provides the first comprehensive analysis of expressed ncRNAs from three ecologically important coral genera from Mo'orea, French Polynesia: *Acropora*, *Pocillopora*, and *Porites*. We identified homologs for ncRNA biogenesis and functional machinery, characterized long ncRNAs (lncRNAs), microRNAs (miRNAs), and piwiRNAs (piRNAs), and assessed their genomic context and potential targets. Our findings reveal the presence of conserved ncRNA machinery across these coral species, indicating their capability to generate and utilize ncRNAs for gene expression regulation. We identified a single miRNA conserved with corals and Eumetazoans (miR-100), four miRNAs shared across all three species and previously identified in other cnidarian taxa (miR-100, miR-2023, miR-2025, and miR-2036), as well as several species-restricted miRNAs. Predicted gene targets of characterized miRNAs included immune response regulation in *A. pulchra* and *P. tuahiniensis* and signal transduction pathways in *P. evermanni* and *P. tuahiniensis*. Proximity analysis indicated \~71%–99% of piRNAs overlapped with genes, with genomic maintenance and stability identified as the primary functional enrichment of those genes. lncRNA characterization found little sequence overlap across species (\<1%), although lncRNAs in all species were often in proximity to immune-related genes. This study characterizes the genomic features of diverse ncRNAs in reef-building corals and identifies putative regulatory associations between ncRNAs and genes involved in core biological processes.
