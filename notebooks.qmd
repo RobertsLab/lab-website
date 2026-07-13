@@ -72,7 +72,9 @@ toc: true
     { name: "Samuel Slutz",     url: "https://genefish.wordpress.com/author/samuelos1e4f4cd96e/",  type: "wp", login: "samuelos1e4f4cd96e" },
     { name: "Christina Zhang",  url: "https://genefish.wordpress.com/author/qingrz2/",             type: "wp", login: "qingrz2" },
     { name: "Maddy Bernstein",  url: "https://genefish.wordpress.com/author/maddyab/",             type: "wp", login: "maddyab" },
-    { name: "Sophie Lord",      url: "https://genefish.wordpress.com/author/soplo27/",             type: "wp", login: "soplo27" }
+    { name: "Sophie Lord",      url: "https://genefish.wordpress.com/author/soplo27/",             type: "wp", login: "soplo27" },
+    { name: "Cas Daniel",       url: "https://genefish.wordpress.com/author/ckdan19/",             type: "wp", login: "ckdan19" },
+    { name: "Naomi Kang",       url: "https://genefish.wordpress.com/author/naomikang44/",         type: "wp", login: "naomikang44" }
   ];
 
   var grid = document.getElementById("nb-grid");
