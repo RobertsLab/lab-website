@@ -102,6 +102,21 @@ toc: false
     <div class="web-project-name">MOSAiC</div>
   </a>
 
+  <a class="web-project-card" href="https://robertslab.github.io/lab-connector/app/" target="_blank" rel="noopener">
+    <img src="/img/web-projects/lab-connector.png" alt="Lab Connector — notebook and repository network map">
+    <div class="web-project-name">Lab Connector</div>
+  </a>
+
+  <a class="web-project-card" href="https://robertslab.github.io/MOPE/" target="_blank" rel="noopener">
+    <img src="/img/web-projects/mope.png" alt="MOPE — Marine Omics Pathway Explorer">
+    <div class="web-project-name">MOPE</div>
+  </a>
+
+  <a class="web-project-card" href="https://urol-e5.github.io/CENE/" target="_blank" rel="noopener">
+    <img src="/img/web-projects/cene.png" alt="CENE — Coral Epigenetic Network Explorer">
+    <div class="web-project-name">CENE</div>
+  </a>
+
   <a class="web-project-card" href="https://github.com/sr320/public-omics-watchtower" target="_blank" rel="noopener">
     <img src="/img/web-projects/public-omics-watchtower.png" alt="Public Omics Watchtower">
     <div class="web-project-name">Public Omics Watchtower</div>
