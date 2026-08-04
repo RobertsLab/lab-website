@@ -41,4 +41,4 @@ Two results stand out for anyone thinking about resilience. First, under acute t
 
 That last point is what makes this more than a methods advance. A cheap, plate-based assay that reports on both stress tolerance and family-level genetic variation is a tool breeders and hatchery managers can actually use, whether for screening broodstock, checking seed before it goes to the field, or building resilience into stocks ahead of the next marine heatwave.
 
-The work was first shared as a [preprint last November](../sr320-pink/), and the protocols, raw data, and analysis code are all openly available at the links above.
+The work was first shared as a [preprint last November](../../sr320-pink/), and the protocols, raw data, and analysis code are all openly available at the links above.
