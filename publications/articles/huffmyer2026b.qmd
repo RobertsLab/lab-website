@@ -1,0 +1,24 @@
+---
+title: "Seasonal Physiological Strategies Reveal Contrasting Host–Symbiont Dynamics Among Dominant Indo-Pacific Reef-Building Corals"
+type: "article"
+author: "Ariana S. Huffmyer, Emma L. Strand, Serena Hackerott, Kevin H. Wong, Danielle M. Becker, Dennis Conetta, Kristina X. Terpis, Ferdinand Pfab, Juliet M. Wong, Zoe Dellaert, Francis J. Oliaro, Ross Cunning, Jose M. Eirin-Lopez, Steven B. Roberts, Roger M. Nisbet, Hollie M. Putnam"
+year: "2026"
+publication: "Ecology and Evolution"
+preprint: ""
+doi: "https://doi.org/10.1002/ece3.74044"
+materials: "https://github.com/urol-e5/timeseries"
+eprint: "https://onlinelibrary.wiley.com/doi/10.1002/ece3.74044"
+toc: FALSE
+categories:
+  - Corals
+  - Symbiosis
+  - Climate & Stress
+---
+
+## Citation
+
+> Huffmyer, A. S., Strand, E. L., Hackerott, S., Wong, K. H., Becker, D. M., Conetta, D., Terpis, K. X., Pfab, F., Wong, J. M., Dellaert, Z., Oliaro, F. J., Cunning, R., Eirin-Lopez, J. M., Roberts, S. B., Nisbet, R. M., & Putnam, H. M. (2026). Seasonal physiological strategies reveal contrasting host–symbiont dynamics among dominant Indo-Pacific reef-building corals. *Ecology and Evolution* **16**(7), e74044. https://doi.org/10.1002/ece3.74044
+
+## Abstract
+
+As coral reefs face declines driven by thermal stress and the breakdown of coral symbiosis (i.e., coral bleaching), restoration efforts rely on coral health and resilience rankings. However, seasonal plasticity in symbiosis and metabolism and the presence of cryptic species complicates data interpretation. Quantifying seasonal plasticity in coral physiology and incorporating genetic identification are essential for interpreting and drawing conclusions from trait-based and fitness-based analyses. To test the effect of seasonal and site variation on physiology, we sampled three ecologically dominant genera, *Acropora*, *Pocillopora*, and *Porites* across three lagoon sites (*n* = 15 tagged colonies genus^-1^ site^-1^) on the north shore of Moʻorea, French Polynesia in January, March, September, and December of 2020. We identified coral host and intracellular Symbiodiniaceae to the highest taxonomic resolution possible and quantified 13 physiological variables. Genetic analyses identified *A. pulchra* and cryptic lineages in *Pocillopora* (*P. meandrina*, *P. tuahiniensis*) and *Porites* (*P. evermanni*, *P. lobata/lutea*). *Acropora pulchra* hosted *Durusdinium trenchii* and *Symbiodinium microadriaticum*. Symbiont communities differed between cryptic congeners, with *P. meandrina* hosting *Cladocopium latusorum* and *P. tuahiniensis* hosting *Cladocopium pacificum*, whereas *P. evermanni* and *P. lobata/lutea* both hosted *Cladocopium* (C15), but each with unique C15 profiles. *Acropora* and *Pocillopora* displayed seasonal cycles of symbiont density and productivity ("boom and bust") in association with light and temperature, a pattern that may contribute to the greater environmental sensitivity previously reported in these taxa. In contrast, *Porites* exhibited greater symbiont stability, with temperature—rather than light—showing stronger associations with host physiology. Increased host biomass under cooler conditions, which may provide greater energy reserves, could represent one mechanism contributing to the comparatively greater stress tolerance observed in massive *Porites*. Collectively, our findings highlight the importance of integrating baseline physiological measurements with host and symbiont genetics when interpreting coral responses across seasons.

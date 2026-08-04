@@ -1,0 +1,24 @@
+---
+title: "From blue to pink: resazurin as a high-throughput proxy for metabolic rate in oysters"
+type: "article"
+author: "Ariana S. Huffmyer, Noah Ozguner, Madeline Baird, Colby Elvrum, Carolyn Kounellas, Dash Dicksion, Samuel J. White, Louis Plough, Mackenzie R. Gavery, Noah Krebs, William Walton, Jessica Small, Madeline Pitsenbarger, Healy Ealy-Whitfield, Steven B. Roberts"
+year: "2026"
+publication: "PeerJ"
+preprint: "https://doi.org/10.1101/2025.11.06.686367"
+doi: "https://doi.org/10.7717/peerj.21542"
+materials: "https://github.com/RobertsLab/resazurin-assay-development"
+eprint: "https://peerj.com/articles/21542/"
+toc: FALSE
+categories:
+  - Oysters
+  - Aquaculture
+  - Climate & Stress
+---
+
+## Citation
+
+> Huffmyer, A. S., Ozguner, N., Baird, M., Elvrum, C., Kounellas, C., Dicksion, D., White, S. J., Plough, L., Gavery, M. R., Krebs, N., Walton, W., Small, J., Pitsenbarger, M., Ealy-Whitfield, H., & Roberts, S. B. (2026). From blue to pink: resazurin as a high-throughput proxy for metabolic rate in oysters. *PeerJ* **14**, e21542. https://doi.org/10.7717/peerj.21542
+
+## Abstract
+
+Metabolic rate assays are essential for assessing organismal stress and resilience, yet their use in aquaculture remains limited. We evaluate a whole-organism, resazurin-based metabolic assay for oysters (*Crassostrea gigas* and *C. virginica*) across multiple experimental contexts. Resazurin fluorescence was strongly correlated with oxygen consumption, validating its use as a metabolic proxy. Thermal performance assays revealed expected temperature-dependent metabolic patterns, including clear optima and tipping points where stimulation shifted to metabolic depression. Acute thermal stress experiments showed that individuals exhibiting greater metabolic depression were more likely to survive, indicating metabolism as a predictor of mortality. We also detected genetic variation in metabolic responses, with significant family-level differences. Finally, metabolic rates of 50 selectively bred *C. virginica* families were significantly correlated with predicted performance. Together, these results establish resazurin as a reliable, scalable assay for whole-organism metabolism, offering a practical tool to support stock selection, hatchery management, and climate-resilient aquaculture.
