@@ -72,6 +72,11 @@ toc: false
 
 <div class="web-projects-grid">
 
+  <a class="web-project-card" href="https://robertslab.github.io/resources/bivalve-histology-tutorial/index.html" target="_blank" rel="noopener">
+    <img src="/img/web-projects/bivalve-histology-tutorial.jpg" alt="Reading Reproductive Histology in Bivalves tutorial">
+    <div class="web-project-name">Bivalve Histology Tutorial</div>
+  </a>
+
   <a class="web-project-card" href="https://robertslab.github.io/current-findings/" target="_blank" rel="noopener">
     <img src="/img/web-projects/current-findings.png" alt="Current Findings">
     <div class="web-project-name">Current Findings</div>
