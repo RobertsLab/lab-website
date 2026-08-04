@@ -33,7 +33,7 @@
 <p>The validation is the heart of the study: resazurin fluorescence tracked oxygen consumption closely in both <em>Crassostrea gigas</em> and <em>C. virginica</em>, establishing the color change as a genuine metabolic proxy rather than a convenient correlate. From there the assay recovered the patterns you would hope to see. Thermal performance runs produced clear metabolic optima and tipping points where warming stopped stimulating metabolism and began suppressing it.</p>
 <p>Two results stand out for anyone thinking about resilience. First, under acute thermal stress, the oysters that <strong>depressed</strong> their metabolism most were the ones more likely to survive, suggesting metabolic depression is a protective strategy rather than a symptom of failure, and that a metabolic reading can predict mortality before it happens. Second, the response is heritable enough to matter: the team detected significant family-level variation, and across <strong>50 selectively bred <em>C. virginica</em> families</strong> metabolic rate correlated with predicted performance.</p>
 <p>That last point is what makes this more than a methods advance. A cheap, plate-based assay that reports on both stress tolerance and family-level genetic variation is a tool breeders and hatchery managers can actually use, whether for screening broodstock, checking seed before it goes to the field, or building resilience into stocks ahead of the next marine heatwave.</p>
-<p>The work was first shared as a <a href="../sr320-pink/">preprint last November</a>, and the protocols, raw data, and analysis code are all openly available at the links above.</p>
+<p>The work was first shared as a <a href="../../sr320-pink/">preprint last November</a>, and the protocols, raw data, and analysis code are all openly available at the links above.</p>
 
 
 <!-- -->
@@ -618,7 +618,7 @@ It also resonates with ongoing efforts to integrate <strong>epigenetic and physi
 <item>
   <title>From Blue to Pink</title>
   <dc:creator>Steven Roberts</dc:creator>
-  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-pink/</link>
+  <link>https://faculty.washington.edu/sr320/posts/sr320-pink/</link>
   <description><![CDATA[ 
 
 
@@ -632,7 +632,7 @@ It also resonates with ongoing efforts to integrate <strong>epigenetic and physi
 <p>Resazurin, a redox-sensitive dye used for decades in biomedical and microbial assays, shifts from <strong>blue to pink</strong> as it’s reduced by metabolic activity. Huffmyer et al.&nbsp;adapted this dye-based reaction — familiar to many cell biologists — to <strong>whole oysters</strong>, showing that fluorescence intensity closely tracks oxygen consumption and reflects metabolic performance at the organismal level .</p>
 <p>The team developed a standardized, scalable protocol using multi-well plates and fluorometric readings to quantify metabolic rate across hundreds of individuals at once. This makes it one of the first <strong>high-throughput metabolic assays for live shellfish</strong>, an enormous advance for aquaculture and climate resilience research.</p>
 <p>You can explore their detailed methods and ongoing assay development at the <a href="https://robertslab.github.io/resazurin-assay-development/">Roberts Lab Resazurin Assay Development site</a>.</p>
-<p><img src="https://faculty.washington.edu/sr320/posts/frontpage/sr320-pink/images/clipboard-3472715920.jpeg" class="img-fluid" style="width:100.0%"></p>
+<p><img src="https://faculty.washington.edu/sr320/posts/sr320-pink/images/clipboard-3472715920.jpeg" class="img-fluid" style="width:100.0%"></p>
 <hr>
 </section>
 <section id="metabolism-under-pressure-what-the-color-shift-reveals" class="level3">
@@ -670,7 +670,7 @@ It also resonates with ongoing efforts to integrate <strong>epigenetic and physi
   <category>oyster</category>
   <category>aquaculture</category>
   <category>resazurin</category>
-  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-pink/</guid>
+  <guid>https://faculty.washington.edu/sr320/posts/sr320-pink/</guid>
   <pubDate>Tue, 11 Nov 2025 08:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/2025-11-11_05-14-47.png" medium="image" type="image/png"/>
 </item>
