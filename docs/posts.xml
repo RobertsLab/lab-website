@@ -10,7 +10,45 @@
 <atom:link href="https://faculty.washington.edu/sr320/posts.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.9.38</generator>
-<lastBuildDate>Wed, 08 Jul 2026 07:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 03 Aug 2026 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>From Blue to Pink is Published</title>
+  <dc:creator>Steven Roberts</dc:creator>
+  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-pink-peerj/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<p>Congratulations to <strong>Ariana Huffmyer</strong> and the whole team on the new paper in <em>PeerJ</em>:<br>
+</p>
+<p><strong>“From blue to pink: resazurin as a high-throughput proxy for metabolic rate in oysters.”</strong></p>
+<p><strong>Paper:</strong> <a href="https://doi.org/10.7717/peerj.21542" class="uri">https://doi.org/10.7717/peerj.21542</a></p>
+<p><strong>Code and data:</strong> <a href="https://github.com/RobertsLab/resazurin-assay-development" class="uri">https://github.com/RobertsLab/resazurin-assay-development</a></p>
+<p><strong>Assay development site:</strong> <a href="https://robertslab.github.io/resazurin-assay-development/" class="uri">https://robertslab.github.io/resazurin-assay-development/</a></p>
+<p><img src="https://faculty.washington.edu/sr320/posts/frontpage/sr320-pink-peerj/images/resazurin-assay.jpeg" class="img-fluid" style="width:100.0%"></p>
+<p>Measuring metabolic rate is one of the most direct ways to ask how an animal is coping with stress, but the standard approach, respirometry, is slow enough that it rarely scales past a handful of individuals. That is a real bottleneck for aquaculture, where the interesting questions are about hundreds of animals and dozens of families. This paper shows that a redox-sensitive dye can carry much of that load. Resazurin shifts from blue to pink as it is reduced by metabolic activity, and the team adapted it from cell culture to <strong>whole live oysters</strong> in multi-well plates.</p>
+<p>The validation is the heart of the study: resazurin fluorescence tracked oxygen consumption closely in both <em>Crassostrea gigas</em> and <em>C. virginica</em>, establishing the color change as a genuine metabolic proxy rather than a convenient correlate. From there the assay recovered the patterns you would hope to see. Thermal performance runs produced clear metabolic optima and tipping points where warming stopped stimulating metabolism and began suppressing it.</p>
+<p>Two results stand out for anyone thinking about resilience. First, under acute thermal stress, the oysters that <strong>depressed</strong> their metabolism most were the ones more likely to survive, suggesting metabolic depression is a protective strategy rather than a symptom of failure, and that a metabolic reading can predict mortality before it happens. Second, the response is heritable enough to matter: the team detected significant family-level variation, and across <strong>50 selectively bred <em>C. virginica</em> families</strong> metabolic rate correlated with predicted performance.</p>
+<p>That last point is what makes this more than a methods advance. A cheap, plate-based assay that reports on both stress tolerance and family-level genetic variation is a tool breeders and hatchery managers can actually use, whether for screening broodstock, checking seed before it goes to the field, or building resilience into stocks ahead of the next marine heatwave.</p>
+<p>The work was first shared as a <a href="../sr320-pink/">preprint last November</a>, and the protocols, raw data, and analysis code are all openly available at the links above.</p>
+
+
+<!-- -->
+
+
+ ]]></description>
+  <category>paper</category>
+  <category>oyster</category>
+  <category>aquaculture</category>
+  <category>resazurin</category>
+  <category>methods</category>
+  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-pink-peerj/</guid>
+  <pubDate>Mon, 03 Aug 2026 07:00:00 GMT</pubDate>
+  <media:content url="https://faculty.washington.edu/sr320/posts/frontpage/sr320-pink-peerj/images/resazurin-assay.jpeg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Diving into the hidden regulatory world of reef-building corals</title>
   <dc:creator>Steven Roberts</dc:creator>
@@ -1161,59 +1199,6 @@ It also resonates with ongoing efforts to integrate <strong>epigenetic and physi
   <guid>https://faculty.washington.edu/sr320/posts/sr320-lewis-smith/</guid>
   <pubDate>Wed, 07 May 2025 07:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/2025-05-07_11-42-09.png" medium="image" type="image/png"/>
-</item>
-<item>
-  <title>Exploring the Non-Coding RNA Landscape in Reef-Building Corals</title>
-  <link>https://faculty.washington.edu/sr320/posts/sr320-lncRNA-rep/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-
-<p>Coral reefs are among the most biodiverse ecosystems on the planet, yet they are increasingly threatened by climate change and human activities. Understanding the molecular mechanisms that govern coral resilience is crucial for their conservation. A <a href="https://doi.org/10.1101/2025.03.15.643469.">new study by Ashey et al.&nbsp;(2025)</a> provides a groundbreaking look into the non-coding RNA (ncRNA) repertoire of reef-building corals, shedding light on how these regulatory molecules contribute to coral gene expression and environmental adaptability.</p>
-<section id="why-non-coding-rnas-matter" class="level3">
-<h3 class="anchored" data-anchor-id="why-non-coding-rnas-matter"><strong>Why Non-Coding RNAs Matter</strong></h3>
-<p>Long dismissed as “junk” DNA, ncRNAs have emerged as vital regulators of gene expression across all domains of life. Unlike protein-coding genes, ncRNAs do not translate into proteins but instead play critical roles in controlling genetic pathways, chromatin organization, and stress responses. In corals, these molecules could be key players in their ability to withstand environmental stressors such as rising ocean temperatures and pollution.</p>
-</section>
-<section id="the-study-a-comprehensive-analysis-of-coral-ncrnas" class="level3">
-<h3 class="anchored" data-anchor-id="the-study-a-comprehensive-analysis-of-coral-ncrnas"><strong>The Study: A Comprehensive Analysis of Coral ncRNAs</strong></h3>
-<p>Ashey et al.&nbsp;conducted the first large-scale characterization of ncRNAs in three ecologically significant coral species from Mo’orea, French Polynesia:&nbsp;<em>Acropora pulchra</em>,&nbsp;<em>Pocillopora tuahiniensis</em>, and&nbsp;<em>Porites evermanni</em>. These species exhibit diverse physiological traits and symbiotic relationships, making them excellent models for studying ncRNA variation.</p>
-<section id="key-findings" class="level4">
-<h4 class="anchored" data-anchor-id="key-findings"><strong>Key Findings:</strong></h4>
-<ul>
-<li><p><strong>Diverse ncRNA Repertoires:</strong>&nbsp;The study identified a broad array of ncRNAs, including long non-coding RNAs (lncRNAs), microRNAs (miRNAs), and piwi-interacting RNAs (piRNAs), indicating that corals possess a complex ncRNA regulatory system.</p></li>
-<li><p><strong>Limited Conservation Across Species:</strong>&nbsp;While a few miRNAs (such as&nbsp;<em>mir-100</em>) were conserved across all three species, most lncRNAs and other ncRNAs exhibited high evolutionary turnover, suggesting species-specific adaptations.</p></li>
-<li><p><strong>Functional Insights:</strong>&nbsp;Many ncRNAs were associated with immune regulation, stress response, and genomic stability. For example, lncRNAs were often found near immune-related genes, while piRNAs were enriched in transposable element regions, which are crucial for maintaining genomic integrity.</p></li>
-<li><p><strong>miRNA-Target Interactions:</strong>&nbsp;The study predicted miRNA targets involved in immune response pathways and cellular stress mechanisms, providing new insights into how corals regulate gene expression in response to environmental changes.</p></li>
-</ul>
-</section>
-</section>
-<section id="implications-for-coral-resilience" class="level3">
-<h3 class="anchored" data-anchor-id="implications-for-coral-resilience"><strong>Implications for Coral Resilience</strong></h3>
-<p>These findings underscore the importance of ncRNAs in coral biology. By regulating gene expression and protecting genome stability, ncRNAs may influence corals’ ability to acclimate to shifting environmental conditions. This research also sets the stage for future studies on the role of ncRNAs in coral bleaching, symbiosis dynamics, and adaptation.</p>
-</section>
-<section id="future-directions" class="level3">
-<h3 class="anchored" data-anchor-id="future-directions"><strong>Future Directions</strong></h3>
-<p>Given the rapid decline of coral reefs worldwide, understanding the molecular underpinnings of coral resilience is more critical than ever. Further investigations into ncRNA functions across additional coral species and environmental conditions will enhance our ability to predict and mitigate the impacts of climate change on these vital ecosystems.</p>
-</section>
-<section id="final-thoughts" class="level3">
-<h3 class="anchored" data-anchor-id="final-thoughts"><strong>Final Thoughts</strong></h3>
-<p>The study by Ashey et al.&nbsp;provides a significant step forward in coral molecular biology, revealing how ncRNAs contribute to the complex regulatory networks that sustain coral health. As researchers continue to explore these molecular mechanisms, such insights could inform conservation strategies aimed at preserving coral reefs in a warming world.</p>
-<p>For more details, the full study is available on bioRxiv:&nbsp;<a href="https://doi.org/10.1101/2025.03.15.643469" class="uri">https://doi.org/10.1101/2025.03.15.643469</a>.</p>
-
-
-<!-- -->
-
-</section>
-
- ]]></description>
-  <category>coral</category>
-  <category>lncRNA</category>
-  <guid>https://faculty.washington.edu/sr320/posts/sr320-lncRNA-rep/</guid>
-  <pubDate>Mon, 17 Mar 2025 07:00:00 GMT</pubDate>
-  <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_httpswww.biorxiv.orgcontent10.11012025.03.15.643469v1.full.pdf_2025-03-17_08-01-04.png" medium="image" type="image/png"/>
 </item>
 </channel>
 </rss>

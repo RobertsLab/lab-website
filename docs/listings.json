@@ -2,6 +2,7 @@
   {
     "listing": "/posts.html",
     "items": [
+      "/posts/frontpage/sr320-pink-peerj/index.html",
       "/posts/frontpage/sr320-deep-dive/index.html",
       "/posts/frontpage/sr320-spring-undergrads/index.html",
       "/posts/frontpage/sr320-celeste/index.html",
@@ -211,6 +212,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/frontpage/sr320-pink-peerj/index.html",
       "/posts/frontpage/sr320-deep-dive/index.html",
       "/posts/frontpage/sr320-spring-undergrads/index.html",
       "/posts/frontpage/sr320-celeste/index.html",

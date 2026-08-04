@@ -10,7 +10,45 @@
 <atom:link href="https://faculty.washington.edu/sr320/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.9.38</generator>
-<lastBuildDate>Wed, 08 Jul 2026 07:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 03 Aug 2026 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>From Blue to Pink is Published</title>
+  <dc:creator>Steven Roberts</dc:creator>
+  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-pink-peerj/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<p>Congratulations to <strong>Ariana Huffmyer</strong> and the whole team on the new paper in <em>PeerJ</em>:<br>
+</p>
+<p><strong>“From blue to pink: resazurin as a high-throughput proxy for metabolic rate in oysters.”</strong></p>
+<p><strong>Paper:</strong> <a href="https://doi.org/10.7717/peerj.21542" class="uri">https://doi.org/10.7717/peerj.21542</a></p>
+<p><strong>Code and data:</strong> <a href="https://github.com/RobertsLab/resazurin-assay-development" class="uri">https://github.com/RobertsLab/resazurin-assay-development</a></p>
+<p><strong>Assay development site:</strong> <a href="https://robertslab.github.io/resazurin-assay-development/" class="uri">https://robertslab.github.io/resazurin-assay-development/</a></p>
+<p><img src="https://faculty.washington.edu/sr320/posts/frontpage/sr320-pink-peerj/images/resazurin-assay.jpeg" class="img-fluid" style="width:100.0%"></p>
+<p>Measuring metabolic rate is one of the most direct ways to ask how an animal is coping with stress, but the standard approach, respirometry, is slow enough that it rarely scales past a handful of individuals. That is a real bottleneck for aquaculture, where the interesting questions are about hundreds of animals and dozens of families. This paper shows that a redox-sensitive dye can carry much of that load. Resazurin shifts from blue to pink as it is reduced by metabolic activity, and the team adapted it from cell culture to <strong>whole live oysters</strong> in multi-well plates.</p>
+<p>The validation is the heart of the study: resazurin fluorescence tracked oxygen consumption closely in both <em>Crassostrea gigas</em> and <em>C. virginica</em>, establishing the color change as a genuine metabolic proxy rather than a convenient correlate. From there the assay recovered the patterns you would hope to see. Thermal performance runs produced clear metabolic optima and tipping points where warming stopped stimulating metabolism and began suppressing it.</p>
+<p>Two results stand out for anyone thinking about resilience. First, under acute thermal stress, the oysters that <strong>depressed</strong> their metabolism most were the ones more likely to survive, suggesting metabolic depression is a protective strategy rather than a symptom of failure, and that a metabolic reading can predict mortality before it happens. Second, the response is heritable enough to matter: the team detected significant family-level variation, and across <strong>50 selectively bred <em>C. virginica</em> families</strong> metabolic rate correlated with predicted performance.</p>
+<p>That last point is what makes this more than a methods advance. A cheap, plate-based assay that reports on both stress tolerance and family-level genetic variation is a tool breeders and hatchery managers can actually use, whether for screening broodstock, checking seed before it goes to the field, or building resilience into stocks ahead of the next marine heatwave.</p>
+<p>The work was first shared as a <a href="../sr320-pink/">preprint last November</a>, and the protocols, raw data, and analysis code are all openly available at the links above.</p>
+
+
+<!-- -->
+
+
+ ]]></description>
+  <category>paper</category>
+  <category>oyster</category>
+  <category>aquaculture</category>
+  <category>resazurin</category>
+  <category>methods</category>
+  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-pink-peerj/</guid>
+  <pubDate>Mon, 03 Aug 2026 07:00:00 GMT</pubDate>
+  <media:content url="https://faculty.washington.edu/sr320/posts/frontpage/sr320-pink-peerj/images/resazurin-assay.jpeg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Diving into the hidden regulatory world of reef-building corals</title>
   <dc:creator>Steven Roberts</dc:creator>
