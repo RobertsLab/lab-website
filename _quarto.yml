@@ -83,15 +83,9 @@ website:
       file: tools-and-apps.qmd
     - text: "News"
       file: posts.qmd
-    - section: "About us"
-      contents:
-        - text: "People"
-          file: people.qmd
-        - text: "Outreach"
-          file: dei.qmd
-        - text: "Undergrad Guide"
-          file: undergraduate_guide.qmd
-    
+    - text: "People"
+      file: people.qmd
+
     
     
     
