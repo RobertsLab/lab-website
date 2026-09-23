@@ -9,14 +9,55 @@
 <link>https://faculty.washington.edu/sr320/</link>
 <atom:link href="https://faculty.washington.edu/sr320/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.9.38</generator>
-<lastBuildDate>Mon, 03 Aug 2026 07:00:00 GMT</lastBuildDate>
+<generator>quarto-1.6.40</generator>
+<lastBuildDate>Wed, 23 Sep 2026 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Juvenile and Adult Sunflower Sea Stars Respond Alike to Wasting Disease</title>
+  <dc:creator>Steven Roberts</dc:creator>
+  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-crandall-pycno/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Congratulations to graduate student <strong>Grace Crandall</strong> and the whole team on the new paper in <em>Ecology and Evolution</em>:<br>
+</p>
+<p><strong>“A Comparison of Juvenile and Adult Sunflower Sea Star Transcriptomic Responses to Challenge With Sea Star Wasting Disease Tissue Homogenates.”</strong></p>
+<p><strong>Paper:</strong> <a href="https://doi.org/10.1002/ece3.74379" class="uri">https://doi.org/10.1002/ece3.74379</a></p>
+<p><strong>Code and data:</strong> <a href="https://doi.org/10.5281/zenodo.14728718" class="uri">https://doi.org/10.5281/zenodo.14728718</a></p>
+<p><strong>Raw sequence data:</strong> NCBI BioProject <a href="https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1440140">PRJNA1440140</a></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://faculty.washington.edu/sr320/posts/frontpage/sr320-crandall-pycno/images/pca.jpg" class="img-fluid figure-img" style="width:100.0%"></p>
+<figcaption>Gene expression (PCA) separates sea stars by exposure, not by age. Control animals from both experiments and both age classes cluster together, apart from the exposed animals. Figure 2 from Crandall et al.&nbsp;2026 (CC BY).</figcaption>
+</figure>
+</div>
+<p>Since 2013, sea star wasting disease (SSWD) has swept the Northeast Pacific from Mexico to Alaska. No species has been hit harder than the sunflower sea star, <em>Pycnopodia helianthoides</em>. Billions have been lost, the species is now critically endangered, and in California, where it is functionally gone, urchins have been left free to strip kelp forests bare. Conservation breeding programs are now trying to bring <em>Pycnopodia</em> back, and one of the questions they face is whether some animals, or some life stages, are better at surviving the disease.</p>
+<p>Field surveys hinted that they might be. Wasting adults were seen far more often than wasting juveniles, and size distributions after outbreaks shifted toward smaller animals. Grace put that idea to a controlled test. Working with collaborators at the Hakai Institute, USGS Marrowstone Marine Field Station, WDFW, and Friday Harbor Labs, the team ran two disease challenge experiments. In each, sea stars were injected with tissue homogenate from a wasting adult, which was later confirmed to contain <em>Vibrio pectenicida</em>, the recently identified causative agent. Controls received the same homogenate, heat-killed. The second experiment included both juveniles and adults. Grace then sequenced RNA from coelomocytes, the sea star immune cells, collected at the arm-drop stage of disease.</p>
+<p>The result was clear, and a bit sobering: <strong>juveniles were not protected</strong>. Every exposed sea star in the age-class experiment died, adult and juvenile alike, while every control stayed healthy. Juveniles actually died faster, at 12.3 days on average versus 14.1 for adults. Gene expression told the same story. As the PCA above shows, animals grouped by whether they had been exposed, not by age. So the scarcity of wasting juveniles in the field probably has a different explanation. One possibility is that juveniles simply die before anyone sees them sick.</p>
+<p>The other key finding is a <strong>core transcriptional response to wasting disease</strong>. More than 4,100 differentially expressed genes were shared across the two independent experiments, and 99.7% of them changed in the same direction in both. Those genes are enriched for immune functions, including tumor necrosis factor signaling, proteolysis, and defense response to bacteria. Age still left a smaller mark: 140 genes responded to exposure differently in juveniles and adults. Those genes are involved in development, signaling, and stress and metabolism regulation, and they may help explain why juveniles decline faster.</p>
+<p>Now that the causative agent is known, these results give recovery efforts a baseline for what a sunflower sea star’s immune response to wasting looks like, and candidate genes to track as breeding programs look for resilience. Great work, Grace!</p>
+
+
+<!-- -->
+
+
+ ]]></description>
+  <category>paper</category>
+  <category>seastar</category>
+  <category>Pycnopodia</category>
+  <category>disease</category>
+  <category>transcriptomics</category>
+  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-crandall-pycno/</guid>
+  <pubDate>Wed, 23 Sep 2026 07:00:00 GMT</pubDate>
+  <media:content url="https://faculty.washington.edu/sr320/posts/frontpage/sr320-crandall-pycno/images/pca.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>From Blue to Pink is Published</title>
   <dc:creator>Steven Roberts</dc:creator>
   <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-pink-peerj/</link>
   <description><![CDATA[ 
-
 
 
 
@@ -59,7 +100,6 @@
 
 
 
-
 <p>Congratulations to <strong>Jill Ashey</strong> and the entire E5 Team on the new paper in <em>Environmental Epigenetics</em>:<br>
 </p>
 <p><strong>“Characterization of long non-coding RNAs, microRNAs, and piwiRNAs in reef-building corals.”</strong></p>
@@ -87,7 +127,6 @@
   <dc:creator>Steven Roberts</dc:creator>
   <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-spring-undergrads/</link>
   <description><![CDATA[ 
-
 
 
 
@@ -147,7 +186,6 @@
 
 
 
-
 <p>We are thrilled to highlight the incredible work of Celeste Valdivia, who recently defended her Master of Science thesis at the University of Washington’s School of Aquatic and Fishery Sciences. Co-advised by Dr.&nbsp;Alison Gardell and Dr.&nbsp;Steven Roberts, Celeste’s research dives deep into the biology of the globally invasive marine tunicate, <em>Botryllus schlosseri</em>. Her innovative work lays a crucial foundation for overcoming a decades-long hurdle in marine biology: the development of the first immortalized marine invertebrate cell line.</p>
 <p><strong>A Unique Strategy for Surviving Toxic Stress</strong> To understand the cellular mechanisms that might allow tunicate cells to become immortalized, Celeste first evaluated how whole colonies of <em>B. schlosseri</em> respond to oxidative stress caused by nickel. Astonishingly, she discovered that this species is highly tolerant to nickel toxicity, establishing an acute 24-hour lethal concentration (LC50) of roughly 177 mg/L—among the highest tolerance levels ever recorded for a marine invertebrate in artificial seawater.</p>
 <p>Instead of generating a massive, traditional antioxidant response to combat this severe stress, Celeste found that <em>B. schlosseri</em> employs a systemic survival strategy. At high nickel concentrations (100 mg/L), the colonies entered <strong>“blastogenic arrest”</strong>—halting their weekly asexual reproductive cycle and pausing the development of new buds. Through transcriptomic (RNA-seq) analysis, Celeste revealed that the colonies tightly coordinated this response by modulating developmental signaling pathways, inhibiting apoptosis, and remodeling their extracellular matrix (ECM) and vasculature. By putting reproduction and generational turnover on pause, the colony effectively mitigates its endogenous oxidative burden to survive the toxic environment.</p>
@@ -181,7 +219,6 @@
   <dc:creator>Steven Roberts</dc:creator>
   <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-escience/</link>
   <description><![CDATA[ 
-
 
 
 
@@ -258,97 +295,6 @@
   <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-escience/</guid>
   <pubDate>Thu, 12 Mar 2026 07:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Image_2026-03-12_19-26-38.png" medium="image" type="image/png"/>
-</item>
-<item>
-  <title>Can Oyster Parents Prepare Their Offspring for What’s Next?</title>
-  <dc:creator>Steven Roberts</dc:creator>
-  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-polyic/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-
-<p><em>New research from the Roberts Lab reveals that immune “training” in adult oysters can reshape how their offspring grow, metabolize energy, and survive extreme heat.</em></p>
-<p>Marine heatwaves and disease outbreaks are increasingly hitting oyster farms and wild populations at the same time. For Pacific oysters (<em>Magallana gigas</em>), this deadly combination often shows up as <strong>summer mortality events</strong>, when up to 90% of animals can die in a matter of days. But what if oyster parents could “prepare” their offspring for these stressful conditions before they are even born?</p>
-<p>A new study from our lab, led by <strong>Madeline Baird</strong> and <strong>Ariana Huffmyer</strong> provides exciting evidence that they can.</p>
-<section id="training-oyster-parents-immune-systems" class="level2">
-<h2 class="anchored" data-anchor-id="training-oyster-parents-immune-systems"><strong>Training oyster parents’ immune systems</strong></h2>
-<p>In this study, adult Pacific oysters were briefly exposed to <strong>Poly(I:C)</strong>, a harmless synthetic molecule that mimics viral infection and activates the oyster immune system. This kind of immune priming has been shown to increase disease resistance in oysters—but here we asked a different question:</p>
-<blockquote class="blockquote">
-<p><strong>Does immune priming in parents change how their offspring handle heat and metabolic stress?</strong></p>
-</blockquote>
-<p>After the exposure, oysters were spawned, and their larvae were reared in commercial hatchery conditions and then grown into seed oysters over several months. These offspring were later tested for <strong>growth, survival under heat stress, and metabolic performance</strong>.</p>
-<p><img src="https://faculty.washington.edu/sr320/posts/frontpage/sr320-polyic/info.png" class="img-fluid"></p>
-</section>
-<section id="faster-growth-in-primed-families" class="level2">
-<h2 class="anchored" data-anchor-id="faster-growth-in-primed-families"><strong>Faster growth in primed families</strong></h2>
-<p>The first surprise was growth.</p>
-<p>Although offspring from primed parents were slightly smaller early on, they grew faster over time and ended up <strong>larger than controls by 236 days post-fertilization</strong>. In other words, immune priming in parents altered how energy was allocated during development—suggesting a shift in developmental strategy.</p>
-<p>This matters for hatcheries, where faster-growing seed often perform better during nursery and grow-out phases.</p>
-</section>
-<section id="heat-survival-depends-on-how-hot-it-gets" class="level2">
-<h2 class="anchored" data-anchor-id="heat-survival-depends-on-how-hot-it-gets"><strong>Heat survival depends on how hot it gets</strong></h2>
-<p>Next, the team exposed oysters to temperatures ranging from normal conditions to extreme heat (up to 45°C) and measured survival.</p>
-<p>The results were strikingly <strong>temperature-specific</strong>:</p>
-<ul>
-<li><p>At <strong>40°C</strong>, offspring from primed parents were <strong>35% more likely to survive</strong> than controls&nbsp;</p></li>
-<li><p>At <strong>42°C</strong>, however, those same primed offspring were <strong>more likely to die</strong> than controls&nbsp;</p></li>
-</ul>
-<p>This shows that immune priming doesn’t simply make oysters “tougher”—it reshapes <strong>where their thermal limits lie</strong>. In a warming ocean, that nuance matters.</p>
-</section>
-<section id="metabolism-tells-the-story" class="level2">
-<h2 class="anchored" data-anchor-id="metabolism-tells-the-story"><strong>Metabolism tells the story</strong></h2>
-<p>Why did primed offspring survive better at 40°C but worse at 42°C? The answer appears to lie in their <strong>metabolism</strong>.</p>
-<p>Using a high-throughput <strong>resazurin assay</strong>, the team measured how quickly oysters processed energy under different temperatures&nbsp; .</p>
-<p>They found:</p>
-<ul>
-<li><p>At <strong>36°C</strong>, primed offspring had <strong>43% higher metabolic activity</strong> than controls</p></li>
-<li><p>At <strong>40°C</strong>, primed offspring showed <strong>lower metabolic activity</strong> than controls&nbsp;</p></li>
-</ul>
-<p>This pattern suggests that immune priming increases <strong>metabolic flexibility</strong>—the ability to ramp metabolism up under moderate stress and suppress it when conditions become extreme. That flexibility is likely what allows primed oysters to survive better at 40°C by entering a kind of <strong>protective metabolic slowdown</strong>, a known survival strategy in stressed marine invertebrates.</p>
-</section>
-<section id="a-form-of-environmental-memory" class="level2">
-<h2 class="anchored" data-anchor-id="a-form-of-environmental-memory"><strong>A form of environmental memory</strong></h2>
-<p>These effects persisted for more than <strong>seven months after fertilization</strong>, long after early maternal provisioning should have faded. This points to deeper mechanisms of <strong>environmental memory</strong>, potentially involving:</p>
-<ul>
-<li><p>altered maternal lipid and energy provisioning</p></li>
-<li><p>immune-related transcripts passed into eggs</p></li>
-<li><p>changes in microbiomes</p></li>
-<li><p>epigenetic regulation (DNA methylation, non-coding RNAs)&nbsp;</p></li>
-</ul>
-<p>Together, these mechanisms may allow oysters to transmit information about parental stress environments directly to the next generation.</p>
-</section>
-<section id="what-does-this-mean-for-aquaculture" class="level2">
-<h2 class="anchored" data-anchor-id="what-does-this-mean-for-aquaculture"><strong>What does this mean for aquaculture?</strong></h2>
-<p>This research opens the door to a new idea:</p>
-<p><strong>Hatcheries could condition broodstock before spawning to improve offspring performance.</strong></p>
-<p>Because Poly(I:C) can be delivered by simple <strong>immersion</strong>, it could be integrated into existing hatchery workflows as a scalable, non-invasive treatment. When paired with selective breeding, immune priming might help produce oyster seed that is more resilient to heatwaves and disease—two of the biggest threats to modern shellfish farming.<br>
-</p>
-<p>At the same time, the study makes clear that <strong>priming is not a magic bullet</strong>. Benefits depended strongly on temperature, and extreme heat erased them. Field trials and longer-term studies are needed before these tools can be used widely.</p>
-</section>
-<section id="why-this-matters" class="level2">
-<h2 class="anchored" data-anchor-id="why-this-matters"><strong>Why this matters</strong></h2>
-<p>As oceans warm and pathogens spread, oysters are being pushed toward their physiological limits. This study shows that <strong>parents matter</strong>—and that immune experiences in one generation can shape how the next generation grows, survives, and uses energy.</p>
-<p>That’s environmental memory in action.</p>
-<p>And it may become one of our most powerful tools for building climate-resilient aquaculture in the decades ahead.</p>
-<section id="reference" class="level3">
-<h3 class="anchored" data-anchor-id="reference">📚 Reference</h3>
-<p>Baird M, Huffmyer AS, Ozguner N, Roberts SB. Parental immune priming reshapes offspring growth, metabolism, and thermal tolerance in the Pacific Oyster. <strong>bioRxiv</strong>. <a href="https://doi.org/10.64898/2025.12.10.693539" class="uri">https://doi.org/10.64898/2025.12.10.693539</a></p>
-
-
-<!-- -->
-
-</section>
-</section>
-
- ]]></description>
-  <category>oyster</category>
-  <category>aquaculture</category>
-  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-polyic/</guid>
-  <pubDate>Sun, 11 Jan 2026 08:00:00 GMT</pubDate>
-  <media:content url="https://faculty.washington.edu/sr320/posts/frontpage/sr320-polyic/plot.png" medium="image" type="image/png" height="98" width="144"/>
 </item>
 </channel>
 </rss>
