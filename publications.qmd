@@ -90,11 +90,11 @@ Characterizing the effects of ocean acidification in larval and juvenile Manila 
 
 #### 2026
 
--   
+-   [Assessing environmental drivers of Olympia oyster population genetic diversity in Puget Sound, WA](https://github.com/sr320/talk-ICSR-2026). Bengtsson, Martinelli, Roberts. S05: Genetics, Disease, & Biosecurity · Tue Oct 6
 
--   
+-   [Conservation aquaculture maintains genetic composition in hatchery-produced Olympia oysters in Puget Sound, WA](https://github.com/sr320/talk-ICSR-2026)**.** Bengtsson, Abbott, Gavery, Crim, Simchick, G. Goetz, F.W. Goetz, Roberts. S03: Hatchery Innovations, Upscaling, & Industry · Tue Oct 6
 
--   [Future Shellf: Predictive Phenotyping for Oyster Performance](https://github.com/sr320/talk-pcsga-2026) - Pacific Coast Shellfish Growers Association Meeting. September 2026 Steven Roberts · Ariana Huffmyer · Louis Plough · Mackenzie Gavery · Neil Thompson
+-   [Future Shellf: Predictive Phenotyping for Oyster Performance](https://github.com/sr320/talk-pcsga-2026) - Pacific Coast Shellfish Growers Association Meeting. September 2026. Steven Roberts · Ariana Huffmyer · Louis Plough · Mackenzie Gavery · Neil Thompson
 
 -   [Fundamental Differences Among Olympia Oyster Populations](https://github.com/sr320/talk-Chew-2026)  - NOAA - Chew Center Talk Series. August 2026. Steven Roberts
 
