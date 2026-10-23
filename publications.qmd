@@ -100,6 +100,8 @@ Characterizing the effects of ocean acidification in larval and juvenile Manila 
 
 -   [Fundamental Differences Among Olympia Oyster Populations](https://github.com/sr320/talk-Chew-2026)  - NOAA - Chew Center Talk Series. August 2026. Steven Roberts
 
+-   [Integrated Coral Epigenetic Regulation](https://github.com/shedurkin/Roberts-LabNotebook/blob/master/presentations/Durkin_ICRS_2026_Auckland.pptx). Kathleen Durkin. International Coral Reef Symposium 2026. Auckland, New Zealand. July 2026.
+
 -   [Sparse Tensor Decomposition and Elastic Net Regression for Multi-Species Gene Expression Analysis](https://github.com/sr320/talk-escience-2026) University of Washington eScience Institute Seminar Series. Seattle, WA. March 2026. Steven Roberts & Kathleen Durkin.
 
 -   [Environmental Memory: The Missing State Variable in Marine Biology](https://github.com/sr320/talk-UNCW-2026) UNCW Biology Seminar Series. Wilmington, NC. March 2026. Steven Roberts.
@@ -107,6 +109,8 @@ Characterizing the effects of ocean acidification in larval and juvenile Manila 
 -   [Shellfish Environmental Memory — Beyond Epigenetics](https://github.com/sr320/talk-EpiAqua-2026) EpiAqua 2026 - January 2026, University of Concepcion, Chile. Steven Roberts.
 
 #### 2025
+
+-   [Expanding the Museomics Toolkit: Nanopore Sequencing as a Tool for Methylation Mapping in Archival Corals](https://github.com/shedurkin/Roberts-LabNotebook/blob/master/presentations/Durkin_NoBones_2025_12_16_Nanopore.pptx). Kathleen Durkin. Smithsonian Invertebrate Zoology Department Seminar. Virtual. December, 2025.
 
 -   [Diverse nutritional strategies mediate early life thermal responses in reef-building corals in Moorea](https://github.com/AHuffmyer/presentations/blob/master/2025/Huffmyer_MCR_AIM_2025.pdf). Ariana S. Huffmyer. Moorea Coral Reef Long Term Ecological Research All-Investigators Meeting. Virtual. December 12, 2025.
 
