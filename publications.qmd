@@ -89,6 +89,9 @@ Characterizing the effects of ocean acidification in larval and juvenile Manila 
 # Recent Presentations
 
 #### 2026
+
+-   [Environmental stress hardening improves stress resilience in Pacific Oysters](https://github.com/AHuffmyer/presentations/blob/master/2026/Huffmyer_PCSGA_2026.pdf). Huffmyer, Gavery, Leuchtenberger, Baird, Ozguner, White, Carrington, Roberts. Pacific Coast Shellfish Growers Association conference. Blaine, WA. Sept 15 2026.
+
 -   [Weakened attachment and transcriptomic shifts in a marine mussel following exposure to ocean acidification, warming, and hypoxia](https://mattgeorgephd.github.io/assets/talks/2026-George-ISRS-talk.pptx). George, Leuchtenberger, Berg, Essington, Roberts, Carrington. International Shellfish Restoriation Society. Shelton, WA. October 6, 2026.
 
 -   [Assessing environmental drivers of Olympia oyster population genetic diversity in Puget Sound, WA](https://github.com/sr320/talk-ICSR-2026). Bengtsson, Martinelli, Roberts. S05: Genetics, Disease, & Biosecurity · Tue Oct 6
