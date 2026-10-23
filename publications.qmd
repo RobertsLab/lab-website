@@ -90,6 +90,14 @@ Characterizing the effects of ocean acidification in larval and juvenile Manila 
 
 #### 2026
 
+-   
+
+-   
+
+-   
+
+-   [Fundamental Differences Among Olympia Oyster Populations](https://github.com/sr320/talk-Chew-2026)  - NOAA - Chew Center Talk Series. August 2026. Steven Roberts
+
 -   [Sparse Tensor Decomposition and Elastic Net Regression for Multi-Species Gene Expression Analysis](https://github.com/sr320/talk-escience-2026) University of Washington eScience Institute Seminar Series. Seattle, WA. March 2026. Steven Roberts & Kathleen Durkin.
 
 -   [Environmental Memory: The Missing State Variable in Marine Biology](https://github.com/sr320/talk-UNCW-2026) UNCW Biology Seminar Series. Wilmington, NC. March 2026. Steven Roberts.
