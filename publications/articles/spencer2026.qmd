@@ -1,0 +1,27 @@
+---
+title: "Temperature-Sensitive Juvenile Fitness Traits Show Correlated and Genetically Defined Variation in a Heatwave-Affected Marine Fish"
+type: "article"
+author: "Laura H. Spencer, Benjamin J. Laurel, Mary Beth Rew Hicks, Louise A. Copeman, Ingrid B. Spies, Steven B. Roberts"
+year: "2026"
+publication: "Global Change Biology Communications"
+preprint: ""
+doi: "https://doi.org/10.1002/gcb4.70019"
+materials: "https://github.com/RobertsLab/project-cod-temperature"
+eprint: "https://onlinelibrary.wiley.com/doi/10.1002/gcb4.70019"
+toc: FALSE
+categories:
+  - Finfish
+  - Climate & Stress
+---
+
+## Citation
+
+> Spencer, L. H., Laurel, B. J., Rew Hicks, M. B., Copeman, L. A., Spies, I. B., & Roberts, S. B. (2026). Temperature-sensitive juvenile fitness traits show correlated and genetically defined variation in a heatwave-affected marine fish. *Global Change Biology Communications* **1**(4), e70019. https://doi.org/10.1002/gcb4.70019
+
+## Abstract
+
+Juvenile fish must balance energy allocation between somatic growth and lipid storage. This trade-off is sensitive to environmental conditions, which can drive interannual differences in overwinter survival and recruitment. We examined individual variation in these strategies by rearing Gulf of Alaska (GOA) juvenile Pacific cod (*Gadus macrocephalus*) at four temperatures (0°C, 5°C, 9°C, and 16°C). Growth rates followed an asymmetric thermal performance curve with a peak near 12°C, while liver lipid content, the energy currency of juvenile cod, declined sharply above 9°C. Individuals at 16°C stored on average approximately 40% less lipid in the liver than those held at cooler temperatures, despite high survival (90%). However, within each temperature, individuals with the highest growth rates also had the greatest liver lipid reserves, suggesting variation in energetic efficiency among individuals. At the highest temperature (16°C), ~4% of genome-wide genetic variation captured by three genetic principal components explained ~25% of trait variation, with particularly strong relationships to liver lipid content. These results highlight that intra-population genetic variability associated with individual fitness traits, particularly lipid allocation in the liver, may influence resilience to warming in GOA juveniles. As marine heatwaves become more frequent, reduced lipid stores in the liver may compromise overwinter survival, while traits supporting both growth and energy storage may be favored. This study provides insight into thermal lipid allocation strategies in juvenile Pacific cod, and highlights the potential for developing molecular indicators of selection on fitness-related traits as marine conditions continue to shift.
+
+## Data Availability
+
+Raw sequence data is publicly available on the NCBI Sequence Read Archive (SRA) under BioProject [PRJNA1298946](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1298946). Phenotype data is available on the GitHub repository, <https://github.com/RobertsLab/project-cod-temperature>.
