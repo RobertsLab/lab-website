@@ -112,6 +112,20 @@ Characterizing the effects of ocean acidification in larval and juvenile Manila 
 
 -   [Shellfish Environmental Memory — Beyond Epigenetics](https://github.com/sr320/talk-EpiAqua-2026) EpiAqua 2026 - January 2026, University of Concepcion, Chile. Steven Roberts.
 
+-   [Short-term mechanisms, long-term consequences: snow crab acclimation to ocean acidification](https://github.com/laurahspencer/Products/blob/main/Presentations/2026-01-28-AMSS-Pacific-cod.pdf) Alaska Marine Science Symposium 2026 - January 2026, Anchorage, AK, Laura Spencer, presented by Chris Long.
+
+-   From heatwaves to recovery: Temperature-linked performance and resilience in Gulf of Alaska Pacific cod; [Alaska Marine Science Symposium 2026 - January 2026, Anchorage, AK](https://github.com/laurahspencer/Products/blob/main/Presentations/2026-01-29-AMSS-Presentation-Crab.pdf), and [Alaska Sea Grant Wakefield Symposium - May 2026, Kodiak, AK](https://github.com/laurahspencer/Products/blob/main/Presentations/2026-05-05-Wakefield-Presentation.pdf), Laura Spencer.
+
+-   [Pacific cod ‘Omics projects: Juvenile temperature responses, and more!](https://github.com/laurahspencer/Products/blob/main/Presentations/2026-03-23-Newport-Pacific-cod.pdf), March 2026. AFSC Fish Behavioral Ecology Program (Hafield), Newport, OR. Laura Spencer.
+
+-   [The How and the Why: Molecular insights into ocean acidification responses in Alaskan crabs](https://github.com/laurahspencer/Products/blob/main/Presentations/2026-03-24-Kodiak-Shellfish-Seminar-Presentation.pdf), March 2026. Shellfish Seminar Series, AFSC Kodiak Lab (remote). Laura Spencer.
+
+-   [Mechanisms ofpH stress resilience in Alaskan crabs](https://github.com/laurahspencer/Products/blob/main/Presentations/2026-03-26_NSA-Crab-Presentation.pdf), March 2026. National Shellfish Association Annual Meeting, Portland, OR. Laura Spencer.
+
+-   [Crab and cod 'Omics projects update for Auke Bay Genetics group](https://github.com/laurahspencer/Products/blob/main/Presentations/2026-06-15-Presentation-Auke-Bay-Lab-Juneau%20.pdf), June 2026. Juneau, AK. Laura Spencer.
+
+-   [Environmental stress and hybridization in Bering Sea crabs (Chionoecetes spp.](https://github.com/laurahspencer/Products/blob/main/Presentations/2026-09-16-NSA-PCS-Crab%20Presentation.pdf), September 2026. Shellfish Conferenc (NSA-PCS / PCSGA), Blaine, WA. Laura Spencer.  
+
 #### 2025
 
 -   [Expanding the Museomics Toolkit: Nanopore Sequencing as a Tool for Methylation Mapping in Archival Corals](https://github.com/shedurkin/Roberts-LabNotebook/blob/master/presentations/Durkin_NoBones_2025_12_16_Nanopore.pptx). Kathleen Durkin. Smithsonian Invertebrate Zoology Department Seminar. Virtual. December, 2025.
