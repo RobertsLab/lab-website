@@ -3,6 +3,7 @@ project:
   output-dir: docs
   resources:
     - resources/Template_CV.docx
+    - CNAME
 
 website:
   open-graph: true
@@ -18,7 +19,7 @@ website:
   favicon: /img/logo.png
   title: "robertslab.info"
   google-analytics: "G-CVEKGK5BS0"
-  site-url: https://faculty.washington.edu/sr320
+  site-url: https://robertslab.info
   navbar:
     logo: "/img/logo.png"
     background: primary

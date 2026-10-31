@@ -4,7 +4,8 @@
 
 The official website for the Roberts Lab at the University of Washington School of Aquatic and Fishery Sciences.
 
-🌐 **Live site:** [faculty.washington.edu/sr320](https://faculty.washington.edu/sr320)
+🌐 **Live site:** [robertslab.info](https://robertslab.info)  
+🔁 **Mirror:** [faculty.washington.edu/sr320](https://faculty.washington.edu/sr320)
 
 ---
 
@@ -218,6 +219,8 @@ Site navigation (navbar, sidebar) is configured in `_quarto.yml`.
 ## Deployment
 
 The site is deployed via **GitHub Pages** from the `docs/` directory on the `main` branch. After rendering locally with `quarto render`, commit and push the updated `docs/` directory to deploy changes.
+
+The custom domain is set by `CNAME` in the project root, which `_quarto.yml` lists under `project.resources` so each render copies it to `docs/CNAME`. Leave it in place — removing it drops the custom domain on the next deploy.
 
 ```bash
 quarto render
