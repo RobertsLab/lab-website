@@ -6,7 +6,7 @@ year: "2026"
 publication: "Environmental Epigenetics"
 preprint: "https://doi.org/10.64898/2026.01.08.698487"
 doi: "https://doi.org/10.1093/eep/dvag032"
-materials: ""
+materials: "https://doi.org/10.5281/zenodo.23108257"
 eprint: "https://academic.oup.com/eep/article/12/1/dvag032/8829013"
 audio: "https://wp.me/p1QK1L-2cI"
 toc: FALSE
