@@ -284,17 +284,6 @@ I have been proud to call Washington home for most of my life, so I am thrilled 
 ::::: person-grid
 :::: person-card
 ::: person-name
-Noah Ozguner
-:::
-::: person-role 
-Maintaing aquatic facility data analysis related to oyster stress physiology.
-:::
-::::
-:::::
-
-::::: person-grid
-:::: person-card
-::: person-name
 Christina Zhang
 :::
 ::: person-role 
@@ -332,17 +321,6 @@ Hazel L Abrahamson-Amerine
 :::
 ::: person-role 
 Assessing relationship of glycogen content to environmental stress and memory.
-:::
-::::
-:::::
-
-::::: person-grid
-:::: person-card
-::: person-name
-Hannah Nowers
-:::
-::: person-role 
-Genomic differences in sea stars related to disease resistance.
 :::
 ::::
 :::::
@@ -589,6 +567,18 @@ Dave Metzger
 ## Undergraduate Alumni
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: alumni-grid
+:::: alumni-card
+::: alumni-name
+Noah Ozguner
+:::
+::::
+
+:::: alumni-card
+::: alumni-name
+Hannah Nowers
+:::
+::::
+
 :::: alumni-card
 ::: alumni-name
 [Madeline Baird](https://genefish.wordpress.com/author/mbaird2f1e8173cb2/)
