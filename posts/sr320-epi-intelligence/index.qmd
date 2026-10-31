@@ -1,0 +1,52 @@
+---
+title: "Epigenetic Intelligence: How Organisms Track Their Environment"
+description: "A new model asks what it would actually take for epigenetic marks to work as molecular memory"
+author:
+  - name: Steven Roberts
+    url: https://sr320.github.io/
+    orcid: 0000-0001-8302-1138
+    affiliation: Professor, UW - School of Aquatic and Fishery Sciences
+    affiliation-url: https://robertslab.info
+date: 10-31-2026
+categories: [paper, epigenetics, modeling, DNA methylation, marine invertebrates]
+image: summary.png
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+![](summary.png){fig-alt="Graphical summary of the epigenetic intelligence model"}
+
+Can an oyster or a coral "remember" the conditions it has lived through? Our field has spent more than a decade generating DNA methylation, histone, and noncoding RNA datasets from marine invertebrates exposed to warming, acidification, and other stressors. The data keep piling up, but a basic question has been surprisingly hard to answer: **what would a cell actually need to do for epigenetic marks to track a changing environment?**
+
+Our new paper, now out in *Environmental Epigenetics*, takes that question head on.
+
+> Moeller HV, Putnam HM, Cunning R, Roberts SB, Eirin-Lopez JM, Nisbet RM (2026). Epigenetic intelligence: how organisms track their environment through molecular memory. *Environmental Epigenetics* **12**(1), dvag032. <https://doi.org/10.1093/eep/dvag032>
+
+## From correlations to mechanism
+
+Most environmental epigenetics studies (including plenty of ours) are correlational: expose animals to a treatment, profile marks, and look for differences that line up with the environment or with gene expression. That approach has been productive, but it leaves the mechanism as a black box.
+
+Led by Holly Moeller and Roger Nisbet, this work flips the order. We started with a **stochastic model of epigenetic change**, where marks are added and removed at individual sites over time, and asked what conditions allow the overall epigenetic state to follow the environment in a useful way.
+
+## Three testable predictions
+
+The model produces three predictions that sound intuitive, yet have rarely (if ever) been tested directly:
+
+1. **Tracking requires environmental feedback.** Marks cannot follow the environment unless information about current conditions feeds back into how they are placed or maintained.
+2. **Tracking requires coordinated addition and removal.** Writing marks is only half the story. Erasing them has to be regulated in concert, or the system drifts rather than tracks.
+3. **Tracking only works for some kinds of environmental variability.** Epigenetic responses are effective under particular patterns of environmental change, and not others. Timescale matters.
+
+## What the evidence says, and what's missing
+
+Using marine invertebrates as a case study, we reviewed existing evidence and found results consistent with each prediction, along with a clear message: the experiments needed to test these ideas directly have mostly not been done. The paper lays out hypothetical routes by which epigenetic strategies could evolve and identifies the specific knowledge gaps and experimental needs that we think should drive the next phase of work.
+
+For our lab, this is a roadmap. It pushes us toward designs that manipulate the timing and predictability of environmental change, measure mark removal as carefully as mark addition, and follow individuals through time rather than relying on single snapshots.
+
+## A collaborative effort
+
+This paper grew out of a long-running collaboration between modelers and empiricists, including Holly Moeller (UC Santa Barbara), Hollie Putnam (University of Rhode Island), Ross Cunning (Shedd Aquarium), Jose Eirin-Lopez (Florida International University), and Roger Nisbet (UC Santa Barbara). Bringing mathematical frameworks together with empirical data is, we argue, exactly what the field needs to move forward.
+
+## Learn more
+
+- Read the full paper (open access): <https://doi.org/10.1093/eep/dvag032>
+- Summary video and more: [Genefish post](https://genefish.wordpress.com/2026/01/26/epigenetic-intelligence-how-organisms-track-their-environment-through-molecular-memory/)
+- Preprint: <https://doi.org/10.64898/2026.01.08.698487>
