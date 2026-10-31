@@ -1,0 +1,46 @@
+---
+title: "Molecular Control of Reproduction in Oysters: Sterility and Sex Management for Sustainable Aquaculture"
+code: ""
+status: "active"
+type: "grant"
+website: ""
+theme: "reproductive biology and ecology"
+agency: "USDA"
+year: "2026"
+github: ""
+toc: FALSE
+categories:
+  - oyster
+  - reproduction
+  - triploidy
+  - aquaculture
+  - 02-RBE
+  - 03-ARD
+  - open
+---
+
+## Collaborators
+
+PI: Steven Roberts, University of Washington
+
+Mackenzie Gavery, NOAA NWFSC
+
+Francis and Joth Davis, Pacific Hybreed
+
+## Summary
+
+Supported by the USDA NIFA AFRI Animal Reproduction program, this project (MAROSA) investigates the molecular mechanisms that control reproduction in oysters. The work aims to develop approaches for managing sterility and sex in cultured oysters, providing new tools to support sustainable and productive shellfish aquaculture. The project is carried out in partnership with Pacific Hybreed.
+
+## Data Availability
+
+## Notes
+
+::: panel-tabset
+## Proposal ID
+
+USDA NIFA (proposal 2025-12416)
+
+## Dates
+
+Start 10/15/2026
+:::

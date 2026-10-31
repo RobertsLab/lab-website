@@ -1,0 +1,50 @@
+---
+title: "Strengthening U.S. Oyster Broodstock Systems: Building Healthier, More Resilient Seed for American Growers"
+code: ""
+status: "active"
+type: "grant"
+website: ""
+theme: "aquaculture resource development"
+agency: "USDA"
+year: "2026"
+github: ""
+toc: FALSE
+categories:
+  - oyster
+  - broodstock
+  - aquaculture
+  - carryover
+  - 03-ARD
+  - 02-RBE
+  - open
+---
+
+## Collaborators
+
+PI: Steven Roberts, University of Washington
+
+Co-PIs: William Walton, Jessica Small, and Hamish Small (Virginia Institute of Marine Science); Christopher Hollenbeck (Texas A&M University-Corpus Christi); Louis Plough (USDA ARS); Mackenzie Gavery (NOAA NWFSC)
+
+Consultant: Bobbi Hudson, Pacific Shellfish Institute
+
+## Summary
+
+This USDA NIFA AFRI Sustainable Agricultural Systems (SAS) project brings together academic, federal, and industry partners to strengthen the oyster broodstock systems that supply seed to U.S. growers. The team will work to improve how broodstock are selected, conditioned, and managed so that hatcheries can consistently produce healthier, more resilient seed for oyster farms across the country.
+
+## Data Availability
+
+## Notes
+
+::: panel-tabset
+## Proposal ID
+
+USDA NIFA 2026-68012-47021 (proposal 2026-04626)
+
+## Dates
+
+Start 9/15/2026
+
+## Amount
+
+\$8,240,701
+:::

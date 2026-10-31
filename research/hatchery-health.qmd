@@ -1,0 +1,43 @@
+---
+title: "The Bivalve Hatchery Health Consortium: Managing larval crashes in bivalve hatcheries"
+code: ""
+status: "active"
+type: "grant"
+website: ""
+theme: "aquaculture resource development"
+agency: "USDA"
+year: "2026"
+github: ""
+toc: FALSE
+categories:
+  - oyster
+  - disease
+  - larvae
+  - aquaculture
+  - 03-ARD
+  - open
+---
+
+## Collaborators
+
+Lead PI: Marta Gomez-Chiarri, University of Rhode Island
+
+Co-PIs: Arun Venugopalan; David Bushek (Rutgers University); Jacob Cram and Matthew Gray (University of Maryland Center for Environmental Science); William Walton and Ryan Carnegie (Virginia Institute of Marine Science); Matthew Bertin (Case Western Reserve University); Bobbi Hudson (Pacific Shellfish Institute); Steven Roberts (University of Washington)
+
+## Summary
+
+Larval crashes, sudden and often unexplained die-offs of larvae, are one of the most costly and disruptive problems facing bivalve hatcheries. Funded by the USDA NIFA AFRI program, the Bivalve Hatchery Health Consortium unites researchers and industry partners from both coasts to identify the causes of larval crashes and develop practical strategies that hatcheries can use to prevent and manage them.
+
+## Data Availability
+
+## Notes
+
+::: panel-tabset
+## Proposal ID
+
+USDA NIFA 2026-67016-46687 (subaward from University of Rhode Island)
+
+## Dates
+
+Start 9/1/2026
+:::
