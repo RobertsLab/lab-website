@@ -569,13 +569,13 @@ Dave Metzger
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: alumni-grid
 :::: alumni-card
 ::: alumni-name
-Noah Ozguner
+Noah Ozguner (2026)
 :::
 ::::
 
 :::: alumni-card
 ::: alumni-name
-Hannah Nowers
+Hannah Nowers (2026)
 :::
 ::::
 
