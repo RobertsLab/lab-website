@@ -6,6 +6,7 @@ listing:
   grid-columns: 2
   image-height: 400px
   contents:
+    - "research/seaver.qmd"
     - "research/sas-broodstock.qmd"
     - "research/marosa.qmd"
     - "research/hatchery-health.qmd"

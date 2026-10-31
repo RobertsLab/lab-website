@@ -1,0 +1,44 @@
+---
+title: "Climate extremes and biological memory: Do El Niño-like conditions reprogram shellfish resilience?"
+code: ""
+status: "active"
+type: "grant"
+website: ""
+theme: "environmental epigenetics"
+agency: "Seaver Institute"
+year: "2026"
+github: ""
+toc: FALSE
+categories:
+  - oyster
+  - carryover
+  - epigenetics
+  - El Niño
+  - 01-EE
+  - 02-RBE
+  - open
+---
+
+## Collaborators
+
+PI: Steven Roberts, University of Washington
+
+## Summary
+
+Our lab studies how marine invertebrates respond to environmental stress, including regional heatwave impacts on shellfish, with a particular interest in whether environmental experiences can shape later performance within an individual's lifetime and across generations. Supported by the Seaver Institute's initiative to understand the impacts of the anticipated super El Niño, this project asks whether El Niño-like climate extremes leave a biological "memory" in shellfish that influences future responses, either within the exposed generation or through transmission from parents to offspring.
+
+Specifically, we are testing whether adult exposure to elevated temperature, altered salinity, reduced food availability, and shifts in carbonate chemistry changes reproductive condition, subsequent stress tolerance, and offspring performance, including larval development, metabolism, growth, and survival. By pairing controlled conditioning experiments with larval performance assays and measurements of epigenetic change, this work tests the provocative idea that major climate anomalies do not simply cause immediate stress, but may reprogram resilience and ecosystem performance over months to generations.
+
+## Data Availability
+
+## Notes
+
+::: panel-tabset
+## Dates
+
+Gift received July 2026
+
+## Amount
+
+\$30,000
+:::
