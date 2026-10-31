@@ -7,6 +7,7 @@ website: ""
 theme: "aquaculture resource development"
 agency: "USDA"
 year: "2026"
+image: "images/clipboard-3750879318.png"
 github: ""
 toc: FALSE
 categories:
@@ -17,6 +18,7 @@ categories:
   - 03-ARD
   - open
 ---
+
 
 ## Collaborators
 

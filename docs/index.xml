@@ -9,13 +9,112 @@
 <link>https://faculty.washington.edu/sr320/</link>
 <atom:link href="https://faculty.washington.edu/sr320/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.6.40</generator>
-<lastBuildDate>Wed, 23 Sep 2026 07:00:00 GMT</lastBuildDate>
+<generator>quarto-1.9.38</generator>
+<lastBuildDate>Sat, 31 Oct 2026 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>Epigenetic Intelligence: How Organisms Track Their Environment</title>
+  <dc:creator>Steven Roberts</dc:creator>
+  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-epi-intelligence/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<p>Can an oyster or a coral “remember” the conditions it has lived through? Our field has spent more than a decade generating DNA methylation, histone, and noncoding RNA datasets from marine invertebrates exposed to warming, acidification, disease, and other stressors. The data keep piling up, but a basic question has been surprisingly hard to answer: <strong>what would a cell actually need to do for epigenetic marks to track a changing environment?</strong></p>
+<p>Our new Perspectives paper in <em>Environmental Epigenetics</em> takes that question head on.</p>
+<blockquote class="blockquote">
+<p>Moeller HV, Putnam HM, Cunning R, Roberts SB, Eirin-Lopez JM, Nisbet RM (2026). Epigenetic intelligence: how organisms track their environment through molecular memory. <em>Environmental Epigenetics</em> <strong>12</strong>(1), dvag032. <a href="https://doi.org/10.1093/eep/dvag032" class="uri">https://doi.org/10.1093/eep/dvag032</a></p>
+</blockquote>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://faculty.washington.edu/sr320/posts/frontpage/sr320-epi-intelligence/fig1-mechanisms.jpg" class="img-fluid figure-img" alt="Diagram showing an environmental cue producing cofactors that lead to net removal or net addition of epigenetic markers on DNA and histones, altering gene expression and splicing variants."></p>
+<figcaption>Mechanisms of epigenetic modification. Environmental signals generate cofactors that shift the balance of marker addition and removal, changing DNA methylation and histone modifications, and in turn gene expression and splicing. (Fig. 1 from Moeller et al.&nbsp;2026, CC BY-NC 4.0)</figcaption>
+</figure>
+</div>
+<section id="from-correlations-to-mechanism" class="level2">
+<h2 class="anchored" data-anchor-id="from-correlations-to-mechanism">From correlations to mechanism</h2>
+<p>Most environmental epigenetics studies (including plenty of ours) are correlational: expose animals to a treatment, profile marks, and look for differences that line up with the environment or with gene expression. That approach has been productive, but it leaves the mechanism as a black box.</p>
+<p>Led by Holly Moeller and Roger Nisbet at UC Santa Barbara, this work flips the order. We built an <strong>individual-based stochastic simulation</strong> in which each organism carries a string of genomic “sites” that are either marked or unmarked, and the environment has its own string describing the best-matched epigenetic state. An organism’s <strong>stress</strong> is simply the fraction of sites that are mismatched with the environment. The more stressed an organism is, the faster it remodels: marks are added and removed site by site, partly at random and partly “preferentially” at sites the organism can tell are wrong. The model is deliberately agnostic about whether a site is a single CpG, a gene, or a cluster of co-regulated marks, and about whether a mark activates or represses expression.</p>
+<p>That framework let us ask three questions, each paired with a look at the empirical evidence in marine invertebrates and a clear statement of what is still unknown.</p>
+</section>
+<section id="tracking-the-environment-requires-site-level-information" class="level2">
+<h2 class="anchored" data-anchor-id="tracking-the-environment-requires-site-level-information">1. Tracking the environment requires site-level information</h2>
+<p>Without any information about <em>which</em> sites are mismatched, organisms never do better than chance: stress hovers around 0.5, the expectation for a random epigenome. Give them that information, and populations drop to roughly 15% mismatch within about 100 time steps, spike when the environment shifts, and then recover. The more an organism can separate preferential from random mark removal, the better it does.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://faculty.washington.edu/sr320/posts/frontpage/sr320-epi-intelligence/fig3-environmental-information.jpg" class="img-fluid figure-img" alt="Time series of organism stress and proportion of marked sites with and without environmental information, plus a plot of stress decreasing as the environmental information parameter epsilon increases from 0 to 1."></p>
+<figcaption>Without environmental information (a), stress stays near the random expectation of 0.5. With it (b), stress falls quickly and recovers after a perturbation. (c) Mean stress declines as environmental information (ε) increases. (Fig. 3 from Moeller et al.&nbsp;2026, CC BY-NC 4.0)</figcaption>
+</figure>
+</div>
+<p>This lines up with patterns we and others have seen. Pteropods (<em>Limacina antarctica</em>) lose DNA methylation after acute low pH exposure and return to baseline within 6 days. Heat-stressed <em>Acropora cervicornis</em> methylation profiles diverge and then become indistinguishable from controls 8 days after the stress ends. Oysters, geoduck, and corals all show methylation shifts with acidification. What we still lack is the mechanism: how does an animal translate an environmental cue into a targeted change at the right sites?</p>
+</section>
+<section id="adding-and-removing-marks-must-be-coupled" class="level2">
+<h2 class="anchored" data-anchor-id="adding-and-removing-marks-must-be-coupled">2. Adding and removing marks must be coupled</h2>
+<p>If mark addition and removal get out of balance, an organism either strips its genome bare or marks everything, and either way ends up badly mismatched. Using a simple evolutionary algorithm (the most stressed individual dies, the least stressed reproduces, removal tendencies occasionally mutate), we found that higher addition tendencies always require proportionally higher removal tendencies. The exact balance depends on the environment: settings that call for few marks favor stronger removal.</p>
+<p>Biochemically, addition and removal are handled by different enzymes (DNMTs versus TETs for DNA methylation; HATs, HDACs, and histone demethylases for histone marks), and both cost energy. How organisms coordinate these pools is an open question, and one we think ties epigenetics directly to an animal’s energetic state.</p>
+</section>
+<section id="epigenetic-tracking-only-works-in-some-environments" class="level2">
+<h2 class="anchored" data-anchor-id="epigenetic-tracking-only-works-in-some-environments">3. Epigenetic tracking only works in some environments</h2>
+<p>We then let the environment shift in predictable ways, varying both how often it changes and how much. Organisms with good environmental information can follow infrequent changes, even big ones (“abrupt jumps”), and frequent changes if they are small (“slow and steady”). Frequent, large changes push stress back toward random.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://faculty.washington.edu/sr320/posts/frontpage/sr320-epi-intelligence/fig6-environmental-change.jpg" class="img-fluid figure-img" alt="Heatmaps of mean stress, stress standard deviation, and stress range versus environmental change frequency and magnitude, plus raster plots showing a high-information organism closely following the environment and a low-information organism failing to."></p>
+<figcaption>Mean stress, stress variance, and stress range across combinations of environmental change frequency and magnitude, with example “abrupt jumps” and “slow and steady” environments tracked by a high-information organism (blue) and a low-information organism (pink). (Fig. 6 from Moeller et al.&nbsp;2026, CC BY-NC 4.0)</figcaption>
+</figure>
+</div>
+<p>This leads to a prediction we are excited to test: lineages from highly variable habitats (intertidal zones, estuaries) should lean more heavily on epigenetic regulation than close relatives from stable ones. Oysters are a natural system for this, with Eastern and Pacific oysters living in fluctuating estuaries while relatives such as <em>Crassostrea nippona</em> occupy more stable coastal waters. We also argue that the environmental changes most likely to select for epigenetic responses are reversible ones that recur on the order of a generation or two.</p>
+</section>
+<section id="where-the-field-goes-next" class="level2">
+<h2 class="anchored" data-anchor-id="where-the-field-goes-next">Where the field goes next</h2>
+<p>The paper closes with a call for experiments designed around mechanism rather than endpoints:</p>
+<ul>
+<li><strong>High-resolution time series</strong> after a defined stressor, measuring physiology, gene expression, and epigenetic state together, repeated across lineages and species.</li>
+<li><strong>Quantifying the epigenetic machinery</strong> (DNMT, TET, HAT, HDAC, and HDM abundance and activity) to see how addition and removal are coupled.</li>
+<li><strong>Phylogenetically controlled comparisons</strong> of lineages from stable versus variable environments, using common garden and reciprocal transplant designs.</li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://faculty.washington.edu/sr320/posts/frontpage/sr320-epi-intelligence/fig4-experiments.jpg" class="img-fluid figure-img" alt="Three-panel schematic of proposed experiments: high-resolution time series after a stressor, quantification of epigenetic enzymes such as DNMT, TET, HAT, HDAC and HDM, and comparative common garden and reciprocal transplant studies."></p>
+<figcaption>Proposed experiments to close knowledge gaps in (a) environmental sensing, (b) coupling of modifications, and (c) environmental responsiveness. (Fig. 4 from Moeller et al.&nbsp;2026, CC BY-NC 4.0)</figcaption>
+</figure>
+</div>
+<p>For our lab, this is a roadmap. It pushes us toward designs that manipulate the timing and predictability of environmental change, measure mark removal as carefully as mark addition, and follow individuals through time rather than relying on single snapshots.</p>
+</section>
+<section id="a-collaborative-effort" class="level2">
+<h2 class="anchored" data-anchor-id="a-collaborative-effort">A collaborative effort</h2>
+<p>This paper came out of the NSF <em>Understanding the Rules of Life: Epigenetics</em> program, bringing together modelers and empiricists: Holly Moeller and Roger Nisbet (UC Santa Barbara), Hollie Putnam (University of Rhode Island), Ross Cunning (Shedd Aquarium), Jose Eirin-Lopez (Florida International University), and our group at the UW School of Aquatic and Fishery Sciences. Bringing explicit mathematical frameworks together with empirical data is, we argue, exactly what the field needs to move forward.</p>
+</section>
+<section id="learn-more" class="level2">
+<h2 class="anchored" data-anchor-id="learn-more">Learn more</h2>
+<ul>
+<li>Full paper (open access): <a href="https://doi.org/10.1093/eep/dvag032" class="uri">https://doi.org/10.1093/eep/dvag032</a></li>
+<li>Model code: <a href="https://doi.org/10.5281/zenodo.23108257" class="uri">https://doi.org/10.5281/zenodo.23108257</a></li>
+<li>Summary video and more: <a href="https://genefish.wordpress.com/2026/01/26/epigenetic-intelligence-how-organisms-track-their-environment-through-molecular-memory/">Genefish post</a></li>
+<li>Preprint: <a href="https://doi.org/10.64898/2026.01.08.698487" class="uri">https://doi.org/10.64898/2026.01.08.698487</a></li>
+</ul>
+<p><em>Figures reproduced from Moeller et al.&nbsp;(2026) under a <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a> license.</em></p>
+
+
+</section>
+
+ ]]></description>
+  <category>paper</category>
+  <category>epigenetics</category>
+  <category>modeling</category>
+  <category>DNA methylation</category>
+  <category>marine invertebrates</category>
+  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-epi-intelligence/</guid>
+  <pubDate>Sat, 31 Oct 2026 04:00:00 GMT</pubDate>
+  <media:content url="https://faculty.washington.edu/sr320/posts/frontpage/sr320-epi-intelligence/fig1-mechanisms.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Juvenile and Adult Sunflower Sea Stars Respond Alike to Wasting Disease</title>
   <dc:creator>Steven Roberts</dc:creator>
   <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-crandall-pycno/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -50,7 +149,7 @@
   <category>disease</category>
   <category>transcriptomics</category>
   <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-crandall-pycno/</guid>
-  <pubDate>Wed, 23 Sep 2026 07:00:00 GMT</pubDate>
+  <pubDate>Wed, 23 Sep 2026 04:00:00 GMT</pubDate>
   <media:content url="https://faculty.washington.edu/sr320/posts/frontpage/sr320-crandall-pycno/images/pca.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -58,6 +157,7 @@
   <dc:creator>Steven Roberts</dc:creator>
   <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-pink-peerj/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -87,7 +187,7 @@
   <category>resazurin</category>
   <category>methods</category>
   <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-pink-peerj/</guid>
-  <pubDate>Mon, 03 Aug 2026 07:00:00 GMT</pubDate>
+  <pubDate>Mon, 03 Aug 2026 04:00:00 GMT</pubDate>
   <media:content url="https://faculty.washington.edu/sr320/posts/frontpage/sr320-pink-peerj/images/resazurin-assay.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -95,6 +195,7 @@
   <dc:creator>Steven Roberts</dc:creator>
   <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-deep-dive/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -119,7 +220,7 @@
   <category>coral</category>
   <category>epigenetics</category>
   <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-deep-dive/</guid>
-  <pubDate>Wed, 08 Jul 2026 07:00:00 GMT</pubDate>
+  <pubDate>Wed, 08 Jul 2026 04:00:00 GMT</pubDate>
   <media:content url="https://faculty.washington.edu/sr320/posts/frontpage/sr320-deep-dive/images/clipboard-2802948026.png" medium="image" type="image/png" height="109" width="144"/>
 </item>
 <item>
@@ -127,6 +228,7 @@
   <dc:creator>Steven Roberts</dc:creator>
   <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-spring-undergrads/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -173,52 +275,15 @@
   <category>oyster</category>
   <category>research</category>
   <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-spring-undergrads/</guid>
-  <pubDate>Thu, 11 Jun 2026 07:00:00 GMT</pubDate>
+  <pubDate>Thu, 11 Jun 2026 04:00:00 GMT</pubDate>
   <media:content url="https://faculty.washington.edu/sr320/img/lab-photo-20250213-edited-SJW-01.JPG" medium="image"/>
-</item>
-<item>
-  <title>Unlocking the Secrets of Tunicate Stress Responses</title>
-  <dc:creator>Steven Roberts</dc:creator>
-  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-celeste/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>We are thrilled to highlight the incredible work of Celeste Valdivia, who recently defended her Master of Science thesis at the University of Washington’s School of Aquatic and Fishery Sciences. Co-advised by Dr.&nbsp;Alison Gardell and Dr.&nbsp;Steven Roberts, Celeste’s research dives deep into the biology of the globally invasive marine tunicate, <em>Botryllus schlosseri</em>. Her innovative work lays a crucial foundation for overcoming a decades-long hurdle in marine biology: the development of the first immortalized marine invertebrate cell line.</p>
-<p><strong>A Unique Strategy for Surviving Toxic Stress</strong> To understand the cellular mechanisms that might allow tunicate cells to become immortalized, Celeste first evaluated how whole colonies of <em>B. schlosseri</em> respond to oxidative stress caused by nickel. Astonishingly, she discovered that this species is highly tolerant to nickel toxicity, establishing an acute 24-hour lethal concentration (LC50) of roughly 177 mg/L—among the highest tolerance levels ever recorded for a marine invertebrate in artificial seawater.</p>
-<p>Instead of generating a massive, traditional antioxidant response to combat this severe stress, Celeste found that <em>B. schlosseri</em> employs a systemic survival strategy. At high nickel concentrations (100 mg/L), the colonies entered <strong>“blastogenic arrest”</strong>—halting their weekly asexual reproductive cycle and pausing the development of new buds. Through transcriptomic (RNA-seq) analysis, Celeste revealed that the colonies tightly coordinated this response by modulating developmental signaling pathways, inhibiting apoptosis, and remodeling their extracellular matrix (ECM) and vasculature. By putting reproduction and generational turnover on pause, the colony effectively mitigates its endogenous oxidative burden to survive the toxic environment.</p>
-<p><strong>Innovations in Cell Culture and Unexpected Discoveries</strong> Translating these findings from the whole organism to a petri dish, Celeste significantly advanced <em>in vitro</em> primary epithelial cell culture methods for the species. She implemented a novel <strong>partial desiccation explantation technique</strong> that vastly improved tissue adherence to the plastic culture substrate, resulting in highly reliable and consistent epithelial monolayer growth from both zooids and primary buds.</p>
-<p>When she challenged these cultured epithelial cells with acute nickel exposure, she made an unexpected discovery: the cultured cells were remarkably unfazed, displaying no morphological changes or increased cell death even at extreme concentrations.</p>
-<p>However, this incredible resilience also extended to laboratory chemicals, posing a massive technical hurdle. When Celeste attempted to extract RNA from these cells for transcriptomic analysis, the cells vigorously resisted traditional mechanical and chemical lysis techniques. Under the microscope, she observed that <strong>the cultured cells were actively producing fibrous, tunic-like secretions</strong>. Because the tunicate “tunic” is primarily composed of cellulose—a rigid structural carbohydrate typically found in plants—Celeste hypothesizes that these miniature biological shields not only protected the cells from the toxic heavy metals but also from laboratory lysis buffers.</p>
-<p><img src="http://gannet.fish.washington.edu/seashell/snaps/2026-03-18_18-12-47.png" class="img-fluid"></p>
-<p><strong>Looking Forward</strong> Celeste’s findings provide fascinating insights into how colonial marine organisms regulate cell fate and maintain cellular integrity under extreme environmental stress. Her methodological troubleshooting has set the stage for future breakthroughs, with recommendations to incorporate cellulase enzyme treatments to bypass the protective tunic secretions in future transcriptomic workflows.</p>
-<p>Supported by an NSF-BSF collaborative grant and conducted with partners at UC Davis and in Israel, Celeste’s thesis perfectly exemplifies the persistence, creativity, and adaptability required to pioneer new model systems in marine biology.</p>
-<p>Congratulations, Celeste, on an outstanding Master’s thesis and defense!</p>
-<section id="defense-recording" class="level2">
-<h2 class="anchored" data-anchor-id="defense-recording">Defense Recording</h2>
-<video controls="" width="100%">
-<source src="http://gannet.fish.washington.edu/seashell/snaps/video1510978840.mp4" type="video/mp4">
-<p>Your browser does not support the video tag. </p>
-
-
-<!-- -->
-
-</video></section>
-
- ]]></description>
-  <category>tunicate</category>
-  <category>cell</category>
-  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-celeste/</guid>
-  <pubDate>Thu, 19 Mar 2026 07:00:00 GMT</pubDate>
-  <media:content url="http://gannet.fish.washington.edu/seashell/snaps/2026-03-18_18-11-07.png" medium="image" type="image/png"/>
 </item>
 <item>
   <title>Decoding Coral Gene Regulation: Tensor Decomposition and Elastic Nets Meet Marine Epigenetics</title>
   <dc:creator>Steven Roberts</dc:creator>
   <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-escience/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -293,7 +358,7 @@
   <category>machine learning</category>
   <category>ai</category>
   <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-escience/</guid>
-  <pubDate>Thu, 12 Mar 2026 07:00:00 GMT</pubDate>
+  <pubDate>Thu, 12 Mar 2026 04:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Image_2026-03-12_19-26-38.png" medium="image" type="image/png"/>
 </item>
 </channel>

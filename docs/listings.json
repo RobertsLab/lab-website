@@ -16,6 +16,7 @@
       "/publications/articles/ts-maternal_2025.html",
       "/publications/articles/huffmyer2026b.html",
       "/publications/articles/spencer_2026.html",
+      "/publications/articles/spencer2026.html",
       "/publications/articles/andersen2025.html",
       "/publications/articles/venkataraman_2025.html",
       "/publications/articles/lewis-smith2025.html",
@@ -135,9 +136,11 @@
   {
     "listing": "/projects.html",
     "items": [
+      "/research/seaver.html",
+      "/research/sas-broodstock.html",
+      "/research/marosa.html",
+      "/research/hatchery-health.html",
       "/research/e5.html",
-      "/research/cod.html",
-      "/research/usda.html",
       "/research/wsg-ec.html"
     ]
   },
@@ -149,8 +152,12 @@
       "/research/cod.html",
       "/research/crabcod.html",
       "/research/e5.html",
+      "/research/hatchery-health.html",
+      "/research/marosa.html",
       "/research/nrsp8.html",
       "/research/salmon.html",
+      "/research/sas-broodstock.html",
+      "/research/seaver.html",
       "/research/shellfish.html",
       "/research/sormi.html",
       "/research/usda.html",
@@ -162,22 +169,24 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/frontpage/sr320-epi-intelligence/index.html",
       "/posts/frontpage/sr320-crandall-pycno/index.html",
       "/posts/frontpage/sr320-pink-peerj/index.html",
       "/posts/frontpage/sr320-deep-dive/index.html",
       "/posts/frontpage/sr320-spring-undergrads/index.html",
-      "/posts/frontpage/sr320-celeste/index.html",
       "/posts/frontpage/sr320-escience/index.html"
     ]
   },
   {
     "listing": "/posts.html",
     "items": [
+      "/posts/sr320-aree/index.html",
+      "/posts/frontpage/sr320-epi-intelligence/index.html",
       "/posts/frontpage/sr320-crandall-pycno/index.html",
       "/posts/frontpage/sr320-pink-peerj/index.html",
       "/posts/frontpage/sr320-deep-dive/index.html",
       "/posts/frontpage/sr320-spring-undergrads/index.html",
-      "/posts/frontpage/sr320-celeste/index.html",
+      "/posts/sr320-celeste/index.html",
       "/posts/frontpage/sr320-escience/index.html",
       "/posts/sr320-crab/index.html",
       "/posts/sr320-epiaqua/index.html",

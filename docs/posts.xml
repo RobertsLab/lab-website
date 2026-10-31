@@ -9,13 +9,180 @@
 <link>https://faculty.washington.edu/sr320/posts.html</link>
 <atom:link href="https://faculty.washington.edu/sr320/posts.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.6.40</generator>
-<lastBuildDate>Wed, 23 Sep 2026 07:00:00 GMT</lastBuildDate>
+<generator>quarto-1.9.38</generator>
+<lastBuildDate>Sat, 31 Oct 2026 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>Introducing AREE: Turning Scattered Oyster Data into Resilience Evidence</title>
+  <dc:creator>Steven Roberts</dc:creator>
+  <link>https://faculty.washington.edu/sr320/posts/sr320-aree/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<p>Which genes actually track with an oyster’s ability to survive a heatwave, a disease outbreak, or acidifying water? The answer is probably already out there, scattered across dozens of published studies. The trouble is that those studies use different sequencing platforms, genome versions, phenotype definitions, and gene identifiers. Asking a simple question like <em>“which candidate genes show up consistently across independent thermal tolerance studies?”</em> means redoing the comparison from scratch every time.</p>
+<p>That is the problem behind <strong>AREE, the Aquaculture Resilience Evidence Engine</strong>: an open, reproducible resource that converts fragmented public omics datasets into harmonized, comparable resilience-biomarker evidence for Pacific oyster (<em>Crassostrea gigas</em>), built to extend to other shellfish.</p>
+<p><strong>Explore the progress and findings dashboard: <a href="https://sr320.github.io/AREE/" class="uri">https://sr320.github.io/AREE/</a></strong></p>
+<p><img src="https://faculty.washington.edu/sr320/posts/sr320-aree/aree-layers.svg" class="img-fluid" alt="Diagram of the five AREE layers in sequence: study registry and intake, standardized reanalysis, cross-study harmonization, meta-analysis and prioritization, and user-facing outputs, spanning RNA-seq, DNA methylation, proteomics and metabolomics."></p>
+<section id="how-it-works" class="level2">
+<h2 class="anchored" data-anchor-id="how-it-works">How it works</h2>
+<p>AREE is a working pipeline, not a literature summary. It has five connected layers:</p>
+<ol type="1">
+<li><strong>Study registry and intake.</strong> Each public dataset gets a machine-readable registration using controlled vocabularies for phenotypes, stressors, tissues, and life stages, so “heat stress” means the same thing across studies.</li>
+<li><strong>Standardized reanalysis.</strong> Nextflow workflows reprocess RNA-seq, DNA methylation, proteomics, and metabolomics data, either from raw reads or from authors’ published results tables.</li>
+<li><strong>Cross-study harmonization.</strong> Everything lands in one shared evidence schema, with gene identifiers mapped to a common reference and every mapping labeled with an explicit confidence level.</li>
+<li><strong>Meta-analysis and prioritization.</strong> Random-effects meta-analysis pools results across studies, with heterogeneity statistics and a transparent candidate score broken into named components (number of supporting studies, direction agreement, effect size, and more). Hard gates mean no candidate reaches the top tier without independent replication.</li>
+<li><strong>User-facing outputs.</strong> A live dashboard, an in-browser Explore page for querying the evidence tables, per-gene evidence cards, and tools that let AI assistants such as Claude query the evidence directly.</li>
+</ol>
+</section>
+<section id="an-evidence-engine-not-a-claims-engine" class="level2">
+<h2 class="anchored" data-anchor-id="an-evidence-engine-not-a-claims-engine">An evidence engine, not a claims engine</h2>
+<p>The design principle we care most about is honesty. AREE identifies <strong>associations and convergence</strong> across studies and molecular layers. It never presents a significant hit in a single study as a validated biomarker. A few ways that shows up:</p>
+<ul>
+<li><strong>Resilience is kept separate from stress response.</strong> A gene that responds to heat tells you an animal is stressed. A gene that already differs between resilient and susceptible animals <em>before</em> any stress is what a breeder can actually use. AREE labels every candidate by what kind of evidence supports it and keeps these classes apart.</li>
+<li><strong>Disagreement is surfaced, not averaged away.</strong> When studies point in opposite directions, that conflict appears on the evidence card.</li>
+<li><strong>Provenance is tracked everywhere.</strong> Every result traces back to its source file, checksum, parameters, and workflow version, and published supplementary tables are converted by committed, re-runnable scripts rather than copy and paste.</li>
+<li><strong>Simulated data stays quarantined.</strong> Demo datasets used to test the pipeline are clearly labeled and excluded from real findings.</li>
+<li><strong>It says what it doesn’t know.</strong> Missing metadata, uncertain identifier mappings, and low replication are recorded and reported. The project even keeps a candid implementation status page that lists what is finished, what is only scaffolded, and what it previously got wrong.</li>
+</ul>
+</section>
+<section id="where-things-stand" class="level2">
+<h2 class="anchored" data-anchor-id="where-things-stand">Where things stand</h2>
+<p>As of a mid-October 2026 snapshot, AREE had registered <strong>30 real public studies</strong> with 69 experimental comparisons, and harmonized more than <strong>one million evidence records</strong> from 16 of those studies across RNA-seq, methylation, and proteomics. That includes our first full raw reanalysis, an OsHV-1 challenge study, in which per-sample viral read QC caught an infected control animal that is now excluded from the analysis. Cross-study pools already exist for oyster disease susceptibility (up to five studies), oyster thermal tolerance, and Manila clam thermal tolerance, with work underway to bring in more mussel and clam species. The dashboard is regenerated from the pipeline’s own outputs on every update, so check it for current numbers.</p>
+</section>
+<section id="why-it-matters" class="level2">
+<h2 class="anchored" data-anchor-id="why-it-matters">Why it matters</h2>
+<p>For breeding programs and hatcheries, a candidate marker that will inform selection decisions needs a paper trail that a skeptical geneticist can follow back to source data. For researchers, AREE means the next public dataset can be added with a registration file and a handful of commands, rather than another one-off reanalysis. And for the field, it turns years of publicly funded sequencing into a shared, growing resource.</p>
+</section>
+<section id="get-involved" class="level2">
+<h2 class="anchored" data-anchor-id="get-involved">Get involved</h2>
+<p>AREE is open source, and we welcome new datasets, species, and contributors.</p>
+<ul>
+<li>Dashboard and documentation: <a href="https://sr320.github.io/AREE/" class="uri">https://sr320.github.io/AREE/</a></li>
+<li>Code: <a href="https://github.com/sr320/AREE" class="uri">https://github.com/sr320/AREE</a></li>
+<li>Have a public shellfish omics dataset that should be included? The documentation includes a step-by-step guide to adding a study, or just get in touch.</li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>aquaculture</category>
+  <category>oyster</category>
+  <category>bioinformatics</category>
+  <category>meta-analysis</category>
+  <category>open science</category>
+  <category>resilience</category>
+  <guid>https://faculty.washington.edu/sr320/posts/sr320-aree/</guid>
+  <pubDate>Sat, 31 Oct 2026 04:00:00 GMT</pubDate>
+  <media:content url="https://faculty.washington.edu/sr320/posts/sr320-aree/aree-layers.png" medium="image" type="image/png" height="45" width="144"/>
+</item>
+<item>
+  <title>Epigenetic Intelligence: How Organisms Track Their Environment</title>
+  <dc:creator>Steven Roberts</dc:creator>
+  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-epi-intelligence/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<p>Can an oyster or a coral “remember” the conditions it has lived through? Our field has spent more than a decade generating DNA methylation, histone, and noncoding RNA datasets from marine invertebrates exposed to warming, acidification, disease, and other stressors. The data keep piling up, but a basic question has been surprisingly hard to answer: <strong>what would a cell actually need to do for epigenetic marks to track a changing environment?</strong></p>
+<p>Our new Perspectives paper in <em>Environmental Epigenetics</em> takes that question head on.</p>
+<blockquote class="blockquote">
+<p>Moeller HV, Putnam HM, Cunning R, Roberts SB, Eirin-Lopez JM, Nisbet RM (2026). Epigenetic intelligence: how organisms track their environment through molecular memory. <em>Environmental Epigenetics</em> <strong>12</strong>(1), dvag032. <a href="https://doi.org/10.1093/eep/dvag032" class="uri">https://doi.org/10.1093/eep/dvag032</a></p>
+</blockquote>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://faculty.washington.edu/sr320/posts/frontpage/sr320-epi-intelligence/fig1-mechanisms.jpg" class="img-fluid figure-img" alt="Diagram showing an environmental cue producing cofactors that lead to net removal or net addition of epigenetic markers on DNA and histones, altering gene expression and splicing variants."></p>
+<figcaption>Mechanisms of epigenetic modification. Environmental signals generate cofactors that shift the balance of marker addition and removal, changing DNA methylation and histone modifications, and in turn gene expression and splicing. (Fig. 1 from Moeller et al.&nbsp;2026, CC BY-NC 4.0)</figcaption>
+</figure>
+</div>
+<section id="from-correlations-to-mechanism" class="level2">
+<h2 class="anchored" data-anchor-id="from-correlations-to-mechanism">From correlations to mechanism</h2>
+<p>Most environmental epigenetics studies (including plenty of ours) are correlational: expose animals to a treatment, profile marks, and look for differences that line up with the environment or with gene expression. That approach has been productive, but it leaves the mechanism as a black box.</p>
+<p>Led by Holly Moeller and Roger Nisbet at UC Santa Barbara, this work flips the order. We built an <strong>individual-based stochastic simulation</strong> in which each organism carries a string of genomic “sites” that are either marked or unmarked, and the environment has its own string describing the best-matched epigenetic state. An organism’s <strong>stress</strong> is simply the fraction of sites that are mismatched with the environment. The more stressed an organism is, the faster it remodels: marks are added and removed site by site, partly at random and partly “preferentially” at sites the organism can tell are wrong. The model is deliberately agnostic about whether a site is a single CpG, a gene, or a cluster of co-regulated marks, and about whether a mark activates or represses expression.</p>
+<p>That framework let us ask three questions, each paired with a look at the empirical evidence in marine invertebrates and a clear statement of what is still unknown.</p>
+</section>
+<section id="tracking-the-environment-requires-site-level-information" class="level2">
+<h2 class="anchored" data-anchor-id="tracking-the-environment-requires-site-level-information">1. Tracking the environment requires site-level information</h2>
+<p>Without any information about <em>which</em> sites are mismatched, organisms never do better than chance: stress hovers around 0.5, the expectation for a random epigenome. Give them that information, and populations drop to roughly 15% mismatch within about 100 time steps, spike when the environment shifts, and then recover. The more an organism can separate preferential from random mark removal, the better it does.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://faculty.washington.edu/sr320/posts/frontpage/sr320-epi-intelligence/fig3-environmental-information.jpg" class="img-fluid figure-img" alt="Time series of organism stress and proportion of marked sites with and without environmental information, plus a plot of stress decreasing as the environmental information parameter epsilon increases from 0 to 1."></p>
+<figcaption>Without environmental information (a), stress stays near the random expectation of 0.5. With it (b), stress falls quickly and recovers after a perturbation. (c) Mean stress declines as environmental information (ε) increases. (Fig. 3 from Moeller et al.&nbsp;2026, CC BY-NC 4.0)</figcaption>
+</figure>
+</div>
+<p>This lines up with patterns we and others have seen. Pteropods (<em>Limacina antarctica</em>) lose DNA methylation after acute low pH exposure and return to baseline within 6 days. Heat-stressed <em>Acropora cervicornis</em> methylation profiles diverge and then become indistinguishable from controls 8 days after the stress ends. Oysters, geoduck, and corals all show methylation shifts with acidification. What we still lack is the mechanism: how does an animal translate an environmental cue into a targeted change at the right sites?</p>
+</section>
+<section id="adding-and-removing-marks-must-be-coupled" class="level2">
+<h2 class="anchored" data-anchor-id="adding-and-removing-marks-must-be-coupled">2. Adding and removing marks must be coupled</h2>
+<p>If mark addition and removal get out of balance, an organism either strips its genome bare or marks everything, and either way ends up badly mismatched. Using a simple evolutionary algorithm (the most stressed individual dies, the least stressed reproduces, removal tendencies occasionally mutate), we found that higher addition tendencies always require proportionally higher removal tendencies. The exact balance depends on the environment: settings that call for few marks favor stronger removal.</p>
+<p>Biochemically, addition and removal are handled by different enzymes (DNMTs versus TETs for DNA methylation; HATs, HDACs, and histone demethylases for histone marks), and both cost energy. How organisms coordinate these pools is an open question, and one we think ties epigenetics directly to an animal’s energetic state.</p>
+</section>
+<section id="epigenetic-tracking-only-works-in-some-environments" class="level2">
+<h2 class="anchored" data-anchor-id="epigenetic-tracking-only-works-in-some-environments">3. Epigenetic tracking only works in some environments</h2>
+<p>We then let the environment shift in predictable ways, varying both how often it changes and how much. Organisms with good environmental information can follow infrequent changes, even big ones (“abrupt jumps”), and frequent changes if they are small (“slow and steady”). Frequent, large changes push stress back toward random.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://faculty.washington.edu/sr320/posts/frontpage/sr320-epi-intelligence/fig6-environmental-change.jpg" class="img-fluid figure-img" alt="Heatmaps of mean stress, stress standard deviation, and stress range versus environmental change frequency and magnitude, plus raster plots showing a high-information organism closely following the environment and a low-information organism failing to."></p>
+<figcaption>Mean stress, stress variance, and stress range across combinations of environmental change frequency and magnitude, with example “abrupt jumps” and “slow and steady” environments tracked by a high-information organism (blue) and a low-information organism (pink). (Fig. 6 from Moeller et al.&nbsp;2026, CC BY-NC 4.0)</figcaption>
+</figure>
+</div>
+<p>This leads to a prediction we are excited to test: lineages from highly variable habitats (intertidal zones, estuaries) should lean more heavily on epigenetic regulation than close relatives from stable ones. Oysters are a natural system for this, with Eastern and Pacific oysters living in fluctuating estuaries while relatives such as <em>Crassostrea nippona</em> occupy more stable coastal waters. We also argue that the environmental changes most likely to select for epigenetic responses are reversible ones that recur on the order of a generation or two.</p>
+</section>
+<section id="where-the-field-goes-next" class="level2">
+<h2 class="anchored" data-anchor-id="where-the-field-goes-next">Where the field goes next</h2>
+<p>The paper closes with a call for experiments designed around mechanism rather than endpoints:</p>
+<ul>
+<li><strong>High-resolution time series</strong> after a defined stressor, measuring physiology, gene expression, and epigenetic state together, repeated across lineages and species.</li>
+<li><strong>Quantifying the epigenetic machinery</strong> (DNMT, TET, HAT, HDAC, and HDM abundance and activity) to see how addition and removal are coupled.</li>
+<li><strong>Phylogenetically controlled comparisons</strong> of lineages from stable versus variable environments, using common garden and reciprocal transplant designs.</li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://faculty.washington.edu/sr320/posts/frontpage/sr320-epi-intelligence/fig4-experiments.jpg" class="img-fluid figure-img" alt="Three-panel schematic of proposed experiments: high-resolution time series after a stressor, quantification of epigenetic enzymes such as DNMT, TET, HAT, HDAC and HDM, and comparative common garden and reciprocal transplant studies."></p>
+<figcaption>Proposed experiments to close knowledge gaps in (a) environmental sensing, (b) coupling of modifications, and (c) environmental responsiveness. (Fig. 4 from Moeller et al.&nbsp;2026, CC BY-NC 4.0)</figcaption>
+</figure>
+</div>
+<p>For our lab, this is a roadmap. It pushes us toward designs that manipulate the timing and predictability of environmental change, measure mark removal as carefully as mark addition, and follow individuals through time rather than relying on single snapshots.</p>
+</section>
+<section id="a-collaborative-effort" class="level2">
+<h2 class="anchored" data-anchor-id="a-collaborative-effort">A collaborative effort</h2>
+<p>This paper came out of the NSF <em>Understanding the Rules of Life: Epigenetics</em> program, bringing together modelers and empiricists: Holly Moeller and Roger Nisbet (UC Santa Barbara), Hollie Putnam (University of Rhode Island), Ross Cunning (Shedd Aquarium), Jose Eirin-Lopez (Florida International University), and our group at the UW School of Aquatic and Fishery Sciences. Bringing explicit mathematical frameworks together with empirical data is, we argue, exactly what the field needs to move forward.</p>
+</section>
+<section id="learn-more" class="level2">
+<h2 class="anchored" data-anchor-id="learn-more">Learn more</h2>
+<ul>
+<li>Full paper (open access): <a href="https://doi.org/10.1093/eep/dvag032" class="uri">https://doi.org/10.1093/eep/dvag032</a></li>
+<li>Model code: <a href="https://doi.org/10.5281/zenodo.23108257" class="uri">https://doi.org/10.5281/zenodo.23108257</a></li>
+<li>Summary video and more: <a href="https://genefish.wordpress.com/2026/01/26/epigenetic-intelligence-how-organisms-track-their-environment-through-molecular-memory/">Genefish post</a></li>
+<li>Preprint: <a href="https://doi.org/10.64898/2026.01.08.698487" class="uri">https://doi.org/10.64898/2026.01.08.698487</a></li>
+</ul>
+<p><em>Figures reproduced from Moeller et al.&nbsp;(2026) under a <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a> license.</em></p>
+
+
+</section>
+
+ ]]></description>
+  <category>paper</category>
+  <category>epigenetics</category>
+  <category>modeling</category>
+  <category>DNA methylation</category>
+  <category>marine invertebrates</category>
+  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-epi-intelligence/</guid>
+  <pubDate>Sat, 31 Oct 2026 04:00:00 GMT</pubDate>
+  <media:content url="https://faculty.washington.edu/sr320/posts/frontpage/sr320-epi-intelligence/fig1-mechanisms.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Juvenile and Adult Sunflower Sea Stars Respond Alike to Wasting Disease</title>
   <dc:creator>Steven Roberts</dc:creator>
   <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-crandall-pycno/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -50,7 +217,7 @@
   <category>disease</category>
   <category>transcriptomics</category>
   <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-crandall-pycno/</guid>
-  <pubDate>Wed, 23 Sep 2026 07:00:00 GMT</pubDate>
+  <pubDate>Wed, 23 Sep 2026 04:00:00 GMT</pubDate>
   <media:content url="https://faculty.washington.edu/sr320/posts/frontpage/sr320-crandall-pycno/images/pca.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -58,6 +225,7 @@
   <dc:creator>Steven Roberts</dc:creator>
   <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-pink-peerj/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -87,7 +255,7 @@
   <category>resazurin</category>
   <category>methods</category>
   <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-pink-peerj/</guid>
-  <pubDate>Mon, 03 Aug 2026 07:00:00 GMT</pubDate>
+  <pubDate>Mon, 03 Aug 2026 04:00:00 GMT</pubDate>
   <media:content url="https://faculty.washington.edu/sr320/posts/frontpage/sr320-pink-peerj/images/resazurin-assay.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -95,6 +263,7 @@
   <dc:creator>Steven Roberts</dc:creator>
   <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-deep-dive/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -119,7 +288,7 @@
   <category>coral</category>
   <category>epigenetics</category>
   <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-deep-dive/</guid>
-  <pubDate>Wed, 08 Jul 2026 07:00:00 GMT</pubDate>
+  <pubDate>Wed, 08 Jul 2026 04:00:00 GMT</pubDate>
   <media:content url="https://faculty.washington.edu/sr320/posts/frontpage/sr320-deep-dive/images/clipboard-2802948026.png" medium="image" type="image/png" height="109" width="144"/>
 </item>
 <item>
@@ -127,6 +296,7 @@
   <dc:creator>Steven Roberts</dc:creator>
   <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-spring-undergrads/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -173,14 +343,15 @@
   <category>oyster</category>
   <category>research</category>
   <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-spring-undergrads/</guid>
-  <pubDate>Thu, 11 Jun 2026 07:00:00 GMT</pubDate>
+  <pubDate>Thu, 11 Jun 2026 04:00:00 GMT</pubDate>
   <media:content url="https://faculty.washington.edu/sr320/img/lab-photo-20250213-edited-SJW-01.JPG" medium="image"/>
 </item>
 <item>
   <title>Unlocking the Secrets of Tunicate Stress Responses</title>
   <dc:creator>Steven Roberts</dc:creator>
-  <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-celeste/</link>
+  <link>https://faculty.washington.edu/sr320/posts/sr320-celeste/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -210,8 +381,8 @@
  ]]></description>
   <category>tunicate</category>
   <category>cell</category>
-  <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-celeste/</guid>
-  <pubDate>Thu, 19 Mar 2026 07:00:00 GMT</pubDate>
+  <guid>https://faculty.washington.edu/sr320/posts/sr320-celeste/</guid>
+  <pubDate>Thu, 19 Mar 2026 04:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/2026-03-18_18-11-07.png" medium="image" type="image/png"/>
 </item>
 <item>
@@ -219,6 +390,7 @@
   <dc:creator>Steven Roberts</dc:creator>
   <link>https://faculty.washington.edu/sr320/posts/frontpage/sr320-escience/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -293,7 +465,7 @@
   <category>machine learning</category>
   <category>ai</category>
   <guid>https://faculty.washington.edu/sr320/posts/frontpage/sr320-escience/</guid>
-  <pubDate>Thu, 12 Mar 2026 07:00:00 GMT</pubDate>
+  <pubDate>Thu, 12 Mar 2026 04:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Image_2026-03-12_19-26-38.png" medium="image" type="image/png"/>
 </item>
 <item>
@@ -301,6 +473,7 @@
   <dc:creator>Steven Roberts</dc:creator>
   <link>https://faculty.washington.edu/sr320/posts/sr320-crab/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -407,7 +580,7 @@
   <category>crab</category>
   <category>acidification</category>
   <guid>https://faculty.washington.edu/sr320/posts/sr320-crab/</guid>
-  <pubDate>Wed, 25 Feb 2026 08:00:00 GMT</pubDate>
+  <pubDate>Wed, 25 Feb 2026 05:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Image_2026-02-25_09-08-12.png" medium="image" type="image/png"/>
 </item>
 <item>
@@ -415,6 +588,7 @@
   <dc:creator>Steven Roberts</dc:creator>
   <link>https://faculty.washington.edu/sr320/posts/sr320-epiaqua/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -452,7 +626,7 @@
   <category>education</category>
   <category>aquaculture</category>
   <guid>https://faculty.washington.edu/sr320/posts/sr320-epiaqua/</guid>
-  <pubDate>Fri, 30 Jan 2026 08:00:00 GMT</pubDate>
+  <pubDate>Fri, 30 Jan 2026 05:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Image_2026-01-30_11-26-05.png" medium="image" type="image/png"/>
 </item>
 <item>
@@ -460,6 +634,7 @@
   <dc:creator>Steven Roberts</dc:creator>
   <link>https://faculty.washington.edu/sr320/posts/sr320-polyic/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -542,7 +717,7 @@
   <category>oyster</category>
   <category>aquaculture</category>
   <guid>https://faculty.washington.edu/sr320/posts/sr320-polyic/</guid>
-  <pubDate>Sun, 11 Jan 2026 08:00:00 GMT</pubDate>
+  <pubDate>Sun, 11 Jan 2026 05:00:00 GMT</pubDate>
   <media:content url="https://faculty.washington.edu/sr320/posts/sr320-polyic/plot.png" medium="image" type="image/png" height="98" width="144"/>
 </item>
 <item>
@@ -550,6 +725,7 @@
   <dc:creator>Steven Roberts</dc:creator>
   <link>https://faculty.washington.edu/sr320/posts/sr320-mother/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -645,7 +821,7 @@ It also resonates with ongoing efforts to integrate <strong>epigenetic and physi
   <category>clam</category>
   <category>aquaculture</category>
   <guid>https://faculty.washington.edu/sr320/posts/sr320-mother/</guid>
-  <pubDate>Thu, 13 Nov 2025 08:00:00 GMT</pubDate>
+  <pubDate>Thu, 13 Nov 2025 05:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/2025-11-11_05-31-13.png" medium="image" type="image/png"/>
 </item>
 <item>
@@ -653,6 +829,7 @@ It also resonates with ongoing efforts to integrate <strong>epigenetic and physi
   <dc:creator>Steven Roberts</dc:creator>
   <link>https://faculty.washington.edu/sr320/posts/sr320-pink/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -703,7 +880,7 @@ It also resonates with ongoing efforts to integrate <strong>epigenetic and physi
   <category>aquaculture</category>
   <category>resazurin</category>
   <guid>https://faculty.washington.edu/sr320/posts/sr320-pink/</guid>
-  <pubDate>Tue, 11 Nov 2025 08:00:00 GMT</pubDate>
+  <pubDate>Tue, 11 Nov 2025 05:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/2025-11-11_05-14-47.png" medium="image" type="image/png"/>
 </item>
 <item>
@@ -711,6 +888,7 @@ It also resonates with ongoing efforts to integrate <strong>epigenetic and physi
   <dc:creator>Steven Roberts</dc:creator>
   <link>https://faculty.washington.edu/sr320/posts/sr320-pgc/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -794,7 +972,7 @@ It also resonates with ongoing efforts to integrate <strong>epigenetic and physi
   <category>primordial germ cell</category>
   <category>scRNAseq</category>
   <guid>https://faculty.washington.edu/sr320/posts/sr320-pgc/</guid>
-  <pubDate>Mon, 27 Oct 2025 07:00:00 GMT</pubDate>
+  <pubDate>Mon, 27 Oct 2025 04:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Image_2025-10-27_10-07-36.png" medium="image" type="image/png"/>
 </item>
 <item>
@@ -802,6 +980,7 @@ It also resonates with ongoing efforts to integrate <strong>epigenetic and physi
   <dc:creator>Steven Roberts</dc:creator>
   <link>https://faculty.washington.edu/sr320/posts/sr320-earthlab-intertidal/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -844,7 +1023,7 @@ It also resonates with ongoing efforts to integrate <strong>epigenetic and physi
   <category>earthlab</category>
   <category>intertidal</category>
   <guid>https://faculty.washington.edu/sr320/posts/sr320-earthlab-intertidal/</guid>
-  <pubDate>Fri, 26 Sep 2025 07:00:00 GMT</pubDate>
+  <pubDate>Fri, 26 Sep 2025 04:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_The_Golden_Hour_-_a_geolocated_audio_walk_by_Intertidal_Innovators_on_ECHOES_2024-08-19_12-50-25.png" medium="image" type="image/png"/>
 </item>
 <item>
@@ -852,6 +1031,7 @@ It also resonates with ongoing efforts to integrate <strong>epigenetic and physi
   <dc:creator>Steven Roberts</dc:creator>
   <link>https://faculty.washington.edu/sr320/posts/sr320-metab/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -896,7 +1076,7 @@ It also resonates with ongoing efforts to integrate <strong>epigenetic and physi
   <category>metabolomics</category>
   <category>lipidomics</category>
   <guid>https://faculty.washington.edu/sr320/posts/sr320-metab/</guid>
-  <pubDate>Wed, 24 Sep 2025 07:00:00 GMT</pubDate>
+  <pubDate>Wed, 24 Sep 2025 04:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/2025-09-24_10-52-23.png" medium="image" type="image/png"/>
 </item>
 <item>
@@ -904,6 +1084,7 @@ It also resonates with ongoing efforts to integrate <strong>epigenetic and physi
   <dc:creator>Steven Roberts</dc:creator>
   <link>https://faculty.washington.edu/sr320/posts/sr320-sormi/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -950,7 +1131,7 @@ It also resonates with ongoing efforts to integrate <strong>epigenetic and physi
   <category>aquaculture</category>
   <category>stress</category>
   <guid>https://faculty.washington.edu/sr320/posts/sr320-sormi/</guid>
-  <pubDate>Fri, 05 Sep 2025 07:00:00 GMT</pubDate>
+  <pubDate>Fri, 05 Sep 2025 04:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_SR_PSI_WRAC_2025_Full_Proposal_Draft_2025-09-06_06-42-09.png" medium="image" type="image/png"/>
 </item>
 <item>
@@ -958,6 +1139,7 @@ It also resonates with ongoing efforts to integrate <strong>epigenetic and physi
   <dc:creator>Steven Roberts</dc:creator>
   <link>https://faculty.washington.edu/sr320/posts/sr320-sablefish/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -1002,7 +1184,7 @@ It also resonates with ongoing efforts to integrate <strong>epigenetic and physi
   <category>aquaculture</category>
   <category>sterility</category>
   <guid>https://faculty.washington.edu/sr320/posts/sr320-sablefish/</guid>
-  <pubDate>Mon, 14 Jul 2025 07:00:00 GMT</pubDate>
+  <pubDate>Mon, 14 Jul 2025 04:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Yanagitsuru_et_al_SterilityInduction_dnd_BathImmersion_SablefishProofOfConcept_2025.pdf_2025-07-20_13-09-45.png" medium="image" type="image/png"/>
 </item>
 <item>
@@ -1010,6 +1192,7 @@ It also resonates with ongoing efforts to integrate <strong>epigenetic and physi
   <dc:creator>Steven Roberts</dc:creator>
   <link>https://faculty.washington.edu/sr320/posts/sr320-capstone/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -1044,7 +1227,7 @@ It also resonates with ongoing efforts to integrate <strong>epigenetic and physi
   <category>shellfish</category>
   <category>capstone</category>
   <guid>https://faculty.washington.edu/sr320/posts/sr320-capstone/</guid>
-  <pubDate>Mon, 16 Jun 2025 07:00:00 GMT</pubDate>
+  <pubDate>Mon, 16 Jun 2025 04:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/2025-06-16_10-44-13.png" medium="image" type="image/png"/>
 </item>
 <item>
@@ -1052,6 +1235,7 @@ It also resonates with ongoing efforts to integrate <strong>epigenetic and physi
   <dc:creator>Steven Roberts</dc:creator>
   <link>https://faculty.washington.edu/sr320/posts/sr320-fellowships/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -1089,110 +1273,8 @@ It also resonates with ongoing efforts to integrate <strong>epigenetic and physi
   <category>genetics</category>
   <category>climate</category>
   <guid>https://faculty.washington.edu/sr320/posts/sr320-fellowships/</guid>
-  <pubDate>Thu, 12 Jun 2025 07:00:00 GMT</pubDate>
+  <pubDate>Thu, 12 Jun 2025 04:00:00 GMT</pubDate>
   <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_lab-photo-20250213-edited-SJW-01.JPG_36302626_pixels_2025-06-11_18-26-37.png" medium="image" type="image/png"/>
-</item>
-<item>
-  <title>Decoding Marine Memory</title>
-  <dc:creator>Steven Roberts</dc:creator>
-  <link>https://faculty.washington.edu/sr320/posts/sr320-epimar/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>At EPIMAR2025 in Barcelona, a gathering of global marine scientists illuminated the hidden world of epigenetic regulation in marine invertebrates. These tiny organisms, often overlooked in genomic studies, are now at the forefront of revealing how life beneath the waves adapts, survives, and thrives in rapidly changing oceans.</p>
-<p>In this post, we highlight key presentations that explored how DNA methylation, RNA modifications, and chromatin remodeling influence invertebrate development, stress response, and even intergenerational adaptation.</p>
-<hr>
-<section id="mussels-and-methylation-maps" class="level3">
-<h3 class="anchored" data-anchor-id="mussels-and-methylation-maps">Mussels and Methylation Maps</h3>
-<p><strong>Enrico D’Aniello</strong>&nbsp;and colleagues presented the first high-resolution DNA methylation map in the mussel&nbsp;<em>Mytilus galloprovincialis</em>. This map revealed key regulatory elements and tissue-specific methylation patterns, providing a baseline for understanding how gene expression is modulated in response to environmental shifts.</p>
-<hr>
-</section>
-<section id="modifications-in-oysters" class="level3">
-<h3 class="anchored" data-anchor-id="modifications-in-oysters">Modifications in Oysters</h3>
-<p>In&nbsp;<em>Crassostrea gigas</em>,&nbsp;<strong>Natacha Clairet</strong>&nbsp;demonstrated that m6A RNA methylation plays a pivotal role in neural development and transcript splicing. Her work showed that these epitranscriptomic changes are not only developmentally regulated but may also mediate environmental responses.</p>
-<p>Building on the oyster story,&nbsp;<strong>Guillaume Rivière</strong>&nbsp;showed that thermal stress leaves lasting epigenetic marks on oyster gill tissues. This “epigenetic memory” alters gene expression patterns in subsequent exposures, pointing to methylation as a resilience mechanism.</p>
-<p>Meanwhile,&nbsp;<strong>Sophie Valk</strong>&nbsp;examined oysters undergoing natural sex transitions, finding unique DNA methylation signatures in hermaphrodites. Her work hints at epigenetic regulation as a driver of reproductive plasticity.</p>
-<p><strong>Elyna Bouchereau</strong> from the University of Perpignan explored the methylome of <em>Vibrio aestuarianus</em>, a bacterial pathogen of oysters, revealing how epigenetic signatures may influence virulence and host interaction, while <strong>Amélie Dellong</strong> presented a multi-omics approach to decipher chromatin structure in <em>Magallana gigas</em>, offering new insight into the regulatory architecture of oyster genomes.</p>
-<p><strong>Marta Pascual</strong> presented a population epigenomics study of <em>Crassostrea gigas</em> along the Iberian Atlantic coast, showing that DNA methylation patterns vary significantly between wild and farmed populations, suggesting a potential role in local adaptation and domestication.</p>
-<p><strong>Lénaig Boulard</strong> investigated the epigenetic responses of Pacific oysters to ocean acidification, demonstrating methylation changes in genes associated with shell formation and oxidative stress defense.</p>
-<p><strong>Céline Cosseau</strong> explored transgenerational epigenetic inheritance in oysters, showing that environmental exposures in adult oysters can lead to stable methylation changes in offspring, particularly in stress-response genes.</p>
-<hr>
-</section>
-<section id="corals-and-the-code-of-light" class="level3">
-<h3 class="anchored" data-anchor-id="corals-and-the-code-of-light">Corals and the Code of Light</h3>
-<p>Reef-building corals were another highlight.&nbsp;<strong>Kathleen Durkin</strong>&nbsp;described how miRNAs and lncRNAs shape coral development and immunity under heat stress.&nbsp;<strong>Kelly Gómez-Campo</strong>&nbsp;added that light exposure during development can modulate DNA methylation patterns and downstream gene networks in corals, underscoring how tightly environment and epigenome are interlinked.<br>
-<strong>Hollie Putnam</strong> presented a comprehensive study on the spatial and temporal dynamics of epigenetic regulation in reef-building corals, while <strong>Jill Ashey</strong> highlighted the critical roles of non-coding RNAs during early coral development, particularly in mediating the maternal-to-zygotic transition.</p>
-<hr>
-</section>
-<section id="histone-modifications-in-sea-anemones" class="level3">
-<h3 class="anchored" data-anchor-id="histone-modifications-in-sea-anemones">Histone Modifications in Sea Anemones</h3>
-<p>In the heat-stressed sea anemone&nbsp;<em>Exaiptasia diaphana</em>,&nbsp;<strong>Mascha Dix</strong>&nbsp;presented findings on histone modifications (H3K27me3 and H3K4me3) as key players in regulating gene expression. These modifications allow rapid but reversible responses to changing thermal conditions.</p>
-<hr>
-</section>
-<section id="hypoxia-and-neural-epigenetics-in-sea-hares" class="level3">
-<h3 class="anchored" data-anchor-id="hypoxia-and-neural-epigenetics-in-sea-hares">Hypoxia and Neural Epigenetics in Sea Hares</h3>
-<p><strong>Javier Rodriguez-Casariego</strong>&nbsp;studied the sea hare&nbsp;<em>Aplysia californica</em>&nbsp;and showed that DNA methylation shifts in neural tissues under hypoxic conditions suggest a role for epigenetic plasticity in environmental stress tolerance.</p>
-<hr>
-</section>
-<section id="conclusion-epigenetics-as-a-unifying-language" class="level3">
-<h3 class="anchored" data-anchor-id="conclusion-epigenetics-as-a-unifying-language">Conclusion: Epigenetics as a Unifying Language</h3>
-<p>These studies collectively show that epigenetic mechanisms are not just molecular curiosities—they are central to how marine invertebrates sense, remember, and adapt to their environment. Whether through methylation, non-coding RNA, or histone marks, the language of the epigenome is being translated into actionable insights for conservation, aquaculture, and understanding evolution under climate change.</p>
-<p>EPIMAR2025 made one thing clear: the future of marine biology will be written in epigenetic code.</p>
-
-
-<!-- -->
-
-</section>
-
- ]]></description>
-  <category>epigenetics</category>
-  <guid>https://faculty.washington.edu/sr320/posts/sr320-epimar/</guid>
-  <pubDate>Wed, 11 Jun 2025 07:00:00 GMT</pubDate>
-  <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_EPIMAR_2025__Barcelona_Spain_-_May_27-30_2025-06-11_17-59-29.png" medium="image" type="image/png"/>
-</item>
-<item>
-  <title>🌟 Undergraduate Research Highlight</title>
-  <dc:creator>Steven Roberts</dc:creator>
-  <link>https://faculty.washington.edu/sr320/posts/sr320-baird/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>We’re excited to share that <strong>Madeline Baird</strong>, an undergraduate researcher in the Roberts Lab, will present her research at the <strong>2025 Mary Gates Undergraduate Research Symposium</strong>.</p>
-<p>Her poster presentation, titled</p>
-<p><strong>“Application of Metabolic Assays to Characterize Thermal Tolerance in Pacific Oyster (Magallana gigas) Early Life Stages,”</strong></p>
-<div class="text-center">
-<p><img src="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_UWURS_Oyster_Poster.pdf_2025-05-15_09-17-36.png" class="img-fluid" style="width: 75%;"></p>
-</div>
-<p>investigates how parental immune priming affects offspring resilience in a changing ocean. Collaborating with the <strong>Jamestown Shellfish Hatchery</strong>, Madeline reared juvenile oysters from immune-challenged parents and assessed growth, survival, and metabolism under a wide range of temperatures.</p>
-<p>Using high-throughput <strong>resazurin metabolic assays</strong>, she found that immune-primed offspring showed greater thermal tolerance—especially between 36°C and 40°C—highlighting a potentially important role of <strong>metabolic flexibility</strong> in inherited stress resilience.</p>
-<blockquote class="blockquote">
-<p>🔬 These findings support the idea that <strong>non-genetic inheritance</strong> may help oysters adapt to increasing marine heatwaves—an insight with valuable implications for aquaculture and conservation.</p>
-</blockquote>
-<p>Madeline’s work was supported by the <strong>USDA</strong>, <strong>Washington Sea Grant</strong>, and the <strong>UW Population Health Initiative</strong>, which recognized her with a <strong>2025 Population Health Recognition Award</strong>.</p>
-<p>We’re proud to support Madeline’s research and scientific growth, and we look forward to seeing where her work leads next!</p>
-<p>🧪 View her research, lab notebook, and more:</p>
-<p>👉 <a href="https://linktr.ee/madsmarine" class="uri">https://linktr.ee/madsmarine</a></p>
-<p>See her in in the lab!</p>
-<video width="640" controls="">
-<source src="http://gannet.fish.washington.edu/seashell/snaps/OysterLabworkVideo.MOV" type="video/quicktime">
-<p>Your browser does not support the video tag. </p>
-
-
-<!-- -->
-
-
-</video> ]]></description>
-  <category>aquaculture</category>
-  <category>stress</category>
-  <guid>https://faculty.washington.edu/sr320/posts/sr320-baird/</guid>
-  <pubDate>Thu, 15 May 2025 07:00:00 GMT</pubDate>
-  <media:content url="http://gannet.fish.washington.edu/seashell/snaps/Monosnap_UWURS_Oyster_Poster.pdf_2025-05-15_07-34-59.png" medium="image" type="image/png"/>
 </item>
 </channel>
 </rss>

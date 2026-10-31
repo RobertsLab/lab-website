@@ -7,6 +7,7 @@ website: ""
 theme: "aquaculture resource development"
 agency: "USDA"
 year: "2026"
+image: "images/clipboard-3938735220.png"
 github: ""
 toc: FALSE
 categories:
@@ -21,11 +22,13 @@ categories:
 
 ## Collaborators
 
-PI: Steven Roberts, University of Washington
-
 Co-PIs: William Walton, Jessica Small, and Hamish Small (Virginia Institute of Marine Science); Christopher Hollenbeck (Texas A&M University-Corpus Christi); Louis Plough (USDA ARS); Mackenzie Gavery (NOAA NWFSC)
 
 Consultant: Bobbi Hudson, Pacific Shellfish Institute
+
+## Website
+
+<https://oysterseed.farm>
 
 ## Summary
 

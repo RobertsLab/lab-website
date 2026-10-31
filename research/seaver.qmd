@@ -7,6 +7,7 @@ website: ""
 theme: "environmental epigenetics"
 agency: "Seaver Institute"
 year: "2026"
+image: "images/clipboard-3058755681.png"
 github: ""
 toc: FALSE
 categories:
@@ -18,6 +19,7 @@ categories:
   - 02-RBE
   - open
 ---
+
 
 ## Collaborators
 

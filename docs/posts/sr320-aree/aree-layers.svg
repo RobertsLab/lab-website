@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 300" font-family="Helvetica, Arial, sans-serif" role="img" aria-labelledby="t d">
+  <title id="t">The five layers of AREE</title>
+  <desc id="d">Public omics studies flow through five layers: study registry and intake, standardized reanalysis workflows, cross-study harmonization, meta-analysis and candidate prioritization, and user-facing outputs.</desc>
+  <rect width="960" height="300" fill="#ffffff"/>
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#5b6b7a"/></marker>
+  </defs>
+  <text x="480" y="38" text-anchor="middle" font-size="22" font-weight="700" fill="#1d2b36">AREE: from scattered public datasets to comparable evidence</text>
+  <g font-size="15" text-anchor="middle">
+    <g>
+      <rect x="20" y="80" width="160" height="130" rx="12" fill="#e6f0f7" stroke="#2f6f9f" stroke-width="2"/>
+      <text x="100" y="110" font-weight="700" fill="#2f6f9f">1</text>
+      <text x="100" y="138" fill="#1d2b36">Study registry</text>
+      <text x="100" y="158" fill="#1d2b36">&amp; intake</text>
+      <text x="100" y="188" font-size="12" fill="#52606b">controlled vocabularies</text>
+    </g>
+    <g>
+      <rect x="210" y="80" width="160" height="130" rx="12" fill="#e7f4ec" stroke="#2f8a57" stroke-width="2"/>
+      <text x="290" y="110" font-weight="700" fill="#2f8a57">2</text>
+      <text x="290" y="138" fill="#1d2b36">Standardized</text>
+      <text x="290" y="158" fill="#1d2b36">reanalysis</text>
+      <text x="290" y="188" font-size="12" fill="#52606b">Nextflow, 4 omics layers</text>
+    </g>
+    <g>
+      <rect x="400" y="80" width="160" height="130" rx="12" fill="#fdf1e3" stroke="#c07a1f" stroke-width="2"/>
+      <text x="480" y="110" font-weight="700" fill="#c07a1f">3</text>
+      <text x="480" y="138" fill="#1d2b36">Cross-study</text>
+      <text x="480" y="158" fill="#1d2b36">harmonization</text>
+      <text x="480" y="188" font-size="12" fill="#52606b">shared evidence schema</text>
+    </g>
+    <g>
+      <rect x="590" y="80" width="160" height="130" rx="12" fill="#f3e9f6" stroke="#8a4fa3" stroke-width="2"/>
+      <text x="670" y="110" font-weight="700" fill="#8a4fa3">4</text>
+      <text x="670" y="138" fill="#1d2b36">Meta-analysis &amp;</text>
+      <text x="670" y="158" fill="#1d2b36">prioritization</text>
+      <text x="670" y="188" font-size="12" fill="#52606b">transparent scores, tiers</text>
+    </g>
+    <g>
+      <rect x="780" y="80" width="160" height="130" rx="12" fill="#fbe8ea" stroke="#b03a48" stroke-width="2"/>
+      <text x="860" y="110" font-weight="700" fill="#b03a48">5</text>
+      <text x="860" y="138" fill="#1d2b36">User-facing</text>
+      <text x="860" y="158" fill="#1d2b36">outputs</text>
+      <text x="860" y="188" font-size="12" fill="#52606b">dashboard, cards, Explore</text>
+    </g>
+  </g>
+  <g stroke="#5b6b7a" stroke-width="2.5" marker-end="url(#a)">
+    <line x1="182" y1="145" x2="206" y2="145"/>
+    <line x1="372" y1="145" x2="396" y2="145"/>
+    <line x1="562" y1="145" x2="586" y2="145"/>
+    <line x1="752" y1="145" x2="776" y2="145"/>
+  </g>
+  <text x="480" y="256" text-anchor="middle" font-size="14" fill="#52606b">RNA-seq · DNA methylation · proteomics · metabolomics, with provenance tracked at every step</text>
+  <text x="480" y="280" text-anchor="middle" font-size="13" font-style="italic" fill="#52606b">An evidence engine, not a claims engine</text>
+</svg>
