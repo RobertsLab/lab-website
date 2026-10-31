@@ -29,7 +29,15 @@ Francis and Joth Davis, Pacific Hybreed
 
 ## Summary
 
-Supported by the USDA NIFA AFRI Animal Reproduction program, this project (MAROSA) investigates the molecular mechanisms that control reproduction in oysters. The work aims to develop approaches for managing sterility and sex in cultured oysters, providing new tools to support sustainable and productive shellfish aquaculture. The project is carried out in partnership with Pacific Hybreed.
+This project targets two persistent problems in shellfish aquaculture: reliable reproductive sterility and broodstock sex management in Pacific oysters. Current practice relies on triploidy, which is imperfect (triploids can still form gametes), slow to establish, and increasingly linked to impaired field performance. Oysters are also protandrous hermaphrodites with no sex chromosome and no external sex characteristics, so there is no way to determine sex before conditioning, which complicates broodstock selection and production scheduling.
+
+Our long-term goal is to give industry reproductive control through non-GMO, transient RNA silencing rather than genome editing. We hypothesize that oysters use a mix of conserved and mollusc-specific genes to control reproduction, and that this can be leveraged for aquaculture. The project has three objectives:
+
+1. **Characterize the genetic program of primordial germ cell (PGC) formation** across embryos, larvae, juveniles, and adults using HCR fluorescent in situ hybridization and qPCR of markers including *vasa*, *nanos*, and *sp-phi2b/3*, building a developmental atlas of gametogenesis.
+2. **Achieve germline disruption via post-transcriptional silencing**, delivering morpholinos into zygotes by electroporation (scalable to ~40,000 embryos per treatment) and assessing knockdown through adulthood.
+3. **Develop nonlethal sex-prediction assays** using repeated mantle biopsies and splice-variant markers validated against gamete sex at maturity.
+
+The work builds on a single-cell atlas of oyster gastrula that identified a distinct PGC cluster (Gavery et al. 2025) and is carried out with Pacific Hybreed at the NOAA Manchester Research Station.
 
 ## Data Availability
 
@@ -42,5 +50,9 @@ USDA NIFA (proposal 2025-12416)
 
 ## Dates
 
-Start 10/15/2026
+Start 10/15/2026 (48 months)
+
+## Amount
+
+\\$650,000
 :::
