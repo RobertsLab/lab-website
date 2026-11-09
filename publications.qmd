@@ -90,7 +90,7 @@ Characterizing the effects of ocean acidification in larval and juvenile Manila 
 
 #### 2026
 
--   [Environmental stress hardening improves stress resilience in Pacific Oysters](https://github.com/AHuffmyer/presentations/blob/master/2026/Huffmyer_PCSGA_2026.pdf). Huffmyer, Gavery, Leuchtenberger, Baird, Ozguner, White, Carrington, Roberts. Pacific Coast Shellfish Growers Association conference. Blaine, WA. Sept 15 2026.
+-   [First evidence of intergenerational, environmentally-induced methylation shifts in a marine bivalve](https://github.com/shedurkin/Roberts-LabNotebook/blob/master/presentations/Durkin_GSS_2026_2026_11_06.pptx). Kathleen Durkin. University of Washington, School of Aquatic and Fishery Sciences, Graduate Student Symposium (GSS). November 2026.
 
 -   [Weakened attachment and transcriptomic shifts in a marine mussel following exposure to ocean acidification, warming, and hypoxia](https://mattgeorgephd.github.io/assets/talks/2026-George-ISRS-talk.pptx). George, Leuchtenberger, Berg, Essington, Roberts, Carrington. International Shellfish Restoriation Society. Shelton, WA. October 6, 2026.
 
@@ -99,6 +99,8 @@ Characterizing the effects of ocean acidification in larval and juvenile Manila 
 -   [Conservation aquaculture maintains genetic composition in hatchery-produced Olympia oysters in Puget Sound, WA](https://github.com/sr320/talk-ICSR-2026)**.** Bengtsson, Abbott, Gavery, Crim, Simchick, G. Goetz, F.W. Goetz, Roberts. S03: Hatchery Innovations, Upscaling, & Industry · Tue Oct 6
 
 -   [The influence of thermal and immune stress priming on field performance and metabolism in Manila clams and basket cockles](https://meganewing.github.io/mewing-notebook/posts/projects/icsr2026_slides.html)**.** Ewing, Crim, Unsell, Roberts. S10: Resilience Building, Connectivity, & Seascape Approaches · Mon Oct 5
+
+-   [Environmental stress hardening improves stress resilience in Pacific Oysters](https://github.com/AHuffmyer/presentations/blob/master/2026/Huffmyer_PCSGA_2026.pdf). Huffmyer, Gavery, Leuchtenberger, Baird, Ozguner, White, Carrington, Roberts. Pacific Coast Shellfish Growers Association conference. Blaine, WA. Sept 15 2026.
 
 -   [Future Shellf: Predictive Phenotyping for Oyster Performance](https://github.com/sr320/talk-pcsga-2026) - Pacific Coast Shellfish Growers Association Meeting. September 2026. Steven Roberts · Ariana Huffmyer · Louis Plough · Mackenzie Gavery · Neil Thompson
 
