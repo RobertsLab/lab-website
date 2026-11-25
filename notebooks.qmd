@@ -65,7 +65,10 @@ toc: true
     { name: "Zach Bengtsson",   url: "https://zbengt.github.io/notebook/",                 type: "gh", repo: "zbengt/zbengt.github.io",         feed: "https://zbengt.github.io/feed.xml" },
     { name: "Celeste Valdivia", url: "https://valeste.github.io/tough-tunicates/",         type: "gh", repo: "valeste/tough-tunicates" },
     { name: "Grace Crandall",   url: "https://grace-ac.github.io/notebook/",               type: "gh", repo: "grace-ac/grace-ac.github.io",    feed: "https://grace-ac.github.io/feed.xml" },
-    { name: "Kathleen Durkin",  url: "https://shedurkin.github.io/Roberts-LabNotebook/",   type: "gh", repo: "shedurkin/Roberts-LabNotebook", feed: ["https://shedurkin.github.io/Roberts-LabNotebook/daily_log.xml", "https://shedurkin.github.io/Roberts-LabNotebook/projects.xml"] },
+    { name: "Kathleen Durkin",  url: "https://shedurkin.github.io/Roberts-LabNotebook/",   type: "gh", repo: "shedurkin/Roberts-LabNotebook", feed: ["https://shedurkin.github.io/Roberts-LabNotebook/daily_log.xml", "https://shedurkin.github.io/Roberts-LabNotebook/projects.xml"].concat(
+      ["ceasmallr", "E5_coral", "SIFP_2025", "pacific_cod", "pacific_oyster", "misc"].map(function (p) {
+        return "https://shedurkin.github.io/Roberts-LabNotebook/posts/projects/" + p + ".xml";
+      })) },
     { name: "Ariana Huffmyer",  url: "https://ahuffmyer.github.io/notebook.html",          type: "gh", repo: "AHuffmyer/ahuffmyer.github.io",  feed: "https://ahuffmyer.github.io/notebook.xml" },
     { name: "Megan Ewing",      url: "https://meganewing.github.io/mewing-notebook/",      type: "gh", repo: "meganewing/mewing-notebook" },
     { name: "Jesse Lowe",       url: "https://genefish.wordpress.com/author/jlowe50bd14a0c15/",    type: "wp", login: "jlowe50bd14a0c15" },
