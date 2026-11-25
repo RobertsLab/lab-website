@@ -54,17 +54,18 @@ toc: true
 <script>
 (function () {
   // type: 'gh' = GitHub Pages notebook. Prefer its RSS feed (gives post title + date);
+  //   `feed` may be a URL or an array of URLs (newest post across all feeds wins);
   //   fall back to the commits API (date only) when no feed exists.
   // type: 'wp' = a genefish.wordpress.com author, matched by login.
+  // type: 'tbd' = notebook not set up yet; card shows "Notebook coming soon" with no link.
   var notebooks = [
     { name: "Sam White",        url: "https://robertslab.github.io/sams-notebook/",        type: "gh", repo: "RobertsLab/sams-notebook",        feed: "https://robertslab.github.io/sams-notebook/index.xml" },
     { name: "Steven Roberts",   url: "https://sr320.github.io/tumbling-oysters/",          type: "gh", repo: "sr320/tumbling-oysters",          feed: "https://sr320.github.io/tumbling-oysters/index.xml" },
-    { name: "Aspen Coyle",      url: "https://aspencoyle.github.io/notebook/",             type: "gh", repo: "aspencoyle/aspencoyle.github.io", feed: "https://aspencoyle.github.io/feed.xml" },
     { name: "Chris Mantegna",   url: "https://chrismantegna.github.io/labnotebook/weeklyupdates.html", type: "gh", repo: "ChrisMantegna/labnotebook", feed: "https://chrismantegna.github.io/labnotebook/weeklyupdates.xml" },
     { name: "Zach Bengtsson",   url: "https://zbengt.github.io/notebook/",                 type: "gh", repo: "zbengt/zbengt.github.io",         feed: "https://zbengt.github.io/feed.xml" },
     { name: "Celeste Valdivia", url: "https://valeste.github.io/tough-tunicates/",         type: "gh", repo: "valeste/tough-tunicates" },
     { name: "Grace Crandall",   url: "https://grace-ac.github.io/notebook/",               type: "gh", repo: "grace-ac/grace-ac.github.io",    feed: "https://grace-ac.github.io/feed.xml" },
-    { name: "Kathleen Durkin",  url: "https://shedurkin.github.io/Roberts-LabNotebook/",   type: "gh", repo: "shedurkin/Roberts-LabNotebook", feed: "https://shedurkin.github.io/Roberts-LabNotebook/daily_log.xml" },
+    { name: "Kathleen Durkin",  url: "https://shedurkin.github.io/Roberts-LabNotebook/",   type: "gh", repo: "shedurkin/Roberts-LabNotebook", feed: ["https://shedurkin.github.io/Roberts-LabNotebook/daily_log.xml", "https://shedurkin.github.io/Roberts-LabNotebook/projects.xml"] },
     { name: "Ariana Huffmyer",  url: "https://ahuffmyer.github.io/notebook.html",          type: "gh", repo: "AHuffmyer/ahuffmyer.github.io",  feed: "https://ahuffmyer.github.io/notebook.xml" },
     { name: "Megan Ewing",      url: "https://meganewing.github.io/mewing-notebook/",      type: "gh", repo: "meganewing/mewing-notebook" },
     { name: "Jesse Lowe",       url: "https://genefish.wordpress.com/author/jlowe50bd14a0c15/",    type: "wp", login: "jlowe50bd14a0c15" },
@@ -74,7 +75,10 @@ toc: true
     { name: "Maddy Bernstein",  url: "https://genefish.wordpress.com/author/maddyab/",             type: "wp", login: "maddyab" },
     { name: "Sophie Lord",      url: "https://genefish.wordpress.com/author/soplo27/",             type: "wp", login: "soplo27" },
     { name: "Cas Daniel",       url: "https://genefish.wordpress.com/author/ckdan19/",             type: "wp", login: "ckdan19" },
-    { name: "Naomi Kang",       url: "https://genefish.wordpress.com/author/naomikang44/",         type: "wp", login: "naomikang44" }
+    { name: "Beyer Roberts",    url: "https://genefish.wordpress.com/author/robertsblr/",          type: "wp", login: "robertsblr" },
+    { name: "Jake Balzer",      url: "https://genefish.wordpress.com/author/jbalzer5/",            type: "wp", login: "jbalzer5" },
+    { name: "GG Foster",        url: "https://genefish.wordpress.com/author/giselff250455090/",    type: "wp", login: "giselff250455090" },
+    { name: "Kate Laboda",      type: "tbd" }
   ];
 
   var grid = document.getElementById("nb-grid");
@@ -85,14 +89,14 @@ toc: true
   // Build cards up front
   notebooks.forEach(function (nb, i) {
     var host = "";
-    try { host = new URL(nb.url).hostname; } catch (e) { host = nb.url; }
+    if (nb.url) { try { host = new URL(nb.url).hostname; } catch (e) { host = nb.url; } }
     var card = document.createElement("div");
     card.className = "nb-card";
     card.id = "nb-card-" + i;
     card.innerHTML =
       '<span class="nb-badge">★ Active</span>' +
       '<span class="nb-name">' + nb.name + '</span>' +
-      '<a class="nb-link" href="' + nb.url + '" target="_blank" rel="noopener">' + host + '</a>' +
+      (nb.url ? '<a class="nb-link" href="' + nb.url + '" target="_blank" rel="noopener">' + host + '</a>' : '') +
       '<span class="nb-title" id="nb-title-' + i + '"></span>' +
       '<span class="nb-date" id="nb-date-' + i + '">Loading…</span>';
     grid.appendChild(card);
@@ -100,8 +104,14 @@ toc: true
     nb.dateEl = document.getElementById("nb-date-" + i);
   });
 
+  // Turn HTML entities such as &amp; or &#8211; into plain characters.
+  // Parsing as inert HTML and reading textContent never runs scripts.
+  function decodeEntities(s) {
+    return new DOMParser().parseFromString(s, "text/html").documentElement.textContent;
+  }
+
   function applyPost(nb, dateStr, title) {
-    if (title) nb.titleEl.textContent = "“" + title + "”";
+    if (title) nb.titleEl.textContent = "“" + decodeEntities(title) + "”";
     if (dateStr) {
       nb.date = new Date(dateStr);
       nb.dateEl.textContent = "Last post: " + fmt(nb.date);
@@ -110,18 +120,43 @@ toc: true
     }
   }
 
-  // Parse the newest entry (title + date) from an RSS or Atom feed string
+  // Parse the newest entry (title + date) from an RSS or Atom feed string.
+  // Scans every item rather than trusting feed order.
   function parseFeed(xml) {
     var doc = new DOMParser().parseFromString(xml, "application/xml");
     if (doc.querySelector("parsererror")) return null;
-    var item = doc.querySelector("item") || doc.querySelector("entry");
-    if (!item) return null;
-    var t = item.querySelector("title");
-    var d = item.querySelector("pubDate") || item.querySelector("published") || item.querySelector("updated");
-    return {
-      title: t ? t.textContent.trim() : null,
-      date: d ? d.textContent.trim() : null
-    };
+    var items = doc.querySelectorAll("item, entry");
+    var best = null;
+    items.forEach(function (item) {
+      var t = item.querySelector("title");
+      var d = item.querySelector("pubDate") || item.querySelector("published") || item.querySelector("updated");
+      var post = { title: t ? t.textContent.trim() : null, date: d ? d.textContent.trim() : null };
+      if (!best || newer(post, best)) best = post;
+    });
+    return best;
+  }
+
+  function newer(a, b) {
+    var ta = a && a.date ? new Date(a.date).getTime() : NaN;
+    var tb = b && b.date ? new Date(b.date).getTime() : NaN;
+    if (isNaN(tb)) return !isNaN(ta) || !b;
+    return !isNaN(ta) && ta > tb;
+  }
+
+  // Fetch one or more feeds and resolve to the newest post across them (or null)
+  function fetchFeeds(feeds) {
+    return Promise.all(feeds.map(function (url) {
+      return fetch(url)
+        .then(function (r) { return r.ok ? r.text() : null; })
+        .then(function (xml) { return xml && parseFeed(xml); })
+        .catch(function () { return null; });
+    })).then(function (posts) {
+      var best = null;
+      posts.forEach(function (p) {
+        if (p && (p.date || p.title) && (!best || newer(p, best))) best = p;
+      });
+      return best;
+    });
   }
 
   function highlightRecent() {
@@ -136,21 +171,34 @@ toc: true
   var pending = notebooks.length;
   function done() { if (--pending === 0) highlightRecent(); }
 
-  // Fetch all genefish posts once, map login -> latest {date, title}
-  var wpDone = fetch("https://public-api.wordpress.com/rest/v1.1/sites/genefish.wordpress.com/posts/?number=100&fields=date,title,author")
-    .then(function (r) { return r.json(); })
-    .then(function (data) {
-      var latest = {};
-      (data.posts || []).forEach(function (p) {
-        var login = p.author && p.author.login;
-        if (!login) return;
-        if (!latest[login] || new Date(p.date) > new Date(latest[login].date)) {
-          latest[login] = { date: p.date, title: p.title };
-        }
-      });
-      return latest;
-    })
-    .catch(function () { return {}; });
+  // Fetch genefish posts newest-first, 100 per page, mapping login -> latest {date, title}.
+  // Keep paging until every listed author has been seen (or MAX_WP_PAGES is reached),
+  // so authors who post less often than the busiest ones still get a date.
+  var MAX_WP_PAGES = 10;
+  var wpLogins = notebooks.filter(function (nb) { return nb.type === "wp"; })
+                          .map(function (nb) { return nb.login; });
+  var wpDone = (function () {
+    var latest = {};
+    function missing() { return wpLogins.some(function (l) { return !latest[l]; }); }
+    function getPage(page) {
+      return fetch("https://public-api.wordpress.com/rest/v1.1/sites/genefish.wordpress.com/posts/?number=100&page=" + page + "&fields=date,title,author")
+        .then(function (r) { return r.json(); })
+        .then(function (data) {
+          var posts = data.posts || [];
+          posts.forEach(function (p) {
+            var login = p.author && p.author.login;
+            if (!login) return;
+            if (!latest[login] || new Date(p.date) > new Date(latest[login].date)) {
+              latest[login] = { date: p.date, title: p.title };
+            }
+          });
+          if (posts.length === 100 && missing() && page < MAX_WP_PAGES) return getPage(page + 1);
+          return latest;
+        })
+        .catch(function () { return latest; });
+    }
+    return getPage(1);
+  })();
 
   // GitHub notebook with no feed: fall back to the latest commit date (no post title)
   function ghCommitFallback(nb) {
@@ -166,11 +214,9 @@ toc: true
   notebooks.forEach(function (nb) {
     if (nb.type === "gh") {
       if (nb.feed) {
-        fetch(nb.feed)
-          .then(function (r) { return r.ok ? r.text() : null; })
-          .then(function (xml) {
-            var post = xml && parseFeed(xml);
-            if (post && (post.date || post.title)) { applyPost(nb, post.date, post.title); return; }
+        fetchFeeds([].concat(nb.feed))
+          .then(function (post) {
+            if (post) { applyPost(nb, post.date, post.title); return; }
             return ghCommitFallback(nb);
           })
           .catch(function () { return ghCommitFallback(nb); })
@@ -178,6 +224,9 @@ toc: true
       } else {
         ghCommitFallback(nb).then(done);
       }
+    } else if (nb.type === "tbd") {
+      nb.dateEl.textContent = "Notebook coming soon";
+      done();
     } else {
       wpDone.then(function (latest) {
         var p = latest[nb.login];
